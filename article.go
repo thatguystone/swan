@@ -44,7 +44,7 @@ func prepareArticle(doc *goquery.Document, cfg Config) (Article, error) {
 		doc: doc,
 	}
 
-	if !a.extractLanguage() && cfg.ErrorOnNoLanguage {
+	if !a.extractLanguage() && cfg.Error.OnNoLanguage {
 		return Article{}, ErrorNoLanguage
 	}
 
