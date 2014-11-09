@@ -27,19 +27,44 @@ type Expected struct {
 	Title           string
 }
 
-func testExtract(t *testing.T, name string, html string, e Expected) {
+func testPyExtract(t *testing.T, name string, html string, e Expected) {
 	a, err := FromHTML(html, Config{})
 	if err != nil {
 		t.Fatal(err)
 	}
 
-	if e.MetaDescription != a.Meta.Description {
+	if e.MetaKeywords != "" && e.MetaDescription != a.Meta.Description {
 		t.Fatalf(
 			"%s: MetaDescription does not match:\n"+
 				"	Got: %s\n"+
 				"	Expected: %s",
 			name, a.Meta.Description, e.MetaDescription)
 	}
+
+	if e.MetaKeywords != "" && e.MetaKeywords != a.Meta.Keywords {
+		t.Fatalf(
+			"%s: MetaKeywords does not match:\n"+
+				"	Got: %s\n"+
+				"	Expected: %s",
+			name, a.Meta.Keywords, e.MetaKeywords)
+	}
+
+	if e.Title != "" && e.Title != a.Meta.Title {
+		t.Fatalf(
+			"%s: Title does not match:\n"+
+				"	Got: %s\n"+
+				"	Expected: %s",
+			name, a.Meta.Title, e.Title)
+	}
+
+	if e.MetaLang != "" && e.MetaLang != a.Meta.Lang {
+		t.Fatalf(
+			"%s: Lang does not match:\n"+
+				"	Got: %s\n"+
+				"	Expected: %s",
+			name, a.Meta.Lang, e.MetaLang)
+	}
+
 }
 
 func TestPyExtractors(t *testing.T) {
@@ -73,9 +98,7 @@ func TestPyExtractors(t *testing.T) {
 				t.Fatal(err)
 			}
 
-			testExtract(t, name, string(html), r.Expected)
-
-			break
+			testPyExtract(t, name, string(html), r.Expected)
 		}
 	}
 }
