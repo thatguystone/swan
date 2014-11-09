@@ -11,6 +11,7 @@ import (
 )
 
 const (
+	// Version of the library
 	Version = "1.0"
 )
 
@@ -20,7 +21,8 @@ var (
 	}
 )
 
-func FromUrl(url string, cfg Config) (a Article, err error) {
+// FromURL does its best to extract an article from the given URL
+func FromURL(url string, cfg Config) (s Article, err error) {
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
 		err = fmt.Errorf("Could not create new request: %s", err)
@@ -43,11 +45,11 @@ func FromUrl(url string, cfg Config) (a Article, err error) {
 
 	fmt.Println(http.DetectContentType(body))
 
-	a, err = FromHtml(string(body), cfg)
-	return
+	return FromHTML(string(body), cfg)
 }
 
-func FromHtml(html string, cfg Config) (Article, error) {
+// FromHTML does its best to extract an article from a single HTML page
+func FromHTML(html string, cfg Config) (Article, error) {
 	doc, err := goquery.NewDocumentFromReader(strings.NewReader(html))
 	if err != nil {
 		err = fmt.Errorf("Invalid HTML: %s", err)
@@ -57,6 +59,13 @@ func FromHtml(html string, cfg Config) (Article, error) {
 	return FromDoc(doc, cfg)
 }
 
+// FromDoc does its best to extract an article from a single document
 func FromDoc(doc *goquery.Document, cfg Config) (Article, error) {
 	return prepareArticle(doc, cfg)
+}
+
+// FromDocs extracts articles from similar pages, learning from the page
+// similarities to perform better cleanup and extraction
+func FromDocs(cfg Config, doc ...*goquery.Document) (Article, error) {
+	return Article{}, nil
 }

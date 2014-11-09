@@ -1,19 +1,21 @@
 package swan
 
 import (
+	"errors"
 	"fmt"
 	"strings"
-	"errors"
 
 	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
 )
 
+// Article is a fully extracted and cleaned document.
 type Article struct {
-	doc     *goquery.Document
-	cfg Config
-	Cleaned string
-	Meta    struct {
+	doc         *goquery.Document
+	cfg         Config
+	Cleaned     string
+	CleanedHTML string
+	Meta        struct {
 		Description string
 		Favicon     string
 		Keywords    string
@@ -23,6 +25,8 @@ type Article struct {
 }
 
 var (
+	// ErrorNoLanguage is returned when a document's language could not be
+	// determined and Config.ErrorOnNoLanguage is set
 	ErrorNoLanguage = errors.New("Could not determine language")
 
 	metaDescription = cascadia.MustCompile("meta[name=description]")
