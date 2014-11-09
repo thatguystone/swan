@@ -10,9 +10,6 @@ import (
 
 // Article is a fully extracted and cleaned document.
 type Article struct {
-	doc *goquery.Document
-	cfg Config
-
 	// Newline-separated and cleaned content
 	CleanedText string
 
@@ -28,6 +25,9 @@ type Article struct {
 		Lang        string
 		Title       string
 	}
+
+	doc *goquery.Document
+	cfg Config
 }
 
 var (

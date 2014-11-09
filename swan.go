@@ -22,7 +22,7 @@ var (
 )
 
 // FromURL does its best to extract an article from the given URL
-func FromURL(url string, cfg Config) (s Article, err error) {
+func FromURL(url string, cfg Config) (a Article, err error) {
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
 		err = fmt.Errorf("Could not create new request: %s", err)
