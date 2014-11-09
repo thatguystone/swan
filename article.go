@@ -10,11 +10,18 @@ import (
 
 // Article is a fully extracted and cleaned document.
 type Article struct {
-	doc         *goquery.Document
-	cfg         Config
-	Cleaned     string
+	doc *goquery.Document
+	cfg Config
+
+	// Newline-separated and cleaned content
+	CleanedText string
+
+	// HTML-formatted content with inline images, videos, and whatever else was
+	// found relevant to the original article
 	CleanedHTML string
-	Meta        struct {
+
+	// All metadata associated with the original document
+	Meta struct {
 		Description string
 		Favicon     string
 		Keywords    string
@@ -50,6 +57,7 @@ func prepareArticle(doc *goquery.Document, cfg Config) (Article, error) {
 
 	a.extractMetas()
 	a.extractTitle()
+	a.extractContent()
 
 	return a, nil
 }

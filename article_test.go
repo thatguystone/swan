@@ -64,7 +64,6 @@ func testPyExtract(t *testing.T, name string, html string, e Expected) {
 				"	Expected: %s",
 			name, a.Meta.Lang, e.MetaLang)
 	}
-
 }
 
 func TestPyExtractors(t *testing.T) {
