@@ -9,11 +9,11 @@ import (
 )
 
 const (
-	ExtractorsDir = "test_data/extractors/"
+	PyExtractorsDir = "test_data/python-goose/extractors/"
 )
 
 type Result struct {
-	Url      string
+	URL      string
 	Expected Expected
 }
 
@@ -28,7 +28,7 @@ type Expected struct {
 }
 
 func testExtract(t *testing.T, name string, html string, e Expected) {
-	a, err := FromHtml(html, Config{})
+	a, err := FromHTML(html, Config{})
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -42,8 +42,8 @@ func testExtract(t *testing.T, name string, html string, e Expected) {
 	}
 }
 
-func TestExtractors(t *testing.T) {
-	fs, err := ioutil.ReadDir(ExtractorsDir)
+func TestPyExtractors(t *testing.T) {
+	fs, err := ioutil.ReadDir(PyExtractorsDir)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -53,7 +53,7 @@ func TestExtractors(t *testing.T) {
 			r := Result{}
 			name := strings.Replace(f.Name(), ".json", "", -1)
 
-			jsonf, err := os.Open(ExtractorsDir + f.Name())
+			jsonf, err := os.Open(PyExtractorsDir + f.Name())
 			if err != nil {
 				t.Fatal(err)
 			}
@@ -63,7 +63,7 @@ func TestExtractors(t *testing.T) {
 			}
 
 			h := strings.Replace(f.Name(), ".json", ".html", -1)
-			htmlf, err := os.Open(ExtractorsDir + h)
+			htmlf, err := os.Open(PyExtractorsDir + h)
 			if err != nil {
 				t.Fatal(err)
 			}
