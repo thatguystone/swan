@@ -1,3 +1,4 @@
+// Internal tool: update the stopwords list from python-goose. Use `make` to run it.
 package main
 
 import (
