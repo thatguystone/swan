@@ -10,28 +10,22 @@
 #
 # This script does not handle file names that contain spaces.
 
-# golint is purely informational, it doesn't fail with exit code != 0 if it finds something,
-# because it may find a lot of false positives. Just print out its result for information.
-echo "lint result (informational only):"
-golint .
+# golint is informational only, don't die on output
+golint -min_confidence=.3 .
 
-# go vet returns 1 if an error was found. Exit the hook with this exit code.
 go vet ./...
-vetres=$?
+[ $? -ne 0 ] && exit 1
 
-# Check for gofmt problems and report if any.
 gofiles=$(git diff --cached --name-only --diff-filter=ACM | grep '.go$')
-[ -z "$gofiles" ] && echo "EXIT $vetres" && exit $vetres
+[ -z "$gofiles" ] && exit 0
 
-unformatted=$(gofmt -l $gofiles)
-[ -z "$unformatted" ] && echo "EXIT $vetres" && exit $vetres
+unformatted=$(gofmt -l $gofiles 2>&1)
+[ -z "$unformatted" ] && exit 0
 
 # Some files are not gofmt'd. Print message and fail.
-
-echo >&2 "Go files must be formatted with gofmt. Please run:"
+echo >&2 "Go files must be formatted with \`go fmt\`. The following are not:"
 for fn in $unformatted; do
-    echo >&2 "  gofmt -w $PWD/$fn"
+    echo >&2 "	$fn"
 done
 
-echo "EXIT 1"
 exit 1
