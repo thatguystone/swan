@@ -1,3 +1,4 @@
+// Package swan implementats the Goose HTML Content / Article Extractor algorithm, with some extra, pretty goodies
 package swan
 
 import (
@@ -25,21 +26,21 @@ var (
 func FromURL(url string, cfg Config) (a Article, err error) {
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
-		err = fmt.Errorf("Could not create new request: %s", err)
+		err = fmt.Errorf("could not create new request: %s", err)
 		return
 	}
 
 	req.Header.Set("User-Agent", "swan/"+Version)
 	resp, err := client.Do(req)
 	if err != nil {
-		err = fmt.Errorf("Could not load URL: %s", err)
+		err = fmt.Errorf("could not load URL: %s", err)
 		return
 	}
 
 	defer resp.Body.Close()
 	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
-		err = fmt.Errorf("Could not read response body: %s", err)
+		err = fmt.Errorf("could not read response body: %s", err)
 		return
 	}
 
@@ -52,7 +53,7 @@ func FromURL(url string, cfg Config) (a Article, err error) {
 func FromHTML(html string, cfg Config) (Article, error) {
 	doc, err := goquery.NewDocumentFromReader(strings.NewReader(html))
 	if err != nil {
-		err = fmt.Errorf("Invalid HTML: %s", err)
+		err = fmt.Errorf("invalid HTML: %s", err)
 		return Article{}, err
 	}
 

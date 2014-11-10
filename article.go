@@ -31,9 +31,9 @@ type Article struct {
 }
 
 var (
-	// ErrorNoLanguage is returned when a document's language could not be
+	// ErrNoLanguage is returned when a document's language could not be
 	// determined and Config.ErrorOnNoLanguage is set
-	ErrorNoLanguage = errors.New("Could not determine language")
+	ErrNoLanguage = errors.New("could not determine language")
 
 	html            = cascadia.MustCompile("html")
 	metaDescription = cascadia.MustCompile("meta[name=description]")
@@ -52,7 +52,7 @@ func prepareArticle(doc *goquery.Document, cfg Config) (Article, error) {
 	}
 
 	if !a.extractLanguage() && cfg.Error.OnNoLanguage {
-		return Article{}, ErrorNoLanguage
+		return Article{}, ErrNoLanguage
 	}
 
 	a.extractMetas()
