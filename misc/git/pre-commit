@@ -10,8 +10,11 @@
 #
 # This script does not handle file names that contain spaces.
 
-# golint is informational only, don't die on output
-golint -min_confidence=.3 .
+linted=`golint -min_confidence=.3 .`
+if [ -n "$linted" ]; then
+	echo "$linted"
+	exit 1
+fi
 
 go vet ./...
 [ $? -ne 0 ] && exit 1

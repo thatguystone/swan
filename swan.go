@@ -62,11 +62,37 @@ func FromHTML(html string, cfg Config) (Article, error) {
 
 // FromDoc does its best to extract an article from a single document
 func FromDoc(doc *goquery.Document, cfg Config) (Article, error) {
-	return prepareArticle(doc, cfg)
+	articles, err := FromDocs(cfg, doc)
+	if err != nil {
+		return Article{}, err
+	}
+
+	return articles[0], nil
 }
 
 // FromDocs extracts articles from similar pages, learning from the page
 // similarities to perform better cleanup and extraction
-func FromDocs(cfg Config, doc ...*goquery.Document) (Article, error) {
-	return Article{}, nil
+func FromDocs(cfg Config, docs ...*goquery.Document) ([]Article, error) {
+	var articles []Article
+
+	for _, doc := range docs {
+		a := Article{
+			cfg: cfg,
+			Doc: doc,
+		}
+		articles = append(articles, a)
+	}
+
+	if len(articles) > 1 {
+		// @todo doc diff cleanup
+	}
+
+	for i := range articles {
+		err := articles[i].extract()
+		if err != nil {
+			return nil, err
+		}
+	}
+
+	return articles, nil
 }

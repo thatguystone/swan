@@ -26,7 +26,9 @@ type Article struct {
 		Title       string
 	}
 
-	doc *goquery.Document
+	// Document backing this article
+	Doc *goquery.Document
+
 	cfg Config
 }
 
@@ -35,7 +37,7 @@ var (
 	// determined and Config.ErrorOnNoLanguage is set
 	ErrNoLanguage = errors.New("could not determine language")
 
-	html            = cascadia.MustCompile("html")
+	htmlTag         = cascadia.MustCompile("html")
 	metaDescription = cascadia.MustCompile("meta[name=description]")
 	metaKeywords    = cascadia.MustCompile("meta[name=keywords]")
 	metaFavicon     = cascadia.MustCompile("link[rel~=icon]")
@@ -45,29 +47,22 @@ var (
 	}
 )
 
-func prepareArticle(doc *goquery.Document, cfg Config) (Article, error) {
-	a := Article{
-		cfg: cfg,
-		doc: doc,
+func (a *Article) extract() error {
+	if !a.determineLanguage() && a.cfg.Error.OnNoLanguage {
+		return ErrNoLanguage
 	}
 
-	if !a.extractLanguage() && cfg.Error.OnNoLanguage {
-		return Article{}, ErrNoLanguage
-	}
-
-	a.extractMetas()
-	a.extractTitle()
-	a.extractContent()
-
-	return a, nil
+	a.findMetas()
+	a.findTitle()
+	return a.extractContent()
 }
 
-func (a *Article) extractLanguage() bool {
-	lang, _ := a.doc.FindMatcher(html).Attr("lang")
+func (a *Article) determineLanguage() bool {
+	lang, _ := a.Doc.FindMatcher(htmlTag).Attr("lang")
 
 	if lang == "" {
 		for _, s := range metaLangs {
-			lang, _ = a.doc.FindMatcher(s).Attr("content")
+			lang, _ = a.Doc.FindMatcher(s).Attr("content")
 			if lang != "" {
 				break
 			}
@@ -81,19 +76,19 @@ func (a *Article) extractLanguage() bool {
 	return a.Meta.Lang != ""
 }
 
-func (a *Article) extractMetas() {
-	t, _ := a.doc.FindMatcher(metaDescription).Attr("content")
+func (a *Article) findMetas() {
+	t, _ := a.Doc.FindMatcher(metaDescription).Attr("content")
 	a.Meta.Description = strings.TrimSpace(t)
 
-	t, _ = a.doc.FindMatcher(metaFavicon).Attr("href")
+	t, _ = a.Doc.FindMatcher(metaFavicon).Attr("href")
 	a.Meta.Favicon = strings.TrimSpace(t)
 
-	t, _ = a.doc.FindMatcher(metaKeywords).Attr("content")
+	t, _ = a.Doc.FindMatcher(metaKeywords).Attr("content")
 	a.Meta.Keywords = strings.TrimSpace(t)
 }
 
-func (a *Article) extractTitle() {
-	title := a.doc.Find("title").Text()
+func (a *Article) findTitle() {
+	title := a.Doc.Find("title").Text()
 	if title == "" {
 		return
 	}
