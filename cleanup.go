@@ -184,6 +184,7 @@ func getReplacements(s *goquery.Selection) []*html.Node {
 
 	for _, n := range cs.Nodes {
 		ns = append(ns, n)
+		// #error stopped here: implement get_replacement_nodes
 	}
 
 	return ns
