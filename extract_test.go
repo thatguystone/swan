@@ -26,6 +26,7 @@ type Expected struct {
 	MetaKeywords    string `json:"meta_keywords"`
 	MetaLang        string `json:"meta_lang"`
 	OpenGraph       map[string]string
+	PublishDate     string `json:"publish_date"`
 	Tags            []string
 	Title           string
 }

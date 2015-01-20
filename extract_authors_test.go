@@ -5,8 +5,6 @@ import (
 	"testing"
 )
 
-const ()
-
 func TestAuthorPyExtractor(t *testing.T) {
 	t.Parallel()
 

@@ -21,6 +21,8 @@ type Article struct {
 		Keywords    string
 		Lang        string
 		OpenGraph   map[string]string
+		PublishDate string
+		Tags        []string
 		Title       string
 	}
 
