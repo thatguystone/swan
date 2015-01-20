@@ -1,31 +1,18 @@
 package swan
 
 import (
-	"os"
-	"path/filepath"
 	"reflect"
 	"testing"
 )
 
-const (
-	PyAuthorsDir = "test_data/python-goose/authors/"
-)
+const ()
 
 func TestAuthorPyExtractor(t *testing.T) {
 	t.Parallel()
 
-	filepath.Walk(PyAuthorsDir,
-		func(path string, info os.FileInfo, err error) error {
-			name, r, html, ok := readPyTest(t, path, info)
-			if !ok {
-				return nil
-			}
-
-			a, err := FromHTML(html, Config{})
-			if err != nil {
-				t.Fatal(err)
-			}
-
+	runPyTests(t,
+		"test_data/python-goose/authors/",
+		func(t *testing.T, name string, a *Article, r *Result) {
 			ea := make(map[string]interface{})
 			ga := make(map[string]interface{})
 
@@ -46,7 +33,5 @@ func TestAuthorPyExtractor(t *testing.T) {
 					ga,
 					ea)
 			}
-
-			return nil
 		})
 }

@@ -56,7 +56,3 @@ func (a *Article) extract() error {
 
 	return nil
 }
-
-func (a *Article) findTitle() {
-
-}
