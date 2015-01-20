@@ -21,6 +21,7 @@ type Result struct {
 type Expected struct {
 	Authors         []string
 	CleanedText     string `json:"cleaned_text"`
+	Links           int
 	MetaDescription string `json:"meta_description"`
 	MetaFavicon     string `json:"meta_favicon"`
 	MetaKeywords    string `json:"meta_keywords"`
@@ -47,27 +48,27 @@ func runPyTests(
 
 			jsonf, err := os.Open(path)
 			if err != nil {
-				t.Fatal(err)
+				t.Fatalf("%s: %s", name, err)
 			}
 
 			if err = json.NewDecoder(jsonf).Decode(&r); err != nil {
-				t.Fatal(err)
+				t.Fatalf("%s: %s", name, err)
 			}
 
 			h := strings.Replace(path, ".json", ".html", -1)
 			htmlf, err := os.Open(h)
 			if err != nil {
-				t.Fatal(err)
+				t.Fatalf("%s: %s", name, err)
 			}
 
 			html, err := ioutil.ReadAll(htmlf)
 			if err != nil {
-				t.Fatal(err)
+				t.Fatalf("%s: %s", name, err)
 			}
 
 			a, err := FromHTML(string(html), Config{})
 			if err != nil {
-				t.Fatal(err)
+				t.Fatalf("%s: %s", name, err)
 			}
 
 			fn(t, name, &a, &r)

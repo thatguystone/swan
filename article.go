@@ -19,6 +19,7 @@ type Article struct {
 		Domain      string
 		Favicon     string
 		Keywords    string
+		Links       []string
 		Lang        string
 		OpenGraph   map[string]string
 		PublishDate string
@@ -28,6 +29,9 @@ type Article struct {
 
 	// Document backing this article
 	Doc *goquery.Document
+
+	// Node with the highest score
+	TopNode *goquery.Selection
 
 	cfg Config
 }
