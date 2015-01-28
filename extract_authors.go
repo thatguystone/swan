@@ -7,11 +7,13 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
+type extractAuthors struct{}
+
 var (
 	authorMatcher = cascadia.MustCompile("[itemprop~=author] [itemprop=name]")
 )
 
-func extractAuthors(a *Article) error {
+func (e extractAuthors) run(a *Article) error {
 	auths := make(map[string]interface{})
 
 	a.Doc.FindMatcher(authorMatcher).Each(func(i int, s *goquery.Selection) {

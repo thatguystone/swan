@@ -1,5 +1,7 @@
 package swan
 
-func extractImages(a *Article) error {
+type extractImages struct{}
+
+func (e extractImages) run(a *Article) error {
 	return nil
 }

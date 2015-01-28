@@ -11,6 +11,7 @@ import (
 	"golang.org/x/net/html/atom"
 )
 
+type cleanup struct{}
 type commentMatcher struct{}
 type childTextMatcher struct{}
 
@@ -261,7 +262,7 @@ func divToPara(i int, s *goquery.Selection) {
 	}
 }
 
-func cleanup(a *Article) error {
+func (c cleanup) run(a *Article) error {
 	a.Doc.FindMatcher(safeTags).
 		RemoveAttr("class").
 		RemoveAttr("id").

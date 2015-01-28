@@ -5,6 +5,8 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
+type extractPublishDate struct{}
+
 type publishDate struct {
 	m    goquery.Matcher
 	attr string
@@ -31,7 +33,7 @@ var (
 	}
 )
 
-func extractPublishDate(a *Article) error {
+func (e extractPublishDate) run(a *Article) error {
 	for _, pd := range publishDaters {
 		s := a.Doc.FindMatcher(pd.m)
 		if s.Size() == 0 {

@@ -8,6 +8,8 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
+type extractMetas struct{}
+
 var (
 	// ErrNoLanguage is returned when a document's language could not be
 	// determined and Config.ErrorOnNoLanguage is set
@@ -46,7 +48,7 @@ func extractMetaLanguage(a *Article, metas *goquery.Selection) bool {
 	return a.Meta.Lang != ""
 }
 
-func extractMetas(a *Article) error {
+func (e extractMetas) run(a *Article) error {
 	metas := a.Doc.FindMatcher(metaMatcher)
 
 	if !extractMetaLanguage(a, metas) && a.cfg.Error.OnNoLanguage {

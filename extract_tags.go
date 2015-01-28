@@ -7,6 +7,8 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
+type extractTags struct{}
+
 var (
 	tagRelMatcher  = cascadia.MustCompile("a[rel=tag]")
 	tagHrefMatcher = cascadia.MustCompile("a[href*='/tag/'], " +
@@ -15,7 +17,7 @@ var (
 		"a[href*='?keyword=']")
 )
 
-func extractTags(a *Article) error {
+func (e extractTags) run(a *Article) error {
 	tags := make(map[string]interface{})
 
 	s := a.Doc.FindMatcher(tagRelMatcher)

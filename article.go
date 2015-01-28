@@ -36,22 +36,28 @@ type Article struct {
 	cfg Config
 }
 
+type runner interface {
+	run(a *Article) error
+}
+
+type useKnownArticles struct{}
+
 var (
-	processors = []func(a *Article) error{
-		extractMetas,
+	runners = []runner{
+		extractMetas{},
 
-		extractAuthors,
-		extractPublishDate,
-		extractTags,
-		extractTitle,
+		extractAuthors{},
+		extractPublishDate{},
+		extractTags{},
+		extractTitle{},
 
-		useKnownArticles,
-		cleanup,
-		extractContent,
+		useKnownArticles{},
+		cleanup{},
+		extractContent{},
 
-		extractLinks,
-		extractImages,
-		extractVideos,
+		extractLinks{},
+		extractImages{},
+		extractVideos{},
 	}
 
 	// Don't match all-at-once: there's precedence here
@@ -62,7 +68,7 @@ var (
 	}
 )
 
-func useKnownArticles(a *Article) error {
+func (u useKnownArticles) run(a *Article) error {
 	for _, m := range knownArticles {
 		s := a.Doc.FindMatcher(m)
 		if s.Size() > 0 {
@@ -77,8 +83,8 @@ func useKnownArticles(a *Article) error {
 }
 
 func (a *Article) extract() error {
-	for _, f := range processors {
-		err := f(a)
+	for _, r := range runners {
+		err := r.run(a)
 		if err != nil {
 			return err
 		}

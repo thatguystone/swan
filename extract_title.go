@@ -7,6 +7,8 @@ import (
 	"code.google.com/p/cascadia"
 )
 
+type extractTitle struct{}
+
 var (
 	titleSplitters  = "|-»:"
 	titleMatcher    = cascadia.MustCompile("title")
@@ -28,7 +30,7 @@ func cleanTitle(a *Article, t string) string {
 	return strings.TrimSpace(strings.Trim(t, titleSplitters))
 }
 
-func extractTitle(a *Article) error {
+func (e extractTitle) run(a *Article) error {
 	title, ok := a.Meta.OpenGraph["title"]
 
 	if !ok {
