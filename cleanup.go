@@ -1,7 +1,9 @@
 package swan
 
 import (
+	"bytes"
 	"fmt"
+	"strings"
 
 	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
@@ -13,6 +15,8 @@ type commentMatcher struct{}
 type childTextMatcher struct{}
 
 var (
+	tablinesReplacer = strings.NewReplacer("\n", "\n\n", "\t", "")
+
 	remove   = []cascadia.Selector{}
 	badNames = []string{
 		"ajoutVideo",
@@ -161,8 +165,20 @@ func (m childTextMatcher) Match(n *html.Node) bool {
 	return false
 }
 
+func (m childTextMatcher) matchAll(n *html.Node, ns []*html.Node) []*html.Node {
+	for c := n.FirstChild; c != nil; c = c.NextSibling {
+		if c.Type == html.TextNode {
+			ns = append(ns, c)
+		} else {
+			ns = m.matchAll(c, ns)
+		}
+	}
+
+	return ns
+}
+
 func (m childTextMatcher) MatchAll(n *html.Node) []*html.Node {
-	return nil
+	return m.matchAll(n, nil)
 }
 
 func (m childTextMatcher) Filter(n []*html.Node) []*html.Node {
@@ -177,15 +193,60 @@ func (m childTextMatcher) Filter(n []*html.Node) []*html.Node {
 	return ns
 }
 
+func nodeIs(n *html.Node, a atom.Atom) bool {
+	return n != nil && n.Type == html.ElementNode && n.DataAtom == a
+}
+
 func getReplacements(s *goquery.Selection) []*html.Node {
 	var ns []*html.Node
+	var b bytes.Buffer
 
-	cs := s.FilterMatcher(childTextMatcher{})
+	flushB := func() {
+		ns = append(ns, &html.Node{
+			Type: html.TextNode,
+			Data: b.String(),
+		})
+		b.Reset()
+	}
+
+	cs := s.FindMatcher(childTextMatcher{})
 
 	for _, n := range cs.Nodes {
-		ns = append(ns, n)
-		// #error stopped here: implement get_replacement_nodes
+		switch {
+		case n.Type == html.TextNode:
+			n.Data = tablinesReplacer.Replace(n.Data)
+			n.Data = strings.TrimSpace(n.Data)
+
+			if len(n.Data) == 0 {
+				continue
+			}
+
+			an := n
+			flushB()
+
+			// Rewind to first <a> before this text
+			for ; nodeIs(an.PrevSibling, atom.A); an = an.PrevSibling {
+			}
+
+			// Run through all previous and trailing <a>s, injecting the node in
+			// the mix
+			for ; nodeIs(an, atom.A) || an == n; an = an.NextSibling {
+				if an.Parent != nil {
+					an.Parent.RemoveChild(an)
+				}
+
+				ns = append(ns, an)
+			}
+
+		case nodeIs(n, atom.P) && b.Len() > 0:
+			flushB()
+			fallthrough
+		default:
+			ns = append(ns, n)
+		}
 	}
+
+	flushB()
 
 	return ns
 }
@@ -200,9 +261,7 @@ func divToPara(i int, s *goquery.Selection) {
 	}
 }
 
-// Cleanup runs basic article cleanup, discarding elements that are typically
-// junk while regrouping text into larger chunks.
-func (a *Article) Cleanup() {
+func cleanup(a *Article) error {
 	a.Doc.FindMatcher(safeTags).
 		RemoveAttr("class").
 		RemoveAttr("id").
@@ -221,4 +280,6 @@ func (a *Article) Cleanup() {
 	ems.NotSelection(ems.HasMatcher(imgTags)).Unwrap()
 
 	a.Doc.FindMatcher(divSpanTags).Each(divToPara)
+
+	return nil
 }

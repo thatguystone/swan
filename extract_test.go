@@ -9,10 +9,6 @@ import (
 	"testing"
 )
 
-const (
-	PyContentDir = "test_data/python-goose/content/"
-)
-
 type Result struct {
 	URL      string
 	Expected Expected

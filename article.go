@@ -1,6 +1,9 @@
 package swan
 
-import "github.com/PuerkitoBio/goquery"
+import (
+	"code.google.com/p/cascadia"
+	"github.com/PuerkitoBio/goquery"
+)
 
 // Article is a fully extracted and cleaned document.
 type Article struct {
@@ -30,31 +33,52 @@ type Article struct {
 	// Document backing this article
 	Doc *goquery.Document
 
-	// Node with the highest score
-	TopNode *goquery.Selection
-
 	cfg Config
 }
 
 var (
-	extractors = []func(a *Article) error{
+	processors = []func(a *Article) error{
 		extractMetas,
 
 		extractAuthors,
-		extractLinks,
 		extractPublishDate,
 		extractTags,
 		extractTitle,
 
+		useKnownArticles,
+		cleanup,
 		extractContent,
+
+		extractLinks,
 		extractImages,
 		extractVideos,
 	}
+
+	// Don't match all-at-once: there's precedence here
+	knownArticles = []goquery.Matcher{
+		cascadia.MustCompile("[itemprop=articleBody]"),
+		cascadia.MustCompile(".post-content"),
+		cascadia.MustCompile("article"),
+	}
 )
 
+func useKnownArticles(a *Article) error {
+	for _, m := range knownArticles {
+		s := a.Doc.FindMatcher(m)
+		if s.Size() > 0 {
+			// Remove from document so that memory can be freed
+			f := s.First().Remove()
+			a.Doc = goquery.NewDocumentFromNode(f.Nodes[0])
+			break
+		}
+	}
+
+	return nil
+}
+
 func (a *Article) extract() error {
-	for _, e := range extractors {
-		err := e(a)
+	for _, f := range processors {
+		err := f(a)
 		if err != nil {
 			return err
 		}

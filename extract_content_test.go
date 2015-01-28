@@ -1,8 +1,6 @@
 package swan
 
-import (
-	"testing"
-)
+import "testing"
 
 func TestPyContentExtractors(t *testing.T) {
 	t.Parallel()
