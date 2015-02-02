@@ -1,0 +1,882 @@
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]--><head><script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<title>Interview: Gerald Posner, Author of 'God's Bankers: A History of Money and Power at the Vatican' : NPR</title><meta charset="utf-8" /><!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]--><meta name="robots" content="noarchive,index,follow" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" /><!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><![endif]--><meta name="date" content="2015-01-30" /><link rel="canonical" href="http://www.npr.org/2015/01/30/382374060/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank" /><meta name="description" content="In God's Bankers Gerald Posner explores the history of money, power and the church. During World War II, he says, the Vatican made money off of the life insurance policies of Jews sent to death camps." /><link rel="alternate" type="application/rss+xml" title="Author Interviews" href="/rss/rss.php?id=1033" /><meta property="og:title" content="From Laundering To Profiteering, A Multitude Of Sins At The Vatican Bank" /><meta property="og:url" content="http://www.npr.org/2015/01/30/382374060/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank" /><meta property="og:type" content="article" /><meta property="og:description" content="In God's Bankers Gerald Posner explores the history of money, power and the church. During World War II, he says, the Vatican made money off of the life insurance policies of Jews sent to death camps." /><meta property="og:image" content="http://media.npr.org/assets/img/2015/01/29/113395244_custom-c99e07c0efd8496b8bd6373adb63c9970a486dbb.jpg?s=1400" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@nprbooks" /><meta name="twitter:domain" content="npr.org" /><meta name="twitter:image:src" content="http://media.npr.org/assets/img/2015/01/29/113395244_wide-8a8c0ff8a5024072bdf527ef3e6d7374ed49757a.jpg?s=1400" /><link type="text/css" rel="stylesheet" media="screen, print" href="http://s.npr.org/templates/css/generated/fingerprint/newsStory-091b8b2400c19ce56f1db957a95a7300a3ac0a86.css" /><script>
+   window.NPR={};window.NPR.serverVars={"storyId":"382374060","serverType":"prod","facebookAppId":"138837436154588","closeurl":"http:\/\/www.npr.org\/templates\/socialmedia\/close.html","sessionScope":2,"pageScope":3,"breadcrumbs":["Arts \u0026 Life","Books","Author Interviews"],"primaryTopic":1033,"orgId":"1","topics":[1033,3,1032,1016,1008,1006,1002],"programId":3,"pageTypeId":1,"internalCampaign":null,"campaignSource":null,"campaignName":null,"aggregations":[1033,3,1032,1016,1008,1006,1002,382587930,382378571,382378568,300659419,191676894,10115,10109,10103,10102],"aggregationsText":["Author Interviews","Morning Edition","Books","Religion","Arts \u0026 Life","Business","Home Page Top Stories","Morning Edition for January 30, 2015","Gerald Posner","God\u0027s Bankers","MPX Invest","Most Popular","Nonfiction","History \u0026 Society","Faith \u0026 Spirituality","Business \u0026 Economy"],"aggExtras":["30Jan2015","NPR+Staff"],"byline":["NPR Staff"],"chartbeatAccount":"18888"};
+</script>
+<script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/fonts-b69636e151d52979e0fdcc7dac022bfd07c7ff6d.js">
+   </script>
+<script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/headerAllPages-2a2d60264a883081f326d6b10e6a2e4fd0a2a63f.js">
+   </script>
+<script type="text/javascript">
+   document.domain="npr.org";
+</script>
+
+<!-- START UNDERWRITING -->
+<script type="text/javascript">
+
+googletag.cmd.push(function(){try{if(DFP.shouldRenderForDevice('desktop')){googletag.defineSlot("/6735/n6735.NPR/Arts___Life_Books_Author_Interviews",[[300,250],[300,600]],'ad-desktop').addService(googletag.pubads());}
+if(DFP.shouldRenderForDevice('88')){googletag.defineSlot("/6735/n6735.NPR/Arts___Life_Books_Author_Interviews",[88,31],'ad-88').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);}
+googletag.pubads().setTargeting('program','Morning_Edition');googletag.pubads().setTargeting('agg','300659419');googletag.pubads().setTargeting('theme','1033');googletag.pubads().setTargeting('storyId','382374060');googletag.pubads().setTargeting('genres','Nonfiction_History___Society_Faith___Spirituality_Business___Economy');var deviceString='';var ua=navigator.userAgent.toLowerCase();if(ua.indexOf("android")>-1){googletag.pubads().setTargeting('device','android');}
+else if(ua.match(/(iPad|iPhone|iPod)/i)){googletag.pubads().setTargeting('device','ios');}
+if(typeof DFP.queryParameters.sc==='string'&&DFP.queryParameters.sc.length>0){scValue=DFP.queryParameters.sc;}
+else if(typeof document.referrer==='string'&&document.referrer.search('facebook.com')>-1){scValue='fb';}
+else if(typeof DFP.queryParameters.ft==='string'){scValue=DFP.queryParameters.ft;}
+googletag.pubads().setTargeting('sc',scValue);var utm_source=typeof DFP.queryParameters.utm_source==='string'&&DFP.queryParameters.utm_source.length>0?DFP.queryParameters.utm_source:'';var utm_medium=typeof DFP.queryParameters.utm_medium==='string'&&DFP.queryParameters.utm_medium.length>0?DFP.queryParameters.utm_medium:'';googletag.pubads().setTargeting('utm_source',utm_source);googletag.pubads().setTargeting('utm_medium',utm_medium);var orient='';if(NPR.Devices.isOnPhone()||NPR.Devices.isOnTablet()){if(window.orientation==0||window.orientation==180){orient='portrait';}else if(window.orientation==90||window.orientation==-90){orient='landscape';}}
+googletag.pubads().setTargeting('orient',orient);googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.enableServices();}catch(e){NPR.messaging.exception(e,'Define Google Publisher Tags',NPR.messaging.constants.SPONSORSHIP_ERROR);}});
+</script>
+
+<!-- END UNDERWRITING -->
+</head><body id="books" class="books tmplBookStory  branding-none id382374060" data-metrics-scroll ><a href="#wrapper" id="skiplink">Skip to Main Content</a><script type="text/javascript">var pageTrackingCPTV=function(){try{AddNamespace("NPR.metrics");NPR.metrics.pageImpression();}catch(e){NPR.messaging.exception(e,'commonPageTrackView','document.ready',NPR.messaging.constants.METRICS_ERROR);}};if($('docreadybind').length){$('docreadybind').bind('click',pageTrackingCPTV);}else{$(document).ready(pageTrackingCPTV);}</script><header id="globalheader" class="clearfix"><a class="sidebarButton" href="#sidebar" data-action="Toggle Off-Canvas Nav" data-metrics='{"action":"Toggle Off-Canvas Nav","category":"Global Navigation"}'>
+    <img src="http://media.npr.org/chrome/subnav_toggle.png" alt="subnav toggle" />
+</a>
+
+<a href="/books/" class="npr-booksHome" data-action="Click Logo" data-metrics='{"action":"Click Logo","category":"Global Navigation"}'>
+    <img src="http://media.npr.org/chrome/books/npr-books-logo-color.png" alt="NPR Books" />
+</a>
+
+<div class="inner" data-metrics-category="Global Navigation">
+    <div id="searchWrapper">
+        <form action="/search/index.php" method="get" name="searchForm" id="searchForm" class="search">
+            <label for="searchinput">Search</label>
+            <input type="search" name="searchinput" id="searchinput" class="textbox searchbox" />
+        </form>
+        <a href="#" class="search-toggle">Toggle search</a>
+    </div>
+    <nav class="nav-two" id="loginPElm">
+        <ul>
+            <li class="stations"><a href="/templates/stations/stations/" data-metrics='{"action":"Click Business Link"}'>Stations</a></li>
+            <li class="donate"><a href="/stations/donate/index.php" data-metrics='{"action":"Click Business Link"}'>Donate</a></li>
+            <li class="nprshop"><a href="http://shop.npr.org" data-metrics='{"action":"Click Business Link"}'>Shop</a></li>
+            <li class="login-reg loggedOut"><a href="/templates/reg/login.php" data-metrics='{"action":"Click Profile Link","label":"Login / Register"}'>Sign In/Register</a></li>
+            <li class="login-reg loggedIn userLogin has-subnav"><b class="caret"><b class="user"></b></b>
+                <div class="subnav">
+                    <ul data-metrics-action="Click Profile Link" data-metrics-all>
+                        <li><span id="userLogin"></span></li>
+                        <li><a href="/templates/reg/logout.php" class="logout" data-metrics='{"label":"Logout"}'>Logout</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </nav>
+    <nav class="nav-one">
+        <ul>
+            <li id="authorinterviews"><a href="/sections/author-interviews/" data-action="Click Interviews">Author Interviews</a></li>
+            <li id="find-books" class="find-books">
+            <a href="#">Find Books</a>
+            <div class="subnav" data-metrics-action="Click Genre" data-metrics-all>
+                <ul>
+                    <li><a href="/books/genres/10110/art-design/">Art &amp; Design</a></li>
+                    <li><a href="/books/genres/10126/arts-entertainment/">Arts &amp; Entertainment</a></li>
+                    <li><a href="/books/genres/10101/biography-memoir/">Biography &amp; Memoir</a></li>
+                    <li><a href="/books/genres/10102/business-economy/">Business &amp; Economy</a></li>
+                    <li><a href="/books/genres/10122/children/">Children's Books</a></li>
+                    <li><a href="/books/genres/10123/comedy/">Comedy</a></li>
+                    <li><a href="/books/genres/10104/comics-graphic-novels/">Comics &amp; Graphic Novels</a></li>
+                    <li><a href="/books/genres/10127/digital-culture/">Digital Culture</a></li>
+                </ul>
+                <ul>
+                    <li><a href="/books/genres/10103/faith-spirituality/">Faith &amp; Spirituality</a></li>
+                    <li><a href="/books/genres/10106/food-wine/">Food &amp; Wine</a></li>
+                    <li><a href="/books/genres/10109/history-society/">History &amp; Society</a></li>
+                    <li><a href="/books/genres/10113/historical-fiction/">Historical Fiction</a></li>
+                    <li><a href="/books/genres/191663270/horror-supernatural/">Horror &amp; Supernatural</a></li>
+                    <li><a href="/books/genres/10112/literary-fiction/">Literary Fiction</a></li>
+                    <li><a href="/books/genres/10114/mystery-thrillers/">Mystery &amp; Thrillers</a></li>
+                    <li><a href="/books/genres/10116/parenting-families/">Parenting &amp; Families</a></li>
+                </ul>
+                <ul>
+                    <li><a href="/books/genres/10125/poetry/">Poetry</a></li>
+                    <li><a href="/books/genres/10117/politics-public-affairs/">Politics &amp; Public Affairs</a></li>
+                    <li><a href="/books/genres/10118/romance/">Romance</a></li>
+                    <li><a href="/books/genres/10119/science-fiction-fantasy/">Science Fiction &amp; Fantasy</a></li>
+                    <li><a href="/books/genres/10108/science-health/">Science &amp; Health</a></li>
+                    <li><a href="/books/genres/10120/sports/">Sports</a></li>
+                    <li><a href="/books/genres/10124/travel/">Travel</a></li>
+                    <li><a href="/books/genres/10121/young-adults/">Young Adult</a></li>
+                </ul>
+                <ul class="foot clearfix">
+                    <li><a href="/books/genres/10115/nonfiction/">Nonfiction</a></li>
+                    <li><a href="/books/genres/10111/fiction/">Fiction</a></li>
+                </ul>
+            </div>
+        </li>
+        <li id="bookreviews" class="reviews">
+            <a href="#">Reviews</a>
+            <div class="subnav" data-metrics-action="Click Reviews" data-metrics-all>
+                <ul>
+                    <li><a href="/sections/book-reviews">Book Reviews</a></li>
+                    <li><a href="/series/257657827/this-weeks-must-read">This Week's Must Read</a></li>
+                    <li><a href="/series/104566969/my-guilty-pleasure">My Guilty Pleasure</a></li>
+                    <li><a href="/series/three-books/">Three Books...</a></li>
+                    <li><a href="/series/153588024/pg-13-go-to-teen-reads">PG-13: Risky Reads</a></li>
+                    <li><a href="/series/you-must-read-this/">You Must Read This</a></li>
+                    <li><a href="/summerbooks/">Summer Books</a></li>
+                    <li><a href="/bestbooks/">Best Books of the Year</a></li>
+                </ul>
+            </div>
+        </li>
+        <li id="nprbestsellerlists"><a href="/books/bestsellers/" data-metrics='{"action":"Click Bestsellers"'>Bestsellers</a></li>
+        </ul>
+    </nav>
+</div></header><div id="wrapper">
+      <div id="sectionWrap" class="clearfix">
+            <section role="main"><header class="contentheader" data-metrics-category="Author Interviews"><div class="mobileheader">
+    <a class="sidebarButton" href="#sidebar" data-metrics='{"action":"Toggle OffCanvas","category":"Global Navigation"}' >
+        <img src="http://media.npr.org/chrome/subnav_toggle.png" alt="NPR logo" />
+    </a>
+
+	<a href="/books/" class="npr-booksHome" data-metrics='{"action":"Click Logo","category":"Global Navigation"}'>
+	    <img src="http://media.npr.org/chrome/books/npr-books-logo-color.png" alt="NPR Books" />
+	</a>
+
+</div></header><article class="story"><a name="mainContent"></a><ul class="breadcrumb">
+      <li><a href="http://www.npr.org/sections/arts/">Arts & Life</a> <span class="arrow">&gt;</span></li>
+
+   <li><a href="http://www.npr.org/books/">Books</a> <span class="arrow">&gt;</span></li>
+
+   <li class="last"><a href="http://www.npr.org/sections/author-interviews/">Author Interviews</a></li>
+
+</ul>
+ <!--googleon: index--><div class="storytitle">
+      <h1>From Laundering To Profiteering, A Multitude Of Sins At The Vatican Bank</h1>
+   <input type="hidden" id="title382374060" value="From Laundering To Profiteering, A Multitude Of Sins At The Vatican Bank"></input>
+   <input type="hidden" id="modelShortUrl382374060" value="http://n.pr/1y9GDDd"></input>
+   <input type="hidden" id="modelFullUrl382374060" value="http://www.npr.org/2015/01/30/382374060/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank"></input>
+</div>
+
+<!-- END CLASS="STORYTITLE" -->
+<div id="story-meta">
+      <div class="dateblock">
+            <time datetime="2015-01-30"><span class="date">January 30, 2015</span><span class="time"> 4:15 AM ET</span></time>
+   </div>
+   <div id="storybyline" class="  linkLocation">
+            <div class="bucketwrap byline" id="res382482074" previewTitle="bylines">
+                  <div class="blockBylines">
+                        <div class="blockByline  ">
+      <div class="rightContainer">
+            <div class="nameWrap">
+                  <div class="nameOuter">
+                        <div class="nameInner">
+               NPR Staff
+            </div>
+         </div>
+      </div>
+   </div>
+
+<!-- END CLASS="RIGHTCONTAINER" -->
+</div>
+         </div>
+      </div>
+
+<!-- END CLASS="BUCKETWRAP BYLINE" ID="RES382482074" PREVIEWTITLE="BYLINES" -->
+   </div>
+
+<!-- END ID="STORYBYLINE" CLASS="  LINKLOCATION" -->
+</div>
+
+<!-- END ID="STORY-META" -->
+<div id="primaryaudio" class="storylocation linkLocation">
+      <div id="res382588020" class="bucketwrap primary resaudio  clearfix medium">
+            <div class="player-core">
+                  <div class="listenicon">
+                        <a class="listen" href="javascript:NPR.Player.openPlayer(382374060, 382588020, null, NPR.Player.Action.PLAY_NOW, NPR.Player.Type.STORY, '0')" data-metrics='{"category":"Secondary Audio","action":"Play Audio","label":"20150130_me_from_laundering_to_profiteering_a_multitude_of_sins_at_the_vatican_bank.mp3"}' ></a>
+         </div>
+
+<!-- END CLASS="LISTENICON" -->
+         <div id="avcontent382588020" class="avcontent listen shorttitle">
+                        <span id="mediaTimeTotal382588020" class="media-time-total"><span id="mediaTimeCurrent382588020" class="media-time-current"></span></span>            <h3><a href="javascript:NPR.Player.openPlayer(382374060, 382588020, null, NPR.Player.Action.PLAY_NOW, NPR.Player.Type.STORY, '0')" data-metrics='{"category":"Secondary Audio","action":"Play Audio","label":"20150130_me_from_laundering_to_profiteering_a_multitude_of_sins_at_the_vatican_bank.mp3"}' >Listen to the Story</a></h3>
+            <div class="inner">
+                              <p class="byline"><a class="program" href="http://www.npr.org/programs/morning-edition/">Morning Edition</a></p>               <div class="duration">
+                                    <span id="durationCurrent382588020" class="current"></span>                  <span class="total">7 min 4 sec</span>
+               </div>
+            </div>
+
+<!-- END CLASS="INNER" -->
+         </div>
+
+<!-- END ID="AVCONTENT382588020" CLASS="AVCONTENT LISTEN SHORTTITLE" -->
+      </div>
+
+<!-- END CLASS="PLAYER-CORE" -->
+      <ul class="audiotools">
+                  <li><a class="add" href="javascript:NPR.Player.openPlayer(382374060, 382588020, null, NPR.Player.Action.ADD_TO_PLAYLIST, NPR.Player.Type.STORY, '0')" data-metrics='{"category":"Secondary Audio","action":"Playlist","label":"20150130_me_from_laundering_to_profiteering_a_multitude_of_sins_at_the_vatican_bank.mp3"}' ><span>Playlist</span></a></li>
+         <li><a class="download" href="http://pd.npr.org/anon.npr-mp3/npr/me/2015/01/20150130_me_from_laundering_to_profiteering_a_multitude_of_sins_at_the_vatican_bank.mp3?dl=1" data-metrics='{"category":"Secondary Audio","action":"Download","label":"20150130_me_from_laundering_to_profiteering_a_multitude_of_sins_at_the_vatican_bank.mp3"}' ><span>Download</span></a></li>
+         <li><a class="pending" title="Transcript Pending" href="javascript:;" data-metrics='{"category":"Segment Audio","action":"Click transcript","label":"382374060"}' ><span>Transcript</span></a></li>
+      </ul>
+      <div class="spacer">
+         &nbsp;
+      </div>
+   </div>
+
+<!-- END ID="RES382588020" CLASS="BUCKETWRAP PRIMARY RESAUDIO  CLEARFIX MEDIUM" -->
+</div>
+
+<!-- END ID="PRIMARYAUDIO" CLASS="STORYLOCATION LINKLOCATION" -->
+<div id="storytext" class="storytext storylocation linkLocation">
+      <div id="res382472426" class="bucketwrap image large" previewTitle="The Vatican Bank is &quot;essentially an offshore bank in the middle of a foreign country,&quot; says Gerald Posner. Above is an aerial view of St. Peter's basilica in Vatican City.">
+            <div class="imagewrap" data-crop-type="">
+    <img src="http://media.npr.org/assets/img/2015/01/29/113395244_custom-c99e07c0efd8496b8bd6373adb63c9970a486dbb-s1100-c15.jpg" data-original="http://media.npr.org/assets/img/2015/01/29/113395244_custom-c99e07c0efd8496b8bd6373adb63c9970a486dbb-s1100.jpg" class="img lazyOnLoad"  title="The Vatican Bank is &quot;essentially an offshore bank in the middle of a foreign country,&quot; says Gerald Posner. Above is an aerial view of St. Peter's basilica in Vatican City." alt="The Vatican Bank is &quot;essentially an offshore bank in the middle of a foreign country,&quot; says Gerald Posner. Above is an aerial view of St. Peter's basilica in Vatican City." />
+    <a href="#" class="enlargebtn" title="Enlarge">i</a>
+</div>
+<div class="credit-caption">
+    <div class="caption">
+        <p>
+            The Vatican Bank is "essentially an offshore bank in the middle of a foreign country," says Gerald Posner. Above is an aerial view of St. Peter's basilica in Vatican City.
+
+            <b class="credit">
+
+                AFP/AFP/Getty Images
+
+            </b>
+            <b class="hide-caption"><b>hide caption</b></b>
+        </p>
+    </div>
+    <b class="toggle-caption">i<b>toggle caption</b></b>
+    <span class="credit">
+
+        AFP/AFP/Getty Images
+
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <img data-original="http://media.npr.org/assets/img/2015/01/29/113395244_custom-c99e07c0efd8496b8bd6373adb63c9970a486dbb-s1200.jpg" title="The Vatican Bank is &quot;essentially an offshore bank in the middle of a foreign country,&quot; says Gerald Posner. Above is an aerial view of St. Peter's basilica in Vatican City." alt="The Vatican Bank is &quot;essentially an offshore bank in the middle of a foreign country,&quot; says Gerald Posner. Above is an aerial view of St. Peter's basilica in Vatican City." />
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption">The Vatican Bank is "essentially an offshore bank in the middle of a foreign country," says Gerald Posner. Above is an aerial view of St. Peter's basilica in Vatican City.</p>
+        <span class="credit">
+
+            AFP/AFP/Getty Images
+
+        </span>
+    </div>
+</div>
+   </div>
+   <p>For decades, the Catholic Church has been dogged by scandals involving money. Vatican City — a sovereign state — controls its own finances through the Vatican Bank. It developed as a cross between the Federal Reserve and an offshore bank. In a new history, <em>God's Bankers,</em> Gerald Posner explains that its roots go back to the mid-19th century.</p>   <div class="container book nobar" id="con382379972" previewTitle="Book Edition Information">
+            <div id="res382379992" class="bucketwrap image book" previewTitle="God's Bankers">
+                  <div class="imagewrap" data-crop-type="">
+    <a href="/books/titles/382378568/gods-bankers-a-history-of-money-and-power-at-the-vatican">
+        <img src="http://media.npr.org/assets/bakertaylor/covers/g/gods-bankers/9781416576570_custom-f1d3b40dcf38a7bfb52eb809575137a105a6357f-s1200-c15.jpg" data-original="http://media.npr.org/assets/bakertaylor/covers/g/gods-bankers/9781416576570_custom-f1d3b40dcf38a7bfb52eb809575137a105a6357f-s1200.jpg" class="img lazyOnLoad"  title="God's Bankers" alt="God's Bankers" />
+    </a>
+</div>
+<div class="credit-caption">
+    <div class="caption">
+    </div>
+</div>
+      </div>
+      <div id="res382378583" class="bucketwrap bookedition">
+                  <h6><a href="http://www.npr.org/books/titles/382378568/gods-bankers-a-history-of-money-and-power-at-the-vatican">God's Bankers</a></h6>
+         <p>A History of Money and Power at the Vatican</p>         <p class="author">by <a href="http://www.npr.org/books/authors/382378571/gerald-posner"><span>Gerald Posner</span></a></p>         <div class="bookinfo">
+                        <p>Hardcover, 732 pages <span class="pipe">|</span> <a href="#" class="purchase" data-metrics='{"category":"Ecommerce","action":"Click purchase book"}' >purchase</a></p>            <div class="ecommercepop">
+                              <div class="ecomm_body">
+                                    <h3><a class="close" href="javascript:void(0);">Purchase Featured Book</a></h3>
+                  <dl class="meta"><dt>Title</dt><dd>God's Bankers</dd><dt>Subtitle</dt><dd>A History of Money and Power at the Vatican</dd><dt>Author</dt><dd>Gerald Posner</dd></dl>                  <input type="hidden" id="ecommerceId" value="3"></input>
+                  <p class="support">Your purchase helps support NPR Programming. <a onclick="javascript:window.open('http://www.npr.org/include/howtosupportnpr.html', 'howToSupportNPR', 'width=520,height=600,scrollbars=yes,location=no,directories=no,status=no,menubar=no,resizable=no');" href="javascript:void(0);">How?</a></p>                  <ul class="purchase-links">
+                                          <li><a  data-metrics='{"action":"Click Amazon","category":"Ecommerce","label":"9781416576570"}'  class="buylink1" onclick="return popUp(this,'toolbar=yes,scrollbars=yes,location=yes,directories=yes,status=yes,menubar=yes,resizable=yes','npr');" href="http://www.amazon.com/Gods-Bankers-History-Money-Vatican/dp/1416576576%3FSubscriptionId%3DAKIAJXORMQMQBISBPIPQ%26tag%3Dnpr-5-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1416576576">Amazon</a></li>
+                     <li><a  data-metrics='{"action":"Click iBooks","category":"Ecommerce","label":"9781416576570"}'  class="buyLink3" onclick="return popUp(this,'toolbar=yes,scrollbars=yes,location=yes,directories=yes,status=yes,menubar=yes,resizable=yes','npr');" href="https://itunes.apple.com/us/book/gods-bankers/id894602868?mt=11&uo=4">iBooks</a></li>
+                     <li><a  data-metrics='{"action":"Click Independent Booksellers","category":"Ecommerce","label":"9781416576570"}'  class="buyLink3" onclick="return popUp(this,'toolbar=yes,scrollbars=yes,location=yes,directories=yes,status=yes,menubar=yes,resizable=yes','npr');" href="http://www.indiebound.org/book/9781416576570?aff=NPR">Independent Booksellers</a></li>
+                  </ul>
+               </div>
+
+<!-- END CLASS="ECOMM_BODY" -->
+            </div>
+
+<!-- END CLASS="ECOMMERCEPOP" -->
+         </div>
+
+<!-- END CLASS="BOOKINFO" -->
+         <ul class="genres">
+                        <li><a href="http://www.npr.org/books/genres/10115/nonfiction/">Nonfiction</a></li>
+            <li><a href="http://www.npr.org/books/genres/10109/history-society/">History & Society</a></li>
+            <li><a href="http://www.npr.org/books/genres/10103/faith-spirituality/">Faith & Spirituality</a></li>
+            <li><a href="http://www.npr.org/books/genres/10102/business-economy/">Business & Economy</a></li>
+         </ul>
+         <div class="moreonthisbook">
+                        <p>More on this book:</p>            <ul>
+                              <li><a href="http://www.npr.org/books/titles/382378568/gods-bankers-a-history-of-money-and-power-at-the-vatican">NPR reviews, interviews and more</a></li>
+            </ul>
+         </div>
+
+<!-- END CLASS="MOREONTHISBOOK" -->
+      </div>
+
+<!-- END ID="RES382378583" CLASS="BUCKETWRAP BOOKEDITION" -->
+   </div>
+
+<!-- END CLASS="CONTAINER BOOK NOBAR" ID="CON382379972" PREVIEWTITLE="BOOK EDITION INFORMATION" -->
+   <p>"They had 15,000 square miles of what was central Italy with thousands of subjects," Posner tells NPR's Renee Montagne. "They levied taxes and paid for this lavish lifestyle — with 700 servants and a big and growing bureaucracy around them. Then, in 1870, Italy's nationalists have a revolution. They throw the Pope out, they get rid of the papal states. The Vatican goes from being an empire — an earthly empire — to a little postage-stamp size of property called Vatican City."</p>   <p>By World War II, the church had sizable investments and created the Vatican Bank in order to hide its financial dealings with the Nazis from the U.S. and the U.K.</p>   <p>"I was surprised the extent to which the Vatican was deeply embedded with German companies," Posner says. "They bundled together life insurance policies of Jewish refugees who had been sent to Auschwitz and other death camps. They escheated these policies early on — meaning they took the cash value of them."</p>   <p>Later, when the surviving children or grandchildren of the victims tried to collect on the insurance policies, they were refused.</p>   <p>"These insurance companies would refuse to pay out saying: 'Show us a death certificate,' which they knew was impossible," Posner explains. "They would keep the money."</p>   <p>In <em>God's Bankers,</em> Posner sheds light on what he calls "the blood money" that came into the church.</p>   <div class="hr"><hr></div>   <h3 class="edTag">Interview Highlights</h3>   <p><strong>On the Vatican being "equal opportunity profiteers"</strong></p>   <p>It wasn't as though they did business with the Germans because they wanted the Germans to win. They did business with everyone, because they called themselves neutral and decided that somebody would win at the end of the war — and they were going to keep their business connections open to everybody. Then, when they saw the war was going against the Germans, they started to hide the connections. And after the war they said, "We didn't do anything wrong."</p>   <div id="res382463799" class="bucketwrap pullquote">
+            <aside><div class="bucket">
+      <p>"They abdicated their moral position as the head of the world's largest religion, especially at a time that they continued to make money with the people committing the murder."</p>
+</div>
+
+<!-- END CLASS="BUCKET" -->
+<p class="byline">- Author Gerald Posner</p></aside>
+   </div>
+
+<!-- END ID="RES382463799" CLASS="BUCKETWRAP PULLQUOTE" -->
+   <p><strong>On how the Church knew what the Nazis were doing but were "frozen by indecision and fear"</strong></p>   <p>The bank officials and those who ran the bank knew very little because, in part, all they wanted to know was what was happening in terms of the war effort and what was happening in terms of business and profits.</p>   <p>But on the church end, there's no doubt that they had churches, local churches in all of the countries, that were the ground zeros for the killing zones. The local priests who were not in favor of the slaughter still reported back to their bishops what was happening on the ground. That came in daily reports, and they had unfortunately a very clear sense of what was happening early on.</p>   <p>They were just frozen by indecision and fear. They were afraid that if they spoke out, the Nazis might in fact move against Catholics in Germany and even move against the Pope and take him back to Germany as a prisoner. But that fear meant that they abdicated their moral position as the head of the world's largest religion, especially at a time that they continued to make money with the people committing the murder.</p>   <p><strong>On the Vatican being anti-communist and its participation in the Solidarity movement in Poland in the 1980s</strong></p>   <p>One of the reasons the Vatican was frozen in fear against the Nazis and had made their alignment with the Fascists in the first place, was that they feared the Bolsheviks more. When John Paul II came in — the first Polish pope, the first non-Italian pope in more than 450 years — and there's still a communist government in Poland ... he formed an alliance with Ronald Reagan. The head of the CIA used to be going over regularly to the Vatican to give him briefings.</p>   <div class="container small" id="con382474558" previewTitle="More On The Vatican Bank">
+            <h3 class="conheader">More On The Vatican Bank</h3>
+      <div id="res382474476" class="bucketwrap internallink insettwocolumn inset2col ">
+                  <div class="bucket img">
+                        <a id="featuredStackSquareImage197702530" href="http://www.npr.org/blogs/thetwo-way/2013/07/01/197702530/top-vatican-bank-officials-resign"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/blogs\/thetwo-way\/2013\/07\/01\/197702530\/top-vatican-bank-officials-resign"}' ><img src="http://media.npr.org/assets/img/2013/07/01/ap832741063088_sq-274720de871daf72d65eb8b6db2ebfbdd2b3e685-s100.jpg" class="img100" title="Ernst von Freyberg, president of the Vatican Bank Institute for Works of Religion, or IOR, talks with The Associated Press during an interview June 10 at his office in Vatican City. He was named the bank's interim director on Monday after the director and the deputy director both resigned." alt="Ernst von Freyberg, president of the Vatican Bank Institute for Works of Religion, or IOR, talks with The Associated Press during an interview June 10 at his office in Vatican City. He was named the bank's interim director on Monday after the director and the deputy director both resigned." /></a>            <div class="bucketblock">
+                              <h3 class="slug"><a href="http://www.npr.org/blogs/thetwo-way/">The Two-Way </a></h3>
+               <h3><a href="http://www.npr.org/blogs/thetwo-way/2013/07/01/197702530/top-vatican-bank-officials-resign"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/blogs\/thetwo-way\/2013\/07\/01\/197702530\/top-vatican-bank-officials-resign"}' > Top Vatican Bank Officials Resign </a></h3>
+            </div>
+
+<!-- END CLASS="BUCKETBLOCK" -->
+         </div>
+
+<!-- END CLASS="BUCKET IMG" -->
+      </div>
+
+<!-- END ID="RES382474476" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+      <div id="res382474478" class="bucketwrap internallink insettwocolumn inset2col ">
+                  <div class="bucket img">
+                        <a id="featuredStackSquareImage149614995" href="http://www.npr.org/2012/03/29/149614995/vatican-leaks-raise-questions-over-finances"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/2012\/03\/29\/149614995\/vatican-leaks-raise-questions-over-finances"}' ><img src="http://media.npr.org/assets/img/2012/03/29/vatileaks1_sq-ba71e479de35687eaea8fc6045ff0e238c79c382-s100.jpg" class="img100" title="Italian financial police officers talk in front of St. Peter's Basilica in Rome. Recently leaked Vatican documents have raised questions about the Vatican's financial transactions. " alt="Italian financial police officers talk in front of St. Peter's Basilica in Rome. Recently leaked Vatican documents have raised questions about the Vatican's financial transactions. " /></a>            <div class="bucketblock">
+                              <h3 class="slug"><a href="http://www.npr.org/sections/europe/">Europe </a></h3>
+               <h3><a href="http://www.npr.org/2012/03/29/149614995/vatican-leaks-raise-questions-over-finances"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/2012\/03\/29\/149614995\/vatican-leaks-raise-questions-over-finances"}' > Vatican Leaks Raise Questions Over Finances</a></h3>
+            </div>
+
+<!-- END CLASS="BUCKETBLOCK" -->
+         </div>
+
+<!-- END CLASS="BUCKET IMG" -->
+      </div>
+
+<!-- END ID="RES382474478" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+      <div id="res382474480" class="bucketwrap internallink simple">
+                  <div class="simple">
+                        <a href="http://www.npr.org/blogs/thetwo-way/2010/09/21/130020135/vatican-bank-investigated-for-alleged-money-laundering"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"http:\/\/www.npr.org\/blogs\/thetwo-way\/2010\/09\/21\/130020135\/vatican-bank-investigated-for-alleged-money-laundering"}' > Vatican Bank Investigated For Alleged Money Laundering</a>                         <span class="date">Sept. 21, 2010</span>
+         </div>
+
+<!-- END CLASS="SIMPLE" -->
+      </div>
+
+<!-- END ID="RES382474480" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
+   </div>
+
+<!-- END CLASS="CONTAINER SMALL" ID="CON382474558" PREVIEWTITLE="MORE ON THE VATICAN BANK" -->
+   <p>I describe a new incident in this book in which Italian intelligence agents, they take $3.5 million in gold ingots from a Swiss bank. They put it into the side panels and a false bottom on an SUV and a priest drives it back into Gdansk from Italy so it can feed the resistance against the communists in Poland. So there was a real alliance between American intelligence, the right wingers and the Vatican on this meeting of minds against communism.</p>   <p><strong>On the "cocaine cowboy days" at the Vatican Bank </strong></p>   <p>The thing about the Vatican Bank that makes it different in my view is that it's essentially an offshore bank in the middle of a foreign country — so that once that bank was formed, it meant that somebody sitting over in Italy who had a lot of money, all they had to do was find a priest or cleric inside Vatican city to take their money in suitcases of cash across the street — just wait for the red light to turn green — walk it over on a cart, deposit it in the Vatican Bank, and it no longer could be taxed. It no longer could be followed by Italian authorities. It couldn't be followed for a drug investigation.</p>   <p>So what does that result in? It results in the Vatican Bank being one of the top banks in the world for money laundering — a haven often for these business executives involved in scandals in Italy. ... Just in the last decade we learn that the Vatican Bank had an account for [Giulio] Andreotti, who was the seven-time prime minister of Italy, the most powerful postwar politician in Italian history. He had a secret bank account through which over $50 million passed at a certain time, most of which was doled out for political favors to friends.</p>   <p>That was what the Vatican Bank had come to be, and it's what I call its "cocaine cowboy" days, the equivalent of — I live in Miami, the crazy period here was the 1980s when the cocaine cowboys sort of ran the roost. The Vatican Bank has had its cocaine cowboy days. The real question is now whether the new sheriff has arrived in town. Is that Sheriff Francis, and can he really bring them to heel or not?</p>   <p><strong>On whether Pope Francis has managed to make reforms to the Vatican Bank</strong></p>   <p>I've been impressed by him. He has changed the structure so that it won't have the ability to be at the center of those scandals. And he's brought in some outsiders. They've closed hundreds of accounts that have been open that were tied to people that shouldn't have had them. They are abiding by the rules set by the Europeans for financial transparency because they use the euro. So it's a different era.</p>   <p>What could upend it? He needs to be there long enough that these changes can't be reversed by a new pope who gets in and can be pushed around by the strong dominant bureaucrats.</p>
+</div>
+<div class="social-wrap">
+      <div class="social">
+            <ul>
+                  <li class="share"><a class="sharemaintab" href="#" data-metrics='{"action":"Toggle Share Tools","category":"Share Tools"}' >Share</a><div class="sharepop">
+      <ul>
+            <li class="facebookLi"><a class="facebook fbStory382374060" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(382374060);" data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"http:\/\/www.npr.org\/2015\/01\/30\/382374060\/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank"}' ><span class="name">Facebook</span></a></li>
+      <li class="twitterLi"><a class="retweetStory story382374060 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(382374060);" data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"http:\/\/www.npr.org\/2015\/01\/30\/382374060\/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank"}' ><span class="name">Twitter</span></a></li>
+      <li class="googlePlusLi"><div class="g-interactivepost" data-contenturl="http://www.npr.org/2015/01/30/382374060/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank?utm_campaign=storyshare&utm_source=plus.google.com&utm_medium=social" data-contentdeeplinkid="/story/382374060" data-clientid="54045534594.apps.googleusercontent.com" data-cookiepolicy="http://npr.org" data-prefilltext="" data-calltoactionlabel="LISTEN" data-calltoactionurl="http://www.npr.org/2015/01/30/382374060/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank?utm_campaign=storyshare&utm_source=plus.google.com&utm_medium=social" data-calltoactiondeeplinkid="/story/listen/382374060">
+      <a href="#"  data-metrics='{"action":"Click Google Plus","category":"Share Tools","label":"http:\/\/www.npr.org\/2015\/01\/30\/382374060\/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank"}' ><span class="name">Google+</span></a>
+</div>
+
+<!-- END CLASS="G-INTERACTIVEPOST" DATA-CONTENTURL="HTTP://WWW.NPR.ORG/2015/01/30/382374060/FROM-LAUNDERING-TO-PROFITEERING-A-MULTITUDE-OF-SINS-AT-THE-VATICAN-BANK?UTM_CAMPAIGN=STORYSHARE&UTM_SOURCE=PLUS.GOOGLE.COM&UTM_MEDIUM=SOCIAL" DATA-CONTENTDEEPLINKID="/STORY/382374060" DATA-CLIENTID="54045534594.APPS.GOOGLEUSERCONTENT.COM" DATA-COOKIEPOLICY="HTTP://NPR.ORG" DATA-PREFILLTEXT="" DATA-CALLTOACTIONLABEL="LISTEN" DATA-CALLTOACTIONURL="HTTP://WWW.NPR.ORG/2015/01/30/382374060/FROM-LAUNDERING-TO-PROFITEERING-A-MULTITUDE-OF-SINS-AT-THE-VATICAN-BANK?UTM_CAMPAIGN=STORYSHARE&UTM_SOURCE=PLUS.GOOGLE.COM&UTM_MEDIUM=SOCIAL" DATA-CALLTOACTIONDEEPLINKID="/STORY/LISTEN/382374060" -->
+</li>
+      <li class="email"><a href='javascript:void(0);' class='email eaf_link' data-story-id='382374060'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"http:\/\/www.npr.org\/2015\/01\/30\/382374060\/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank"}' ><span class="name">Email</span></a></li>
+   </ul>
+</div>
+
+<!-- END CLASS="SHAREPOP" -->
+</li>
+         <li class="comment"><a class="comment-count" href="http://www.npr.org/2015/01/30/382374060/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank#commentBlock" data-storyid="382374060" data-shortname="nprbooks"  data-metrics='{"category":"Share Tools","action":"Click comments"}' ><span class="count"></span><span class="name">Comment</span></a></li>
+      </ul>
+   </div>
+
+<!-- END CLASS="SOCIAL" -->
+</div>
+
+<!-- END CLASS="SOCIAL-WRAP" -->
+<div id="resMore">
+       <!--googleoff: all-->   <div id="relatedstorieswrap">
+            <section id="relatedstories"><h1>More From Author Interviews</h1>
+<div id="resMoreAPI" class="bucketwrap apiquery responsive_more">
+      <article id="story382124392" class="story clearfix"><a href="http://www.npr.org/2015/01/30/382124392/should-ray-rice-get-a-second-chance-maybe-parcells-says" data-metrics='{"category" : "Story to Story", "action" : "Click Egg Carton", "label" : "http://www.npr.org/2015/01/30/382124392/should-ray-rice-get-a-second-chance-maybe-parcells-says"}'><div class="storyimg"><img src="http://media.npr.org/assets/img/2015/01/28/116615276_sq-3d27aa8d0952eaeaf183557c1174984931339c80.jpg?s=100" alt="Bill Parcells has been coach to the Dallas Cowboys, the New York Giants, the New England Patriots and the New York Jets."></div>
+<div class="storyinfo">
+<h2 class="slug">Author Interviews</h2>
+<h3>Should Ray Rice Get A Second Chance? 'Maybe,' Parcells Says </h3>
+</div></a></article><article id="story382374060" class="story clearfix"><a href="http://www.npr.org/2015/01/30/382374060/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank" data-metrics='{"category" : "Story to Story", "action" : "Click Egg Carton", "label" : "http://www.npr.org/2015/01/30/382374060/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank"}'><div class="storyimg"><img src="http://media.npr.org/assets/img/2015/01/29/113395244_sq-d41bb0bd447816bb9073f2ba8228598ad20709a9.jpg?s=100" alt="The Vatican Bank is &amp;quot;essentially an offshore bank in the middle of a foreign country,&amp;quot; says Gerald Posner. Above is an aerial view of St. Peter's basilica in Vatican City."></div>
+<div class="storyinfo">
+<h2 class="slug">Author Interviews</h2>
+<h3>From Laundering To Profiteering, A Multitude Of Sins At The Vatican Bank</h3>
+</div></a></article><article id="story382383351" class="story clearfix"><a href="http://www.npr.org/2015/01/29/382383351/the-gift-of-eternal-shelf-life-tuck-everlasting-turns-40" data-metrics='{"category" : "Story to Story", "action" : "Click Egg Carton", "label" : "http://www.npr.org/2015/01/29/382383351/the-gift-of-eternal-shelf-life-tuck-everlasting-turns-40"}'><div class="storyimg"><img src="http://media.npr.org/assets/img/2015/01/29/tuck-40th_sq-5c707df82064f7b44a2bbcdeab84c879a61b18df.jpg?s=100" alt="Tuck Everlasting cover detail."></div>
+<div class="storyinfo">
+<h2 class="slug">Author Interviews</h2>
+<h3>The Gift Of Eternal Shelf Life: 'Tuck Everlasting' Turns 40</h3>
+</div></a></article><article id="story382326926" class="story clearfix last"><a href="http://www.npr.org/2015/01/29/382326926/parcells-book-details-highs-and-lows-of-his-nfl-coaching-career" data-metrics='{"category" : "Story to Story", "action" : "Click Egg Carton", "label" : "http://www.npr.org/2015/01/29/382326926/parcells-book-details-highs-and-lows-of-his-nfl-coaching-career"}'><div class="storyinfo noimg">
+<h2 class="slug">Sports</h2>
+<h3>Parcells' Book Details Highs And Lows Of His NFL Coaching Career</h3>
+</div></a></article>
+</div>
+
+<!-- END ID="RESMOREAPI" CLASS="BUCKETWRAP APIQUERY RESPONSIVE_MORE" -->
+<a href="http://www.npr.org/sections/author-interviews/" class="more"><b>More</b></a></section>
+   </div>
+
+<!-- END ID="RELATEDSTORIESWRAP" -->
+    <!--googleon: all-->
+</div>
+
+<!-- END ID="RESMORE" -->
+<div id="commentBlock">
+      <h3 class="comment-head"><a href="#">Comments <span class="toggle"></span></a></h3>
+   <div id='disqus-npr'
+                                       data-shortname='nprbooks'
+                                       data-identifier='382374060'
+                                       data-url='http://www.npr.org/2015/01/30/382374060/from-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank'
+                                       data-title='From Laundering To Profiteering, A Multitude Of Sins At The Vatican Bank'>
+            <a name="commentBlock">&nbsp</a>      <h5 class="commentBoxNotLoggedIn" id="login-overlay-link">You must be signed in to leave a comment. <a href="/templates/reg/login.php?returnUrl=%2F2015%2F01%2F30%2F382374060%2Ffrom-laundering-to-profiteering-a-multitude-of-sins-at-the-vatican-bank%23commentBlock">Sign In / Register</a></h5>
+      <p data-mod="post">Please keep your community civil. All comments must follow the <a href="http://npr.org/discussionrules" target="new">NPR.org Community rules</a> and <a href="http://www.npr.org/about/termsofuse.html" target="new">Terms of Use</a>. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the <a href="http://www.npr.org/about/termsofuse.html" target="new">Terms of Use</a>, <a href="http://www.npr.org/about/privacypolicy.html" target="new">Privacy Policy</a> and <a href="http://npr.org/communityfaq" target="new">Community FAQ</a>.</p>      <div id='disqus_thread'>
+               </div>
+
+<!-- END ID='DISQUS_THREAD' -->
+      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>      <div>
+                 <form style="display: hidden" action="#" method="POST" id="janrain-form">
+            <input type="hidden" id="janrain-token" name="token" value=""/>
+        </form>
+      </div>
+   </div>
+
+<!-- END ID='DISQUS-NPR'
+                                       DATA-SHORTNAME='NPRBOOKS'
+                                       DATA-IDENTIFIER='382374060'
+                                       DATA-URL='HTTP://WWW.NPR.ORG/2015/01/30/382374060/FROM-LAUNDERING-TO-PROFITEERING-A-MULTITUDE-OF-SINS-AT-THE-VATICAN-BANK'
+                                       DATA-TITLE='FROM LAUNDERING TO PROFITEERING, A MULTITUDE OF SINS AT THE VATICAN BANK' -->
+</div>
+
+<!-- END ID="COMMENTBLOCK" -->
+ <!--googleoff: index--></article><header class="contentheader reprise" data-metrics-category="Author Interviews"><div class="mobileheader">
+    <a class="sidebarButton" href="#sidebar" data-metrics='{"action":"Toggle OffCanvas","category":"Global Navigation"}' >
+        <img src="http://media.npr.org/chrome/subnav_toggle.png" alt="NPR logo" />
+    </a>
+
+	<a href="/books/" class="npr-booksHome" data-metrics='{"action":"Click Logo","category":"Global Navigation"}'>
+	    <img src="http://media.npr.org/chrome/books/npr-books-logo-color.png" alt="NPR Books" />
+	</a>
+
+</div></header></section>
+   </div>
+
+<!-- END ID="SECTIONWRAP" CLASS="CLEARFIX" -->
+   <div id="main_sidebar">
+
+<!-- START UNDERWRITING -->
+      <div id="ad-desktop-wrap">
+    <div id="ad-desktop">
+        <script type="text/javascript">
+            $(document).ready(function () {
+
+                var loadImmediately = false;
+                var isMainstage = false;
+
+                    loadImmediately = true;
+
+
+                if (DFP.shouldRenderForDevice('desktop')) {
+                    DFP.visibilityCheck(function() {
+                        DFP.renderForLocation('desktop', loadImmediately, isMainstage);
+                    });
+                }
+
+            });
+        </script>
+    </div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+</div>
+
+<!-- END UNDERWRITING -->
+   </div>
+
+<!-- END ID="MAIN_SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<section id="navsidebar" role="complementary"><nav id="loginSidebar" data-metrics-category="Global Navigation">
+    <div class="nav-container">
+        <div class="nav-top-level">
+            <a href="/" class="npr-home">NPR Home</a>
+
+            <form action="/search/index.php" method="get" name="searchForm" id="searchForm_nav" class="search">
+                <label for="searchinput-aux-nav">Search</label>
+                <input type="search" name="searchinput" id="searchinput-aux-nav" class="textbox searchbox" />
+            </form>
+
+            <ul>
+                <li class="news"><a href="/sections/news/" data-metrics='{"action":"Click News"}'>News</a></li>
+                <li class="arts-and-life"><a href="/sections/arts/" data-metrics='{"action":"Click Arts &amp; Life"}'>Arts &amp; Life</a></li>
+                <li class="music"><a href="/music/" data-metrics='{"action":"Click Music"}'>Music</a></li>
+                <li class="topics"><a href="/" data-metrics='{"action":"Click Topics"}'>More Topics</a></li>
+                <li class="programs-sitewide"><a href="/" data-metrics='{"action":"Click Programs"}'>Programs</a></li>
+                <li class="listen"><a href="/listen" data-metrics='{"action":"Click Topics"}'>Listen</a></li>
+                <li class="books-home"><a href="/books" data-metrics='{"action":"Click Books Home"}'>Books</a></li>
+                <li class="author-interviews"><a href="/sections/author-interviews/" data-metrics='{"action":"Click Author Interviews"}'>Author Interviews</a></li>
+                <li class="find-books"><a href="#" data-metrics='{"action":"Click Find Books"}'>Find Books</a></li>
+                <li class="reviews"><a href="#" data-metrics='{"action":"Click Reviews"}'>Reviews</a></li>
+                <li class="bestsellers" data-metrics='{"action":"Click Bestsellers"}'><a href="/books/bestsellers/">Bestsellers</a></li>
+                <li class="login-reg loggedOut">
+                    <a href="/templates/reg/login.php" data-metrics='{"action":"Click Profile Link"}'>Sign In / Register</a>
+                </li>
+            </ul>
+            <ul class="loggedIn">
+                <li class="userLogin">
+                    <span id="userLoginSidebar"></span>
+                </li>
+                <li class="login-reg">
+                    <a href="/templates/reg/logout.php" class="logout" data-metrics='{"action":"Click Profile Link"}'>Logout</a>
+                </li>
+            </ul>
+        </div> <!-- /.nav-top-level -->
+
+        <div class="subnavs subnavs-find-books" data-metrics-all data-metrics-action="Click Topic">
+            <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+            <h1>Browse By Genre</h1>
+            <ul>
+				<li><a href="/books/genres/10110/art-design/" data-metrics='{"action":"Click Genre","label":"/books/genres/10110/art-design/","category":"Books Navigation"}'>Art &amp; Design</a></li>
+				<li><a href="/books/genres/10126/arts-entertainment/" data-metrics='{"action":"Click Genre","label":"/books/genres/10126/arts-entertainment/","category":"Books Navigation"}'>Arts &amp; Entertainment</a></li>
+				<li><a href="/books/genres/10101/biography-memoir/" data-metrics='{"action":"Click Genre","label":"/books/genres/10101/biography-memoir/","category":"Books Navigation"}'>Biography &amp; Memoir</a></li>
+				<li><a href="/books/genres/10102/business-economy/" data-metrics='{"action":"Click Genre","label":"/books/genres/10102/business-economy/","category":"Books Navigation"}'>Business &amp; Economy</a></li>
+				<li><a href="/books/genres/10122/children/" data-metrics='{"action":"Click Genre","label":"/books/genres/10122/children/","category":"Books Navigation"}'>Children's Books</a></li>
+				<li><a href="/books/genres/10123/comedy/" data-metrics='{"action":"Click Genre","label":"/books/genres/10123/comedy/","category":"Books Navigation"}'>Comedy</a></li>
+				<li><a href="/books/genres/10104/comics-graphic-novels/" data-metrics='{"action":"Click Genre","label":"/books/genres/10104/comics-graphic-novels/","category":"Books Navigation"}'>Comics &amp; Graphic Novels</a></li>
+				<li><a href="/books/genres/10127/digital-culture/" data-metrics='{"action":"Click Genre","label":"/books/genres/10127/digital-culture/","category":"Books Navigation"}'>Digital Culture</a></li>
+				<li><a href="/books/genres/10103/faith-spirituality/" data-metrics='{"action":"Click Genre","label":"/books/genres/10103/faith-spirituality/","category":"Books Navigation"}'>Faith &amp; Spirituality</a></li>
+				<li><a href="/books/genres/10106/food-wine/" data-metrics='{"action":"Click Genre","label":"/books/genres/10106/food-wine/","category":"Books Navigation"}'>Food &amp; Wine</a></li>
+				<li><a href="/books/genres/10109/history-society/" data-metrics='{"action":"Click Genre","label":"/books/genres/10109/history-society/","category":"Books Navigation"}'>History &amp; Society</a></li>
+				<li><a href="/books/genres/10113/historical-fiction/" data-metrics='{"action":"Click Genre","label":"/books/genres/10113/historical-fiction/","category":"Books Navigation"}'>Historical Fiction</a></li>
+                <li><a href="/books/genres/191663270/horror-supernatural/" data-metrics='{"action":"Click Genre","label":"/books/genres/191663270/horror-supernatural/","category":"Books Navigation"}'>Horror &amp; Supernatural</a></li>
+				<li><a href="/books/genres/10112/literary-fiction/" data-metrics='{"action":"Click Genre","label":"/books/genres/10112/literary-fiction/","category":"Books Navigation"}'>Literary Fiction</a></li>
+				<li><a href="/books/genres/10114/mystery-thrillers/" data-metrics='{"action":"Click Genre","label":"/books/genres/10114/mystery-thrillers/","category":"Books Navigation"}'>Mystery &amp; Thrillers</a></li>
+				<li><a href="/books/genres/10116/parenting-families/" data-metrics='{"action":"Click Genre","label":"/books/genres/10116/parenting-families/","category":"Books Navigation"}'>Parenting &amp; Families</a></li>
+			    <li><a href="/books/genres/10125/poetry/" data-metrics='{"action":"Click Genre","label":"/books/genres/10125/poetry/","category":"Books Navigation"}'>Poetry</a></li>
+				<li><a href="/books/genres/10117/politics-public-affairs/" data-metrics='{"action":"Click Genre","label":"/books/genres/10117/politics-public-affairs/","category":"Books Navigation"}'>Politics &amp; Public Affairs</a></li>
+				<li><a href="/books/genres/10118/romance/" data-metrics='{"action":"Click Genre","label":"/books/genres/10118/romance/","category":"Books Navigation"}'>Romance</a></li>
+				<li><a href="/books/genres/10119/science-fiction-fantasy/" data-metrics='{"action":"Click Genre","label":"/books/genres/10119/science-fiction-fantasy/","category":"Books Navigation"}'>Science Fiction &amp; Fantasy</a></li>
+				<li><a href="/books/genres/10108/science-health/" data-metrics='{"action":"Click Genre","label":"/books/genres/10108/science-health/","category":"Books Navigation"}'>Science &amp; Health</a></li>
+				<li><a href="/books/genres/10120/sports/" data-metrics='{"action":"Click Genre","label":"/books/genres/10120/sports/","category":"Books Navigation"}'>Sports</a></li>
+				<li><a href="/books/genres/10124/travel/" data-metrics='{"action":"Click Genre","label":"/books/genres/10124/travel/","category":"Books Navigation"}'>Travel</a></li>
+				<li><a href="/books/genres/10121/young-adults/" data-metrics='{"action":"Click Genre","label":"/books/genres/10121/young-adults/","category":"Books Navigation"}'>Young Adult</a></li>
+            </ul>
+            <ul class="genres">
+                <li class="genre"><a href="/books/genres/10115/nonfiction/" data-metrics='{"action":"Click Genre","label":"/books/genres/10115/nonfiction/","category":"Books Navigation"}'>Nonfiction</a></li>
+                <li class="genre"><a href="/books/genres/10111/fiction/" data-metrics='{"action":"Click Genre","label":"/books/genres/10111/fiction/","category":"Books Navigation"}'>Fiction</a></li>
+            </ul>
+        </div> <!-- /.subnavs-find-books -->
+
+        <div class="subnavs subnavs-reviews" data-metrics-all data-metrics-action="Click Program">
+            <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+            <ul>
+				<li><a href="/sections/book-reviews" data-metrics='{"action":"Click Reviews","label":"/sections/book-reviews","category":"Books Navigation"}'>Book Reviews</a></li>
+                <li><a href="/series/257657827/this-weeks-must-read" data-metrics='{"action":"Click This Weeks Must Read","label":"/series/257657827/this-weeks-must-read","category":"Books Navigation"}'>This Week's Must Read</a></li>
+				<li><a href="/series/104566969/my-guilty-pleasure" data-metrics='{"action":"Click Reviews","label":"/series/104566969/my-guilty-pleasure","category":"Books Navigation"}'>My Guilty Pleasure</a></li>
+				<li><a href="/series/three-books/" data-metrics='{"action":"Click Reviews","label":"/series/three-books/","category":"Books Navigation"}'>Three Books...</a></li>
+				<li><a href="/series/153588024/pg-13-go-to-teen-reads" data-metrics='{"action":"Click Reviews","label":"/series/153588024/pg-13-go-to-teen-reads","category":"Books Navigation"}'>PG-13: Risky Reads</a></li>
+				<li><a href="/series/you-must-read-this/" data-metrics='{"action":"Click Reviews","label":"/series/you-must-read-this/","category":"Books Navigation"}'>You Must Read This</a></li>
+				<li><a href="/summerbooks/" data-metrics='{"action":"Click Reviews","label":"/summerbooks/","category":"Books Navigation"}'>Summer Books</a></li>
+				<li><a href="/bestbooks/" data-metrics='{"action":"Click Reviews","label":"/bestbooks/","category":"Books Navigation"}'>Best Books of the Year</a></li>
+			</ul>
+        </div> <!-- /.subnavs-reviews -->
+
+        <div class="subnavs subnavs-topics" data-metrics-all data-metrics-action="Click Topic">
+            <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+            <h1><a href="/sections/news/">News</a></h1>
+            <ul>
+                <li><a href="/sections/us/">U.S.</a></li>
+                <li><a href="/sections/world/">World</a></li>
+                <li><a href="/sections/politics/">Politics</a></li>
+                <li><a href="/sections/business/">Business</a></li>
+                <li><a href="/sections/technology/">Technology</a></li>
+                <li><a href="/sections/science/">Science</a></li>
+                <li><a href="/sections/health/">Health</a></li>
+                <li><a href="/blogs/codeswitch/">Race &amp; Culture</a></li>
+                <li><a href="/blogs/ed/">Education</a></li>
+            </ul>
+
+            <h1><a href="/sections/arts/">Arts &amp; Life</a></h1>
+            <ul>
+                <li><a href="/sections/movies/">Movies</a></li>
+                <li><a href="/sections/pop-culture/">Pop Culture</a></li>
+                <li><a href="/sections/food/">Food</a></li>
+                <li><a href="/sections/art-design/">Art &amp; Design</a></li>
+                <li><a href="/sections/performing-arts/">Performing Arts</a></li>
+                <li><a href="/sections/photography/">Photography</a></li>
+            </ul>
+
+            <h1><a href="/books/">Books</a></h1>
+            <ul>
+                <li><a href="/sections/book-reviews/">Book Reviews</a></li>
+                <li><a href="/sections/author-interviews/">Author Interviews</a></li>
+            </ul>
+
+            <h1><a href="/music/">Music</a></h1>
+            <ul>
+                <li><a href="/series/98679384/first-listen">First Listen</a></li>
+                <li><a href="/series/122356178/songs-we-love">Songs We Love</a></li>
+                <li><a href="/series/100920965/music-articles/">Music Articles</a></li>
+                <li><a href="/series/tiny-desk-concerts/">Tiny Desk Concerts</a></li>
+                <li><a href="/sections/music-videos/">Videos</a></li>
+            </ul>
+
+            <h1><a href="/about-npr/198341814/npr-blog-directory">Our Blogs</a></h1>
+
+            <h1><a href="/templates/corrections/corrections.php">Corrections</a></h1>
+
+            <h1><a href="/about/aboutnpr/">All About NPR</a></h1>
+        </div> <!-- /.subnavs-topics -->
+
+        <div class="subnavs subnavs-programs-sitewide" data-metrics-all data-metrics-action="Click Program">
+            <div class="subnav subnav-programs-sitewide">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+                <ul>
+                    <li><a class="news-talk">news &amp; conversations</a></li>
+                    <li><a class="entertainment-culture">storytelling &amp; humor</a></li>
+                    <li><a class="music">music</a></li>
+                    <li><a class="special-series">also heard on npr stations</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-news-talk">
+                <a class="back back-to-programs"><b class="icn-back"></b>Back</a>
+                <ul>
+                    <li><a href="/programs/morning-edition/">Morning Edition</a></li>
+                    <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
+                    <li><a href="/programs/fresh-air/">Fresh Air</a></li>
+                    <li><a href="http://hereandnow.wbur.org/">Here &amp; Now</a></li>
+                    <li><a href="http://thedianerehmshow.org">The Diane Rehm Show</a></li>
+                    <li><a href="/programs/latino-usa/">Latino USA</a></li>
+                    <li><a href="http://www.onthemedia.org">On The Media</a></li>
+                    <li><a href="http://www.onpointradio.org/">On Point</a></li>
+                    <li><a href="http://www.sciencefriday.com/">Science Friday</a></li>
+                    <li><a href="/programs/weekend-edition-saturday/">Weekend Edition Saturday</a></li>
+                    <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-entertainment-culture">
+                <a class="back back-to-programs"><b class="icn-back"></b>Back</a>
+                <ul>
+                    <li><a href="/programs/ask-me-another/">Ask Me Another</a></li>
+                    <li><a href="http://www.cartalk.com">The Best Of Car Talk</a></li>
+                    <li><a href="http://www.maximumfun.org/shows/bullseye">Bullseye</a></li>
+                    <li><a href="/programs/invisibilia/">Invisibilia</a></li>
+                    <li><a href="http://www.radiolab.org">Radiolab</a></li>
+            		<li><a href="/programs/snap-judgment/">Snap Judgment</a></li>
+                    <li><a href="http://storycorps.org" class="storycorps">StoryCorps</a></li>
+            		<li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
+                    <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-music">
+                <a class="back back-to-programs"><b class="icn-back"></b>Back</a>
+                <ul>
+                    <li><a href="/programs/all-songs-considered/">All Songs Considered</a></li>
+                    <li><a href="/series/alt-latino/">Alt.Latino</a></li>
+                    <li><a href="/series/98679384/first-listen">First Listen</a></li>
+                    <li><a href="http://www.fromthetop.org" target="_blank">From The Top</a></li>
+                    <li><a href="/series/347139849/jazz-night-in-america">Jazz Night In America</a></li>
+                    <li><a href="/blogs/metropolis/">Metropolis</a></li>
+                    <li><a href="/blogs/microphonecheck/">Microphone Check</a></li>
+                    <li><a href="/series/mountain-stage/">Mountain Stage</a></li>
+                    <li><a href="/programs/piano-jazz/">Piano Jazz</a></li>
+                    <li><a href="/series/150560513/song-travels/">Song Travels</a></li>
+                    <li><a href="/series/103063413/the-thistle-and-shamrock/">The Thistle &amp; Shamrock</a></li>
+                    <li><a href="/programs/world-cafe/">World Cafe</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-special-series">
+                <a class="back back-to-programs"><b class="icn-back"></b>Back</a>
+                <ul>
+                    <li><a href="http://prairiehome.publicradio.org">A Prairie Home Companion <b>(APM)</b></a></li>
+					<li><a href="http://marketplace.publicradio.org">Marketplace <b>(APM)</b></a></li>
+                    <li><a href="http://www.sciencefriday.com/">Science Friday</a></li>
+                    <li><a href="http://www.thisamericanlife.org">This American Life <b>(PRX)</b></a></li>
+            		<li><a href="/programs/">Public Radio Programs A to Z</a></li>
+                </ul>
+            </div>
+        </div> <!-- /.subnavs-programs -->
+    </div> <!-- /.nav-container -->
+</nav>
+</section>
+<!-- START UNDERWRITING -->
+<div id="ad-88-wrap">
+    <div id="ad-88">
+        <div class="ad-88-text">Support comes from:</div>
+        <script type="text/javascript">
+            $(document).ready(function () {
+
+                var loadImmediately = false;
+                var isMainstage = false;
+
+                    loadImmediately = true;
+
+
+                if (DFP.shouldRenderForDevice('88')) {
+                    DFP.visibilityCheck(function() {
+                        DFP.renderForLocation('88', loadImmediately, isMainstage);
+                    });
+                }
+
+            });
+        </script>
+    </div>
+</div>
+
+<!-- END UNDERWRITING -->
+<div class="adwrapper housead">
+      <div class="adwrap">
+	<h3><a href="#">Support NPR</a></h3>
+	<div>
+		<img src="http://media.npr.org/images/shop_300x150-04.jpg" alt="Support NPR">
+		<h4><a href="http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150">NPR Shop</a></h4>
+		<p>Support The Programs You Love</p>
+	</div>
+</div>
+</div>
+
+<!-- END CLASS="ADWRAPPER HOUSEAD" -->
+<div id="adhesion">
+      <div id="ad-mobile-wrap">
+    <div id="ad-mobile">
+            <script type="text/javascript">
+              if (DFP.shouldRenderForDevice('mobile')) {
+                var ord = window.ord || Math.floor(Math.random() * 1e16);
+
+                // use the smaller size for phone, the larger size for tablet
+                var sizes = '640x100';
+                if (Modernizr.mq('only screen and (min-width: 768px)')) {
+                    sizes = '2048x180';
+                }
+
+                var targets = ';';
+                targets += 'program=Morning_Edition;';
+                targets += 'agg=300659419;';
+                targets += 'theme=1033;';
+                targets += 'storyId=382374060;';
+                targets += 'genres=Nonfiction_History___Society_Faith___Spirituality_Business___Economy;';
+
+                document.write('<scr' + 'ipt type="text/javascript" src="http://ad.doubleclick.net/N6735/adj/n6735.nprmobile/Arts___Life_Books_Author_Interviews' + targets + 'sz=' + sizes + ';ord=' + ord + '?"><\/script>');
+              }
+            </script>
+    </div>
+</div>
+</div>
+
+<!-- END ID="ADHESION" -->
+<footer id="nprfooter"><div class="footer-wrapper">
+      <div class="primary" data-metrics-category="Global Footer" data-metrics-visible="scroll-down end" data-metrics-label="Footer">
+    <ul>
+        <li><a href="/" data-action="Click Logo" data-metrics='{"action":"Click Footer Logo"}'></a></li>
+        <li class="news" data-metrics-action="Click News" data-metrics-all>
+            <a href="/sections/news/">News</a>
+            <ul>
+                <li><a href="/sections/us/">U.S.</a></li>
+                <li><a href="/sections/world/">World</a></li>
+                <li><a href="/sections/politics/">Politics</a></li>
+                <li><a href="/sections/business/">Business</a></li>
+                <li><a href="/sections/technology/">Technology</a></li>
+                <li><a href="/sections/science/">Science</a></li>
+                <li><a href="/sections/health/">Health</a></li>
+                <li><a href="/blogs/codeswitch/">Race &amp; Culture</a></li>
+                <li><a href="/blogs/ed/">Education</a></li>
+            </ul>
+        </li>
+        <li class="artslife" data-metrics-action="Click Arts &amp; Life" data-metrics-all>
+            <a href="/sections/arts/">Arts &amp; Life</a>
+            <ul>
+                <li><a href="/books/">Books</a></li>
+                <li><a href="/sections/movies/">Movies</a></li>
+                <li><a href="/sections/pop-culture/">Pop Culture</a></li>
+                <li><a href="/sections/food/">Food</a></li>
+                <li><a href="/sections/art-design/">Art &amp; Design</a></li>
+                <li><a href="/sections/performing-arts/">Performing Arts</a></li>
+                <li><a href="/blogs/pictureshow">Photography</a></li>
+            </ul>
+        </li>
+        <li class="music" data-metrics-action="Click Music" data-metrics-all>
+            <a href="/music/">Music</a>
+            <ul>
+                <li><a href="/series/98679384/first-listen">First Listen</a></li>
+                <li><a href="/series/122356178/songs-we-love">Songs We Love</a></li>
+                <li><a href="/series/100920965/music-articles/">Music Articles</a></li>
+                <li><a href="/series/tiny-desk-concerts/">Tiny Desk Concerts</a></li>
+                <li><a href="/sections/music-videos/">Videos</a></li>
+            </ul>
+        </li>
+        <li class="programs" data-metrics-action="Click Programs" data-metrics-all>
+            <a href="/programs/">Programs</a>
+            <ul>
+                <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
+                <li><a href="/programs/ask-me-another/">Ask Me Another</a></li>
+                <li><a href="http://www.cartalk.com" target="_blank">The Best Of Car Talk</a></li>
+                <li><a href="http://www.maximumfun.org/shows/bullseye" target="_blank">Bullseye</a></li>
+                <li><a href="/programs/invisibilia/">Invisibilia</a></li>
+                <li><a href="http://thedianerehmshow.org" target="_blank">The Diane Rehm Show</a></li>
+                <li><a href="/programs/fresh-air/">Fresh Air</a></li>
+                <li><a href="http://hereandnow.wbur.org/" target="_blank">Here &amp; Now</a></li>
+                <li><a href="/programs/latino-usa/">Latino USA</a></li>
+                <li><a href="/programs/morning-edition/">Morning Edition</a></li>
+                <li><a href="http://www.onthemedia.org" target="_blank">On The Media</a></li>
+                <li><a href="http://www.onpointradio.org/" target="_blank">On Point</a></li>
+                <li><a href="http://www.radiolab.org" target="_blank">Radiolab</a></li>
+                <li><a href="/programs/snap-judgment/" target="_blank">Snap Judgment</a></li>
+                <li><a href="http://storycorps.org" class="storycorps" target="_blank">StoryCorps</a></li>
+                <li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
+                <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
+                <li><a href="/programs/weekend-edition-saturday/">Weekend Edition <span>Saturday</span></a></li>
+                <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
+            </ul>
+        </li>
+        <li class="listen" data-metrics-action="Click Listen" data-metrics-all>
+            <a href="/listen/">Listen</a>
+            <ul>
+                <li><a href="javascript:NPR.Player.openPlayer(0,0,null,NPR.Player.Action.PLAY_NOW, NPR.Player.Type.NEWSCAST, NPR.Player.Mode.FROM_FILE);" class="hourlyNews">Hourly News</a></li>
+                <li><a href="javascript:NPR.Player.openPlayer(0,0,null,NPR.Player.Action.LIVE_STREAM, NPR.Player.Type.PROGRAM_STREAM, NPR.Player.Mode.FROM_FILE);" class="programStream">NPR Program Stream</a></li>
+                <li><a href="/stations/">Find Station Streams</a></li>
+                <li><a href="/podcasts">Podcasts</a></li>
+                <li><a href="/about-npr/187046089/ways-to-listen-to-npr">More Ways To Listen</a></li>
+            </ul>
+        </li>
+        <li class="about" data-metrics-action="Click About" data-metrics-all>
+            <a href="/about/">About</a>
+            <ul>
+                <li><a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx">Contact Us</a></li>
+                <li><a href="http://shop.npr.org">NPR Shop</a></li>
+                <li><a href="http://tours.npr.org/npr/Home/">Visit NPR</a></li>
+                <li><a href="http://www.npr.org/about-npr/181953728/work-at-npr">Careers at NPR</a></li>
+                <li><a href="/about/press/">Press Room</a></li>
+                <li><a href="/blogs/thisisnpr/">'This Is NPR' Blog</a></li>
+                <li><a href="/about/support/">Support and Sponsor</a></li>
+                <li><a href="/templates/corrections/corrections.php">Corrections</a></li>
+                <li><a href="/blogs/ombudsman/">NPR Ombudsman</a></li>
+                <li><a href="/about-npr/179881519/rights-and-permissions-information">Permissions</a></li>
+                <li><a href="/email/">Email Newsletters</a></li>
+                <li><a href="/rss/">RSS Feeds</a></li>
+                <li><a href="/api/">The NPR API</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+<div class="secondary">
+    <p class="copyright tablet">&copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> NPR</p>
+    <ul>
+        <li><a href="http://help.npr.org">Help</a></li>
+        <li id="footerContact"><a href="http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx">Contact</a></li>
+        <li><a href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
+        <li><a href="/about-npr/179878450/privacy-policy">Privacy</a></li>
+        <li class="sponsorship-choices"><a href="/about-npr/179878450/privacy-policy#opting-out-of-cookies-and-web-beacons">Sponsorship Choices</a></li>
+        <li><a href="http://thin.npr.org/">Text-Only</a></li>
+    </ul>
+    <p class="copyright mobile desktop">&copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> NPR</p>
+</div>
+</div>
+</footer><script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/baseStory-596bf388333166528e0507094a0fd0530d55fee6.js">
+   </script>
+</body></html><!--  Burned on demand at 2015-01-30 11:03:22--><!-- LIVE -->

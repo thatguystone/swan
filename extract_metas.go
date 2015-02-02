@@ -1,7 +1,6 @@
 package swan
 
 import (
-	"errors"
 	"strings"
 
 	"code.google.com/p/cascadia"
@@ -9,12 +8,9 @@ import (
 )
 
 type extractMetas struct{}
+type metaDetectLanguage struct{}
 
 var (
-	// ErrNoLanguage is returned when a document's language could not be
-	// determined and Config.ErrorOnNoLanguage is set
-	ErrNoLanguage = errors.New("could not determine language")
-
 	htmlTagMatcher         = cascadia.MustCompile("html")
 	metaOpenGraphMatcher   = cascadia.MustCompile("[property^=og\\:]")
 	metaMatcher            = cascadia.MustCompile("meta")
@@ -29,7 +25,7 @@ var (
 	}
 )
 
-func extractMetaLanguage(a *Article, metas *goquery.Selection) bool {
+func extractMetaLanguage(a *Article, metas *goquery.Selection) {
 	lang, _ := a.Doc.FindMatcher(htmlTagMatcher).Attr("lang")
 
 	if lang == "" {
@@ -44,16 +40,12 @@ func extractMetaLanguage(a *Article, metas *goquery.Selection) bool {
 	if lang != "" {
 		a.Meta.Lang = lang[:2]
 	}
-
-	return a.Meta.Lang != ""
 }
 
 func (e extractMetas) run(a *Article) error {
 	metas := a.Doc.FindMatcher(metaMatcher)
 
-	if !extractMetaLanguage(a, metas) && a.cfg.Error.OnNoLanguage {
-		return ErrNoLanguage
-	}
+	extractMetaLanguage(a, metas)
 
 	t, _ := metas.FilterMatcher(metaMatcherCanonical).Attr("content")
 	a.Meta.Canonical = strings.TrimSpace(t)
@@ -78,6 +70,16 @@ func (e extractMetas) run(a *Article) error {
 				a.Meta.OpenGraph[prop[3:]] = content
 			}
 		})
+
+	return nil
+}
+
+func (m metaDetectLanguage) run(a *Article) error {
+	_, hasLang := stopwords[a.Meta.Lang]
+
+	if a.Meta.Lang == "" || !hasLang {
+		a.Meta.Lang = detectLang(a)
+	}
 
 	return nil
 }

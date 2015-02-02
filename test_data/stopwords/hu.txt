@@ -1,0 +1,1829 @@
+
+<!DOCTYPE html>
+<html lang="hu">
+	<head>
+		<title>Privátbankár.hu - Így kaphatod vissza a megyei matrica árát</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="keywords" content="útdíj,e-útdíj,autópálya-matrica,megyei matrica">
+		<meta name="description" content="Vasárnaptól március közepéig nem csak személyen, postai úton, de elektronikusan is visszaválthatóak a feleslegessé vált megyei e-matricák.">
+		<meta name="robots" content="Index,Follow">
+		<meta name="revisit-after" content="1 days">
+		<meta http-equiv="imagetoolbar" content="no">
+		<meta http-equiv="Cache-Control" content="no-cache;must-revalidate">
+
+				<meta property="og:title" content="Így kaphatod vissza a megyei matrica árát "/>
+		<meta property="og:type" content="artcile"/>
+		<meta property="og:url" content="http://privatbankar.hu/fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367"/>
+		<meta property="og:image" content="http://privatbankar.hu/data/cikk/27/63/25/cikk_276325/m0_2_1_oszlopos_biglead.JPG"/>
+
+		<link rel="image_src" type="image/jpeg" href="http://privatbankar.hu/data/cikk/27/63/25/cikk_276325/m0_2_1_oszlopos_biglead.JPG">
+					<link rel="shortcut icon" href="/static/pb/i/favicon.ico?n=1" type="image/x-icon">
+
+					<link rel="stylesheet" media="all" href="http://privatbankar.hu/static/pb/css/main.css?v=1407847682">
+			<link rel="stylesheet" media="all" href="http://privatbankar.hu/static/pb/css/rovatszponzor.css?v=1414749542">
+				<link rel="stylesheet" media="all" href="http://privatbankar.hu/static/css/switcher.css?v=1401879543">
+
+		<link rel="stylesheet" media="all" href="http://privatbankar.hu/static/css/newsticker.css?v=1373623501">
+		<link rel="stylesheet" media="all" href="http://privatbankar.hu/static/pb/css/jquery-ui-1.8.16.datepicker.css?v=1316768466">
+		<link rel="stylesheet" media="print" href="http://privatbankar.hu/static/pb/css/print.css?v=1316289692">
+
+		<!-- G_1gdoIGlY10ia-nGe5iC8srEnw -->
+
+		<script src="http://privatbankar.hu/static/pb/js/jquery.js"></script>
+		<script src="http://privatbankar.hu/static/pb/js/jquery.cookie.js"></script>
+		<script src="http://privatbankar.hu/static/js/jquery.tools.min.js?v=1315817509"></script>
+		<script src="http://privatbankar.hu/static/js/popuplayer.js?v=1328795522"></script>
+		<script src="http://privatbankar.hu/static/pb/js/gr_reco_templating.js?v=1326893222"></script>
+		<script type="text/javascript" src="http://privatbankar.hu/static/pb/js/jsapi.js?v=1320492422"></script>
+		<script src="http://privatbankar.hu/static/pb/js/jquery.cycle.all.js?v=1326893222"></script>
+		<script src="http://privatbankar.hu/static/pb/js/jquery.easing.js?v=1326893222"></script>
+		<script src="http://privatbankar.hu/static/pb/js/rovatszponzor.js?v=1417098302"></script>
+		<script src="http://privatbankar.hu/static/js/jquery.webticker.js"></script>
+		<script src="http://privatbankar.hu/static/pb/js/jquery.bxslider.js"></script>
+
+					<script src="http://privatbankar.hu/static/js/switcher.js"></script>
+
+		<!-- GOOGLE ANALYTICS -->
+		<script type="text/javascript">
+			//var _gaq = _gaq || [];
+			//_gaq.push(['_setAccount', 'UA-26823606-2']);
+			//_gaq.push(['_trackPageview']);
+
+
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-26823606-2', 'auto');
+			ga('send', 'pageview');
+		</script>
+
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$('#news-ticker').css('display','block');
+				$("ul#ticker").webTicker();
+				$('.slides_list').bxSlider({
+					auto: true,
+					speed:500,
+					pause: 8000
+				});
+			});
+		</script>
+
+		<script type="text/javascript">
+			var lastArticleID = '';
+						var currentArticleID = '277367';
+						var adBoxList;
+			var adBoxContent;
+			var adBoxReady;
+			var isTabRefresh = false;
+			var tabRefreshInterval = 30;
+		</script>
+
+		<!-- GOOGLE TAG MANAGER bekötés -->
+		<script type='text/javascript'>
+			(function() {
+				var useSSL = 'https:' == document.location.protocol;
+				var src = (useSSL ? 'https:' : 'http:') +
+					'//www.googletagservices.com/tag/js/gpt.js';
+				document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+			})();
+		</script>
+		<script type='text/javascript'>
+			googletag.defineSlot('/22652647/Privatbankar_300x250//600_cikk_rectangle_right_1', [[300, 250], [300, 600]], 'div-gpt-ad-1399550466077-0').addService(googletag.pubads());
+			googletag.defineSlot('/22652647/Privatbankar_300x250//600_cikk_rectangle_right_2', [[300, 250], [300, 600]], 'div-gpt-ad-1399550466077-1').addService(googletag.pubads());
+			googletag.defineSlot('/22652647/Privatbankar_300x250//600_nyito_rectangle_right_1', [[300, 250], [300, 600]], 'div-gpt-ad-1399550466077-2').addService(googletag.pubads());
+			googletag.defineSlot('/22652647/Privatbankar_300x250//600_nyito_rectangle_right_2', [[300, 250], [300, 600]], 'div-gpt-ad-1399550466077-3').addService(googletag.pubads());
+			googletag.defineSlot('/22652647/Privatbankar_300x250_cikk_rectangle_content_1', [300, 250], 'div-gpt-ad-1399550466077-4').addService(googletag.pubads());
+			googletag.defineSlot('/22652647/Privatbankar_300x250_cikk_rectangle_content_2', [300, 250], 'div-gpt-ad-1399550466077-5').addService(googletag.pubads());
+			googletag.defineSlot('/22652647/Privatbankar_300x250_nyito_rectangle_content_1', [300, 250], 'div-gpt-ad-1399550466077-6').addService(googletag.pubads());
+			googletag.defineSlot('/22652647/Privatbankar_300x250_nyito_rectangle_content_2', [300, 250], 'div-gpt-ad-1399550466077-7').addService(googletag.pubads());
+			googletag.defineSlot('/22652647/Privatbankar_468x60//120_cikk_normal_content_1', [[468, 60], [468, 120]], 'div-gpt-ad-1399550466077-8').addService(googletag.pubads());
+			googletag.defineSlot('/22652647/Privatbankar_468x60//120_rovat_normal_content_1', [[468, 60], [468, 120]], 'div-gpt-ad-1399550466077-9').addService(googletag.pubads());
+			googletag.defineSlot('/22652647/Privatbankar_468x60//120_rovat_normal_content_2', [[468, 60], [468, 120]], 'div-gpt-ad-1399550466077-10').addService(googletag.pubads());
+			googletag.pubads().enableSyncRendering();
+			googletag.pubads().collapseEmptyDivs();
+			googletag.enableServices();
+		</script>
+
+		<script>(function() {
+		  var _fbq = window._fbq || (window._fbq = []);
+		  if (!_fbq.loaded) {
+		    var fbds = document.createElement('script');
+		    fbds.async = true;
+		    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+		    var s = document.getElementsByTagName('script')[0];
+		    s.parentNode.insertBefore(fbds, s);
+		    _fbq.loaded = true;
+		  }
+		  _fbq.push(['addPixelId', '1430741777201519']);
+		})();
+		window._fbq = window._fbq || [];
+		window._fbq.push(['track', 'PixelInitialized', {}]);
+		</script>
+		<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1430741777201519&ev=NoScript" /></noscript>
+
+	</head>
+	<body class=" normal kampany" data-siteurl='http://privatbankar.hu' data-ct_link='http://huomdgde.hit.gemius.pl/lshitredir/id=oqgwEn_Jr9Pz3_tDr9GRpaQ_HdyGn6Of8N8PezVNy97.K7/fastid=abvuhjogewwyxgmrdibjimstynml/stparam=wflgljgpaa/url=http://www.peugeot.hu/akciok/crossovert-mindenkinek/?utm_source=Privatbankar&utm_medium=D_TB&utm_content=skin&utm_campaign=2015_01_02_PEUGEOT_2008_3008_DIS_HU' style=" background-image: url('/data/skin/58/Peu_Crossover_Privatbankar_skin_1600x800.jpg'); background-attachment: scroll; background-color: #bcbfc1;" data-id="1537">
+            <!--<div class="switch-container">
+            <div class="switcher-left">
+                <a class="switch privat" data-type="privat" data-target="http://privatbankar.hu/"></a>
+            </div>
+            <div class="switcher-right">
+                <a class="switch blogger" data-type="blogger" data-target="http://privatbankar.hu/blogger"></a>
+            </div>
+            EZ KIMEGY ÉLESRE? NA TALÁN MOST :)
+        <div id="switch-content">-->
+
+        <div class="switcher-left">
+            <a class="switch privat" data-type="privat" data-target="http://privatbankar.hu/"></a>
+        </div>
+        <div class="switcher-right switcher-left">
+            <a class="switch blogger" data-type="blogger" data-target="http://privatbankar.hu/blogger"></a>
+        </div>
+
+
+			<div class="kampany_container">
+			</div>
+				<div id="container" class="">
+			<div id='bmone2n-16126.1.32.7'></div>				<div class="box ad-box ad-box-970">
+					<!-- iBILLBOARD Ad Server one2many Position: go.cz.bbelements.com privatbankar_uj(16126) / fogyaszto(11) / fogyaszto_feloldal_fejlec_folott_max_970x250(1) / horizontal(2)-->
+<!-- HowTo: Place this code into the html page where the ad should appear. -->
+<div id='bmone2n-16126.11.1.2'>
+<noscript><div style='display:inline'><a href='http://go.cz.bbelements.com/please/redirect/16126/11/1/2/'><img src='http://go.cz.bbelements.com/please/showit/16126/11/1/2/?typkodu=img&keywords=' style='border-width:0' alt='' /></a></div></noscript>
+</div>					<div>Hirdetés</div>
+				</div>
+				<div id="header"  >
+				<div id="header-top" class="clr">
+					<h1 id="logo">
+																			<a href="/"><img src="http://privatbankar.hu/static/pb/i/img-logo-uj.png" width="267" height="75" alt="Privátbankár - gazdaságról érthetően"></a>
+																								</h1>
+					<div id="header-search">
+											<div style="width: 440px;height: 42px;float: left;">
+							<style type="text/css">
+	#fejlec_arfolyamok { display: table; width: auto; height: 24px; border: 1px solid #c0c0c0; padding: 0 4px;}
+	#fejlec_arfolyamok a, #fejlec_arfolyamok a:hover, #fejlec_arfolyamok a:active { text-decoration: none;}
+	#fejlec_arfolyamok>a>div { display: block; float: left; height: 24px; font: 12px/24px Verdana, Helvetica, sans-serif; color: #000; margin: 0 4px;}
+	#fejlec_arfolyamok .positive { color: #2399dd; padding-right: 12px; background: right 50% no-repeat url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAICAYAAAArzdW1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkNCRDIyNDVGNDZGMDExRTJCQTUzREM0OEUyODRBRkQ3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkNCRDIyNDYwNDZGMDExRTJCQTUzREM0OEUyODRBRkQ3Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6Q0JEMjI0NUQ0NkYwMTFFMkJBNTNEQzQ4RTI4NEFGRDciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6Q0JEMjI0NUU0NkYwMTFFMkJBNTNEQzQ4RTI4NEFGRDciLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz79Vq5ZAAAAw0lEQVR42lyPzwoBURTGv+ve8WdwmcZEUsoCKVYs5BE8hufyAB5ByXIWhBUbSwvNhpVyrzHHn5pp+Op06tfXr3NARIgPanP6ZwnE4jRcqogSiu0FxXlUqvW2RJaBYjoDk0nU+7uoyD665uDwXgVwXKFSAqY2cdMXGFmOo9tlDLnpnht29Rlo1eoMy5bP8ZAam/XKE0Eevjidv6Ywo7FHigSSd8Bd2izkIn5gjjuQOgDsH4wfE5MzAnu831Gg6yQyvQQYAGvyWCDjfRQgAAAAAElFTkSuQmCC");}
+	#fejlec_arfolyamok .negative { color: #e82020; padding-right: 12px; background: right 50% no-repeat url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAICAYAAAArzdW1AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkNCRDIyNDVCNDZGMDExRTJCQTUzREM0OEUyODRBRkQ3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkNCRDIyNDVDNDZGMDExRTJCQTUzREM0OEUyODRBRkQ3Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6Q0JEMjI0NTk0NkYwMTFFMkJBNTNEQzQ4RTI4NEFGRDciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6Q0JEMjI0NUE0NkYwMTFFMkJBNTNEQzQ4RTI4NEFGRDciLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4yUUE/AAABE0lEQVR42gzOvUrDUBxA8fO/N20+qFJFnJx07OIkuDiJOPgQDg4i7r5CJwcfwEEQpEgH36DQQcHFSRGqgyBYv2qbJvemSa6Zzvg7stvPcDqnxoyDzeW3QrIy1i7u9j5bYpt4wQgPfljImkz8KdtbOytF+I0283TQBHWPOI9Qzo8whcWWi6TlMzYuye2YmgSYqvgT5EJFj75L6qFrrG601ki0Qonh7mHwkte93GUpstdLON1fd1p8jJ6BMsx0gzmbV+CUw8snUaEnnFzdyocdIDahnBq837giM47O7yVIclTsAqY2oH39JcN0hEkcw/KP405fVK2BVgGK2Yglz1HmhvbNu4zSMWfdV4lsSEG1ULf8CzAAlbZ+qkbWCNIAAAAASUVORK5CYII=");}
+	#fejlec_arfolyamok .btnev { color: #000;}
+</style>
+
+<div id="fejlec_arfolyamok">
+	<a href="http://privatbankar.hu/arfolyamok/"><div class=" negative"><span class="btnev">BUX</span> 16549.45</div><div class=" negative"><span class="btnev">DOW</span> 17307.5</div><div class=" negative"><span class="btnev">EUR</span> 310.93</div><div class=" negative"><span class="btnev">OTP</span> 3645</div></a>
+</div>						</div>
+											<form action="/kereses/" method="get" class="search_form">
+							<label for="search_txt" class="screenrdr">Keresés</label>
+							<input type="search" name="search_txt" id="search_txt" placeholder="Keresés" results="10">
+							<input type="hidden" name="ujkeres" value="1">
+							<button type="submit" title="Keresés">Keresés</button>
+						</form>
+					</div>
+				</div><!-- #header-top -->
+			<div id="main-menu">
+				<strong class="screenrdr">Rovatok</strong>
+				<ul class="clr">
+					<li id="mm-cimlap" ><a href="/"></a></li>
+					<li  class=" dd_toggle"><a href="/gazdasag" target="_self"  style="width: 125px;">Gazdaság</a>
+												<ul>
+														<li><a href="/penzugyek" target="_self">Pénzügyek</a></li>
+														<li><a href="/makro" target="_self">Makro</a></li>
+														<li><a href="/ingatlan" target="_self">Ingatlan</a></li>
+														<li><a href="/agrar" target="_self">Agrár</a></li>
+													</ul>
+											</li>
+					<li  class=" dd_toggle"><a href="/reszveny" target="_self"  style="width: 161px;">Befektetés</a>
+												<ul>
+														<li><a href="/reszveny" target="_self">Részvény</a></li>
+														<li><a href="/befalap" target="_self">Befalap</a></li>
+														<li><a href="/szarmazekos" target="_self">Deviza / Áru</a></li>
+														<li><a href="/kotveny" target="_self">Állampapír / Kötvény</a></li>
+														<li><a href="http://dealbook.privatbankar.hu" target="_blank">Trader</a></li>
+														<li><a href="http://privatbankar.hu/arfolyamok/" target="_blank">Árfolyam</a></li>
+													</ul>
+											</li>
+					<li  class="active dd_toggle"><a href="/lakossag" target="_self"  style="width: 125px;">Lakosság</a>
+												<ul>
+														<li><a href="/ongondoskodas" target="_self">Öngondoskodás</a></li>
+														<li><a href="/biztositas" target="_self">Biztosítás</a></li>
+														<li><a href="/utazas" target="_self">Utazás</a></li>
+														<li><a href="/fogyaszto" target="_self">Fogyasztó</a></li>
+													</ul>
+											</li>
+					<li  class=" dd_toggle"><a href="/vallalat_fooldal" target="_self"  style="width: 125px;">Vállalat</a>
+												<ul>
+														<li><a href="/unios_palyazatok" target="_self">Uniós pályázatok</a></li>
+														<li><a href="/ado" target="_self">Adó</a></li>
+														<li><a href="/kkv" target="_self">KKV</a></li>
+														<li><a href="/karrier" target="_self">Karrier</a></li>
+														<li><a href="/interju" target="_self">Interjú</a></li>
+													</ul>
+											</li>
+					<li  class=" dd_toggle"><a href="/konferencia" target="_self"  style="width: 179px;">Konferencia</a>
+												<ul>
+														<li><a href="http://privatbankar.hu/cegvezetes" target="_blank">Cégvezetés, ügyvezetői felelősség</a></li>
+														<li><a href="http://privatbankar.hu/penzugyi_tudatossag_forum" target="_blank">Pénzügyi Tudatosság Fórum</a></li>
+														<li><a href="http://privatbankar.hu/kkv_a_felhoben" target="_blank">KKV a felhőben</a></li>
+														<li><a href="http://privatbankar.hu/social_marketing" target="_blank">Social Marketing</a></li>
+														<li><a href="http://privatbankar.hu/cegertek" target="_blank">Cégértékesítés, tőkebevonás, akvizíció</a></li>
+														<li><a href="http://privatbankar.hu/cegutodlas" target="_blank">Cégutódlás, cégvezetés, tőkepiaci tranzakciók</a></li>
+														<li><a href="http://privatbankar.hu/versenykepesseg2014" target="_blank">Versenyképesség 2014</a></li>
+														<li><a href="http://privatbankar.hu/klasszis" target="_blank">Privátbankár.hu Klasszis</a></li>
+														<li><a href="http://privatbankar.hu/tokepiac2014" target="_blank">Tőkepiac 2014</a></li>
+														<li><a href="http://privatbankar.hu/weben_a_cegem" target="_blank">Weben a cégem</a></li>
+														<li><a href="/novekedes2013" target="_self">Növekedés 2013</a></li>
+													</ul>
+											</li>
+					<li  class=" dd_toggle"><a  style="width: 199px;">Szolgáltatás</a>
+												<ul>
+														<li><a href="/befalapkereso" target="_self">Befalap-kereső</a></li>
+														<li><a href="/allampapir_kereso" target="_self">Állampapír-kereső</a></li>
+														<li><a href="/adokalkulkatorok" target="_self">Adókalkulátorok</a></li>
+														<li><a href="/bankikalkulatorok" target="_self">Banki kalkulátorok</a></li>
+														<li><a href="/nyugdijpenztari_adatbazis" target="_self">Nyugdíjpénztári adatbázis</a></li>
+														<li><a href="/cegkereso" target="_self">Cégkereső</a></li>
+														<li><a href="http://privatbankar.hu/arfolyamok/" target="_blank">Árfolyamok</a></li>
+													</ul>
+											</li>
+				</ul>
+			</div><!-- #main-menu -->
+				<div id="header-utilities">
+					<strong class="screenrdr">Eszközök</strong>
+					<ul>
+						<li><a href="/blogger/" class="ico-blog">Blogger</a></li>
+						<li><a href="http://m.privatbankar.hu" class="ico-mobil">Mobil</a></li>
+						<li><a href="http://dealbook.privatbankar.hu/" class="ico-arany"><img src="data:image/jpg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/4QMraHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjAtYzA2MSA2NC4xNDA5NDksIDIwMTAvMTIvMDctMTA6NTc6MDEgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDUzUuMSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjgyQ0VFRkRGQzQ3MDExRTI5MDUyRjZENDg0QTQ1NzUxIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjgyQ0VFRkUwQzQ3MDExRTI5MDUyRjZENDg0QTQ1NzUxIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6ODJDRUVGRERDNDcwMTFFMjkwNTJGNkQ0ODRBNDU3NTEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6ODJDRUVGREVDNDcwMTFFMjkwNTJGNkQ0ODRBNDU3NTEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7/7gAOQWRvYmUAZMAAAAAB/9sAhAABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAgICAgICAgICAgIDAwMDAwMDAwMDAQEBAQEBAQIBAQICAgECAgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwP/wAARCAAOAEMDAREAAhEBAxEB/8QAhwAAAwEBAQAAAAAAAAAAAAAABQYHCAMKAQACAwEBAQAAAAAAAAAAAAAEBQIDBwYACBAAAQQDAAAGAgIDAAAAAAAABQMEBgcBAggAERITFBUWFyEJIiMYEQACAgEDAwQCAAILAAAAAAABAgMEBRESBiETBwAxIhQyFUEWUWFxQiMzJDQ1Fwj/2gAMAwEAAhEDEQA/APYKALXJYfTfWVXsr0l0OjtYx+ijFeNhMRqckgFf2bH5w+OpFcnYCQKSAYg+jbfZuko8SX002U097Pnrtogje7Zyluqs7pHEsRTRYzoXDE66oSRqo066+/X19HZKlwXjHiXhfL7HHaV7KZezl4rrSWcjGZUoTVEhMfZuJHDIUncOyxMhIVu30IZXqLupDMOOR+5BiD+8ILd9zUCSCwD6UKLsUrR7YSZP2JGsT2WBAUTjb+LSUS5WblDOuWxJ/owSUXVUQ1Uqp54dlo7o1vRzyREJoA5i0Jdd7AKpVlOjN0Y7QSdPTjm3/naQZ2vk+CzNF49yPH8XmUlud2WSjHlmkihpT/TryzWZ0sQWEV69U9yCFrDpGiyFacT7lqZlXcJt9jGLXOVPMgtcn1rEHwfZlG4owtCet60jqEj3kRIGRXNMpa51SJjRbck/GNs4cro6oKIqKlNnqa1kuKszVHVDvC6Kod9g11IOob8lUMVHUjTTXkan/nnmljk+Q4RYuYavzOhYvQik9vfPYfH02vzmDsRzIInrKWrz2HghnfWKNzIsipky8LpuGrIp/ZNKIlakqYEKat2hFK/XLoApY0igOb1/S5OVR4cHkIIswwEcvJsRXTS1Ry4TU209CmcaY0yov3rlSLJywyuGgmi2a6MFDJGWABBGnyJ9tf6/W0ePuBcH5hmvFOIzeGpy1c9hMwLixmas1iWpcykdeZ5YZo37qrVhRmLbGUNuUFiRU6g67+pk3YLuxrPRndLUafqUTApA/i7EFc7yQz8YmyKwkrAAAeNkDDd3NSIwZGSOQY37d87cNk9nOGuzjwXTzGyW4bMvcpQNGEJUCQlxoVKAKT8iqodq7iSOumvrj+b+Evu4ng8PFsQ2O57yGtkpLkKWHmxawU5C8duO5NLOkTLVSee/D9uf60UccrCLvCL1eX/ZNXx1xPQU6CzyBT6v/wBbbO6zOBBpOaSdO45BtEKtUgiUPOScBL9ZnMk1BCWGj/bLMgipo9w2019zJ7ZmrGZI51kjsR7PgQCzdw7Y9u0sG3N8eh6EHdp7+s4reCuX5SLG5HjtjHZLjeT+9tvwyyR1a5xkP2cgLhsxV5q31apWy3chAlhZWr91jt9Qro3pVI5CjoeNFbHpO06b6A5DZWLGDboRHiKEEuC8IRHNSD40CKySJyKvplFXJhtlyxJ76ouGa6a+UFkNtPAGSyYkgZIjLBahsVw6nQHZJKo1JBZSjLuGoboQQdCPWieLfFD4/P172VhxXIOH53jPJWpWIlkmQ28Zibc+xIpo4LEF2rYWs4SWAFkljeMSJIG9OF4WvdNkVQ1kvM8dmg1v+dLiEzr4K3x+aR0e+SRbS+NJhHR2SOaxPtU3K7MmzbJPXufhKJ6ZYLrK+Lr1u9ZqCXGK4Hc01I/IA/kuhLbD1IYDU/Ej4kn0j8fcM4DxXmT4nyzaoSy/rhIYUlb/AEszoS1acyrDAt+FiiSwSyNFF/jq7fZjjT0V++6W+g9X1Nk/kP6P+29v6msvifd/sz2vj+fy/T+8f1f/ALfg+f4583+PP1f4+J9zJ9v2l7nY19k99/8Ab/m7P4fhr6D/AFvif9lp38V+s/mHt69y/u7X0Nd34/8AE/sPj3f992uvt19BI7CJkt1T1eVrO+4AOl8lCUOhO4iUo6XGytcAhkemjevHQySubKj8VkZaSt3BNdbfDZyk1yilqq31/jC1ccExy1t6tiMTMsW9TExKABtmjbwrFvkT0Omg1H9LDKcgwSeHOGU+WcbyUuEqWMualmPLVoo700k9U3VkgWjNYgjgKwIoMiNIGcpKfdIBmvuf3hygW3PfQQmNXlD7B63UTL3JWBmesbZl6kxirLrFpcYJ4nWa4OaJWBuCesXCb8Iqnqm30FouBW2E9V/18eXrjHWAt9JLHWRC4kbcosdwfDRt+wg6r/DYCnT1pQ5N5Lgx3JZfJvGZrfjy9jONgx4y/FTfHVhWsPx1sZMpviWqaQtxSo0NtWJla5JHcBYrnZNUDiRiU5vTrYVGkCle8+txGsr55nhgBH59GbkbPWBimNhcq0iuulkTByNaScYO+2lA8U2abOCDZjt721WaqKzv9+4FBjh03QuQHWTUGPRtvzbaHUbnCgasF6+mvgnmdqpRpjx3wqa3JDk8yZPr5qnFNNTnxjK8WU7lc2NaNZZ5KFif62PmsPMIqstgbAfvKuo0ShH9gbOZ9KQ+OaSuy+eXtwmmtE2GQSqkkGiFNtoqEaCmk0eOJhvMwwwE4y5YKqpjlSS+qvnlL0pWX60TQZFZ7KLvlhMhETntkLHtGm75bgFOo9tTr7dFvj3lGWqch8Zz4Hil601LE5pMZE2XpIcjHLZyjWJWkaqq1hVlktpsmVWmWCMppv1fh0TXFKk7Lsr/AKM6QbhOi5NW3OA+FOa7qCXMY5WIYX00xd0We/H0nk/3mZeQ9Fbt27pIga02yO0300RYNfkPc+yVak1qX9lZ25JooQuyNgqATjtHTV9xM2gOrfjr0Uat6s8X8p59U4nif+reKtY8XVMrnHtLdydZ578smBdcvD3itMVY4cIHeNoapHfKsz2Zu1ADF8QCpzFsnU7l6AYRPrM9txzvV5CH1ZMXcagGscviUOqJTbR9ZxIG8uZT+7MGUTvyi6GWw/dFJXZgikm+Xnfr1HtsLtgJl2+vsKxttTbK3a6ddweXdu1YaDQHaAGIPjnkvM6PC6zcE41Ld8L1v5nGQSzkKqz3O/iK65ctMBC1Z6eK+q1Tt1n3zB3QWXdq8Y7o+B1M/cdCKXnf1cgZ4VK8TG7qwfqGWlKxjFMRi4S7ilYNsKVkGqT8PZFpMzSJ8u5KuUmTJ6ph0gybJN1vEclXqMbBvWI1sE1jJrGxRY1kPbXTXqHkDB2LHQE6hQAfRPivkfNK0fGF8ecaytnjkMPKosX2clWjv2MpYxkYytvuCHVJaOPaq1OtHXjaWWJezJPK8kfrY3GkZbxyrW6kCs8pYnOx3fU3zswlkJmEZmkCrp7lTLOGLnZu7bSOYwYYrrnMXdPhbR2mC2bp/IfNtWzjLnCxCOoPrymTGt1hDKysiH2XVjqyj+4SoO3QasND6wzzvlpcpzBl5HiIcX5QrjtZt61utPVuXU03WhDUVoK1uQafsI4rEkbWxK3arymWMa88OPWI+v/Z"></a></li>
+																		<li><a href="/hircentrum/" class="ico-hircentrum">Hírcentrum</a></li>
+						<li><a href="/arfolyamok/" class="ico-arfolyamok" style="color: #e82020;">Árfolyamok</a></li>
+						<li><a href="/fogalomtar/" class="ico-fogalomtar">Fogalomtár</a></li>
+												<li><a href="/klasszis/" class="ico-konferencia" style="color: #e82020;">Díjátadó</a></li>
+
+						<li><a href="/belepes/" class="ico-regisztracio">Belépés</a></li>
+					</ul>
+				</div> <!-- #header-utilities -->			</div> <!-- #header -->			<div id="content">
+					<div class="box ad-box ad-box-970">
+					<!-- iBILLBOARD Ad Server one2many Position: go.cz.bbelements.com privatbankar_uj(16126) / fogyaszto(11) / fogyaszto_feloldal_fejlec_alatt_max_970x250(2) / horizontal(2)-->
+<!-- HowTo: Place this code into the html page where the ad should appear. -->
+<div id='bmone2n-16126.11.2.2'>
+<noscript><div style='display:inline'><a href='http://go.cz.bbelements.com/please/redirect/16126/11/2/2/'><img src='http://go.cz.bbelements.com/please/showit/16126/11/2/2/?typkodu=img&keywords=' style='border-width:0' alt='' /></a></div></noscript>
+</div>					<div>Hirdetés</div>
+				</div>
+									<div class="box fogkefe-box">
+							<!-- iBILLBOARD Ad Server one2many Position: go.cz.bbelements.com privatbankar_uj(16126) / fogyaszto(11) / fogyaszto_fogkefe_szponz_bb_resz_300x210(8) / billboard(1)-->
+<!-- HowTo: Place this code into the html page where the ad should appear. -->
+<div id='bmone2n-16126.11.8.1'>
+<noscript><div style='display:inline'><a href='http://go.cz.bbelements.com/please/redirect/16126/11/8/1/'><img src='http://go.cz.bbelements.com/please/showit/16126/11/8/1/?typkodu=img&keywords=' style='border-width:0' alt='' /></a></div></noscript>
+</div>						</div>
+			<div class="colwrp clr">
+					<div class="col col_w640">
+<div class="ajanlo_hirado" id="ajanlo_hirado" style="display:none;">
+	<a target="_blank" href="http://privatbankar.hu/hirado_live">
+		<div class="red">
+			<p>Nézze élőben!</p>
+		</div>
+		<div class="countdown">
+			<p id="countdown"></p>
+		</div>
+		<div class="text">
+			<p class="msg" id="msg"></p>
+			<p class="title">Privátbankár Híradó</p>
+		</div>
+	</a>
+</div>
+
+<script>
+	function getTimestamp(str) {
+		var d = str.match(/\d+/g);
+		return +new Date(d[0], d[1] - 1, d[2], d[3], d[4], d[5]);
+	}
+
+	$(document).ready(function() {
+		var msg_before_min 		= 'Hamarosan kezdődik!';
+		var msg_within_min 		= 'Azonnal kezdődik!';
+		var msg_while_broadcast = 'Élő adás MOST!';
+		var dates = {"date_1":{"start_countdown":"2015-01-30 09:54:00","before_one_min":"2015-01-30 09:59:00","start_broadcast":"2015-01-30 10:00:00","end_broadcast":"2015-01-30 10:08:00"},"date_2":{"start_countdown":"2015-01-30 12:54:00","before_one_min":"2015-01-30 12:59:00","start_broadcast":"2015-01-30 13:00:00","end_broadcast":"2015-01-30 13:08:00"},"date_3":{"start_countdown":"2015-01-30 15:54:00","before_one_min":"2015-01-30 15:59:00","start_broadcast":"2015-01-30 16:00:00","end_broadcast":"2015-01-30 16:08:00"}};
+		var start = '';
+		var beforeone = '';
+		var begin = '';
+		var end	= '';
+		var nowtime = '';
+		$.get('/?block=pb_hirado_ajanlo_most&ajax=1', function(data) {
+			nowtime = getTimestamp(data);
+		});
+
+		var countdown = setInterval(function() {
+			nowtime = nowtime + 10000;
+
+			$.each(dates,function(key,val) {
+				if ( getTimestamp(val['start_countdown']) < nowtime && nowtime < getTimestamp(val['end_broadcast']) ) {
+					start		= getTimestamp(val['start_countdown']);
+					beforeone	= getTimestamp(val['before_one_min']);
+					begin		= getTimestamp(val['start_broadcast']);
+					end			= getTimestamp(val['end_broadcast']);
+				}
+			});
+
+			if ( start < nowtime && nowtime < end ) {
+				$('#ajanlo_hirado').css('display','block');
+
+				var diff	= new Date(begin - nowtime);
+				var hours	= diff.getHours() - 1;
+				var m		= diff.getMinutes();
+				var minutes = m < 10 ? '0' + m : m;
+				var s		= diff.getSeconds();
+				var seconds = s < 10 ? '0' + s : s;
+
+				if ( diff >= 0 ) {
+					$('#countdown').css('display','block');
+					$('#countdown').text(hours+':'+minutes+':'+seconds);
+				} else {
+					$('#countdown').css('display','none');
+				}
+
+				if ( start < nowtime && nowtime < beforeone ) {
+					$('#msg').text(msg_before_min);
+				} else if ( beforeone < nowtime && nowtime < begin ) {
+					$('#msg').text(msg_within_min);
+				} else if ( begin < nowtime && nowtime < end ) {
+					$('#msg').text(msg_while_broadcast);
+				}
+			} else {
+				$('#ajanlo_hirado').css('display','none');
+			}
+
+		}, 10000);
+
+	});
+
+</script>
+<div class="ajanlo_hirado" id="ajanlo_hirado" style="display:none;">
+	<a target="_blank" href="">
+		<div class="red">
+			<p>Breaking</p>
+		</div>
+		<div class="countdown">
+			<p id="countdown"></p>
+		</div>
+		<div class="text">
+			<p class="msg" id="msg"></p>
+			<p class="title"></p>
+		</div>
+	</a>
+</div>
+
+<script>
+	function getTimestamp(str) {
+		var d = str.match(/\d+/g);
+		return +new Date(d[0], d[1] - 1, d[2], d[3], d[4], d[5]);
+	}
+
+	$(document).ready(function() {
+		var msg_before_min 		= '';
+		var msg_within_min 		= '';
+		var msg_while_broadcast = '';
+		var dates = null;
+		var start = '';
+		var beforeone = '';
+		var begin = '';
+		var end	= '';
+		var nowtime = '';
+		$.get('/?block=pb_hirado_ajanlo_most&ajax=1', function(data) {
+			nowtime = getTimestamp(data);
+		});
+
+		var countdown = setInterval(function() {
+			nowtime = nowtime + 10000;
+
+			$.each(dates,function(key,val) {
+				if ( getTimestamp(val['start_countdown']) < nowtime && nowtime < getTimestamp(val['end_broadcast']) ) {
+					start		= getTimestamp(val['start_countdown']);
+					beforeone	= getTimestamp(val['before_one_min']);
+					begin		= getTimestamp(val['start_broadcast']);
+					end			= getTimestamp(val['end_broadcast']);
+				}
+			});
+
+			if ( start < nowtime && nowtime < end ) {
+				$('#ajanlo_hirado').css('display','block');
+
+				var diff	= new Date(begin - nowtime);
+				var hours	= diff.getHours() - 1;
+				var m		= diff.getMinutes();
+				var minutes = m < 10 ? '0' + m : m;
+				var s		= diff.getSeconds();
+				var seconds = s < 10 ? '0' + s : s;
+
+				if ( diff >= 0 ) {
+					$('#countdown').css('display','block');
+					$('#countdown').text(hours+':'+minutes+':'+seconds);
+				} else {
+					$('#countdown').css('display','none');
+				}
+
+				if ( start < nowtime && nowtime < beforeone ) {
+					$('#msg').text(msg_before_min);
+				} else if ( beforeone < nowtime && nowtime < begin ) {
+					$('#msg').text(msg_within_min);
+				} else if ( begin < nowtime && nowtime < end ) {
+					$('#msg').text(msg_while_broadcast);
+				}
+			} else {
+				$('#ajanlo_hirado').css('display','none');
+			}
+
+		}, 10000);
+
+	});
+
+</script>
+<script>lastArticleID = '277379'</script>						<div class="cikk_oldal_top_fulek_container">
+							<ul class="box cikk-tabs tabs clr">
+								<li class="active" id="cikk-tab-cikk"><a>Cikk</a></li>
+																<li class="" id="cikk-tab-hozzaszolas"><a>Hozzászólások <span id="cikk-hozzaszolasok-szama">(0)</span></a></li>
+																							</ul>
+														<div class="cikkbar">
+								<div class="facebook_share_cikk">
+                                                                    <div class="fb-like" data-href="igy-kaphatod-vissza-a-megyei-matrica-arat-277367" data-layout="button_count" data-action="recommend" data-show-faces="false" data-share="false"></div>
+                                                                </div>
+								<ul class="utilities">
+									<li><a href="/rss/fogyaszto" class="ico-rss">RSS</a></li>
+									<li><a href="http://twitter.com/home?status=http%3A%2F%2Fprivatbankar.hu%2Ffogyaszto%2Figy-kaphatod-vissza-a-megyei-matrica-arat-277367" data-cikkid="277367" data-cikkurl="http%3A%2F%2Fprivatbankar.hu%2Ffogyaszto%2Figy-kaphatod-vissza-a-megyei-matrica-arat-277367" class="ico-twitter">Twitter</a></li>
+									<li class="googleplusone"><g:plusone size="small" annotation="none"  href="http://privatbankar.hu/fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367"></g:plusone></li>
+																		<li><a href="/?=pb_cikkuldes&cikk_id=277367&cikk_url=http://privatbankar.hu/fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367" onclick="return popuplayer.getBlock('pb_cikkuldes','cikk_id=277367&cikk_url=http://privatbankar.hu/fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367')" class="ico-email">Küldés e-mailben</a></li>
+																											<li><a href="javascript:void(0)" onclick="print()" class="ico-print">Nyomtatás</a></li>
+																	</ul>
+															</div>
+
+						</div>
+
+
+						<div class="box cikk-head">
+							<a name="hozzaszolas"></a>
+							<h1>Így kaphatod vissza a megyei matrica árát </h1>
+														<div class="datetime">2015. január 30., 16:20</div>
+																					<div class="datetime forras">
+								<a href="mailto:mail@privatbankar.hu">Privátbankár, MTI</a>
+							</div>
+
+						</div> <!-- .cikk-head-->
+						 						<div class="tab-content tab-content-cikk" >
+
+
+	<div id="cikk_ajanlo">
+		<div id="cikk_cimkek" style="display: none">[&quot;3268&quot;,&quot;3446&quot;,&quot;9225&quot;,&quot;18503&quot;]</div>
+		<div id="ajanlo_config" style="display: none">[&quot;prior_cikk&quot;,&quot;trending_top&quot;,&quot;user&quot;,&quot;cimke_top&quot;,&quot;cikk_cimke&quot;,&quot;kategoria_top&quot;]</div>
+		<div id="ajanlo_prior_chance" style="display: none">80</div>
+		<div id="ajanlo_cikkek" style="display: none" >[{&quot;id&quot;:&quot;277129&quot;,&quot;cim&quot;:&quot;Magyar QE? Kapjon minden eur\u00f3pai polg\u00e1r 1500 eur\u00f3t ingyen?&quot;,&quot;datum_tol&quot;:&quot;2015-01-24 14:31&quot;,&quot;url_name&quot;:&quot;magyar-qe-kapjon-minden-europai-polgar-1500-eurot-ingyen-277129&quot;,&quot;kulcsszavak&quot;:[&quot;291&quot;,&quot;357&quot;,&quot;541&quot;,&quot;605&quot;,&quot;1120&quot;,&quot;1306&quot;,&quot;1997&quot;,&quot;2685&quot;,&quot;3998&quot;,&quot;4389&quot;,&quot;6213&quot;,&quot;11029&quot;,&quot;18739&quot;,&quot;18740&quot;],&quot;ajanlo_prior&quot;:&quot;1&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 24. , Szombat 14:31&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277210&quot;,&quot;cim&quot;:&quot;Nem lesz 300 forint alatti benzin \u00e9s eur\u00f3, de lehet 300 feletti doll\u00e1r&quot;,&quot;datum_tol&quot;:&quot;2015-01-27 10:40&quot;,&quot;url_name&quot;:&quot;nem-lesz-300-forint-alatti-benzin-es-euro-de-lehet-300-feletti-dollar-277210&quot;,&quot;kulcsszavak&quot;:[&quot;215&quot;,&quot;227&quot;,&quot;266&quot;,&quot;357&quot;,&quot;360&quot;,&quot;738&quot;,&quot;783&quot;,&quot;853&quot;,&quot;1147&quot;,&quot;7199&quot;,&quot;7922&quot;,&quot;7923&quot;,&quot;11075&quot;,&quot;11772&quot;],&quot;ajanlo_prior&quot;:&quot;1&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 27. , Kedd 10:40&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277217&quot;,&quot;cim&quot;:&quot;Bajban az oroszok, ez \u00edgy nem mehet tov\u00e1bb&quot;,&quot;datum_tol&quot;:&quot;2015-01-27 12:00&quot;,&quot;url_name&quot;:&quot;bajban-az-oroszok-ez-igy-nem-mehet-tovabb-277217&quot;,&quot;kulcsszavak&quot;:[&quot;784&quot;,&quot;804&quot;,&quot;900&quot;,&quot;3400&quot;,&quot;17873&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 27. , Kedd 12:00&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277236&quot;,&quot;cim&quot;:&quot;Enyhe marad a monet\u00e1ris politika, m\u00e9g mindig nem dr\u00e1g\u00e1k a k\u00f6tv\u00e9nyek - interj\u00fa&quot;,&quot;datum_tol&quot;:&quot;2015-01-28 06:05&quot;,&quot;url_name&quot;:&quot;enyhe-marad-a-monetaris-politika-meg-mindig-nem-dragak-a-kotvenyek-interju-277236&quot;,&quot;kulcsszavak&quot;:[&quot;169&quot;,&quot;266&quot;,&quot;268&quot;,&quot;8098&quot;,&quot;14311&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 28. , Szerda 06:05&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277287&quot;,&quot;cim&quot;:&quot;Lesz v\u00e9gre rendes aksi a telefonunkhoz? Mindenkinek lesz dr\u00f3nja? Izgalmas j\u00f3slatok 2015-re&quot;,&quot;datum_tol&quot;:&quot;2015-01-28 20:00&quot;,&quot;url_name&quot;:&quot;lesz-vegre-rendes-aksi-a-telefonunkhoz-mindenkinek-lesz-dronja-izgalmas-joslatok-2015-re-277287&quot;,&quot;kulcsszavak&quot;:[&quot;113&quot;,&quot;769&quot;,&quot;831&quot;,&quot;876&quot;,&quot;2769&quot;,&quot;3921&quot;,&quot;3924&quot;,&quot;15648&quot;,&quot;15678&quot;,&quot;17645&quot;,&quot;18295&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 28. , Szerda 20:00&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277288&quot;,&quot;cim&quot;:&quot;A nagy ad\u00f3tr\u00fckk: \u00e9rdekes sztori alakul a t\u0151zsd\u00e9n&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 06:05&quot;,&quot;url_name&quot;:&quot;a-nagy-adotrukk-erdekes-sztori-alakul-a-tozsden-277288&quot;,&quot;kulcsszavak&quot;:[&quot;4842&quot;,&quot;16146&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 06:05&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277292&quot;,&quot;cim&quot;:&quot;Meg\u00faszt\u00e1k: r\u00e1juk nem vonatkozik a kaz\u00e1ncsere-szigor\u00edt\u00e1s &quot;,&quot;datum_tol&quot;:&quot;2015-01-28 17:09&quot;,&quot;url_name&quot;:&quot;megusztak-rajuk-nem-vonatkozik-a-kazancsere-szigoritas-277292&quot;,&quot;kulcsszavak&quot;:[&quot;16157&quot;,&quot;17801&quot;,&quot;18531&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 28. , Szerda 17:09&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277294&quot;,&quot;cim&quot;:&quot;\u00d6n m\u00e9g mindig butatelefont haszn\u00e1l?&quot;,&quot;datum_tol&quot;:&quot;2015-01-28 17:34&quot;,&quot;url_name&quot;:&quot;on-meg-mindig-butatelefont-hasznal-277294&quot;,&quot;kulcsszavak&quot;:[&quot;769&quot;,&quot;2800&quot;,&quot;5719&quot;,&quot;16550&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 28. , Szerda 17:34&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277296&quot;,&quot;cim&quot;:&quot;\u00d3ri\u00e1si mafl\u00e1s a g\u00f6r\u00f6g piacnak&quot;,&quot;datum_tol&quot;:&quot;2015-01-28 18:02&quot;,&quot;url_name&quot;:&quot;oriasi-maflas-a-gorog-piacnak-277296&quot;,&quot;kulcsszavak&quot;:[&quot;227&quot;,&quot;1691&quot;,&quot;4433&quot;,&quot;4842&quot;,&quot;5969&quot;,&quot;6581&quot;,&quot;16146&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 28. , Szerda 18:02&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277299&quot;,&quot;cim&quot;:&quot;Itt vannak a sz\u00e1mok - viszik a megyematric\u00e1kat, mint a cukrot&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 07:26&quot;,&quot;url_name&quot;:&quot;itt-vannak-a-szamok-viszik-a-megyematricakat-mint-a-cukrot-277299&quot;,&quot;kulcsszavak&quot;:[&quot;210&quot;,&quot;1710&quot;,&quot;3268&quot;,&quot;9225&quot;,&quot;10934&quot;,&quot;14368&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 07:26&quot;,&quot;type&quot;:&quot;cikk_cimke&quot;},{&quot;id&quot;:&quot;277300&quot;,&quot;cim&quot;:&quot;Most akar aut\u00f3t venni? Felejtse el!&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 07:33&quot;,&quot;url_name&quot;:&quot;most-akar-autot-venni-felejtse-el-277300&quot;,&quot;kulcsszavak&quot;:[&quot;140&quot;,&quot;215&quot;,&quot;840&quot;,&quot;18150&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 07:33&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277305&quot;,&quot;cim&quot;:&quot;Na, \u00edgy kell probl\u00e9m\u00e1t megoldani \u2013 rengeteg \u00faj munkahely j\u00f6het Eur\u00f3p\u00e1ban&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 08:18&quot;,&quot;url_name&quot;:&quot;na-igy-kell-problemat-megoldani-rengeteg-uj-munkahely-johet-europaban-277305&quot;,&quot;kulcsszavak&quot;:[&quot;487&quot;,&quot;1277&quot;,&quot;6892&quot;,&quot;12684&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 08:18&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277309&quot;,&quot;cim&quot;:&quot;Megy vagy marad a Raiffeisen?&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 08:55&quot;,&quot;url_name&quot;:&quot;megy-vagy-marad-a-raiffeisen-277309&quot;,&quot;kulcsszavak&quot;:[&quot;585&quot;,&quot;11155&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 08:55&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277311&quot;,&quot;cim&quot;:&quot;\u00c1t\u00edrta a sz\u00e1mokat a KSH: t\u00e9nyleg nagyon olcs\u00f3 a tankol\u00e1s&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 09:09&quot;,&quot;url_name&quot;:&quot;atirta-a-szamokat-a-ksh-tenyleg-nagyon-olcso-a-tankolas-277311&quot;,&quot;kulcsszavak&quot;:[&quot;368&quot;,&quot;524&quot;,&quot;1147&quot;,&quot;6532&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 09:09&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277313&quot;,&quot;cim&quot;:&quot;T\u00edzmilli\u00e1rd\u00e9rt halkul el az RTL Klub kritik\u00e1ja?&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 10:10&quot;,&quot;url_name&quot;:&quot;tizmilliardert-halkul-el-az-rtl-klub-kritikaja-277313&quot;,&quot;kulcsszavak&quot;:[&quot;474&quot;,&quot;6564&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 10:10&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277317&quot;,&quot;cim&quot;:&quot;Lecsapott a NAV, de a cigicsemp\u00e9szeknek csak h\u0171lt hely\u00e9t tal\u00e1lt\u00e1k&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 10:56&quot;,&quot;url_name&quot;:&quot;lecsapott-a-nav-de-a-cigicsempeszeknek-csak-hult-helyet-talaltak-277317&quot;,&quot;kulcsszavak&quot;:[&quot;755&quot;,&quot;15166&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 10:56&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277320&quot;,&quot;cim&quot;:&quot;Ki viseli a frank-bukt\u00e1t? Jog\u00e1szok harca d\u00f6nt a k\u00e9rd\u00e9sben&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 11:22&quot;,&quot;url_name&quot;:&quot;ki-viseli-a-frank-buktat-jogaszok-harca-dont-a-kerdesben-277320&quot;,&quot;kulcsszavak&quot;:[&quot;266&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 11:22&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277321&quot;,&quot;cim&quot;:&quot;Fejjel a falnak? M\u00e1r k\u00e9t rosszcsont t\u00e9pi az idegeket Eur\u00f3p\u00e1ban&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 15:00&quot;,&quot;url_name&quot;:&quot;ket-rosszcsont-europaban-277321&quot;,&quot;kulcsszavak&quot;:[&quot;1847&quot;,&quot;2810&quot;,&quot;5449&quot;,&quot;6213&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 15:00&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277322&quot;,&quot;cim&quot;:&quot;Nem \u00e9rted, mennyibe ker\u00fcl id\u00e9n a cafeteria? Itt van minden feket\u00e9n-feh\u00e9ren!&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 13:00&quot;,&quot;url_name&quot;:&quot;nem-erted-mennyibe-kerul-iden-a-cafeteria-itt-van-minden-feketen-feheren-277322&quot;,&quot;kulcsszavak&quot;:[&quot;721&quot;,&quot;1042&quot;,&quot;4029&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 13:00&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277323&quot;,&quot;cim&quot;:&quot;Borulhat a bili az Alstomn\u00e1l \u2013 korrupci\u00f3t vizsg\u00e1lnak a n\u00e9gyes metr\u00f3n\u00e1l?&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 12:23&quot;,&quot;url_name&quot;:&quot;borulhat-a-bili-az-alstomnal-korrupciot-vizsgalnak-a-negyes-metronal-277323&quot;,&quot;kulcsszavak&quot;:[&quot;631&quot;,&quot;1920&quot;,&quot;9160&quot;,&quot;18804&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 12:23&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277325&quot;,&quot;cim&quot;:&quot;Sv\u00e1jci frank: elk\u00e9peszt\u0151 k\u00f6t\u00e9sek, milli\u00f3s bukt\u00e1k m\u00e1sodpercek alatt&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 18:20&quot;,&quot;url_name&quot;:&quot;svajci-frank-elkepeszto-kotesek-millios-buktak-masodpercek-alatt-277325&quot;,&quot;kulcsszavak&quot;:[&quot;266&quot;,&quot;605&quot;,&quot;1295&quot;,&quot;17273&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 18:20&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277328&quot;,&quot;cim&quot;:&quot;H\u00e1tat ford\u00edtanak, vagy d\u00f6rg\u00f6l\u0151znek Putyinhoz a feh\u00e9roroszok?&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 13:54&quot;,&quot;url_name&quot;:&quot;akkor-most-hatat-forditanak-vagy-dorgolodznek-putyinnhoz-a-feheroroszok-277328&quot;,&quot;kulcsszavak&quot;:[&quot;804&quot;,&quot;1659&quot;,&quot;1660&quot;,&quot;14023&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 13:54&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277329&quot;,&quot;cim&quot;:&quot;M\u00e1r semmiben nem rem\u00e9nykednek a hazai c\u00e9gek?&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 17:03&quot;,&quot;url_name&quot;:&quot;mar-semmiben-nem-remenykednek-a-hazai-cegek-277329&quot;,&quot;kulcsszavak&quot;:[&quot;205&quot;,&quot;3634&quot;,&quot;11652&quot;,&quot;17317&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 17:03&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277330&quot;,&quot;cim&quot;:&quot;K\u00f6ltsd el a p\u00e9nzed okosan! Itt vannak az akci\u00f3k, le\u00e1raz\u00e1sok ideje &quot;,&quot;datum_tol&quot;:&quot;2015-01-29 19:12&quot;,&quot;url_name&quot;:&quot;koltsd-el-a-penzed-okosan-itt-vannak-az-akciok-learazasok-ideje-277330&quot;,&quot;kulcsszavak&quot;:[&quot;818&quot;,&quot;840&quot;,&quot;6058&quot;,&quot;18806&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 19:12&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277331&quot;,&quot;cim&quot;:&quot;15 \u00e9ve nem l\u00e1tott adat j\u00f6tt a tengerent\u00falr\u00f3l - ez minket is \u00e9rint &quot;,&quot;datum_tol&quot;:&quot;2015-01-29 15:36&quot;,&quot;url_name&quot;:&quot;15-eve-nem-latott-adat-jott-a-tengerentulrol-ez-minket-is-erint-277331&quot;,&quot;kulcsszavak&quot;:[&quot;541&quot;,&quot;7098&quot;,&quot;12684&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 15:36&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277333&quot;,&quot;cim&quot;:&quot;Mit gondol, minek az \u00e1ra esett fel\u00e9re \u00f6t \u00e9v alatt?&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 19:57&quot;,&quot;url_name&quot;:&quot;mit-gondol-minek-az-ara-esett-felere-ot-ev-alatt-277333&quot;,&quot;kulcsszavak&quot;:[&quot;8511&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 19:57&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277335&quot;,&quot;cim&quot;:&quot;Nem tudod, melyik bolt lesz nyitva vas\u00e1rnap? Itt megn\u00e9zheted &quot;,&quot;datum_tol&quot;:&quot;2015-01-29 16:49&quot;,&quot;url_name&quot;:&quot;nem-tudod-melyik-bolt-lesz-nyitva-vasarnap-itt-megnezheted-277335&quot;,&quot;kulcsszavak&quot;:[&quot;7536&quot;,&quot;18064&quot;,&quot;18591&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 16:49&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277336&quot;,&quot;cim&quot;:&quot;Betegeskedik az Alibaba&quot;,&quot;datum_tol&quot;:&quot;2015-01-29 18:45&quot;,&quot;url_name&quot;:&quot;betegeskedik-az-alibaba-277336&quot;,&quot;kulcsszavak&quot;:[&quot;324&quot;,&quot;325&quot;,&quot;1443&quot;,&quot;4842&quot;,&quot;5969&quot;,&quot;18807&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 18:45&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277337&quot;,&quot;cim&quot;:&quot;Itt fogj\u00e1k tan\u00edtani az unortodoxi\u00e1t? \u00dajabb ingatlant vett a jegybank &quot;,&quot;datum_tol&quot;:&quot;2015-01-29 18:12&quot;,&quot;url_name&quot;:&quot;itt-fogjak-tanitani-az-unortodoxiat-ujabb-ingatlant-vett-a-jegybank-277337&quot;,&quot;kulcsszavak&quot;:[&quot;605&quot;,&quot;11202&quot;,&quot;18810&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 29. , Cs\u00fct\u00f6rt\u00f6k 18:12&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277339&quot;,&quot;cim&quot;:&quot;Remek form\u00e1ban mindannyiunk j\u00e1t\u00e9kszere&quot;,&quot;datum_tol&quot;:&quot;2015-01-30 06:05&quot;,&quot;url_name&quot;:&quot;remek-formaban-mindannyiunk-jatekszere-277339&quot;,&quot;kulcsszavak&quot;:[&quot;1343&quot;,&quot;6536&quot;,&quot;11034&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 30. , P\u00e9ntek 06:05&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277340&quot;,&quot;cim&quot;:&quot;Milli\u00e1rdokkal tartoznak a k\u00f3rh\u00e1zak \u00e9s a NAV &quot;,&quot;datum_tol&quot;:&quot;2015-01-30 07:20&quot;,&quot;url_name&quot;:&quot;milliardokkal-tartoznak-a-korhazak-es-a-nav-277340&quot;,&quot;kulcsszavak&quot;:[&quot;755&quot;,&quot;3056&quot;,&quot;10163&quot;,&quot;11731&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 30. , P\u00e9ntek 07:20&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277347&quot;,&quot;cim&quot;:&quot;\u00cdgy hullik sz\u00e9t Putyin \u00e1lma - m\u00e1r l\u00e1tjuk, ki nevet a v\u00e9g\u00e9n&quot;,&quot;datum_tol&quot;:&quot;2015-01-30 08:47&quot;,&quot;url_name&quot;:&quot;igy-hullik-szet-putyin-alma-mar-latjuk-ki-nevet-a-vegen-277347&quot;,&quot;kulcsszavak&quot;:[&quot;804&quot;,&quot;1553&quot;,&quot;4433&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 30. , P\u00e9ntek 08:47&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277349&quot;,&quot;cim&quot;:&quot;V\u00e9gre utol\u00e9rte az \u00e9tolajosokat a NAV: 4,6 milli\u00e1rdos csal\u00e1di vagyon z\u00e1r alatt&quot;,&quot;datum_tol&quot;:&quot;2015-01-30 09:01&quot;,&quot;url_name&quot;:&quot;vegre-utolerte-az-etolajosokat-a-nav-46-milliardos-csaladi-vagyon-zar-alatt-277349&quot;,&quot;kulcsszavak&quot;:[&quot;755&quot;,&quot;2623&quot;,&quot;9110&quot;,&quot;13428&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 30. , P\u00e9ntek 09:01&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277352&quot;,&quot;cim&quot;:&quot;Meg\u00e9lhet\u00e9si be- \u00e9s kiv\u00e1ndorl\u00f3k, devizahitelesek, bankok, Putyin - nekik \u00fczent ma Orb\u00e1n&quot;,&quot;datum_tol&quot;:&quot;2015-01-30 10:14&quot;,&quot;url_name&quot;:&quot;megelhetesi-be-es-kivandorlok-devizahitelesek-bankok-putyin-nekik-uzent-ma-orban-277352&quot;,&quot;kulcsszavak&quot;:[&quot;161&quot;,&quot;200&quot;,&quot;932&quot;,&quot;1553&quot;,&quot;1566&quot;,&quot;2963&quot;,&quot;4693&quot;,&quot;4694&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 30. , P\u00e9ntek 10:14&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277355&quot;,&quot;cim&quot;:&quot;\u00dajabb g\u00f6r\u00f6g tr\u00fckk: a n\u00e9met n\u00e9pet f\u0171zi a minisztereln\u00f6k&quot;,&quot;datum_tol&quot;:&quot;2015-01-30 12:34&quot;,&quot;url_name&quot;:&quot;ciprasz-ujabb-trukkje-most-a-nemet-nepet-fuzi-277355&quot;,&quot;kulcsszavak&quot;:[&quot;5449&quot;,&quot;18753&quot;,&quot;18814&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 30. , P\u00e9ntek 12:34&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277357&quot;,&quot;cim&quot;:&quot;Rog\u00e1n a devizahitelekr\u0151l besz\u00e9lt \u00e9s egy furcsa tabl\u00f3t mutogatott&quot;,&quot;datum_tol&quot;:&quot;2015-01-30 10:54&quot;,&quot;url_name&quot;:&quot;rogan-a-devizahitelekrol-beszelt-es-egy-furcsa-tablot-mutogatott-277357&quot;,&quot;kulcsszavak&quot;:[&quot;200&quot;,&quot;266&quot;,&quot;1032&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 30. , P\u00e9ntek 10:54&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277358&quot;,&quot;cim&quot;:&quot;Fuvaroz\u00f3k! Ha erre nem figyelnek, elvehetik a NAV-osok az \u00e1rut&quot;,&quot;datum_tol&quot;:&quot;2015-01-30 11:08&quot;,&quot;url_name&quot;:&quot;fuvarozok-ha-erre-nem-figyeljenek-elvehetik-a-nav-osok-az-arut-277358&quot;,&quot;kulcsszavak&quot;:[&quot;755&quot;,&quot;18728&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 30. , P\u00e9ntek 11:08&quot;,&quot;type&quot;:&quot;cimke_top&quot;},{&quot;id&quot;:&quot;277365&quot;,&quot;cim&quot;:&quot;V\u00e9gre egy olyan ad\u00f3, amit nem kivetni, hanem visszavonni akarnak &quot;,&quot;datum_tol&quot;:&quot;2015-01-30 12:45&quot;,&quot;url_name&quot;:&quot;vegre-egy-olyan-ado-amit-nem-kivetni-hanem-visszavonni-akarnak-277365&quot;,&quot;kulcsszavak&quot;:[&quot;716&quot;,&quot;2979&quot;,&quot;17226&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 30. , P\u00e9ntek 12:45&quot;,&quot;type&quot;:&quot;trending_top&quot;},{&quot;id&quot;:&quot;277369&quot;,&quot;cim&quot;:&quot;Mindenki m\u00e1sk\u00e9pp csin\u00e1lja: mi lesz szomsz\u00e9daink devizahitel\u00e9vel?&quot;,&quot;datum_tol&quot;:&quot;2015-01-30 14:15&quot;,&quot;url_name&quot;:&quot;mindenki-maskepp-csinalja-mit-kezdenek-szomszedaink-devizahitelukkel-277369&quot;,&quot;kulcsszavak&quot;:[&quot;200&quot;,&quot;650&quot;,&quot;1465&quot;],&quot;ajanlo_prior&quot;:&quot;0&quot;,&quot;formatted_date&quot;:&quot;2015. janu\u00e1r 30. , P\u00e9ntek 14:15&quot;,&quot;type&quot;:&quot;cimke_top&quot;}]</div>
+	</div>
+	<div id="cikk_id" style="display: none" data-id="277367"></div>
+																					<div class="tags">
+								<dl class="clr">
+									<dt>Cimkék</dt>
+																			<dd><a href="/kereses/?kulcsszo=útdíj&ujkeres=1">útdíj</a></dd>
+																				<dd>, <a href="/kereses/?kulcsszo=e-útdíj&ujkeres=1">e-útdíj</a></dd>
+																				<dd>, <a href="/kereses/?kulcsszo=autópálya-matrica&ujkeres=1">autópálya-matrica</a></dd>
+																				<dd>, <a href="/kereses/?kulcsszo=megyei matrica&ujkeres=1">megyei matrica</a></dd>
+																		</dl>
+							</div><!-- .tagbox -->
+																					<div class="box cikkbody" id="main-cikk-body" data-current-cikk-id="277367" data-ertesitesurl="/?block=pb_legfrissebb_cikkek&ajax=1" data-kovetkezocikkurl="/?block=pb_kovetkezo_cikk&ajax=1&cid=277367">
+								<p class="lead">A kormány nemrég több ponton is átírta az útdíjrendszert. Akik olyan megyei e-matricát vettek, ahol az úthasználat közben ismét ingyenessé vált, vasárnaptól március közepéig több módon is visszaválthatják a feleslegessé vált matricájukat. És mit csináljon az, aki matrica nélkül hajtott fel az autópályára? Összeszedtük a fontosabb változásokat. </p>
+																<div class="lead_alatti_txt">
+									<p><a href="https://karrier.aegon.hu/aegonalapkezelo/index.php?mode=positionview&amp;position_id=377" target="_blank"><strong>Junior portfólió-menedzsert keres az Aegon Alapkezelő!</strong></a></p>
+<p>Ha  ismered a tőke-, pénz- és kötvénypiacokat, érdekel a makroökonómia,  egyetemi közgazdasági végzettséged van, precíz vagy és haladó szinten  kezeled az Excelt, akkor várjuk a jelentkezésed!”</p>								</div>
+
+								<div class="box gtm-box pb-ga-cikk-468x60-c1">
+	<!-- Privatbankar_468x60/120_cikk_normal_content_1 -->
+	<div id='div-gpt-ad-1399550466077-8'>
+		<script type='text/javascript'>
+			googletag.display('div-gpt-ad-1399550466077-8');
+		</script>
+	</div>
+</div>
+																		<div class="inner-cikkbox align-center ad-box ad-box-w330"  >
+											<!-- iBILLBOARD Ad Server one2many Position: go.cz.bbelements.com privatbankar_uj(16126) / fogyaszto(11) / fogyaszto_cikk_billboard_max_300x250(9) / billboard(1)-->
+<!-- HowTo: Place this code into the html page where the ad should appear. -->
+<div id='bmone2n-16126.11.9.1'>
+<noscript><div style='display:inline'><a href='http://go.cz.bbelements.com/please/redirect/16126/11/9/1/'><img src='http://go.cz.bbelements.com/please/showit/16126/11/9/1/?typkodu=img&keywords=' style='border-width:0' alt='' /></a></div></noscript>
+</div>											<div>Hirdetés</div>
+										</div>
+										                                							<table class="cikkinfo" style="width: 300px;" border="1" align="right">
+<tbody>
+<tr class="odd">
+<td>
+<p><strong>Elektronikus úton, de hogy?</strong></p>
+<p>A <a href="http://www.nemzetiutdij.hu/" target="_blank">nemzetiutdij.hu</a> honlapon a "Megyei e-matrica visszaváltása" menüpont alatt található igénylőlap kitöltésével és elküldésével váltható vissza a feleslegessé vált e-matrica.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Miért lehet visszakérni a pénzt? </strong></p>
+<p>Visszaváltható minden olyan, 2014. december 31. és 2015. január 31. között megvásárolt megyei e-matrica, amelyet csak olyan útszakaszon használtak, amely 2015. február elsejétől vált újból díjmentessé, vagy a megyei e-matricák területi hatályának újraértelmezése miatt feleslegessé vált - közölte a Nemzeti Útdíjfizetési Szolgáltató Zrt.</p>
+<p><strong>Személyesen, postai úton és elektronikusan</strong></p>
+<p>A megyei e-matricákat március 15-ig lehet visszaváltani elektronikus úton, személyesen a NÚSZ Zrt. országszerte 17 helyen megtalálható ügyfélszolgálati irodáiban, valamint postai úton. Azok az autósok, akik a személyes vagy a postai ügyintézést választják, a nemzetiutdij.hu weboldalról letölthető, vagy az ügyfélszolgálati irodákban átvehető formanyomtatvány kitöltésével nyújthatják be a visszaváltási igényüket.</p>
+<p>A jogosultság visszaváltását elektronikus úton és személyesen akár a gépjármű üzembentartója, akár a gépjármű jogszerű használója kezdeményezheti, postai úton viszont csak az üzembentartó járhat el. Az ügyintézéshez a megváltott e-matrica megvásárlását igazoló ellenőrző szelvény vagy a nyugtázó értesítés - SMS, e-mail - és a gépjármű forgalmi engedélye mellett az igénylőlap kitöltése szükséges.</p>
+<table class="cikkinfo" style="width: 300px;" border="1" align="right">
+<tbody>
+<tr class="odd">
+<td>
+<p><strong>Mint a cukrot</strong></p>
+<p>Az idén már összesen 1,267 millió autópálya-matricát adtak el. <a href="http://privatbankar.hu/fogyaszto/itt-vannak-a-szamok-viszik-a-megyematricakat-mint-a-cukrot-277299" target="_blank">Részletek &gt;&gt;&gt;</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A visszaváltás előtt érdemes figyelembe venni, hogy az e-matrica árának visszatérítése az úthasználati jogosultság eredeti időtartamra vonatkozó megszűnésével jár. Tehát pótdíjfizetési kötelezettsége keletkezhet annak az autósnak, aki az adott megyén belül díjmentessé vált szakaszon kívül más egyéb szakaszt is használt, vagy a visszaváltott e-matrica szerinti megyén belül nem csak azon a szakaszon közlekedett, amelyik a megyei e-matricák területi hatályának változása miatt február 1-jétől a szomszédos megyére érvényes e-matricával is használható.</p>
+<p><strong>Megúszhatod a pótdíjat, ha</strong></p>
+<table class="cikkinfo" style="width: 300px;" border="1" align="right">
+<tbody>
+<tr class="odd">
+<td>
+<p><strong>Mi változott?</strong></p>
+<p><span style="text-align: justify;">A kormány január 22-i ülésén döntött arról, hogy újra ingyenes lesz a gyorsforgalmi használata a Liszt Ferenc Nemzetközi Repülőtér felé, azonban az M0-s esetében továbbra is fizetni kell. A legfontosabb talán az, hogy az érvényességi terület nő, ezentúl a megyehatár utáni első csomópontig használhatjuk a matricákat. <a class="button" href="http://privatbankar.hu/fogyaszto/itt-a-bejelentes-ezek-az-utszakaszok-ujra-ingyenesek-lesznek-277025" target="_blank">További részletek &gt;&gt;&gt;</a></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Az átmeneti rendelkezés értelmében azok az autósok, akik 2015. január 1. és 2015. január 31. között jogosultság nélkül hajtottak díjköteles útra, nemcsak a pótdíj alól mentesülnek, hanem az egyéb esetekben szokásos, 1470 forintos szolgáltatási díjat sem kell megfizetniük, ha bármelyik értékesítési csatornán keresztül legkésőbb február 28-ig a jogosulatlan úthasználat helye szerinti éves megyei, vagy éves (országos) jogosultságot vásárolnak.</p>
+<p>Aki pótdíjfizetési felszólítást kap, postai úton vagy személyesen a NÚSZ Zrt. ügyfélszolgálati irodájában országszerte 17 helyen intézheti ügyét. Az országszerte a megszokott nyitvatartási idővel üzemelő 17 NÚSZ ügyfélszolgálati iroda közül az M3 12-es kilométerénél található budapesti, valamint a budaörsi, székesfehérvári, szombathelyi és dunaújvárosi ügyfélszolgálati irodánál a megyei e-matricák visszaváltását mobilcsoportos díjellenőrző járművek segítik.</p>																																			<div class="spacer"></div>
+							</div><!-- .cikkbody -->
+
+							<div class="gtm-two-column">
+							<div class="box gtm-box pb-ga-cikk-300x250-c1">
+	<!-- Privatbankar_300x250_cikk_rectangle_content_1 -->
+	<div id='div-gpt-ad-1399550466077-4'>
+		<script type='text/javascript'>
+			googletag.display('div-gpt-ad-1399550466077-4');
+		</script>
+	</div>
+</div><div class="box gtm-box pb-ga-cikk-300x250-c2">
+	<!-- Privatbankar_300x250_cikk_rectangle_content_2 -->
+	<div id='div-gpt-ad-1399550466077-5'>
+		<script type='text/javascript'>
+			googletag.display('div-gpt-ad-1399550466077-5');
+		</script>
+	</div>
+</div>							</div>
+
+														<div class="cikkbody">
+								<div class="torzs_vegi_txt">
+									<p> </p>
+<script src="http://player.vidyoda.com/hu/azimuth.js" type="text/javascript"></script>
+<script type="text/javascript">// <![CDATA[
+	vidyoda.onReady(function() {
+		vidyoda.createPlayer("_vidyodaPlayer", 610, 343, {
+autoLoad: "true",
+autoStart: "false",
+channelID: "14jS9Oobti4=",
+categoryID: "RbhAj0eijgY=",
+strSource: "http://media.privatbankar.hu/hirado/hirado_friss.mp4",
+mobileSource: "http://media.privatbankar.hu/hirado/hirado_friss.mp4",
+Sharing: true,
+live: false,
+videoName: "Legfrissebb Privátbankár Híradó",
+videoClickLink: "http://privatbankar.hu/hirado",
+gemiusContent : "Híradó - 13.06.07. 13:00",
+publisherLogo: "http://privatbankar.hu/data/cikk/24/64/35/cikk_246435/images/pbtv_logo_white_live.png",
+contentImg: "http://media.privatbankar.hu/hirado/frame.png" ,
+Identifier: "152bkKbLJFK2h8nmMvOBVLbvzQa8nebQvK6Ug5VoYmP.Y7", //Privatbankaros Gemius Stream ID
+Prefix: "shu",
+Hitcollector: "shu.hit.gemius.pl"
+});
+	});
+// ]]></script>								</div>
+							</div>
+
+														<div class="box cikkbar">
+																<div class="ertekeles" data-loggedin="true">
+									<strong>Értékeld a cikket</strong>
+									<form action="/?block=pb_cikk_ertekel&ajax=1&cid=277367" method="post">
+										<input type="Hidden" name="ertekel_url" value="/?block=pb_cikk_ertekel&ajax=1&cid=277367">
+										<div class="wrap">
+											<dl class="screenrdr">
+												<dt>Jelenlegi értékelés</dt>
+												<dd></dd>
+											</dl>
+											<div class="labelwrap">
+												<label class="ertekeles_0 active">
+													<input type="radio" name="ertekeles_12345" value="0" checked="checked"> <span></span>
+												</label>
+												<label class="ertekeles_05">
+													<input type="radio" name="ertekeles_12345" value="0.5" > <span></span>
+												</label>
+												<label class="ertekeles_1">
+													<input type="radio" name="ertekeles_12345" value="1" > <span></span>
+												</label>
+												<label class="ertekeles_15">
+													<input type="radio" name="ertekeles_12345" value="1.5" > <span></span>
+												</label>
+												<label class="ertekeles_2">
+													<input type="radio" name="ertekeles_12345" value="2" > <span></span>
+												</label>
+												<label class="ertekeles_25">
+													<input type="radio" name="ertekeles_12345" value="2.5" > <span></span>
+												</label>
+												<label class="ertekeles_3">
+													<input type="radio" name="ertekeles_12345" value="3" > <span></span>
+												</label>
+												<label class="ertekeles_35">
+													<input type="radio" name="ertekeles_12345" value="3.5" > <span></span>
+												</label>
+												<label class="ertekeles_4">
+													<input type="radio" name="ertekeles_12345" value="4" > <span></span>
+												</label>
+												<label class="ertekeles_45">
+													<input type="radio" name="ertekeles_12345" value="4.5" > <span></span>
+												</label>
+												<label class="ertekeles_5">
+													<input type="radio" name="ertekeles_12345" value="5" > <span></span>
+												</label>
+																							</div>
+											<button type="submit"><span>Mehet</span></button>
+										</div>
+									</form>
+									<strong style="margin: 0 15px;"> <a href="javascript:void(0);" class="hozzaszolok_cikk_bottom">Hozzászólások : 0 db </a></strong>
+									<strong> <a href="javascript:void(0);" class="hozzaszolok_cikk_bottom">Hozzászólok &raquo;</a> </strong>
+								</div> <!-- .ertekeles -->
+																								<ul class="utilities">
+									<li class="facebook_share_cikk">
+										<div class="fb-like" data-href="http://privatbankar.hu/fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367" data-layout="button_count" data-action="recommend" data-show-faces="false" data-share="false"></div>
+									</li>
+									<li><a href="/rss/fogyaszto" class="ico-rss">RSS</a></li>
+									<li><a href="http://twitter.com/home?status=http://privatbankar.hu/fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367" data-cikkid="277367" data-cikkurl="http://privatbankar.hu/fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367" class="ico-twitter">Twitter</a></li>
+									<li class="googleplusone"><g:plusone size="small" annotation="none"  href="fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367"></g:plusone></li>
+																		<li><a href="/?=pb_cikkuldes&cikk_id=277367&cikk_url=/fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367" onclick="return popuplayer.getBlock('pb_cikkuldes','cikk_id=277367&cikk_url=/fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367')" class="ico-email">Küldés e-mailben</a></li>
+																											<li><a href="javascript:void(0)" onclick="print()" class="ico-print">Nyomtatás</a></li>
+																	</ul>
+
+							</div><!-- .cikkbar -->
+														<div style="clear:both"></div>
+
+
+							<div class="box new-comment clr" style="padding: 5px 0;">
+								<form method="post" name="hozzaszolasform" id="hozzaszolas" onsubmit="return cikk_hozzaszolas_kuldes()">
+									<input type="hidden" name="action" value="add">
+									<input type="hidden" name="reply" class="reply_to_comment" value="">
+									<input type="hidden" name="cikk_id" id="cikk_comment_id" value="277367">
+									<input type="hidden" name="token" id="cikk_comment_token" value="">
+									<div class="textarea-wrap" style="height: 120px;">
+										<div class="cikkhozzaszolas_text">Szóljon hozzá - számít a véleménye!</div>
+										<label for="new-comment-textarea" class="screenrdr">Új hozzászólás</label>
+										<textarea name="comment" id="cikk_comment" class="cikk_comment" style="height: 60px;" rows="10"></textarea>
+									</div>
+									<button type="submit" class="button arrow-button"><span>Hozzászólás elküldése</span></button>
+								</form>
+							</div> <!-- .new-comment -->
+
+
+							<div style="clear:both"></div>
+													<div class="box cikklist-related">
+								<h2 class="privatb-header"><span>Kapcsolódó cikkek</span></h2>
+								<ul class="clr">
+																		<li>
+										<h3 class="rovat"><a href="/fogyaszto">Fogyasztó</a></h3>
+										<h2 class="title"><a data-cikk-id="277299" href="/fogyaszto/itt-vannak-a-szamok-viszik-a-megyematricakat-mint-a-cukrot-277299">Itt vannak a számok - viszik a megyematricákat, mint a cukrot</a></h2>
+										<div class="datetime">2015. január 29., 07:26</div>
+										<a data-cikk-id="277299" href="fogyaszto/itt-vannak-a-szamok-viszik-a-megyematricakat-mint-a-cukrot-277299" class="iwrp"><img width="200" height="116" alt="Itt vannak a számok - viszik a megyematricákat, mint a cukrot" title="Itt vannak a számok - viszik a megyematricákat, mint a cukrot" src="/data/kepek/01nyers/autopalya_PH_1_oszlopos_smalllead_fill_200x116.JPG"/></a>
+										<p>Az idén már összesen 1,267 millió autópálya-matricát értékesített a Nemzeti Útdíjfizetési Szolgáltató (NÚSZ) Zrt.
+</p>
+									</li>
+																		<li>
+										<h3 class="rovat"><a href="/fogyaszto">Fogyasztó</a></h3>
+										<h2 class="title"><a data-cikk-id="277254" href="/fogyaszto/a-kiralynok-varosa-megszivta-elkepesztoen-draga-az-ut-277254">A királynők városa megszívta – elképesztően drága az út</a></h2>
+										<div class="datetime">2015. január 28., 08:03</div>
+										<a data-cikk-id="277254" href="fogyaszto/a-kiralynok-varosa-megszivta-elkepesztoen-draga-az-ut-277254" class="iwrp"><img width="200" height="116" alt="A királynők városa megszívta – elképesztően drága az út" title="A királynők városa megszívta – elképesztően drága az út" src="/data/cikk/25/43/45/cikk_254345/autopalyavege_1_oszlopos_smalllead_fill_200x116.jpg"/></a>
+										<p>Messze a Veszprém megyeiek fizetnek a legtöbbet a gyorsforgalmi útjaikért, arányosan körülbelül tizenegyszer annyiba kerül egy kilométer gyorsforgalmi út, mint Pest megyében.
+</p>
+									</li>
+																		<li>
+										<h3 class="rovat"><a href="/fogyaszto">Fogyasztó</a></h3>
+										<h2 class="title"><a data-cikk-id="277067" href="/fogyaszto/vegyesek-az-erzesek-reagalt-az-autoklub-az-utdijra-277067">Vegyesek az érzések: reagált az Autóklub az útdíjra </a></h2>
+										<div class="datetime">2015. január 22., 14:15</div>
+										<a data-cikk-id="277067" href="fogyaszto/vegyesek-az-erzesek-reagalt-az-autoklub-az-utdijra-277067" class="iwrp"><img width="200" height="116" alt="Vegyesek az érzések: reagált az Autóklub az útdíjra " title="Vegyesek az érzések: reagált az Autóklub az útdíjra " src="/data/cikk/24/65/19/cikk_246519/autoslanyijedt1_1_oszlopos_smalllead_fill_200x116.jpg"/></a>
+										<p>Bár örülnek, hogy javaslataik alapján módosítják az útdíjrendszert, továbbra is elhibázottnak tartják az elkerülő utak és a bevezető főútvonalak fizetőssé tételét. </p>
+									</li>
+																	</ul>
+							</div><!-- .cikklist-related -->
+												</div> <!-- .tab-content -->
+ 						<div class="tab-content tab-content-cikk" style="display: none">
+												<div class="box new-comment clr">
+						<form method="post" name="hozzaszolasform" id="hozzaszolas" onsubmit="return cikk_hozzaszolas_kuldes()">
+							<input type="hidden" name="action" value="add">
+							<input type="hidden" name="reply" class="reply_to_comment" value="">
+							<input type="hidden" name="cikk_id" id="cikk_comment_id" value="277367">
+							<input type="hidden" name="token" id="cikk_comment_token" value="539a90d8577250222d6b86f85afd990f">
+							<div class="textarea-wrap" style="height: 215px;">
+								<div class="cikkhozzaszolas_text">Szóljon hozzá - számít a véleménye!</div>
+								<label for="new-comment-textarea" class="screenrdr">Új hozzászólás</label>
+								<textarea name="comment" id="cikk_comment" class="cikk_comment" cols="118" rows="10"></textarea>
+							</div>
+							<button type="submit" class="button arrow-button"><span>Hozzászólás elküldése</span></button>
+						</form>
+					</div> <!-- .new-comment -->
+
+						<div class="box new-comment clr">
+							Még nem született hozzászólás.
+						</div> <!-- .new-comment -->
+																	</div> <!-- .tab-content -->
+ <!-- cikk oldal end -->
+						<div class="box ad-box">
+							<div id='bmone2n-16126.11.5.2'></div>							<div>Hirdetés</div>
+						</div>
+				<div class="box clr min-editor vezercikk">
+						<h2 class="rovat"><a href="/">Címlapon</a></h2>
+						<h3 class="title"><a data-cikk-id="277367" href="/fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367">Így kaphatod vissza a megyei matrica árát </a></h3>
+						<a data-cikk-id="277367" href="/fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367" class="iwrp"><img width="340" height="219" alt="Így kaphatod vissza a megyei matrica árát " title="Így kaphatod vissza a megyei matrica árát " src="/data/cikk/27/63/25/cikk_276325/m0_2_1_oszlopos_biglead_fill_340x219.JPG"/></a>								<p style=" font-size: 14px; line-height: 16px;">A kormány nemrég több ponton is átírta az útdíjrendszert. Akik olyan megyei e-matricát vettek, ahol az úthasználat közben ismét ingyenessé vált, vasárnaptól március közepéig több módon is visszaválthatják a feleslegessé vált matricájukat. És mit csináljon az, aki matrica nélkül hajtott fel az autópályára? Összeszedtük a fontosabb változásokat. </p>
+							</div>
+
+					</div> <!-- .col_w640 -->
+					<div class="col col_w310">
+
+<div class="cikk-video-ajanlo box">
+        <h2 class="privatb-header-black">
+        <span>Privátbankár Árkosár</span>
+    </h2>
+
+    <div class="slides with_lead">
+        <ul id="slides" class="cikk-list slides_list">
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/fogyaszto/itt-a-deflacio-meg-olcsobb-a-nagybevasarlas-265989">
+                                <img src="/data/kepek/01nyers/bevasarlo_ferfi_PH_2_oszlopos_lentilead_fill_310x200.jpg" alt="Itt a defláció! Még olcsóbb a nagybevásárlás">
+                            </a>
+                                                    </div>
+                        <a href="/fogyaszto/itt-a-deflacio-meg-olcsobb-a-nagybevasarlas-265989">
+                            <p class="title">Itt a defláció! Még olcsóbb a nagybevásárlás</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-265989" data-create-time="2014-02-13 15:51:00">2014-02-13 15:51:00</span>
+                            </p>
+                                                        <p class="lead">Jelentős árcsökkenést mértünk a hipermarketekben. Az árak ezúttal nem csak az előző hónaphoz képest csökkentek, hanem ha mintaárkosarunkat megvennénk, a tavaly februárinál is kevesebbet kellene a boltokban hagynunk. </p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/fogyaszto/kell-ennel-tobb-olcsobb-lett-a-nagybevasarlas-264980">
+                                <img src="/data/cikk/26/49/80/cikk_264980/bevasarlas_neni_2_oszlopos_lentilead_fill_310x200.jpg" alt="Itt a defláció? Olcsóbb lett a nagybevásárlás!">
+                            </a>
+                                                    </div>
+                        <a href="/fogyaszto/kell-ennel-tobb-olcsobb-lett-a-nagybevasarlas-264980">
+                            <p class="title">Itt a defláció? Olcsóbb lett a nagybevásárlás!</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-264980" data-create-time="2014-01-14 13:35:00">2014-01-14 13:35:00</span>
+                            </p>
+                                                        <p class="lead">Jól indul az év a hipermarketekben: a tavaly januári áraknál is valamivel kevesebbet kérnek a nagybevásárlásért.</p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/fogyaszto/mennyivel-dragabb-a-karacsonyi-bevasarlas-mint-tavaly-itt-a-valasz-263948">
+                                <img src="/data/cikk/25/23/97/cikk_252397/karacsony_tescoban_ga_2_oszlopos_lentilead_fill_310x200.jpg" alt="Mennyivel drágább a karácsonyi bevásárlás, mint tavaly? Itt a válasz">
+                            </a>
+                                                    </div>
+                        <a href="/fogyaszto/mennyivel-dragabb-a-karacsonyi-bevasarlas-mint-tavaly-itt-a-valasz-263948">
+                            <p class="title">Mennyivel drágább a karácsonyi bevásárlás, mint tavaly? Itt a válasz</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-263948" data-create-time="2013-12-10 14:00:00">2013-12-10 14:00:00</span>
+                            </p>
+                                                        <p class="lead">Kitört a karácsonyi láz a hipermarketekben, az akciók ellenére valamivel többet kellet fizetnünk a Privátbankár Árkosaráért, mint egy hónapja - de volt olyan áruház, ami engedett a novemberi árakból. Az idei karácsonyi trakta bő 4 százalékkal drágább lesz, mint a tavalyi.</p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/agrar/egy-kicsit-most-konnyebb-olcsobb-lett-a-nagybevasarlas-262985">
+                                <img src="/data/cikk/26/29/85/cikk_262985/bevasarlo_par_rf_2_oszlopos_lentilead_fill_310x200.jpg" alt="Egy kicsit most könnyebb: olcsóbb lett a nagybevásárlás">
+                            </a>
+                                                    </div>
+                        <a href="/agrar/egy-kicsit-most-konnyebb-olcsobb-lett-a-nagybevasarlas-262985">
+                            <p class="title">Egy kicsit most könnyebb: olcsóbb lett a nagybevásárlás</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-262985" data-create-time="2013-11-11 09:39:00">2013-11-11 09:39:00</span>
+                            </p>
+                                                        <p class="lead">Az Interspar megelőzte a Tescót, olcsóbb lett a banán, drágább a krumpli és a tej - megnehezítik az életünket az olcsó tea kiválasztásánál.</p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/fogyaszto/krumplisteszta-tejjel-megorultel-erre-szamits-a-nagybevasarlasnal-262037">
+                                <img src="/data/cikk/25/20/84/cikk_252084/halloweentokok_2_oszlopos_lentilead_fill_310x200.jpg" alt="Krumplistészta tejjel: megőrültél? Erre számíts a nagybevásárlásnál">
+                            </a>
+                                                    </div>
+                        <a href="/fogyaszto/krumplisteszta-tejjel-megorultel-erre-szamits-a-nagybevasarlasnal-262037">
+                            <p class="title">Krumplistészta tejjel: megőrültél? Erre számíts a nagybevásárlásnál</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-262037" data-create-time="2013-10-10 10:20:00">2013-10-10 10:20:00</span>
+                            </p>
+                                                        <p class="lead">A múlt hónaphoz képest nem kell sokkal többet fizetnünk a hipermarketekben.</p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/fogyaszto/nagybevasarlasra-keszul-ujabb-jo-hirunk-van-261135">
+                                <img src="/data/cikk/26/11/35/cikk_261135/oszi_gyumolcskosar_rf_2_oszlopos_lentilead_fill_310x200.jpg" alt="Nagybevásárlásra készül? Újabb jó hírünk van">
+                            </a>
+                                                    </div>
+                        <a href="/fogyaszto/nagybevasarlasra-keszul-ujabb-jo-hirunk-van-261135">
+                            <p class="title">Nagybevásárlásra készül? Újabb jó hírünk van</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-261135" data-create-time="2013-09-10 10:12:00">2013-09-10 10:12:00</span>
+                            </p>
+                                                        <p class="lead">A nyolcvanadik Árkosár-felmérésben először mérhettünk éves adatot az Intersparban, a holland lánc rögtön előzött is egyet. Tovább folytatódott az árcsökkenés, a júliusi csúcs óta ereszkedik az élelmiszerkosarunk ára - hova lett az e-útdíj az árakból?</p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/fogyaszto/kellemes-meglepetes-a-nagybevasarlasnal-nagyon-figyelje-az-arakat-260362">
+                                <img src="/data/cikk/26/3/62/cikk_260362/auchan_sziget_pb_2_oszlopos_lentilead_fill_310x200.jpg" alt="Kellemes meglepetés a nagybevásárlásnál - nagyon figyelje az árakat!">
+                            </a>
+                                                    </div>
+                        <a href="/fogyaszto/kellemes-meglepetes-a-nagybevasarlasnal-nagyon-figyelje-az-arakat-260362">
+                            <p class="title">Kellemes meglepetés a nagybevásárlásnál - nagyon figyelje az árakat!</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-260362" data-create-time="2013-08-12 06:15:00">2013-08-12 06:15:00</span>
+                            </p>
+                                                        <p class="lead">A júliusi rég látott áremelkedés után augusztus elejére korrigáltak a hipermarketek: egy hónap alatt váratlanul olcsóbb lett a nagybevásárlás. A felmérés közben megnéztük, hogyan kezeli az Auchan a szigetelők áradatát, és az is újra bebizonyosodott: érdemes nagyítóval vásárolni, mert a régi trükk tovább hódít - kisebb csomagot adnak ugyanannyiért.</p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/fogyaszto/a-nagybevasarlasra-nincs-rezsicsokkentes-ugrottak-az-elelmiszerarak-259439">
+                                <img src="/data/cikk/24/21/22/cikk_242122/bevasarlas_draga_RF300_2_oszlopos_lentilead_fill_310x200.jpg" alt="A nagybevásárlásra nincs rezsicsökkentés - ugrottak az élelmiszerárak">
+                            </a>
+                                                    </div>
+                        <a href="/fogyaszto/a-nagybevasarlasra-nincs-rezsicsokkentes-ugrottak-az-elelmiszerarak-259439">
+                            <p class="title">A nagybevásárlásra nincs rezsicsökkentés - ugrottak az élelmiszerárak</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-259439" data-create-time="2013-07-10 06:10:00">2013-07-10 06:10:00</span>
+                            </p>
+                                                        <p class="lead">A Privátbankár Árkosár-felmérése szerint júliusban régen látott tempóban emelkedtek az élelmiszerárak a hipermarketekben. </p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/fogyaszto/ujabb-csucson-a-nagybevasarlas-ara-mennyibe-kerul-az-elso-idei-lecso-258545">
+                                <img src="/data/cikk/25/85/45/cikk_258545/lecso_rf_2_oszlopos_lentilead_fill_310x200.jpg" alt="Újabb csúcson a nagybevásárlás ára - mennyibe kerül az első idei lecsó?">
+                            </a>
+                                                    </div>
+                        <a href="/fogyaszto/ujabb-csucson-a-nagybevasarlas-ara-mennyibe-kerul-az-elso-idei-lecso-258545">
+                            <p class="title">Újabb csúcson a nagybevásárlás ára - mennyibe kerül az első idei lecsó?</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-258545" data-create-time="2013-06-10 06:15:00">2013-06-10 06:15:00</span>
+                            </p>
+                                                        <p class="lead">Az élelmiszerek ára a legutóbbi jelentés szerint épp kétszer annyit emelkedett, mint az átlagos infláció. A drágulás üteme a Privátbankár Árkosár szerint is lassult júniusban, de azért összejött a történelmi csúcs.</p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/fogyaszto/kulfoldi-eper-es-filleres-ketchup-olcsobb-lett-a-nagybevasarlas-257721">
+                                <img src="/data/cikk/25/77/21/cikk_257721/ketchup_eper_2_oszlopos_lentilead_fill_310x200.jpg" alt="Külföldi eper és filléres ketchup: olcsóbb lett a nagybevásárlás">
+                            </a>
+                                                    </div>
+                        <a href="/fogyaszto/kulfoldi-eper-es-filleres-ketchup-olcsobb-lett-a-nagybevasarlas-257721">
+                            <p class="title">Külföldi eper és filléres ketchup: olcsóbb lett a nagybevásárlás</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-257721" data-create-time="2013-05-13 06:10:00">2013-05-13 06:10:00</span>
+                            </p>
+                                                        <p class="lead">Háromból két hipermarketben olcsóbban vásárolhatunk be, mint egy hónappal ezelőtt. </p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/fogyaszto/megint-dragabb-lett-a-nagybevasarlas-megfizetunk-a-nudliert-256773">
+                                <img src="/data/cikk/25/67/73/cikk_256773/krumpli_rf_2_oszlopos_lentilead_fill_310x200.jpg" alt="Megint drágább lett a nagybevásárlás - megfizetünk a nudliért">
+                            </a>
+                                                    </div>
+                        <a href="/fogyaszto/megint-dragabb-lett-a-nagybevasarlas-megfizetunk-a-nudliert-256773">
+                            <p class="title">Megint drágább lett a nagybevásárlás - megfizetünk a nudliért</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-256773" data-create-time="2013-04-10 15:15:00">2013-04-10 15:15:00</span>
+                            </p>
+                                                        <p class="lead">Április elején ismét drágább lett a nagybevásárlás. Aki a krumplit és a lisztet szereti, jól nem járhat.</p>
+                                                    </a>
+                    </div>
+                </li>
+                    </ul>
+    </div>
+
+    <script>
+        function getTimestamp(str) {
+            var d = str.match(/\d+/g);
+            return +new Date(d[0], d[1] - 1, d[2], d[3], d[4], d[5]);
+        }
+
+        $.get('/?block=pb_hirado_ajanlo_most&ajax=1', function(data) {
+            nowtime = getTimestamp(data);
+            nowtime = nowtime + 1000;
+
+            $('.create-time').each(function(index,value){
+                var createtime = getTimestamp($(value).attr('data-create-time'));
+
+                var date1 = new Date(createtime);
+                var date2 = new Date(nowtime);
+
+                var diffDays    = parseInt((date2 - date1) / (1000 * 60 * 60 * 24));
+
+                var diffHours   = parseInt((date2 - date1) / (1000 * 60 * 60));
+                var Hours       = diffHours - (diffDays * 24) + 1;
+
+                var diffMinutes = parseInt((date2 - date1) / (1000 * 60));
+                var Minutes     = diffMinutes - (diffHours * 60);
+
+
+                var dispDays    = '';
+                var dispHours   = '';
+                var dispMinutes = '';
+                if ( diffDays > 0 ) {
+                    dispDays = diffDays + ' napja';
+                }
+                else if ( diffDays == 0 && Hours > 0 ) {
+                    dispHours = Hours + ' órája';
+                }
+                else if ( diffDays == 0 && Hours == 0 && Minutes > 0) {
+                    if ( Minutes <= 15 ) {
+                        dispMinutes = Minutes + 'perce';
+                    }
+                    else if ( Minutes > 15 && Minutes <= 30 ) {
+                        dispMinutes = 'negyed órája';
+                    }
+                    else if ( Minutes > 30 && Minutes <= 60 ) {
+                        dispMinutes = 'fél órája';
+                    }
+                }
+
+                $(value).text(dispDays + dispHours + dispMinutes);
+            });
+
+        });
+
+    </script>
+</div>						<div class="box ad-box">
+							<!-- iBILLBOARD Ad Server one2many Position: go.cz.bbelements.com privatbankar_uj(16126) / fogyaszto(11) / fogyaszto_billboard_feloldal_1_max_300x600(3) / billboard(1)-->
+<!-- HowTo: Place this code into the html page where the ad should appear. -->
+<div id='bmone2n-16126.11.3.1'>
+<noscript><div style='display:inline'><a href='http://go.cz.bbelements.com/please/redirect/16126/11/3/1/'><img src='http://go.cz.bbelements.com/please/showit/16126/11/3/1/?typkodu=img&keywords=' style='border-width:0' alt='' /></a></div></noscript>
+</div>							<div>Hirdetés</div>
+						</div>
+
+<div class="cikk-video-ajanlo box">
+        <h2 class="privatb-header-black">
+        <span>Mi történt az elmúlt órákban?</span>
+    </h2>
+
+    <div class="slides with_lead">
+        <ul id="slides" class="cikk-list slides_list">
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/makro/megszolalt-a-kormany-rtl-ugyben-valaszthatnak-a-devizahitelesek-277376">
+                                <img src="/data/cikk/26/58/18/cikk_265818/devizahitel_1_oszlopos_biglead_1_oszlopos_breaking_2_oszlopos_lentilead_fill_310x200.jpg" alt="Megszólalt a kormány RTL-ügyben - választhatnak a devizahitelesek">
+                            </a>
+                                                        <a href="/makro/megszolalt-a-kormany-rtl-ugyben-valaszthatnak-a-devizahitelesek-277376">
+                                <span class="play"></span>
+                            </a>
+                                                    </div>
+                        <a href="/makro/megszolalt-a-kormany-rtl-ugyben-valaszthatnak-a-devizahitelesek-277376">
+                            <p class="title">Megszólalt a kormány RTL-ügyben - választhatnak a devizahitelesek</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-277376" data-create-time="2015-01-30 16:31:00">2015-01-30 16:31:00</span>
+                            </p>
+                                                        <p class="lead">A kormány elismerte, tárgyaltak a Bertelsmann-csoporttal a reklámadóról.  Közben Orbán Viktor a bevándorlásról, Putyinról, Merkelről és a bankadóról beszélt. Nem csak nálunk, de a szomszédainknál is komoly téma a devizahitelesek megsegítése.</p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/makro/orban-koccintasra-rogan-tablo-nezegetesre-hivja-a-devizahitelesek-277366">
+                                <img src="/data/cikk/24/81/74/cikk_248174/roganantal_hurol_2_oszlopos_lentilead_fill_310x200.jpg" alt="Orbán koccintásra, Rogán tablónézegetésre hívja a devizahiteleseket">
+                            </a>
+                                                        <a href="/makro/orban-koccintasra-rogan-tablo-nezegetesre-hivja-a-devizahitelesek-277366">
+                                <span class="play"></span>
+                            </a>
+                                                    </div>
+                        <a href="/makro/orban-koccintasra-rogan-tablo-nezegetesre-hivja-a-devizahitelesek-277366">
+                            <p class="title">Orbán koccintásra, Rogán tablónézegetésre hívja a devizahiteleseket</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-277366" data-create-time="2015-01-30 13:19:00">2015-01-30 13:19:00</span>
+                            </p>
+                                                        <p class="lead">Rogán Antal a devizahitelekről beszélt és egy furcsa tablót mutogatott - Orbán Viktor pedig a bevándorlásról, Putyinról, Merkelről és a bankadóról is beszélt – és erősödik forint - <b style="color:#FF0000;">Nézze meg itt >></b> </p>
+                                                    </a>
+                    </div>
+                </li>
+                    </ul>
+    </div>
+
+    <script>
+        function getTimestamp(str) {
+            var d = str.match(/\d+/g);
+            return +new Date(d[0], d[1] - 1, d[2], d[3], d[4], d[5]);
+        }
+
+        $.get('/?block=pb_hirado_ajanlo_most&ajax=1', function(data) {
+            nowtime = getTimestamp(data);
+            nowtime = nowtime + 1000;
+
+            $('.create-time').each(function(index,value){
+                var createtime = getTimestamp($(value).attr('data-create-time'));
+
+                var date1 = new Date(createtime);
+                var date2 = new Date(nowtime);
+
+                var diffDays    = parseInt((date2 - date1) / (1000 * 60 * 60 * 24));
+
+                var diffHours   = parseInt((date2 - date1) / (1000 * 60 * 60));
+                var Hours       = diffHours - (diffDays * 24) + 1;
+
+                var diffMinutes = parseInt((date2 - date1) / (1000 * 60));
+                var Minutes     = diffMinutes - (diffHours * 60);
+
+
+                var dispDays    = '';
+                var dispHours   = '';
+                var dispMinutes = '';
+                if ( diffDays > 0 ) {
+                    dispDays = diffDays + ' napja';
+                }
+                else if ( diffDays == 0 && Hours > 0 ) {
+                    dispHours = Hours + ' órája';
+                }
+                else if ( diffDays == 0 && Hours == 0 && Minutes > 0) {
+                    if ( Minutes <= 15 ) {
+                        dispMinutes = Minutes + 'perce';
+                    }
+                    else if ( Minutes > 15 && Minutes <= 30 ) {
+                        dispMinutes = 'negyed órája';
+                    }
+                    else if ( Minutes > 30 && Minutes <= 60 ) {
+                        dispMinutes = 'fél órája';
+                    }
+                }
+
+                $(value).text(dispDays + dispHours + dispMinutes);
+            });
+
+        });
+
+    </script>
+</div>								<div class="box box-w-header linklist  color-gray" style="width: 310px;">
+																	<h2 class="privatb-header-black">Legfrissebb</h2>
+																	<div class="wrapper">
+										<div class="inner-wrapper clearfix">
+											<ul>
+												<li><a data-cikk-id="277379" href="/makro/menni-vagy-maradni-egyre-tobb-az-euroszkeptikus-olasz-277379">Menni vagy maradni? Egyre több az euroszkeptikus olasz</a></li>
+												<li><a data-cikk-id="277376" href="/makro/megszolalt-a-kormany-rtl-ugyben-valaszthatnak-a-devizahitelesek-277376">Megszólalt a kormány RTL-ügyben - választhatnak a devizahitelesek</a></li>
+												<li><a data-cikk-id="277367" href="/fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367">Így kaphatod vissza a megyei matrica árát </a></li>
+												<li><a data-cikk-id="277375" href="/karrier/varga-szerint-is-egyre-tobb-szakmunkas-kell-277375">Varga szerint is egyre több szakmunkás kell</a></li>
+												<li><a data-cikk-id="277372" href="/makro/nem-ezt-vartak-amerika-lelassult-de-azert-van-ami-nagyon-huz-277372">Nem ezt várták: Amerika lelassult, de azért van, ami nagyon húz </a></li>
+												<li><a data-cikk-id="277371" href="/ado/elismerte-a-kormany-targyaltak-az-rtl-lel-a-reklamadorol-277371">Elismerte a kormány: tárgyaltak az RTL-lel a reklámadóról </a></li>
+												<li><a data-cikk-id="277370" href="/karrier/es-on-szivesen-dolgozna-egy-robotnak-277370">És ön szívesen dolgozna egy robotnak?</a></li>
+												<li><a data-cikk-id="277369" href="/penzugyek/mindenki-maskepp-csinalja-mit-kezdenek-szomszedaink-devizahitelukkel-277369">Mindenki másképp csinálja: mi lesz szomszédaink devizahitelével?</a></li>
+												<li><a data-cikk-id="277368" href="/makro/szijjarto-szerint-sokat-koszonhetunk-az-amerikaiaknak-277368">Szijjártó szerint sokat köszönhetünk az amerikaiaknak</a></li>
+												<li><a data-cikk-id="277366" href="/makro/orban-koccintasra-rogan-tablo-nezegetesre-hivja-a-devizahitelesek-277366">Orbán koccintásra, Rogán tablónézegetésre hívja a devizahiteleseket</a></li>
+											</ul>
+																					<a href="http://privatbankar.hu/hircentrum/" class="cikklist_more">Tovább</a>
+																				</div>
+									</div>
+								</div> <!-- .box-w-header -->
+						<div class="box ad-box">
+							<!-- iBILLBOARD Ad Server one2many Position: go.cz.bbelements.com privatbankar_uj(16126) / fogyaszto(11) / fogyaszto_billboard_feloldal_2_max_300x600(4) / billboard(1)-->
+<!-- HowTo: Place this code into the html page where the ad should appear. -->
+<div id='bmone2n-16126.11.4.1'>
+<noscript><div style='display:inline'><a href='http://go.cz.bbelements.com/please/redirect/16126/11/4/1/'><img src='http://go.cz.bbelements.com/please/showit/16126/11/4/1/?typkodu=img&keywords=' style='border-width:0' alt='' /></a></div></noscript>
+</div>							<div>Hirdetés</div>
+						</div>
+				<div class="box clr htmlbox">
+				<div>
+			<p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://privatbankar.hu/data/files/blog_zold_fejlec2.jpg" alt="" /></p>					</div>
+	</div>
+
+<div class="cikk-video-ajanlo box">
+
+    <div class="slides with_lead">
+        <ul id="slides" class="cikk-list slides_list">
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/finlab/tenyleg-keveset-koltunk-felsooktatasra-vagy-tartsak-el-magukat-az-egyetemek-276846">
+                                <img src="/data/cikk/27/68/46/cikk_276846/finlab_fo_1_2_oszlopos_lentilead_fill_310x200.jpg" alt="Tényleg keveset költünk felsőoktatásra, vagy tartsák el magukat az egyetemek?">
+                            </a>
+                                                    </div>
+                        <a href="/finlab/tenyleg-keveset-koltunk-felsooktatasra-vagy-tartsak-el-magukat-az-egyetemek-276846">
+                            <p class="title">Tényleg keveset költünk felsőoktatásra, vagy tartsák el magukat az egyetemek?</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-276846" data-create-time="2015-01-17 18:00:00">2015-01-17 18:00:00</span>
+                            </p>
+                                                        <p class="lead">Az elmúlt napokban az érettségi kérdése kapcsán újra sokat hallhatunk a felsőoktatási politikáról, illetve a felsőoktatás finanszírozásáról. Egyesek azt állítják, hogy keveset költünk a tudományra és annak disszeminációjára, mások azt hangoztatják, hogy az lenne az egészséges, hogy ágazat maga termelné ki működésének költségét. Hol az igazság?</p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/finlab/milyen-egy-jo-nyugdijrendszer-276563">
+                                <img src="/data/kepek/01nyers/nyugdijasok_nyaralnak_ph_2_oszlopos_lentilead_fill_310x200.jpg" alt="Milyen egy jó nyugdíjrendszer? ">
+                            </a>
+                                                    </div>
+                        <a href="/finlab/milyen-egy-jo-nyugdijrendszer-276563">
+                            <p class="title">Milyen egy jó nyugdíjrendszer? </p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-276563" data-create-time="2015-01-10 11:01:00">2015-01-10 11:01:00</span>
+                            </p>
+                                                        <p class="lead">A létező nyugdíjrendszerekkel általában az a baj, hogy nem tudják megfelelően kezelni a demográfiai és a munkaerő-piaci trendeket, illetve kevéssé átláthatók.</p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/finlab/intezmenyesitett-csalas-elkepeszto-trukkel-huzzak-le-a-tozsdezoket-276380">
+                                <img src="/data/cikk/24/57/3/cikk_245703/atutalas_rf_2_oszlopos_lentilead_fill_310x200.jpg" alt="Intézményesített csalás? Elképesztő trükkel húzzák le a tőzsdézőket">
+                            </a>
+                                                    </div>
+                        <a href="/finlab/intezmenyesitett-csalas-elkepeszto-trukkel-huzzak-le-a-tozsdezoket-276380">
+                            <p class="title">Intézményesített csalás? Elképesztő trükkel húzzák le a tőzsdézőket</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-276380" data-create-time="2015-01-05 20:01:00">2015-01-05 20:01:00</span>
+                            </p>
+                                                        <p class="lead">Egy befektető azt vette észre, hogy az általa adott megbízások mindig kicsit „arrébb” teljesültek, mint tervezte.</p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/finlab/filleres-gondok-es-fenyuzes-a-magyar-sport-ket-arca-276272">
+                                <img src="/data/cikk/24/77/25/cikk_247725/fociespenz1_2_oszlopos_lentilead_fill_310x200.jpg" alt="Filléres gondok és fényűzés: a magyar sport két arca ">
+                            </a>
+                                                    </div>
+                        <a href="/finlab/filleres-gondok-es-fenyuzes-a-magyar-sport-ket-arca-276272">
+                            <p class="title">Filléres gondok és fényűzés: a magyar sport két arca </p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-276272" data-create-time="2014-12-30 16:28:00">2014-12-30 16:28:00</span>
+                            </p>
+                                                        <p class="lead">Úgy tűnik, itthon néhányan mesésen megélnek a jelenlegi zavaros sportvezetési helyzetből, miközben a többségnek filléres gondjai vannak. A szinte áthatolhatatlan fal azonban nem sportágak között húzódik, s nem is a tömeg és a versenysport között.</p>
+                                                    </a>
+                    </div>
+                </li>
+                            <li class="cikk">
+                    <div class="inner">
+                        <div class="image">
+                            <a href="/finlab/a-cashflow-es-az-igazsag-276051">
+                                <img src="/data/cikk/24/25/33/cikk_242533/uzletemberek_targyalnak_2_oszlopos_lentilead_fill_310x200.jpg" alt="A cashflow és az igazság">
+                            </a>
+                                                    </div>
+                        <a href="/finlab/a-cashflow-es-az-igazsag-276051">
+                            <p class="title">A cashflow és az igazság</p>
+                            <p class="info">
+                                <span class="sub_title"></span>
+                                                                <span class="create-time" id="create-time-276051" data-create-time="2014-12-22 11:36:00">2014-12-22 11:36:00</span>
+                            </p>
+                                                        <p class="lead">A minap egy számvitel előadására ültem be ahhoz a csoporthoz, melyet én magam vállalati pénzügyekre oktatok.. Számviteles kollégám izmos felütéssel kezdte az előadást: „Vannak tárgyak, ahol alulértékelik, és vannak, ahol nagyon túlértékelik az eredménnyel szemben a cashflow szerepét – én majd elmondom az igazságot.”</p>
+                                                    </a>
+                    </div>
+                </li>
+                    </ul>
+    </div>
+
+    <script>
+        function getTimestamp(str) {
+            var d = str.match(/\d+/g);
+            return +new Date(d[0], d[1] - 1, d[2], d[3], d[4], d[5]);
+        }
+
+        $.get('/?block=pb_hirado_ajanlo_most&ajax=1', function(data) {
+            nowtime = getTimestamp(data);
+            nowtime = nowtime + 1000;
+
+            $('.create-time').each(function(index,value){
+                var createtime = getTimestamp($(value).attr('data-create-time'));
+
+                var date1 = new Date(createtime);
+                var date2 = new Date(nowtime);
+
+                var diffDays    = parseInt((date2 - date1) / (1000 * 60 * 60 * 24));
+
+                var diffHours   = parseInt((date2 - date1) / (1000 * 60 * 60));
+                var Hours       = diffHours - (diffDays * 24) + 1;
+
+                var diffMinutes = parseInt((date2 - date1) / (1000 * 60));
+                var Minutes     = diffMinutes - (diffHours * 60);
+
+
+                var dispDays    = '';
+                var dispHours   = '';
+                var dispMinutes = '';
+                if ( diffDays > 0 ) {
+                    dispDays = diffDays + ' napja';
+                }
+                else if ( diffDays == 0 && Hours > 0 ) {
+                    dispHours = Hours + ' órája';
+                }
+                else if ( diffDays == 0 && Hours == 0 && Minutes > 0) {
+                    if ( Minutes <= 15 ) {
+                        dispMinutes = Minutes + 'perce';
+                    }
+                    else if ( Minutes > 15 && Minutes <= 30 ) {
+                        dispMinutes = 'negyed órája';
+                    }
+                    else if ( Minutes > 30 && Minutes <= 60 ) {
+                        dispMinutes = 'fél órája';
+                    }
+                }
+
+                $(value).text(dispDays + dispHours + dispMinutes);
+            });
+
+        });
+
+    </script>
+</div>	<div class="box clr min-editor interjubox box-w-header">
+								<h2 class="privatb-header"><span>Ajánlatunk</span></h2>
+								<ul>
+											<li>
+									<h3><a data-cikk-id="276677" href="/fogyaszto/tizeves-a-magyar-borok-balja-276677">Tízéves a Magyar Borok Bálja</a></h3>
+																			<p style="">A Magyar Borok Bálja a magyar bor ünnepe <a data-cikk-id="276677" href="/fogyaszto/tizeves-a-magyar-borok-balja-276677" class="plus">Tovább</a></p>
+																												<a data-cikk-id="276677" href="/fogyaszto/tizeves-a-magyar-borok-balja-276677" class="iwrp"><img src="/data/kepek/elelmiszer/bor2_2_oszlopos_leftlead_2_oszlopos_rightlead_fill_80x80.jpg" width="80" height="80" alt="Tízéves a Magyar Borok Bálja"></a>
+																	</li>
+															<li class="noimg even">
+									<h3><a data-cikk-id="268372" href="/kkv/a-nyugodt-vallalkozo-letezik-268372">A nyugodt vállalkozó létezik...</a></h3>
+																			<p style="">...akinek akár még bowlingozni is van ideje, hiszen időben gondoskodott arról, hogy áthidalja esetleges likviditási problémáit. (x) <a data-cikk-id="268372" href="/kkv/a-nyugodt-vallalkozo-letezik-268372" class="plus">Tovább</a></p>
+										<!-- (c) 2000-2014 Gemius SA version 2.0 Impressions: campaign: Dinamikus folyószámlahitel, placement: /1st round/Adaptive Media/Privátbankár/ROS/PR article lead CAMP.START-CAMP.END, creative: merokod  -->
+<script language="javascript1.2" type="text/javascript">
+//<![CDATA[
+_gde_lpihluphjz = new Image(1,1);
+_gde_lpihluphjz.src='http://gdehu.hit.gemius.pl/_'+(new Date()).getTime()+'/redot.gif?id=.AFAV..AK1UbbjEi4OSmoLRHj36yhcO05dczh6rDZ.v.A7/fastid=bdixncqessishfmtuenivqaybflb/stparam=lpihluphjz';
+//]]>
+</script>																	</li>
+										</ul>
+									</div>
+
+						<div class="box box-w-header">
+							<h2 class="privatb-header">Hírlevél</h2>
+							<div class="wrapper">
+							<p style="margin-bottom: 10px;">Feliratkozáshoz kérjük adja meg e-mail címét:</p>
+							<form id="newsletterReg" action="/fogyaszto/igy-kaphatod-vissza-a-megyei-matrica-arat-277367" class="clr" method="post">
+							<input type="hidden" name="hirlevelbox_hirlevelek[]" value="1" />
+							<input type="hidden" name="hirlevelbox_hirlevelek[]" value="2" />
+							<input type="hidden" name="hirlevelbox_hirlevelek[]" value="3" />
+							    <fieldset>
+									<input type="hidden" name="hirlevelbox_action" value="feliratkozas">
+							        <input type="text" value="E-mail cím" onfocus="this.value=''" name="hirlevelbox_email" />
+							        <input type="submit" value="Mehet" class="submit"/>
+							    </fieldset>
+							</form>
+							</div>
+						</div>
+						<div class="box box-w-header fb-likebox">
+							<h2 class="privatb-header">Facebook</h2>
+							<div class="fb-like-box" data-href="http://facebook.com/privatbankar.hu" data-width="310" data-show-faces="true" data-border-color="#ffffff" data-stream="false" data-header="false"></div>
+						</div>
+<div class="box box-w-header szavazasbox" id="szavazasbox_55_0">
+	<a name="szavazas"></a>
+	<script type="text/javascript">
+		if(typeof issetLocalStorage != 'function') {
+			function issetLocalStorage() {
+				try {
+					console.log(typeof localStorage);
+					return true;
+				} catch(exception) {
+					return false;
+				}
+			}
+		}
+
+		function ajaxSubmit_55_0() {
+			if(issetLocalStorage) {
+				localStorage.setItem("szavazas_blokk_" + "55_0", "1");
+			}
+			$.post('/index.php?block=szavazasbox&ajax=1&id=1537&param=' + encodeURIComponent('szavazas_id=55'), $('#form_szavazas_55_0').serialize(), function(data) {
+				$('#szavazasbox_55_0').replaceWith(data);
+					//window.location.replace("http://privatbankar.hu/#szavazas");
+			});
+		}
+
+		function ajaxResults_55_0() {
+			$.get('/index.php?block=szavazasbox&ajax=1&results=1&id=1537&param=' + encodeURIComponent('szavazas_id=55'), function(data) {
+				$('#szavazasbox_55_0').replaceWith(data);
+				//$('#szavazasbox_' + '55_0' + ' .visszalink').hide();
+			});
+		}
+
+<!--		if(issetLocalStorage) {-->
+<!--			if(localStorage.getItem("szavazas_blokk"+--><!--)) {-->
+<!--				document.addEventListener("DOMContentLoaded", function(){-->
+<!--					ajaxResults_--><!--();-->
+<!--				}, false); -->
+<!--			}-->
+<!--		}-->
+	</script>
+	<h2 class="privatb-header">
+		<span>Szavazás</span>
+		<span class="button"></span>
+	</h2>
+	<div class="szavazasbox_title clr">
+				<h3>A lakosság több mint kétharmada enyhének tartja a hazai bevándorlási törvényeket, és szigorítaná a szabályozást – derítette ki a Századvég közvéleménykutatása. Ön mennyire van tisztában a magyar bevándorlási törvényekkel?</h3>
+			</div>
+	<form action="#szavazok_55_0" method="post" name="form_szavazas_55_0" id="form_szavazas_55_0">
+		<fieldset>
+			<input type="hidden" name="szavazas_id" value="55" />
+			<input type="hidden" name="szavazas_tema_id" value="55" />
+			<input type="hidden" name="szavazas_submit" value="Szavaz" />
+
+            <div class="row">
+				<label>
+					<input type="radio" name="valasz[55]" id="valasz_234" value="234" />
+					Bevándorló vagyok, ezért tisztában vagyok a szabályokkal.				</label>
+                            </div>
+                        <div class="row">
+				<label>
+					<input type="radio" name="valasz[55]" id="valasz_235" value="235" />
+					Nem vagyok bevándorló, de érdekel a téma, ezért naprakész, pontos ismereteim vannak a témáról és a szabályozásról.				</label>
+                            </div>
+                        <div class="row">
+				<label>
+					<input type="radio" name="valasz[55]" id="valasz_236" value="236" />
+					Ismerek bevándorlókat, tudok néhány problémájukról, de nem mondhatnám, hogy teljesen tisztában vagyok a szabályozással.				</label>
+                            </div>
+                        <div class="row">
+				<label>
+					<input type="radio" name="valasz[55]" id="valasz_237" value="237" />
+					Egyáltalán nem ismerem a szabályzás részleteit.				</label>
+                            </div>
+                        <div class="tovabb">
+                                    <a class="results" onclick="ajaxResults_55_0(); return false;" href="">Szavazás aktuális állása</a>
+                                <button type="submit" value="Szavazás" onclick="ajaxSubmit_55_0(); return false;">
+                    <span>Szavazás</span>
+                </button>
+            </div>
+
+		</fieldset>
+	</form>
+</div><!-- .szavazasbox -->						<div class="box box-w-header">
+							<ul class="tabs clr auto_restore" data-restore_name="top_24">
+								<li class="tab-top24 active"><a>Top 24 óra</a></li>
+								<li class="tab-top48"><a>Top 48 óra</a></li>
+								<li class="tab-top168"><a>Top 168 óra</a></li>
+							</ul>
+							<div class="tab-content linklist wrapper">
+								<div class="inner-wrapper-top">
+									<ul>
+																		<li><a data-cikk-id="277347" href="/makro/igy-hullik-szet-putyin-alma-mar-latjuk-ki-nevet-a-vegen-277347">Így hullik szét Putyin álma - már látjuk, ki nevet a végén</a></li>
+																		<li><a data-cikk-id="277333" href="/biztositas/mit-gondol-minek-az-ara-esett-felere-ot-ev-alatt-277333">Mit gondol, minek az ára esett felére öt év alatt?</a></li>
+																		<li><a data-cikk-id="277349" href="/ado/vegre-utolerte-az-etolajosokat-a-nav-46-milliardos-csaladi-vagyon-zar-alatt-277349">Végre utolérte az étolajosokat a NAV: 4,6 milliárdos családi vagyon zár alatt</a></li>
+																		<li><a data-cikk-id="277343" href="/makro/eltunik-a-penz-a-betetekbol-orul-a-magyar-allam-277343">Eltűnik a pénz a betétekből - örül a magyar állam</a></li>
+																		<li><a data-cikk-id="277341" href="/fogyaszto/indul-a-posta-nagy-dobasa-277341">Indul a posta nagy dobása</a></li>
+																		<li><a data-cikk-id="277357" href="/penzugyek/rogan-a-devizahitelekrol-beszelt-es-egy-furcsa-tablot-mutogatott-277357">Rogán a devizahitelekről beszélt és egy furcsa tablót mutogatott</a></li>
+																		<li><a data-cikk-id="277342" href="/ongondoskodas/penzt-es-nyugdijas-eveket-lehet-vele-nyerni-erre-figyeljen-277342">Pénzt és nyugdíjas éveket lehet vele nyerni - erre figyeljen!</a></li>
+																		<li><a data-cikk-id="277355" href="/makro/ciprasz-ujabb-trukkje-most-a-nemet-nepet-fuzi-277355">Újabb görög trükk: a német népet fűzi a miniszterelnök</a></li>
+																		<li><a data-cikk-id="277354" href="/makro/remenyt-adott-a-bankoknak-orban-igy-kaphat-tobb-nyugdijat-277354">Reményt adott a bankoknak Orbán - így kaphat több nyugdíjat</a></li>
+																		</ul>
+								</div>
+							</div> <!-- .tab-content -->
+							<div class="tab-content linklist wrapper" style="display: none">
+								<div class="inner-wrapper-top">
+									<ul>
+																		<li><a data-cikk-id="277308" href="/makro/gorogorszag-az-oroszok-fele-fordul-kezdhetunk-komolyan-aggodni-277308">Görögország az oroszok felé fordul - kezdhetünk komolyan aggódni</a></li>
+																		<li><a data-cikk-id="277300" href="/fogyaszto/most-akar-autot-venni-felejtse-el-277300">Most akar autót venni? Felejtse el!</a></li>
+																		<li><a data-cikk-id="277313" href="/ado/tizmilliardert-halkul-el-az-rtl-klub-kritikaja-277313">Tízmilliárdért halkul el az RTL Klub kritikája?</a></li>
+																		<li><a data-cikk-id="277323" href="/kkv/borulhat-a-bili-az-alstomnal-korrupciot-vizsgalnak-a-negyes-metronal-277323">Borulhat a bili az Alstomnál – korrupciót vizsgálnak a négyes metrónál?</a></li>
+																		<li><a data-cikk-id="277325" href="/szarmazekos/svajci-frank-elkepeszto-kotesek-millios-buktak-masodpercek-alatt-277325">Svájci frank: elképesztő kötések, milliós bukták másodpercek alatt</a></li>
+																		<li><a data-cikk-id="277288" href="/reszveny/a-nagy-adotrukk-erdekes-sztori-alakul-a-tozsden-277288">A nagy adótrükk: érdekes sztori alakul a tőzsdén</a></li>
+																		<li><a data-cikk-id="277321" href="/makro/ket-rosszcsont-europaban-277321">Fejjel a falnak? Már két rosszcsont tépi az idegeket Európában</a></li>
+																		<li><a data-cikk-id="277335" href="/kkv/nem-tudod-melyik-bolt-lesz-nyitva-vasarnap-itt-megnezheted-277335">Nem tudod, melyik bolt lesz nyitva vasárnap? Itt megnézheted </a></li>
+																		<li><a data-cikk-id="277333" href="/biztositas/mit-gondol-minek-az-ara-esett-felere-ot-ev-alatt-277333">Mit gondol, minek az ára esett felére öt év alatt?</a></li>
+																		</ul>
+								</div>
+							</div> <!-- .tab-content -->
+							<div class="tab-content linklist wrapper" style="display: none">
+								<div class="inner-wrapper-top">
+									<ul>
+																		<li><a data-cikk-id="277235" href="/kkv/ilyen-baratja-meg-nem-volt-a-kormanynak-most-lett-277235">Ilyen barátja még nem volt a kormánynak - most lett! </a></li>
+																		<li><a data-cikk-id="277129" href="/makro/magyar-qe-kapjon-minden-europai-polgar-1500-eurot-ingyen-277129">Magyar QE? Kapjon minden európai polgár 1500 eurót ingyen?</a></li>
+																		<li><a data-cikk-id="277308" href="/makro/gorogorszag-az-oroszok-fele-fordul-kezdhetunk-komolyan-aggodni-277308">Görögország az oroszok felé fordul - kezdhetünk komolyan aggódni</a></li>
+																		<li><a data-cikk-id="277195" href="/reszveny/tesco-boltbezarasok-kivonulas-igy-kezdodtek-a-problemak-277195">Tesco: boltbezárások, kivonulás - így kezdődtek a problémák</a></li>
+																		<li><a data-cikk-id="277259" href="/karrier/itt-vannak-a-szamok-319-ezer-ember-valaszt-el-minket-orban-almatol-277259">Itt vannak a számok: 319 ezer ember választ el minket Orbán álmától</a></li>
+																		<li><a data-cikk-id="277140" href="/reszveny/nyakleves-a-raiffeisennek-es-a-felreertes-ami-mindent-boritott-277140">Nyakleves a Raiffeisennek - és a félreértés, ami mindent borított</a></li>
+																		<li><a data-cikk-id="277206" href="/ado/hatarido-tablazat-az-adobevallashoz-fontos-datum-kozeleg-277206">Határidő-táblázat az adóbevalláshoz: fontos dátum közeleg</a></li>
+																		<li><a data-cikk-id="277203" href="/makro/van-aki-haborut-emleget-fellobbano-nemet-ellenesseg-del-europaban-277203">Van, aki háborút emleget - fellobbanó német-ellenesség Dél-Európában</a></li>
+																		<li><a data-cikk-id="277300" href="/fogyaszto/most-akar-autot-venni-felejtse-el-277300">Most akar autót venni? Felejtse el!</a></li>
+																		</ul>
+								</div>
+							</div> <!-- .tab-content -->
+						</div> <!-- .betetbox -->
+	<div class="box clr min-editor cikklist-side box-w-header">
+								<h2 class="privatb-header"><span>Még több Fogyasztó</span></h2>
+								<ul>
+											<li>
+									<div><a data-cikk-id="277349" href="/ado/vegre-utolerte-az-etolajosokat-a-nav-46-milliardos-csaladi-vagyon-zar-alatt-277349">Végre utolérte az étolajosokat a NAV: 4,6 milliárdos családi vagyon zár alatt</a></div>
+																		<a data-cikk-id="277349" href="/ado/vegre-utolerte-az-etolajosokat-a-nav-46-milliardos-csaladi-vagyon-zar-alatt-277349" class="iwrp"><img src="/data/cikk/27/73/49/cikk_277349/etolaj_rf_2_oszlopos_leftlead_fill_124x80.jpg" width="124" height="80" alt="Végre utolérte az étolajosokat a NAV: 4,6 milliárdos családi vagyon zár alatt"></a>
+																	</li>
+															<li class="even">
+									<div><a data-cikk-id="277327" href="/kkv/gondolnad-hogy-ennyi-penzt-koltenek-el-a-magyarok-az-ikea-ban-277327">Gondolnád, hogy ennyi pénzt költenek el a magyarok az IKEA-ban?</a></div>
+																		<a data-cikk-id="277327" href="/kkv/gondolnad-hogy-ennyi-penzt-koltenek-el-a-magyarok-az-ikea-ban-277327" class="iwrp"><img src="/data/kepek/Vasarlas_fogyaszto/ikea_2_oszlopos_leftlead_fill_124x80.jpg" width="124" height="80" alt="Gondolnád, hogy ennyi pénzt költenek el a magyarok az IKEA-ban?"></a>
+																	</li>
+															<li>
+									<div><a data-cikk-id="277311" href="/makro/atirta-a-szamokat-a-ksh-tenyleg-nagyon-olcso-a-tankolas-277311">Átírta a számokat a KSH: tényleg nagyon olcsó a tankolás</a></div>
+																		<a data-cikk-id="277311" href="/makro/atirta-a-szamokat-a-ksh-tenyleg-nagyon-olcso-a-tankolas-277311" class="iwrp"><img src="/data/cikk/24/73/9/cikk_247309/tankolo_no_2_oszlopos_leftlead_fill_124x80.jpg" width="124" height="80" alt="Átírta a számokat a KSH: tényleg nagyon olcsó a tankolás"></a>
+																	</li>
+															<li class="even">
+									<div><a data-cikk-id="277179" href="/agrar/csak-rajonnek-az-oroszok-hogy-nem-olyan-rossz-a-magyar-disznohus-277179">Csak rájönnek az oroszok, hogy nem olyan rossz a magyar disznóhús</a></div>
+																		<a data-cikk-id="277179" href="/agrar/csak-rajonnek-az-oroszok-hogy-nem-olyan-rossz-a-magyar-disznohus-277179" class="iwrp"><img src="/data/cikk/24/60/81/cikk_246081/malacka1_2_oszlopos_leftlead_fill_124x80.jpg" width="124" height="80" alt="Csak rájönnek az oroszok, hogy nem olyan rossz a magyar disznóhús"></a>
+																	</li>
+										</ul>
+									</div>
+
+	<div class="box clr htmlbox">
+				<div>
+			<p>
+<object style="display: block; margin-left: auto; margin-right: auto;" width="310" height="60" data="http://privatbankar.hu/data/files/banner_310x60_utanajartunk_2.swf" type="application/x-shockwave-flash">
+<param name="data" value="http://privatbankar.hu/data/files/banner_310x60_utanajartunk.swf" />
+<param name="src" value="http://privatbankar.hu/data/files/banner_310x60_utanajartunk.swf" />
+<param name="wmode" value="transparent">
+</object>
+</p>					</div>
+	</div>
+								<div class="box box-w-header linklist linklist-scroll without-header color-gray" style="width: 310px;">
+																	<div class="wrapper">
+										<div class="inner-wrapper clearfix">
+											<ul>
+												<li><a data-cikk-id="277347" href="/makro/igy-hullik-szet-putyin-alma-mar-latjuk-ki-nevet-a-vegen-277347">Így hullik szét Putyin álma - már látjuk, ki nevet a végén</a></li>
+												<li><a data-cikk-id="277203" href="/makro/van-aki-haborut-emleget-fellobbano-nemet-ellenesseg-del-europaban-277203">Van, aki háborút emleget - fellobbanó német-ellenesség Dél-Európában</a></li>
+												<li><a data-cikk-id="277167" href="/makro/gorog-drama-a-demokracia-bolcsojetol-az-eurozona-peremeig-277167">Görög dráma: hogy jutott a demokrácia bölcsője az eurózóna peremére?</a></li>
+												<li><a data-cikk-id="277157" href="/penzugyek/orult-aki-vallalta-az-arfolyamkockazatot-a-magyar-bankok-esznel-voltak-277157">Őrült, aki vállalta az árfolyamkockázatot - a magyar bankok észnél voltak</a></li>
+												<li><a data-cikk-id="277068" href="/makro/itt-van-amire-mindenki-vart-277068">Itt van, amire mindenki várt - beindul a pénznyomda!</a></li>
+												<li><a data-cikk-id="276996" href="/penzugyek/vajon-a-magyar-devizahitelek-dontottek-be-svajcot-276996">A magyar devizahitelek döntötték be Svájcot?</a></li>
+												<li><a data-cikk-id="276894" href="/szarmazekos/kirobbano-formaban-a-forint-276894">Kirobbanó formában a forint - a végén még vonzó lesz a magyar deviza?</a></li>
+												<li><a data-cikk-id="276846" href="/finlab/tenyleg-keveset-koltunk-felsooktatasra-vagy-tartsak-el-magukat-az-egyetemek-276846">Tényleg keveset költünk felsőoktatásra, vagy tartsák el magukat az egyetemek?</a></li>
+												<li><a data-cikk-id="276833" href="/penzugyek/olcsobban-hasznalhatja-a-bankkartyajat-a-bankok-visszaadnak-276833">Ilyen is ritkán volt: a bankok egyszerre könnyítették az ügyfelek terheit!</a></li>
+												<li><a data-cikk-id="276778" href="/szarmazekos/devizaval-kereskedtel-most-akkor-torheted-a-fejed-mi-legyen-276778">Devizával kereskedtél? Most akkor törheted a fejed, mi legyen</a></li>
+												<li><a data-cikk-id="276759" href="/szarmazekos/drama-a-devizapiacon-elengedtek-a-svajci-frankot-hatalmasat-ugrott-az-arfolyam-276759">Dráma a devizapiacon: elengedték a svájci frankot, hatalmasat ugrott az árfolyam!</a></li>
+												<li><a data-cikk-id="276686" href="/fogyaszto/szokjunk-hozza-dragabb-lett-a-nagybevasarlas-276686">Szokjunk hozzá? Drágább lett a nagybevásárlás</a></li>
+												<li><a data-cikk-id="276467" href="/ingatlan/hany-lakast-lehet-felujitani-palyazati-penzbol-276467">Végre pénzt kapnak a társasházak: hány lakást lehet felújítani pályázati pénzből?</a></li>
+												<li><a data-cikk-id="276410" href="/makro/duplacsavar-nem-felbomlik-hanem-meg-erosebb-lesz-az-eurozona-a-gorogok-miatt-276410">Német duplacsavar: nem felbomlik, hanem még erősebb lesz az eurózóna</a></li>
+												<li><a data-cikk-id="276394" href="/reszveny/hatalmas-zakoval-indult-az-ev-276394">Hatalmas zakóval indult az év - erről szól majd 2015?</a></li>
+												<li><a data-cikk-id="276384" href="/makro/hogy-jutott-ide-ukrajna-mit-akar-toluk-putyin-es-mi-lesz-a-megoldas-276384">Hogy jutott ide Ukrajna, mit akar tőlük Putyin és mi lesz a megoldás?</a></li>
+												<li><a data-cikk-id="276264" href="/penzugyek/ujabb-magyar-bank-forditott-hatat-a-jelzaloghitel-piacnak-276264">Itt a második magyar bank, amelyik nem hitelez</a></li>
+												<li><a data-cikk-id="276102" href="/fogyaszto/tenyleg-csokkentek-az-arak-2014-ben-itt-vannak-a-szamok-ennyibe-kerult-a-nagybevasarlas-276102">Tényleg csökkentek az árak 2014-ben? Itt vannak a számok, ennyibe került a nagybevásárlás</a></li>
+												<li><a data-cikk-id="276087" href="/reszveny/gondoltad-volna-23-eves-a-karpotlasi-jegy-276087">Gondoltad volna? 23 éves a kárpótlási jegy</a></li>
+												<li><a data-cikk-id="275925" href="/kotveny/jo-nagy-sallert-kaptak-az-erste-es-az-otp-kotvenyei-275925">Jó nagy sallert kaptak az Erste és az OTP kötvényei</a></li>
+												<li><a data-cikk-id="275795" href="/erste_private_banking_4/oroszok-vagy-danok-india-es-kenya-valo-ez-a-magyar-kisbefektetoknek-275795">Oroszok vagy dánok, India és Kenya: való ez a magyar kisbefektetőknek?</a></li>
+												<li><a data-cikk-id="275713" href="/penzugyek/a-devizahitelesek-mellett-a-parkolocegek-aldozatai-is-bizhatnak-a-kuriaban-275713">A devizahitelesek mellett a parkolócégek áldozatai is bízhatnak a Kúriában</a></li>
+												<li><a data-cikk-id="275650" href="/ado/uj-vilag-koszont-be-a-magyar-adorendszerben-ez-meg-sok-cegnek-okozhat-gondot-275650">Új világ köszönt be a magyar adórendszerben - sok céget ér majd meglepetés</a></li>
+												<li><a data-cikk-id="275646" href="/fogyaszto/olcsobb-lett-az-ev-utolso-nagybevasarlasa-mit-csinaltak-iden-a-hipermarketek-275646">Olcsóbb lett az év utolsó nagybevásárlása: mit csináltak idén a hipermarketek?</a></li>
+												<li><a data-cikk-id="275566" href="/reszveny/a-szuz-felszallt-mennyit-lehet-ezzel-keresni-275566">A Szűz felszállt - mennyit lehet ezzel keresni?</a></li>
+												<li><a data-cikk-id="275560" href="/penzugyek/sokat-buknak-azok-akik-az-allami-tulajdonban-biztak-275560">Sokat buknak azok, akik az állami tulajdonban bíztak</a></li>
+												<li><a data-cikk-id="275551" href="/kkv/ne-csak-a-szel-dobalja-a-hajot-hogyan-lehet-sikeres-egy-csaladi-vallalkozas-275551">Ne csak a szél dobálja a hajót - hogyan lehet sikeres egy családi vállalkozás?</a></li>
+												<li><a data-cikk-id="275430" href="/kkv/ezt-tegye-ha-a-cege-helyett-ontol-kovetelik-a-penzt-275430">Mit tegyünk, ha a cég helyett tőlünk követelik a pénzt?</a></li>
+												<li><a data-cikk-id="275369" href="/szarmazekos/ilyet-sem-latni-minden-nap-macicsapda-az-aranyban-275369">Ilyet sem látni minden nap: szép kis macicsapda az aranyban</a></li>
+												<li><a data-cikk-id="275308" href="/szarmazekos/tavolrol-sem-olcso-meg-az-olaj-275308">Azt hiszed, tényleg olcsó az olaj? Meg fogsz lepődni</a></li>
+												<li><a data-cikk-id="275141" href="/ongondoskodas/ahol-maga-a-kiralyne-foglalkozik-a-penzugyi-kulturaval-275141">Nézzük meg, miből élünk, aztán jussunk el az okos befektetésekig</a></li>
+												<li><a data-cikk-id="275136" href="/penzugyek/ha-penzrol-van-szo-akkor-itt-nagy-a-kaosz-a-fejekben-275136">Ha pénzről van szó, akkor nagy a káosz a magyar fejekben</a></li>
+												<li><a data-cikk-id="275135" href="/ongondoskodas/a-szegenysegbol-a-matematikaval-lehet-igazan-kijonni-275135">A szegénységből a matematikával lehet igazán kitörni?</a></li>
+												<li><a data-cikk-id="274902" href="/reszveny/brokerpanaszok-az-alacsony-kamatok-miatt-tamadnak-a-koklerek-274902">Brókerpanaszok: az alacsony kamatok miatt támadnak a kóklerek</a></li>
+												<li><a data-cikk-id="274909" href="/kkv/mi-az-olcso-megsem-kell-a-magyar-vallalkozasoknak-274909">Mi az: olcsó, mégsem kell a magyar vállalkozásoknak?</a></li>
+												<li><a data-cikk-id="274884" href="/penzugyek/ezt-is-elinteztuk-gyorsul-a-takarekok-beteteseinek-kartalanitasa-274884">Ezt is elintéztük: gyorsul a takarékok betéteseinek kártalanítása</a></li>
+												<li><a data-cikk-id="274733" href="/penzugyek/varatlan-fordulat-elobb-johet-a-forintositas-mint-gondoltuk-274733">Váratlan fordulat: előbb jöhet a forintosítás, mint gondoltuk</a></li>
+												<li><a data-cikk-id="274611" href="/fogyaszto/meg-olcsobb-a-nagybevasarlas-mi-lett-olcsobb-mi-dragult-274611">Még olcsóbb a nagybevásárlás: mi lett olcsóbb, mi drágult?</a></li>
+												<li><a data-cikk-id="274440" href="/vallalat_fooldal/adjuk-meg-a-penznek-azt-ami-jar-neki-274440">Adjuk meg a pénznek azt, ami jár neki</a></li>
+												<li><a data-cikk-id="274356" href="/vallalat_fooldal/jo-uzlet-az-allamnak-a-felvasarlas-274356">Jó üzlet az államnak a felvásárlás</a></li>
+												<li><a data-cikk-id="274321" href="/karrier/hanyan-hagytak-el-magyarorszagot-es-hova-mentek-itt-megnezheted-274321">Hányan hagyták el Magyarországot és hova mentek? Itt megnézheted</a></li>
+												<li><a data-cikk-id="274259" href="/vallalat_fooldal/ezerszer-megfontolja-egy-befekteto-koltson-e-magyar-cegre-274259">Ezerszer megfontolja egy befektető, költsön-e magyar cégre vagy sem</a></li>
+												<li><a data-cikk-id="274284" href="/makro/amerika-elzarta-a-penzcsapot-ujabb-valsag-lesz-274284">Amerika elzárta a pénzcsapot, újabb válság lesz?</a></li>
+												<li><a data-cikk-id="274283" href="/penzugyek/amig-a-takaronk-er-vagy-tovabb-mire-jo-a-hitel-mire-kell-sporolni-274283">Amíg a takarónk ér vagy tovább? Mire jó a hitel, mire kell spórolni?</a></li>
+												<li><a data-cikk-id="274143" href="/penzugyek/a-sarga-csekk-eltunik-a-postakro-274143">A sárga csekk "eltűnik" a postákról</a></li>
+												<li><a data-cikk-id="273898" href="/penzugyek/melyik-bank-lesz-a-kovetkezo-kivonulo-itt-a-lehetseges-etlap-273898">Melyik bank hagyja el legközelebb az országot? Itt a lehetséges étlap</a></li>
+												<li><a data-cikk-id="273892" href="/kotveny/biztonsagos-10-alacsony-kockazatu-befektetes-alacsony-kamatkornyezetben-273892">Biztonságos? 10 alacsony kockázatú befektetés alacsony kamatkörnyezetben</a></li>
+												<li><a data-cikk-id="273878" href="/makro/nyugdijas-gumicsont-nem-mindegy-hany-gyerekem-van-interju-273878">Nyugdíjas gumicsont: nem mindegy, hány gyerekem van? Interjú</a></li>
+												<li><a data-cikk-id="273779" href="/kkv/mit-csinal-az-otp-a-facebookon-273779">Mit csinál az OTP a Facebookon?</a></li>
+												<li><a data-cikk-id="273763" href="/kkv/penzt-keresnel-a-kozossegi-mediaban-nem-eleg-ha-gizike-neha-ranez-a-facebookra-273763">Pénzt keresnél a közösségi médiában? Nem elég, ha Gizike néha ránéz a Facebookra</a></li>
+												<li><a data-cikk-id="273740" href="/penzugyek/nem-erzi-meg-a-hitelezes-szigoritasat-majd-a-lakashitel-piac-273740">Bekeményít a jegybank? Ne aggódjon, kap majd hitelt!</a></li>
+												<li><a data-cikk-id="273501" href="/penzugyek/a-kampanyigeretek-teljesitesehez-szukseg-lesz-unios-penzekre-273501">A kampányígéretek teljesítéséhez szükség lesz uniós pénzekre</a></li>
+												<li><a data-cikk-id="273397" href="/ongondoskodas/feltamadas-nagy-ugrast-hoz-a-nyugdijbiztositas-273397">Feltámadás: nagy ugrást hoz a nyugdíjbiztosítás</a></li>
+												<li><a data-cikk-id="273388" href="/biztositas/miben-hibazott-oriasit-zalatnay-cini-273388">Miben hibázott óriásit Zalatnay Cini?</a></li>
+												<li><a data-cikk-id="273380" href="/makro/a-minimalber-art-a-foglalkoztatasnak-es-a-gazdasagnak-interju-273380">A minimálbér árt a foglalkoztatásnak és a gazdaságnak - interjú</a></li>
+												<li><a data-cikk-id="273360" href="/utazas/a-nap-kepe-amiben-vilagcsucstarto-budapest-273360">A nap képe: amiben világcsúcstartó Budapest!</a></li>
+												<li><a data-cikk-id="273329" href="/reszveny/magyar-cegnek-magyar-piacon-a-helye-273329">Magyar cégnek magyar piacon a helye?</a></li>
+												<li><a data-cikk-id="273309" href="/penzugyek/orult-verseny-lesz-a-devizahitelek-forintositasa-itt-vannak-az-ujabb-reszletek-273309">Őrült verseny lesz a devizahitelek forintosítása - itt vannak az újabb részletek</a></li>
+												<li><a data-cikk-id="273069" href="/kkv/orvostudomanyi-attores-egy-magyar-talalmany-utja-a-vilagsikerig-273069">Orvostudományi áttörés: egy magyar találmány útja a világsikerig</a></li>
+												<li><a data-cikk-id="273059" href="/kkv/vennel-egy-ceget-igy-csinalhatsz-jo-uzletet-273059">Vennél egy céget? Így csinálhatsz jó üzletet!</a></li>
+												<li><a data-cikk-id="272980" href="/kkv/a-mikrocegek-finanszirozhatosagahoz-kell-az-allam-mint-eskuvoszervezo-272980">Hogyan juthatnak több hitelhez a legkisebbek? Ha az állam lesz az esküvőszervező</a></li>
+												<li><a data-cikk-id="272972" href="/penzugyek/mit-kezd-az-allam-a-bankjaival-nemeth-laszlone-elarulta-272972">Mit kezd az állam a bankjaival? Németh Lászlóné elárulta</a></li>
+												<li><a data-cikk-id="272947" href="/penzugyek/ugy-is-tudunk-felretenni-hogy-kozben-hitelt-veszunk-fel-272947">Úgy is tudunk félretenni, hogy közben hitelt veszünk fel</a></li>
+												<li><a data-cikk-id="272917" href="/penzugyek/mennyi-lesz-a-bankok-kozvetlen-vesztesege-a-devizahiteles-csomagon-272917">Mennyi lesz a bankok közvetlen vesztesége a devizahiteles csomagon?</a></li>
+												<li><a data-cikk-id="272806" href="/makro/nem-lesz-hosszabb-a-4-es-metro-de-lesz-dugodij-interju-tarlos-istvannal-272806">Nem lesz hosszabb a 4-es metró, de lesz dugódíj - interjú Tarlós Istvánnal</a></li>
+												<li><a data-cikk-id="272770" href="/penzugyek/oriasi-attores-jon-a-bankkartyak-vilagaban-magyarorszag-kimarad-272770">Óriási áttörés jön a bankkártyák világában - Magyarország kimarad?</a></li>
+												<li><a data-cikk-id="272759" href="/karrier/igy-szakad-szet-az-orszag-hatalmas-kulonbsegek-a-fizetesek-kozott-272759">Így szakad szét az ország: hatalmas különbségek a fizetések között</a></li>
+												<li><a data-cikk-id="272743" href="/makro/oktoberi-megszoritasok-forint-varazslat-orosz-tel-mi-var-rank-272743">Októberi megszorítások, forint-varázslat, orosz tél - mi vár ránk?</a></li>
+												<li><a data-cikk-id="272728" href="/biztositas/mar-a-klasszikus-eletbiztositas-is-jobb-mint-a-bankbetet-272728">Már a klasszikus életbiztosítás is jobb, mint a bankbetét</a></li>
+												<li><a data-cikk-id="272674" href="/makro/elobb-legyen-mit-enni-csak-utana-epuljon-stadion-272674">Előbb legyen mit enni, és utána épüljön stadion</a></li>
+												<li><a data-cikk-id="272629" href="/penzugyek/a-forinthiteleseket-sirba-kergetheti-a-devizahiteles-elszamolas-272629">A forinthiteleseket sírba kergetheti a devizahiteles elszámolás</a></li>
+												<li><a data-cikk-id="272426" href="/penzugyek/ongolt-rug-a-kormanyzat-a-devizahitel-perekben-272426">Öngólt rúg a kormányzat a devizahitel-perekben?</a></li>
+												<li><a data-cikk-id="272392" href="/makro/szijjarto-uj-vilagrend-keszul-miben-lesz-ellovas-magyarorszag-272392">Szijjártó: új világrend készül - miben lesz éllovas Magyarország?</a></li>
+												<li><a data-cikk-id="272343" href="/befalap/hozamot-szeretnel-tessek-kockazatot-vallalni-interju-272343">Hozamot szeretnél? Tessék kockázatot vállalni! – interjú</a></li>
+												<li><a data-cikk-id="272269" href="/kotveny/szamold-ki-6-elethelyzet-jozan-paraszti-esszel-272269">Számold ki! 6 élethelyzet józan paraszti ésszel</a></li>
+												<li><a data-cikk-id="272147" href="/makro/pogatsa-272147">Ha nem lesz munka, nyugdíj sem lesz</a></li>
+												<li><a data-cikk-id="272061" href="/utazas/a-nap-kepei-turistaknak-ketmilliardert-kivul-tagasabb-272061">A nap képei: Turistáknak kétmilliárdért kívül tágasabb</a></li>
+												<li><a data-cikk-id="272157" href="/befalap/a-nap-abraja-mikor-mibe-kell-fektetni-a-penzt-272157">A nap ábrája: mikor mibe kell fektetni a pénzt?</a></li>
+												<li><a data-cikk-id="271854" href="/penzugyek/a-bankelnok-aki-kimondta-a-devizahitel-rossz-termek-271854">A bankelnök, aki kimondta: a devizahitel rossz termék</a></li>
+												<li><a data-cikk-id="271523" href="/penzugyek/meglepeteseket-tartogathat-a-devizahitel-elszamolas-271523">Meglepetéseket tartogathat a devizahitel-elszámolás</a></li>
+												<li><a data-cikk-id="271394" href="/penzugyek/megjelent-a-negativ-kamat-a-banki-betetajanlatokban-271394">Megjelent a negatív kamat a banki betétajánlatokban</a></li>
+												<li><a data-cikk-id="271333" href="/penzugyek/gondolatok-a-bankszektorrol-csak-egy-maradhat-271333">Gondolatok a bankszektorról - csak egy maradhat?</a></li>
+												<li><a data-cikk-id="271314" href="/ado/a-nap-fotoja-nesze-neked-online-penztargep-271314">A nap fotója: nesze neked, online pénztárgép</a></li>
+												<li><a data-cikk-id="271316" href="/makro/kevesek-kivaltsaga-az-ingyenes-felsooktatas-ennyien-tanulhatnak-ma-az-allam-penzen-271316">Kevesek kiváltsága az ingyenes felsőoktatás? Ennyien tanulhatnak ma az állam pénzén</a></li>
+												<li><a data-cikk-id="271276" href="/makro/nagyot-sporolhat-az-orszag-hala-a-kamatvagasoknak-271276">Nagyot spórol az ország - hála a kamatvágásoknak</a></li>
+												<li><a data-cikk-id="271230" href="/penzugyek/dul-a-harc-a-magyar-bankszektorert-mire-keszul-az-allam-271230">Dúl a harc a magyar bankszektorért: mire készül az állam az MKB-val?</a></li>
+												<li><a data-cikk-id="271081" href="/kkv/itt-a-trukk-igy-tud-letszamot-bovitve-is-leepiteni-a-telekom-271081">Itt a trükk: így tud létszámot bővítve is leépíteni a Telekom</a></li>
+												<li><a data-cikk-id="271075" href="/penzugyek/postara-mehetnek-a-bedolt-takarek-ugyfelei-vannak-meg-kerdojelek-271075">Postára mehetnek a bedőlt takarék ügyfelei - vannak még kérdőjelek</a></li>
+												<li><a data-cikk-id="270995" href="/penzugyek/csavaros-ugy-miert-nem-tud-az-alkotmanybirosag-arrol-amirol-kerdeztek-270995">Csavaros ügy: miért nem tud az Alkotmánybíróság arról, amiről kérdezték?</a></li>
+												<li><a data-cikk-id="270968" href="/karrier/soha-meg-ennyi-magyar-nem-dolgozott-ausztriaban-270968">Soha nem dolgozott még ennyi magyar Ausztriában</a></li>
+												<li><a data-cikk-id="270948" href="/fogyaszto/legy-joba-az-anyosoddal-orokolhet-a-mama-270948">Örökléssel rendezi a nyugdíjproblémát a kormányzat?</a></li>
+												<li><a data-cikk-id="270867" href="/penzugyek/kihirdettek-a-devizahiteles-torvenyt-tisztessegtelen-lett-a-hitelezes-270867">Kihirdették a devizahiteles törvényt: tisztességtelen lett a hitelezés?</a></li>
+												<li><a data-cikk-id="270836" href="/makro/lelottek-egy-malaj-gepet-az-orosz-ukran-hataron-haboru-kozeleg-270836">Lelőttek egy maláj gépet az orosz-ukrán határon - háború közeleg?</a></li>
+												<li><a data-cikk-id="270764" href="/kotveny/kamatmizeria-megis-melyik-allampapirt-valasszam-270764">Kamatmizéria: Mégis, melyik állampapírt válasszam?</a></li>
+												<li><a data-cikk-id="270676" href="/makro/lehet-valasztani-adoemeles-vagy-nyugdijcsokkentes-a-ketto-kozul-az-egyik-elkerulhetetlen-270676">Lehet választani: adóemelés vagy nyugdíjcsökkentés? </a></li>
+												<li><a data-cikk-id="270382" href="/fogyaszto/amelyik-kormany-emeli-a-sor-arat-annak-mennie-kell-270382">Amelyik kormány emeli a sör árát, annak mennie kell?</a></li>
+												<li><a data-cikk-id="270633" href="/befalap/ujra-indul-a-shanghai-express-reszvenyt-vesz-a-magyar-270633">Újra indul a Shanghai Express? Részvényt vesz a magyar - nem biztos, hogy jókor</a></li>
+												<li><a data-cikk-id="270600" href="/fogyaszto/nem-fogja-elhinni-itt-van-europa-egyik-legolcsobb-cigije-270600">Nem fogja elhinni: nálunk van Európa egyik legolcsóbb cigije</a></li>
+												<li><a data-cikk-id="270565" href="/befalap/nyereseges-volt-megis-kivonul-magyarorszagrol-egy-penzugyi-szolgaltato-270565">Nyereséges volt, mégis kivonult Magyarországról egy pénzügyi szolgáltató</a></li>
+												<li><a data-cikk-id="270585" href="/penzugyek/nem-lesz-ujabb-takarek-csod-de-orgovany-azert-kerdeseket-vet-fel-270585">Ha nem lenne új integráció, már fizetnék az orgoványi betétesek pénzét</a></li>
+											</ul>
+																				</div>
+									</div>
+								</div> <!-- .box-w-header -->
+	<div class="box clr htmlbox">
+				<div>
+			<p><a href="http://privatbankar.hu/interju">
+<object style="display: block; margin-left: auto; margin-right: auto;" width="310" height="60" data="  /data/files/banner_310x60_linkes.swf" type="application/x-shockwave-flash">
+<param name="src" value=" /data/files/interju_banner310x60.swf" />
+<param name="wmode" value="transparent">
+</object>
+</a></p>					</div>
+	</div>
+	<div class="box clr min-editor interjubox">
+					<ul>
+											<li>
+									<h3><a data-cikk-id="276430" href="/befalap/a-forint-nem-draga-deviza-magasabb-kamatokra-pedig-hiaba-varunk-interju-276430">A forint nem drága deviza, magasabb kamatokra pedig hiába várunk – Duronelly Péter</a></h3>
+																		<a data-cikk-id="276430" href="/befalap/a-forint-nem-draga-deviza-magasabb-kamatokra-pedig-hiaba-varunk-interju-276430" class="iwrp"><img src="/data/cikk/27/64/30/cikk_276430/duronellypeter_2_oszlopos_rightlead_fill_80x80.jpg" width="80" height="80" alt="A forint nem drága deviza, magasabb kamatokra pedig hiába várunk – Duronelly Péter"></a>
+																	</li>
+															<li class="even">
+									<h3><a data-cikk-id="275798" href="/reszveny/tanuljuk-ki-a-penzugyeket-vagy-bizzuk-a-tokenk-szakemberekre-interju-275798">Tanuljuk ki a pénzügyeket, vagy bízzuk a tőkénk szakemberekre? – Szécsényi Bálint</a></h3>
+																		<a data-cikk-id="275798" href="/reszveny/tanuljuk-ki-a-penzugyeket-vagy-bizzuk-a-tokenk-szakemberekre-interju-275798" class="iwrp"><img src="/data/cikk/27/57/98/cikk_275798/szecsenyi_balint_interju_1_smalla_2_oszlopos_rightlead_fill_80x80.jpg" width="80" height="80" alt="Tanuljuk ki a pénzügyeket, vagy bízzuk a tőkénk szakemberekre? – Szécsényi Bálint"></a>
+																	</li>
+															<li>
+									<h3><a data-cikk-id="275279" href="/karrier/nem-az-oktatokon-mulik-az-oktatas-szinvonala-275279">Nem a tanárokon múlik az oktatás színvonala - Pavlik Lívia</a></h3>
+																		<a data-cikk-id="275279" href="/karrier/nem-az-oktatokon-mulik-az-oktatas-szinvonala-275279" class="iwrp"><img src="/data/cikk/27/52/79/cikk_275279/pavlik_livia1_2_oszlopos_rightlead_fill_80x80.jpg" width="80" height="80" alt="Nem a tanárokon múlik az oktatás színvonala - Pavlik Lívia"></a>
+																	</li>
+										</ul>
+									</div>
+
+						<div class="box box-w-header">
+							<ul class="tabs clr auto_restore top_hozzaszolas" data-restore_name="top_hozzaszolas">
+								<li class="active"><a style="width:185px">Legtöbb Hozzászólás</a></li>
+								<li><a style="width:81px">Friss</a></li>
+							</ul>
+							<div class="tab-content linklist wrapper">
+								<div class="inner-wrapper-top">
+									<ul>
+																		<li><a data-cikk-id="277129" href="/makro/magyar-qe-kapjon-minden-europai-polgar-1500-eurot-ingyen-277129">Magyar QE? Kapjon minden európai polgár 1500 eurót ingyen?</a></li>
+																		<li><a data-cikk-id="277313" href="/ado/tizmilliardert-halkul-el-az-rtl-klub-kritikaja-277313">Tízmilliárdért halkul el az RTL Klub kritikája?</a></li>
+																		<li><a data-cikk-id="277292" href="/fogyaszto/megusztak-rajuk-nem-vonatkozik-a-kazancsere-szigoritas-277292">Megúszták: rájuk nem vonatkozik a kazáncsere-szigorítás </a></li>
+																		<li><a data-cikk-id="277335" href="/kkv/nem-tudod-melyik-bolt-lesz-nyitva-vasarnap-itt-megnezheted-277335">Nem tudod, melyik bolt lesz nyitva vasárnap? Itt megnézheted </a></li>
+																		<li><a data-cikk-id="277325" href="/szarmazekos/svajci-frank-elkepeszto-kotesek-millios-buktak-masodpercek-alatt-277325">Svájci frank: elképesztő kötések, milliós bukták másodpercek alatt</a></li>
+																		<li><a data-cikk-id="277114" href="/makro/310-alatt-euro-forint-arfolyama-tonkreteheti-az-oromot-a-hetvege-277114">310 alatt euró forint árfolyama – tönkreteheti az örömöt a hétvége?</a></li>
+																		<li><a data-cikk-id="277268" href="/makro/regi-kgb-s-hejak-putyin-tanacsadoi-most-vigyazzunk-mit-mondunk-277268">Régi KGB-s héják Putyin tanácsadói - most vigyázzunk, mit mondunk!</a></li>
+																		<li><a data-cikk-id="277254" href="/fogyaszto/a-kiralynok-varosa-megszivta-elkepesztoen-draga-az-ut-277254">A királynők városa megszívta – elképesztően drága az út</a></li>
+																		<li><a data-cikk-id="277259" href="/karrier/itt-vannak-a-szamok-319-ezer-ember-valaszt-el-minket-orban-almatol-277259">Itt vannak a számok: 319 ezer ember választ el minket Orbán álmától</a></li>
+																		<li><a data-cikk-id="277357" href="/penzugyek/rogan-a-devizahitelekrol-beszelt-es-egy-furcsa-tablot-mutogatott-277357">Rogán a devizahitelekről beszélt és egy furcsa tablót mutogatott</a></li>
+																		</ul>
+								</div>
+							</div> <!-- .tab-content -->
+							<div class="tab-content linklist wrapper" style="display: none">
+								<div class="inner-wrapper-top">
+									<ul>
+																		<li><a data-cikk-id="277341" href="/fogyaszto/indul-a-posta-nagy-dobasa-277341">Indul a posta nagy dobása</a></li>
+																		<li><a data-cikk-id="277352" href="/makro/megelhetesi-be-es-kivandorlok-devizahitelesek-bankok-putyin-nekik-uzent-ma-orban-277352">Megélhetési be- és kivándorlók, devizahitelesek, bankok, Putyin - nekik üzent ma Orbán</a></li>
+																		<li><a data-cikk-id="277343" href="/makro/eltunik-a-penz-a-betetekbol-orul-a-magyar-allam-277343">Eltűnik a pénz a betétekből - örül a magyar állam</a></li>
+																		<li><a data-cikk-id="277357" href="/penzugyek/rogan-a-devizahitelekrol-beszelt-es-egy-furcsa-tablot-mutogatott-277357">Rogán a devizahitelekről beszélt és egy furcsa tablót mutogatott</a></li>
+																		<li><a data-cikk-id="277354" href="/makro/remenyt-adott-a-bankoknak-orban-igy-kaphat-tobb-nyugdijat-277354">Reményt adott a bankoknak Orbán - így kaphat több nyugdíjat</a></li>
+																		<li><a data-cikk-id="277268" href="/makro/regi-kgb-s-hejak-putyin-tanacsadoi-most-vigyazzunk-mit-mondunk-277268">Régi KGB-s héják Putyin tanácsadói - most vigyázzunk, mit mondunk!</a></li>
+																		<li><a data-cikk-id="277325" href="/szarmazekos/svajci-frank-elkepeszto-kotesek-millios-buktak-masodpercek-alatt-277325">Svájci frank: elképesztő kötések, milliós bukták másodpercek alatt</a></li>
+																		<li><a data-cikk-id="277261" href="/fogyaszto/ugyesen-titkoljak-sokkal-tobbet-koltunk-gyogyszerre-mint-negy-eve-277261">Ügyesen titkolják: sokkal többet költünk gyógyszerre, mint négy éve</a></li>
+																		<li><a data-cikk-id="277335" href="/kkv/nem-tudod-melyik-bolt-lesz-nyitva-vasarnap-itt-megnezheted-277335">Nem tudod, melyik bolt lesz nyitva vasárnap? Itt megnézheted </a></li>
+																		<li><a data-cikk-id="277337" href="/penzugyek/itt-fogjak-tanitani-az-unortodoxiat-ujabb-ingatlant-vett-a-jegybank-277337">Itt fogják tanítani az unortodoxiát? Újabb ingatlant vett a jegybank </a></li>
+																		</ul>
+								</div>
+							</div> <!-- .tab-content -->
+						</div> <!-- .betetbox -->
+
+
+
+
+
+
+
+
+
+
+<div class="box box-w-header">
+							<ul class="tabs clr auto_restore top_hozzaszolas" data-restore_name="top_hozzaszolas">
+								<li class="active"><a style="width:108px">Top értékelt</a></li>
+								<li><a style="width:81px">Facebook</a></li>
+								<li><a style="width:55px">Email</a></li>
+							</ul>
+							<div class="tab-content linklist wrapper">
+								<div class="inner-wrapper-top">
+									<ul>
+																		<li><a data-cikk-id="277345" href="/ado/megjottek-a-szamok-ennyi-folyik-be-a-reklamadobol-277345">Megjöttek a számok: ennyi folyik be a reklámadóból</a></li>
+																		<li><a data-cikk-id="277362" href="/fogyaszto/olcso-bevasarlassal-zarhatjuk-a-januart-277362">Olcsó bevásárlással zárhatjuk a januárt</a></li>
+																		<li><a data-cikk-id="277363" href="/makro/mar-nem-is-emlekszunk-mikor-volt-ilyen-keves-munkanelkuli-az-eu-ban-277363">Már nem is emlékszünk, mikor volt ilyen kevés munkanélküli az EU-ban</a></li>
+																		<li><a data-cikk-id="277364" href="/penzugyek/ezeknek-a-penzintezeteknek-ujra-birosagra-kell-menni-277364">Ezeknek a pénzintézeteknek újra bíróságra kell menni</a></li>
+																		<li><a data-cikk-id="277355" href="/makro/ciprasz-ujabb-trukkje-most-a-nemet-nepet-fuzi-277355">Újabb görög trükk: a német népet fűzi a miniszterelnök</a></li>
+																		<li><a data-cikk-id="277365" href="/ado/vegre-egy-olyan-ado-amit-nem-kivetni-hanem-visszavonni-akarnak-277365">Végre egy olyan adó, amit nem kivetni, hanem visszavonni akarnak </a></li>
+																		<li><a data-cikk-id="277360" href="/szarmazekos/svajci-bomba-zajlik-a-karmentes-277360">Svájci bomba: zajlik a kármentés</a></li>
+																		<li><a data-cikk-id="277366" href="/makro/orban-koccintasra-rogan-tablo-nezegetesre-hivja-a-devizahitelesek-277366">Orbán koccintásra, Rogán tablónézegetésre hívja a devizahiteleseket</a></li>
+																		<li><a data-cikk-id="277368" href="/makro/szijjarto-szerint-sokat-koszonhetunk-az-amerikaiaknak-277368">Szijjártó szerint sokat köszönhetünk az amerikaiaknak</a></li>
+																		<li><a data-cikk-id="277369" href="/penzugyek/mindenki-maskepp-csinalja-mit-kezdenek-szomszedaink-devizahitelukkel-277369">Mindenki másképp csinálja: mi lesz szomszédaink devizahitelével?</a></li>
+																		</ul>
+								</div>
+							</div> <!-- .tab-content -->
+							<div class="tab-content linklist wrapper" style="display: none">
+								<div class="inner-wrapper-top">
+									<ul>
+																		</ul>
+								</div>
+							</div> <!-- .tab-content -->
+							<div class="tab-content linklist wrapper" style="display: none">
+								<div class="inner-wrapper-top">
+									<ul>
+																		<li><a data-cikk-id="277313" href="/ado/tizmilliardert-halkul-el-az-rtl-klub-kritikaja-277313">Tízmilliárdért halkul el az RTL Klub kritikája?</a></li>
+																		<li><a data-cikk-id="277320" href="/szarmazekos/ki-viseli-a-frank-buktat-jogaszok-harca-dont-a-kerdesben-277320">Ki viseli a frank-buktát? Jogászok harca dönt a kérdésben</a></li>
+																		<li><a data-cikk-id="277347" href="/makro/igy-hullik-szet-putyin-alma-mar-latjuk-ki-nevet-a-vegen-277347">Így hullik szét Putyin álma - már látjuk, ki nevet a végén</a></li>
+																		<li><a data-cikk-id="277360" href="/szarmazekos/svajci-bomba-zajlik-a-karmentes-277360">Svájci bomba: zajlik a kármentés</a></li>
+																		<li><a data-cikk-id="277308" href="/makro/gorogorszag-az-oroszok-fele-fordul-kezdhetunk-komolyan-aggodni-277308">Görögország az oroszok felé fordul - kezdhetünk komolyan aggódni</a></li>
+																		<li><a data-cikk-id="277322" href="/ado/nem-erted-mennyibe-kerul-iden-a-cafeteria-itt-van-minden-feketen-feheren-277322">Nem érted, mennyibe kerül idén a cafeteria? Itt van minden feketén-fehéren!</a></li>
+																		</ul>
+								</div>
+							</div> <!-- .tab-content -->
+						</div> <!-- .betetbox -->					</div> <!-- .col_w310 -->
+</div> <!-- .colwrp -->
+			</div> <!-- #content -->
+	<script type="text/javascript">
+	adBoxList = $(".ad-box");
+	adBoxContent = new Array();
+	adBoxReady = new Array();
+	for(var i = 0; i < adBoxList.length; i++){
+		adBoxContent[i] = adBoxList[i].innerHTML;
+		adBoxReady[i] = false;
+	}
+	</script>
+	<!-- iBILLBOARD Ad Server one2many code -->
+<!-- HowTo: All the ad codes must be above this code! -->
+<!-- HowTo: It is good idea to place this code just below the last ad code. -->
+<script type='text/javascript' charset='utf-8' src='http://go.cz.bbelements.com/bb/bb_one2n.js'></script>
+<script type='text/javascript'>/* <![CDATA[ */
+var bbkeywords=''; //fill in: 'key1;key2;..'
+bmone2n.addPosition('16126.11.3.1','');
+bmone2n.addPosition('16126.11.4.1','');
+bmone2n.addPosition('16126.11.9.1','');
+bmone2n.addPosition('16126.11.26.1','');
+bmone2n.addPosition('16126.11.2.2','');
+bmone2n.addPosition('16126.11.1.2','');
+bmone2n.addPosition('16126.11.8.1','');
+bmone2n.addPosition('16126.11.7.2','');
+bmone2n.addPosition('16126.11.5.2','');
+bmone2n.addPosition('16126.11.6.2','');
+bmone2n.addPosition('16126.11.32.7','');
+bmone2n.getAd('go.cz.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'utf-8');
+/* ]]> */</script>
+<div id='bmone2t-16126.11.3.1' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('16126.11.3.1'); /* ]]> */</script></div>
+<div id='bmone2t-16126.11.4.1' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('16126.11.4.1'); /* ]]> */</script></div>
+<div id='bmone2t-16126.11.9.1' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('16126.11.9.1'); /* ]]> */</script></div>
+<div id='bmone2t-16126.11.26.1' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('16126.11.26.1'); /* ]]> */</script></div>
+<div id='bmone2t-16126.11.2.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('16126.11.2.2'); /* ]]> */</script></div>
+<div id='bmone2t-16126.11.1.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('16126.11.1.2'); /* ]]> */</script></div>
+<div id='bmone2t-16126.11.8.1' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('16126.11.8.1'); /* ]]> */</script></div>
+<div id='bmone2t-16126.11.7.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('16126.11.7.2'); /* ]]> */</script></div>
+<div id='bmone2t-16126.11.5.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('16126.11.5.2'); /* ]]> */</script></div>
+<div id='bmone2t-16126.11.6.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('16126.11.6.2'); /* ]]> */</script></div>
+<div id='bmone2t-16126.11.32.7' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('16126.11.32.7'); /* ]]> */</script></div>
+<script type='text/javascript'>/* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */</script>
+						<div id="footer" class="clr">
+				<p>&copy; Privátbankár.hu – Pénzügyek okosan</p>
+				<a href="http://adaptivemedia.hu/" target="_blank" id="am_footer_logo" title="Ügynökségi értékesítési képviselet: Adaptive Media"></a>
+				<div id="footer-links">
+					<ul>
+						<li><a href="/statikus/impresszum-387">Impresszum</a></li>
+						<li><a href="/statikus/mediaajanlat-388">Médiaajánlat</a></li>
+						<li><a href="/statikus/jogi-nyilatkozat-389">Jogi nyilatkozat</a></li>
+						<li><a href="/statikus/adatvedelem-390">Adatvédelem</a></li>
+					</ul>
+					<ul id="footer-social">
+						<li><a href="/rss/fogyaszto" class="ico-rss">RSS</a></li>
+						<!--<li><a href="http://www.facebook.com/privatbankar.hu" class="ico-facebook">Facebook</a></li>-->
+						<li><a href="http://twitter.com/privatbankar_hu" class="ico-twitter">Twitter</a></li>
+						<li style="margin-top: -3px"><fb:like href="http://facebook.com/privatbankar.hu" send="false" layout="button_count" width="100" show_faces="false"></fb:like></li>
+					</ul>
+				</div>
+			</div> <!-- #footer -->
+		</div> <!-- #container -->
+				<!-- (C)2000-2014 Gemius SA - gemiusAudience / privatbankar.hu / Fogyaszto_cikkoldalak -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = 'pyaVVnukLZCtJa.BELcdoLePDhrkkdueAfqqLrxSreH.W7';
+// lines below shouldn't be edited
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+gt.setAttribute('defer','defer'); gt.src=l+'://gahu.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>		<script type="text/javascript" src="http://privatbankar.hu/static/pb/js/xgemius.js"></script>
+
+		<script type="text/javascript">
+			/*yepnope1.5.x|WTFPL*/
+(function(a,b,c){function d(a){return"[object Function]"==o.call(a)}function e(a){return"string"==typeof a}function f(){}function g(a){return!a||"loaded"==a||"complete"==a||"uninitialized"==a}function h(){var a=p.shift();q=1,a?a.t?m(function(){("c"==a.t?B.injectCss:B.injectJs)(a.s,0,a.a,a.x,a.e,1)},0):(a(),h()):q=0}function i(a,c,d,e,f,i,j){function k(b){if(!o&&g(l.readyState)&&(u.r=o=1,!q&&h(),l.onload=l.onreadystatechange=null,b)){"img"!=a&&m(function(){t.removeChild(l)},50);for(var d in y[c])y[c].hasOwnProperty(d)&&y[c][d].onload()}}var j=j||B.errorTimeout,l=b.createElement(a),o=0,r=0,u={t:d,s:c,e:f,a:i,x:j};1===y[c]&&(r=1,y[c]=[]),"object"==a?l.data=c:(l.src=c,l.type=a),l.width=l.height="0",l.onerror=l.onload=l.onreadystatechange=function(){k.call(this,r)},p.splice(e,0,u),"img"!=a&&(r||2===y[c]?(t.insertBefore(l,s?null:n),m(k,j)):y[c].push(l))}function j(a,b,c,d,f){return q=0,b=b||"j",e(a)?i("c"==b?v:u,a,b,this.i++,c,d,f):(p.splice(this.i++,0,a),1==p.length&&h()),this}function k(){var a=B;return a.loader={load:j,i:0},a}var l=b.documentElement,m=a.setTimeout,n=b.getElementsByTagName("script")[0],o={}.toString,p=[],q=0,r="MozAppearance"in l.style,s=r&&!!b.createRange().compareNode,t=s?l:n.parentNode,l=a.opera&&"[object Opera]"==o.call(a.opera),l=!!b.attachEvent&&!l,u=r?"object":l?"script":"img",v=l?"script":u,w=Array.isArray||function(a){return"[object Array]"==o.call(a)},x=[],y={},z={timeout:function(a,b){return b.length&&(a.timeout=b[0]),a}},A,B;B=function(a){function b(a){var a=a.split("!"),b=x.length,c=a.pop(),d=a.length,c={url:c,origUrl:c,prefixes:a},e,f,g;for(f=0;f<d;f++)g=a[f].split("="),(e=z[g.shift()])&&(c=e(c,g));for(f=0;f<b;f++)c=x[f](c);return c}function g(a,e,f,g,h){var i=b(a),j=i.autoCallback;i.url.split(".").pop().split("?").shift(),i.bypass||(e&&(e=d(e)?e:e[a]||e[g]||e[a.split("/").pop().split("?")[0]]),i.instead?i.instead(a,e,f,g,h):(y[i.url]?i.noexec=!0:y[i.url]=1,f.load(i.url,i.forceCSS||!i.forceJS&&"css"==i.url.split(".").pop().split("?").shift()?"c":c,i.noexec,i.attrs,i.timeout),(d(e)||d(j))&&f.load(function(){k(),e&&e(i.origUrl,h,g),j&&j(i.origUrl,h,g),y[i.url]=2})))}function h(a,b){function c(a,c){if(a){if(e(a))c||(j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}),g(a,j,b,0,h);else if(Object(a)===a)for(n in m=function(){var b=0,c;for(c in a)a.hasOwnProperty(c)&&b++;return b}(),a)a.hasOwnProperty(n)&&(!c&&!--m&&(d(j)?j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}:j[n]=function(a){return function(){var b=[].slice.call(arguments);a&&a.apply(this,b),l()}}(k[n])),g(a[n],j,b,n,h))}else!c&&l()}var h=!!a.test,i=a.load||a.both,j=a.callback||f,k=j,l=a.complete||f,m,n;c(h?a.yep:a.nope,!!i),i&&c(i)}var i,j,l=this.yepnope.loader;if(e(a))g(a,0,l,0);else if(w(a))for(i=0;i<a.length;i++)j=a[i],e(j)?g(j,0,l,0):w(j)?B(j):Object(j)===j&&h(j,l);else Object(a)===a&&h(a,l)},B.addPrefix=function(a,b){z[a]=b},B.addFilter=function(a){x.push(a)},B.errorTimeout=1e4,null==b.readyState&&b.addEventListener&&(b.readyState="loading",b.addEventListener("DOMContentLoaded",A=function(){b.removeEventListener("DOMContentLoaded",A,0),b.readyState="complete"},0)),a.yepnope=k(),a.yepnope.executeStack=h,a.yepnope.injectJs=function(a,c,d,e,i,j){var k=b.createElement("script"),l,o,e=e||B.errorTimeout;k.src=a;for(o in d)k.setAttribute(o,d[o]);c=j?h:c||f,k.onreadystatechange=k.onload=function(){!l&&g(k.readyState)&&(l=1,c(),k.onload=k.onreadystatechange=null)},m(function(){l||(l=1,c(1))},e),i?k.onload():n.parentNode.insertBefore(k,n)},a.yepnope.injectCss=function(a,c,d,e,g,i){var e=b.createElement("link"),j,c=i?h:c||f;e.href=a,e.rel="stylesheet",e.type="text/css";for(j in d)e.setAttribute(j,d[j]);g||(n.parentNode.insertBefore(e,n),m(c,0))}})(this,document);
+
+			var privatbankar = {}; privatbankar.classes = {}; privatbankar.vars = {}; privatbankar.functions = {};
+
+			yepnope([{
+				load: [
+					//"http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js",
+					"http://privatbankar.hu/static/pb/js/site.js?v=1417098302"
+				],
+				complete: function() {
+					$(function() {
+						privatbankar.site = new privatbankar.classes.site();
+					});
+				}
+			}]);
+		</script>
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/hu_HU/all.js#xfbml=1&appId=287721287916753";
+		fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		<script>
+			/* Google Plus One Button */
+			window.___gcfg = {lang: 'hu'};
+			(function() {
+				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+				po.src = 'https://apis.google.com/js/plusone.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			})();
+		</script>
+                            <!--</div> <!-- switch-content end -->
+        <!--</div>--> <!-- switch-container end -->
+
+		<script type="text/javascript">
+		<!--
+			var src = '/nx_stat.jpg?id=1537&cid=277367&kulcsszo_idk=%5B%223268%22%2C%223446%22%2C%229225%22%2C%2218503%22%5D&v=' + (100000 + Math.floor(Math.random()*900000));
+			document.write('<img src="' + src + '" width="1" height="1" style="display: none;" />');
+		//-->
+		</script>
+		<noscript>
+			<img src="/nx_stat.jpg?id=1537&cid=277367&kulcsszo_idk=%5B%223268%22%2C%223446%22%2C%229225%22%2C%2218503%22%5D&v=362623" width="1" height="1" style="display: none;" />
+		</noscript>
+
+	</body>
+</html>

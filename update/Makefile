@@ -9,7 +9,7 @@ update_stopwords: python-goose
 
 update_tests: python-goose
 	rm -rf ../test_data/$<
-	cp -r $</tests/data ../test_data/$<
+	cp -r $</tests/data/extractors ../test_data/$<
 
 clean:
 	rm -rf python-goose

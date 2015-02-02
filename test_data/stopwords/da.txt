@@ -1,0 +1,1403 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="da" lang="da">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>De Eneste To fik - næsten - alle med på toget - Kultur | stiften.dk</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="node-id" content="32189018" />
+<meta name="panel-id" content="20" />
+<meta name="panel-name" content="node_view" />
+<meta name="mini-panel-name" content="aas_node_news_article_default" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="stiften.dk" />
+<meta property="og:url" content="http://stiften.dk/kultur/de-eneste-to-fik-naesten-alle-med-paa-toget" />
+<meta property="og:title" content="De Eneste To fik - næsten - alle med på toget" />
+<meta property="og:description" content="»De Eneste To« havde til at begynde med svære arbejdsbetingelser på et udsolgt Train torsdag aften, hvor de skød deres Danmarks-turné i gang. " />
+<meta property="og:image" content="http://b.bimg.dk/node-images/237/8/2200x/8237986-de-eneste-to-fik---nsten---alle-med-p-toget---1.jpg" />
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:site" content="@aas" />
+<meta property="twitter:domain" content="stiften.dk" />
+<meta property="twitter:url" content="http://stiften.dk/kultur/de-eneste-to-fik-naesten-alle-med-paa-toget" />
+<meta property="twitter:title" content="De Eneste To fik - næsten - alle med på toget" />
+<meta property="twitter:description" content="»De Eneste To« havde til at begynde med svære arbejdsbetingelser på et udsolgt Train torsdag aften, hvor de skød deres Danmarks-turné i gang. " />
+<meta property="twitter:image" content="http://b.bimg.dk/node-images/237/8/120x120-c/8237986-de-eneste-to-fik---nsten---alle-med-p-toget---1.jpg" />
+
+<meta name="description" content="»De Eneste To« havde til at begynde med svære arbejdsbetingelser på et udsolgt Train torsdag aften, hvor de skød deres Danmarks-turné i gang.  - Kultur" />
+<meta name="keywords" content="Aarhus, Forside, Kultur, Lysavis" />
+<link rel="canonical" href="http://stiften.dk/kultur/de-eneste-to-fik-naesten-alle-med-paa-toget" />
+<meta name="fragment" content="!" />
+<meta name="fragment" content="!" />
+<link rel="shortcut icon" href="/sites/stiften.dk/favicon.ico" type="image/x-icon" />
+<meta name="robots" content="index,follow" />
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files-dk/css/stiften.dk/1698/css_0247ffd5fb994f6feb18e6bad479be41.css" />
+<link type="text/css" rel="stylesheet" media="header" href="/sites/default/files-dk/css/stiften.dk/1698/css_5eae93fa734df3ded8379073f7ecafbf.css" />
+    <!--[if IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/mjm/css/ie6.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/stiften/css/ie6-chrome.css?1" />
+<![endif]-->
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/mjm/css/ie7.css?1" />
+<![endif]-->
+<!--[if lt IE 10]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/mjm/css/ie.css?1" />
+<![endif]-->
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css' />    <script type="text/javascript" src="/sites/default/files-dk/js/stiften.dk/1698/js_e1d51db52d61d8dd2a1d21bc7f9b2c84.jsmin.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\u002F", "sso":{"reauth_url":"http:\u002F\u002Fstiften.dk\u002Fsso\u002Freauth"}, "lightbox2":{"rtl":"0", "file_path":"\u002F(\u005Cw\u005Cw\u002F)sites\u002Fdefault\u002Ffiles-dk", "default_image":"\u002Fsites\u002Fall\u002Fmodules\u002Fcontrib\u002Flightbox2\u002Fimages\u002Fbrokenimage.jpg", "border_size":10, "font_color":"000", "box_color":"fff", "top_position":"", "overlay_opacity":"0.8", "overlay_color":"fff", "disable_close_click":1, "resize_sequence":0, "resize_speed":400, "fade_in_speed":400, "slide_down_speed":600, "use_alt_layout":1, "disable_resize":0, "disable_zoom":0, "force_show_nav":0, "show_caption":1, "loop_items":0, "node_link_text":"View Image Details", "node_link_target":0, "image_count":"Image !current of !total", "video_count":"Video !current of !total", "page_count":"Page !current of !total", "lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\u002Fkbd\u003E\u003C\u002Fa\u003E to close", "download_link_text":"", "enable_login":false, "enable_contact":false, "keys_close":"c x 27", "keys_previous":"p 37", "keys_next":"n 39", "keys_zoom":"z", "keys_play_pause":"32", "display_image_size":"original", "image_node_sizes":"()", "trigger_lightbox_classes":"", "trigger_lightbox_group_classes":"", "trigger_slideshow_classes":"", "trigger_lightframe_classes":"", "trigger_lightframe_group_classes":"", "custom_class_handler":0, "custom_trigger_classes":"", "disable_for_gallery_lists":true, "disable_for_acidfree_gallery_lists":true, "enable_acidfree_videos":true, "slideshow_interval":5000, "slideshow_automatic_start":true, "slideshow_automatic_exit":true, "show_play_pause":true, "pause_on_next_click":false, "pause_on_previous_click":true, "loop_slides":false, "iframe_width":600, "iframe_height":400, "iframe_border":1, "enable_video":0}, "checkNoCookieUrl":true, "noCookieUrl":"http:\u002F\u002Fstiften.dk\u002Faccepter-cookies", "paywall_access_ip_access":true, "bemUsersIframe":{"user\u002Flogin":"lightframe[|width:468px; height:280px;]", "user\u002Fpassword":"lightframe[|width:468px; height:200px;]", "user\u002Fregister":"lightframe[|width:780px; height:820px;]"}, "cookie_informer":{"variable":"cookiesPolicyAccepted", "expire_days":"3650", "message":"Websitet anvender cookies til at huske dine indstillinger, statistik og at målrette annoncer. Denne information deles med tredjepart. ", "link":"http:\u002F\u002Fwww.berlingskemedia.dk\u002Fcookie-og-privatlivspolitik-0"}, "jsErrorHandlerSampleRate":0.01, "nuggad":{"domain":"berldk.nuggad.net", "nuggn":"706025601", "nuggsid":309065522, "cookie_name":"nugg4berlingskeCook", "network":null, "terminator":"cookberlingskeEnd", "emediate":false, "url":"http:\u002F\u002Fberldk.nuggad.net\u002Frc?nuggn=706025601\u0026nuggsid=309065522"}, "bempayContentPermissions":[ "node.32189018", "role.102", "role.103" ], "bempayRequiredRoles":[ "aas_paywall", "aas_paywall_bempay" ], "bempayBlockerHasAccess":false, "emediate":{"content_units":{"cu:14989":[ {"cu_id":"14989", "name":"A1", "width":"930", "height":"600", "method":"friendly iframe", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:15208":[ {"cu_id":"15208", "name":"C4", "width":"452", "height":"90", "method":"inline", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:14995":[ {"cu_id":"14995", "name":"F1", "width":"300", "height":"250", "method":"head", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:14996":[ {"cu_id":"14996", "name":"F2", "width":"300", "height":"250", "method":"friendly iframe", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:14997":[ {"cu_id":"14997", "name":"F3", "width":"300", "height":"250", "method":"friendly iframe", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:14998":[ {"cu_id":"14998", "name":"F4", "width":"300", "height":"250", "method":"friendly iframe", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:14999":[ {"cu_id":"14999", "name":"F5", "width":"300", "height":"250", "method":"friendly iframe", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:15001":[ {"cu_id":"15001", "name":"G2", "width":"930", "height":"180", "method":"friendly iframe", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:15002":[ {"cu_id":"15002", "name":"G3", "width":"930", "height":"180", "method":"friendly iframe", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:24766":[ {"cu_id":"24766", "name":"I1", "width":"160", "height":"600", "method":"friendly iframe", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:15004":[ {"cu_id":"15004", "name":"I2", "width":"300", "height":"600", "method":"friendly iframe", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:14873":[ {"cu_id":"14873", "name":"E1", "width":"200", "height":"90", "method":"friendly iframe", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:15000":[ {"cu_id":"15000", "name":"G1", "width":"930", "height":"180", "method":"friendly iframe", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:15005":[ {"cu_id":"15005", "name":"L1", "width":"1", "height":"1", "method":"friendly iframe", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ], "cu:15024":[ {"cu_id":"15024", "name":"Q1", "width":"800", "height":"600", "method":"head", "dependencies":[  ], "exclusive_campaign":0, "loaded":false, "disabled":false, "include":[  ], "dependents":[  ], "order":0} ]}, "render_event":"ready", "banners_show_time_limit":"10000", "emediateURLparamOrigin":false, "terms":{"64954":{"tid":"64954", "vid":"1", "name":"Aarhus", "weight":"0", "v_weight_unused":"0", "parents":[ "Nyheder", "stiften.dk" ]}, "68397":{"tid":"68397", "vid":"1", "name":"Forside", "weight":"0", "v_weight_unused":"0", "parents":[ "stiften.dk" ]}, "69931":{"tid":"69931", "vid":"1", "name":"Lysavis", "weight":"0", "v_weight_unused":"0", "parents":[ "stiften.dk" ]}}, "nid":"32189018", "query":{"cat1":"bond-64897", "encoding":"utf-8", "EASTtags":"aarhus|forside|lysavis", "EASTpage_type":"node", "EASTnid":"32189018", "EASTref":"stiften.dk", "EASInclude":"aarhus|forside|lysavis", "EASInclude2":"stiften.dk\u002Fkultur\u002Fde-eneste-to-fik-naesten-alle-med-paa-toget"}, "count_no_campaigns":1, "EAS_fif_url":"\u002Fsites\u002Fall\u002Fmodules\u002Fcustom\u002Femediate\u002FEAS_fif.html", "userHistoryExpire":30, "siteSettings":{"enabled":"1", "banners":{"S1":{"dynamic":1, "frequency":"1", "initial_load":1, "alternative_position":1, "disabled":0}, "S3":{"dynamic":1, "frequency":"1", "initial_load":1, "alternative_position":0, "disabled":0}}}}, "bempayPrimarySalesTerm":{"tid":"271838", "maxDays":"30", "maxViews":"10", "urlFilter":[ "google.com", "facebook.com", "twitter.com", "t.co", "Retriever", "infomedia-robot", "linkedin.com", "google.dk" ]}, "nodeInfo":{"nid":"32189018", "primaryTerm":{"tid":"64897", "vid":"1", "name":"Kultur", "description":"", "weight":"0"}, "created":"1422613800", "changed":"1422614379", "contentType":"news_article", "primaryTermParent":{"tid":"64873", "vid":"1", "name":"stiften.dk", "description":"", "weight":"-21"}, "maxViews":"10"}, "nodeId":"32189018", "panelsHttpCache":{"panes":[  ], "displays":[  ]}, "comScore":{"url":"http:\u002F\u002Fint.sitestat.com\u002Fberlingske\u002Faas\u002Fs?kultur.node.de-eneste-to-fik---naesten---alle-med-paa-toget.page", "params":{"nid":"32189018", "category":"kultur", "b_pv_t":"news_article", "b_author_id":"Kim Robin Graahede, kigr@stiften.dk", "b_source":"int", "b_publ_date":"1422613800", "b_created_ts":"1422613800", "b_updated_ts":"1422614379"}, "aoxSearch":false}, "netsprint":{"afterSearch_callbacks":[ "comscoreNetsprintSearch" ], "searchboxes":[ {"id":"netsprint-search-search-box-form", "upid":"pid:aas_search:1", "pid":"3", "name":"aas_search", "js_settings":[  ], "functions":[  ], "sources":[ {"names":[ {"source_name":"stiften.dk", "state":"state-1"} ], "rpp":"10", "sort_by":"date", "sort_order":0, "term":""} ], "force_query":"", "path":"http:\u002F\u002Fstiften.dk\u002Fsoeg"} ]}, "priceTerms":[  ], "netsprint_ubt_settings":{"sectionId":"64897", "articleId":"32189018", "sourceId":"stiften.dk"}, "siteInfo":{"siteName":"stiften.dk", "shortSiteName":"aas"}, "pageInfo":{"pageType":"node", "primaryTerm":{"tid":"64897", "vid":"1", "name":"Kultur", "description":"", "weight":"0"}, "primaryTermParent":{"tid":"64873", "vid":"1", "name":"stiften.dk", "description":"", "weight":"-21"}}, "brandview":{"brandview_description_text":"BrandView er en service fra Berlingske Media, hvor virksomheder har mulighed for at kommunikere deres specialviden direkte til brugere og læsere af Berlingske. Indhold under BrandView produceres i et tæt samarbejde mellem Berlingske Medias content marketing bureau og virksomheden, der er afsender på budskabet. \u003Ca href=\u0022http:\u002F\u002Fwww.publicimpact.dk\u0022\u003ELæs mere on BrandView\u003C\u002Fa\u003E eller kontakt os direkte på \u003Ca href=\u0022mailto:moas@berlingslemedia.dk\u0022\u003Emoas@berlingslemedia.dk\u003C\u002Fa\u003E.", "brandview_vid":"29"}, "newsletter_signup_url":"http:\u002F\u002Fnyhedsbreve.stiften-mail.dk\u002Fdata\u002Fsignup_ticket.php", "site_name":"stiften.dk"});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+Drupal.emediate.initialize()
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+Drupal.emediate.startMoveGlobalData()
+//--><!]]>
+</script>
+  </head>
+  <body class="stiften-dk context-site-stiften-dk context-node-32189018 context-primary-term-name-kultur context-primary-term-tid-64897 context-panels-page-node-view">
+    <div id="main" class="clearfix">
+      <div class="page-container">
+                  <div id="topbanner" class="container_12 topbanner clearfix">
+            <div class="grid_12">
+              <div class="panel-pane pane-name-custom pane-name-custom-18">
+<div class="content"><style>
+.page-container { background-color: #fff }
+#footer .page-container { background: transparent}
+.grid_3 .default-block .focus.article { padding-left: 10px; padding-right: 10px }
+.subscriber-help p, .subscriber-help ol { margin-bottom: 1em }
+.subscriber-help li { color: #000; font-size: 13px; line-height: 17px }
+</style></div>
+</div>
+<div class="panel-pane  banner banner-g1 pane-name-content pane-name-content-15000">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(15000)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane  banner banner-l1 pane-name-content pane-name-content-15005">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(15005)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane  banner banner-q1 pane-name-content pane-name-content-15024">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(15024)
+</script>
+</div>
+</div>
+<div class="panel-pane pane-name-custom pane-name-custom-19">
+<div class="content"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=239725332803195";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script></div>
+</div>
+            </div>
+          </div>
+                          <div id="header-topbar" class="container_12 menu-plain clearfix">
+            <div class="grid_12">
+              <div class="panel-display panel-2col clear-block" id="mini-panel-mjm_header_topbar">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"></div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-name-content">
+<div class="content"><div class="nav logged"><nav>  <ul role="navigation">
+
+  <li  id="menu-aas-top-services184615">
+        <a href="http://stiften.dk/tipos" target="_top">Tip os</a>      </li>
+
+  <li  target="_blank" id="menu-aas-top-services184601">
+        <a href="http://stiften.dk/e-aviser" target="_blank">E-avis</a>      </li>
+
+  <li  target="_blank" id="menu-aas-top-services184676">
+        <a href="https://stiften.kundeunivers.dk/" target="_blank">Kundeservice</a>      </li>
+
+  <li  class="privacy-link" target="_blank" id="menu-aas-top-services184020">
+        <a href="http://www.berlingskemedia.dk/cookie-og-privatlivspolitik/" class="privacy-link" target="_blank">Cookie- og Privatlivspolitik</a>      </li>
+
+  <li  class="topmenu-button" target="_blank" id="menu-aas-top-services187648">
+        <a href="http://stiften.kundeunivers.dk/koeb-abonnement/stiften?r=YWFzX3BheXdhbGw=&amp;return_url=http://stiften.dk&amp;callback_url=http://login.berlingskemedia.net/sso/server/multisite-update/aas&amp;ns_campaign=_Kundeunivers_abonnement_aas&amp;ns_mchannel=&amp;ns_source=Abonnement_link_aas&amp;ns_linkname=link_top&amp;ns_fee=&amp;sa=D&amp;usg=ALhdy29emQui8BlhnbyOSTzgLiuSC7mMrw" class="topmenu-button" target="_blank">Køb abonnement</a>      </li>
+      </ul>
+</nav></div></div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-name-user_login_status pane-name-user_login_status-1">
+<div class="content"><ul id="bem-user-login-status-authenticated">
+  <li class="username"></li>
+  <li class="my-account"><a href="/user" target="_top">Min side</a></a></li>
+  <li class="logout"><a href="/logout?destination=node%2F32189018" target="_top">Log ud</a></li>
+</ul>
+<ul id="bem-user-login-status-anonymous">
+  <li class="register">Ny bruger? <a href="/user/register" target="_top">Opret profil</a></a></li>
+  <li class="login"><a href="/user/login" target="_top">Log ind</a></a></li>
+</ul>
+
+<script type="text/javascript">
+  // Runs behavior directly to reduce time for login links replacement.
+  $(function(){
+    Drupal.behaviors.initLightbox();
+    Drupal.behaviors.bemUsers($(".user-login-status"));
+    bemUserSetLoginStatus();
+  });
+</script>
+</div>
+</div>
+<div class="panel-separator"></div></div>
+  </div>
+</div>
+            </div>
+          </div>
+                          <div id="top-header" class="container_12 top-header clearfix">
+            <div class="grid_5 logo">
+              <a href="/" title="Århus Stiftstidende" target="_top"> </a>            </div>
+            <div class="grid_4">
+              <div class="panel-pane  banner banner-e1 pane-name-content pane-name-content-14873">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(14873)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div>            </div>
+            <div class="grid_3">
+              <div class="panel-pane pane-name-search_box">
+<div class="content"><form action="/kultur/de-eneste-to-fik-naesten-alle-med-paa-toget"  accept-charset="UTF-8" method="post" id="netsprint-search-search-box-form" class="netsprint-search-searchbox-form netsprint-search-searchbox-form-aas_search netsprint-search-searchbox-form-3">
+<div><div class="form-item" id="edit-query-wrapper">
+ <input type="text" maxlength="128" name="query" id="edit-query" value="" placeholder="Søg stiften.dk" class="form-text form-text-query" />
+</div>
+<input type="submit" name="op" id="edit-submit-2" value="Søg"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-2b39085059f50cc9a5f82564c923429d" value="form-2b39085059f50cc9a5f82564c923429d"  />
+<input type="hidden" name="form_id" id="edit-netsprint-search-search-box-form" value="netsprint_search_search_box_form"  />
+
+</div></form>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-name-custom pane-name-custom-17">
+<div class="content"><style type="text/css">
+
+/*General styles*/
+  .nav li.topmenu-button a {
+    background: #1597d0;
+    border-radius: 2px;
+    color: #fff;
+    display: inline-block;
+    line-height: 1;
+    padding: 4px 8px;
+    text-decoration: none;
+    /*Old IE*/
+    zoom: 1;
+    *display: inline;
+    transition: background-color .1s ease;
+  }
+
+  .nav li.topmenu-button a:hover {
+    background-color: #1690c5;
+  }
+
+  .nav li.topmenu-button a:active {
+    box-shadow: 0 2px 1px rgba(0,0,0,.2) inset;
+  }
+/*Special narrow topmenu for Holstebro-Struer */
+.dagbladet-holstebro-struer-dk .menu-plain li {
+margin-left:10px;
+}
+
+  /*Stiften styles*/
+  .stiften-dk .nav li.topmenu-button a {
+    background-color: #ea9a3c;
+  }
+  .stiften-dk .nav li.topmenu-button a:hover {
+    background-color: #de933b;
+  }
+
+/* Search */
+
+#netsprint-search-search-box-form {
+  margin-top: 35px;
+}
+
+#netsprint-search-search-box-form input[type="text"] {
+  box-shadow: none;
+  background-color: #fff;
+  border-color: #c6c6c6;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+#netsprint-search-search-box-form input[type="text"]:focus {
+  box-shadow: 0 0 6px #8edbee;
+}
+#netsprint-search-search-box-form .form-submit[type="submit"] {
+height:27px;
+background: #414141;
+    color: #fff;
+    border-radius: 0;
+    border: 0;
+    line-height: 1;
+    margin: 0 0 0 0;
+    padding: 6px 10px 7px 10px;
+    width: 47px;
+    text-shadow: none;
+    box-shadow: none;
+}
+#netsprint-search-search-box-form .form-submit[type="submit"]:hover {
+  background: #646463;
+
+}
+  #netsprint-search-search-box-form .form-submit[type="submit"]:active {
+  box-shadow: 0 2px 2px rgba(0,0,0,.4) inset;
+  padding: 7px 10px 6px 10px;
+}
+
+
+ </style></div>
+</div>
+            </div>
+            <div class="clear"></div>
+          </div>
+
+        <div id="top-menu" class="container_12 clearfix top-menu">
+          <div class="grid_12 clearfix">
+            <ul class="main-navigation sf-menu"><li class="first">
+<a href="/" target="_top"><span><span>Forside</span></span></a>
+<ul class="submenu">
+<li class="first">
+<a href="/aarhus" target="_top"><span><span>Aarhus</span></span></a>
+</li><li><a href="/skanderborg" target="_top"><span><span>Skanderborg</span></span></a>
+</li><li><a href="/odder" target="_top"><span><span>Odder</span></span></a>
+</li><li><a href="/favrskov" target="_top"><span><span>Favrskov</span></span></a>
+</li><li><a href="/syddjurs" target="_top"><span><span>Syddjurs</span></span></a>
+</li><li><a href="/norddjurs" target="_top"><span><span>Norddjurs</span></span></a>
+</li><li><a href="/oestjylland" target="_top"><span><span>Østjylland</span></span></a>
+</li><li><a href="/indland" target="_top"><span><span>Indland</span></span></a>
+</li><li><a href="/udland" target="_top"><span><span>Udland</span></span></a>
+</li><li><a href="/krimi" target="_top"><span><span>Krimi</span></span></a>
+</li><li><a href="/alarm-112" target="_top"><span><span>Alarm 112</span></span></a>
+</li><li class="last">
+<a href="http://www.shopiaarhus.dk" target="_blank"><span><span>ShopIAarhus</span></span></a>
+</li></ul></li><li><a href="/sport" target="_top"><span><span>Sport</span></span></a>
+<ul class="submenu">
+<li class="first">
+<a href="/agf" target="_top"><span><span>AGF</span></span></a>
+</li><li><a href="/2-div-fodbold" target="_top"><span><span>2. div. fodbold</span></span></a>
+</li><li><a href="http://stiften.dk/aarhus-haandbold" target="_top"><span><span>Århus Håndbold</span></span></a>
+</li><li><a href="http://stiften.dk/sk-aarhus" target="_top"><span><span>SK Aarhus</span></span></a>
+</li><li><a href="/skanderborg-haandbold" target="_top"><span><span>Skanderborg Håndbold</span></span></a>
+</li><li><a href="/odder-haandbold" target="_top"><span><span>Odder Håndbold</span></span></a>
+</li><li><a href="/1-div-haandbold" target="_top"><span><span>1. div. håndbold</span></span></a>
+</li><li><a href="/bakken-bears" target="_top"><span><span>Bakken Bears</span></span></a>
+</li><li class="last">
+<a href="/lokale-kampe" target="_top"><span><span>Lokale kampe</span></span></a>
+</li></ul></li><li><a href="/kultur" target="_top"><span><span>Kultur</span></span></a>
+<ul class="submenu">
+<li class="first">
+<a href="http://aoa.dk" target="_blank"><span><span>aoa.dk</span></span></a>
+</li><li><a href="http://aoa.dk/restauranter-cafeer" target="_blank"><span><span>Restauranter og cafeer</span></span></a>
+</li><li><a href="http://aoa.dk/musik" target="_blank"><span><span>Musik</span></span></a>
+</li><li><a href="http://aoa.dk/film" target="_blank"><span><span>Film</span></span></a>
+</li><li><a href="http://aoa.dk/scene" target="_blank"><span><span>Scene</span></span></a>
+</li><li><a href="http://aoa.dk/udstilling" target="_blank"><span><span>Udstilling</span></span></a>
+</li><li class="last">
+<a href="/cd-anmeldelser" target="_top"><span><span>Cd-anmeldelser</span></span></a>
+</li></ul></li><li><a href="/erhverv" target="_top"><span><span>Erhverv</span></span></a>
+<ul class="submenu"><li></li></ul></li><li><a href="/livsstil" target="_top"><span><span>Livsstil</span></span></a>
+<ul class="submenu">
+<li class="first">
+<a href="/digital" target="_top"><span><span>Digital</span></span></a>
+</li><li><a href="/bilen" target="_top"><span><span>Bilen</span></span></a>
+</li><li><a href="/rejser" target="_top"><span><span>Rejser</span></span></a>
+</li><li><a href="/fri" target="_top"><span><span>FRI</span></span></a>
+</li><li><a href="/gossip" target="_top"><span><span>Gossip</span></span></a>
+</li><li><a href="/skoert-skaevt" target="_top"><span><span>Skørt & Skævt</span></span></a>
+</li><li class="last">
+<a href="/sex-og-kaerlighed" target="_top"><span><span>Sex og kærlighed</span></span></a>
+</li></ul></li><li><a href="/debat" target="_top"><span><span>Debat</span></span></a>
+<ul class="submenu">
+<li class="first">
+<a href="/leder" target="_top"><span><span>Leder</span></span></a>
+</li><li><a href="/laeserbrev" target="_top"><span><span>Læserbreve</span></span></a>
+</li><li><a href="/indsend-laeserbrev" target="_top"><span><span>Indsend læserbrev</span></span></a>
+</li><li class="last">
+<a href="http://stiftenblog.dk/stiftenblog/bindex.asp" target="_blank"><span><span>Blogs</span></span></a>
+</li></ul></li><li><a href="/navne" target="_top"><span><span>Navne</span></span></a>
+<ul class="submenu">
+<li class="first">
+<a href="/bryllupper" target="_top"><span><span>Bryllupper</span></span></a>
+</li><li><a href="/foedselsdage" target="_top"><span><span>Fødselsdage</span></span></a>
+</li><li><a href="/jubilaeer" target="_top"><span><span>Jubilæer</span></span></a>
+</li><li><a href="/doedsfald" target="_top"><span><span>Dødsfald</span></span></a>
+</li><li class="last">
+<a href="/mindeord" target="_top"><span><span>Mindeord</span></span></a>
+</li></ul></li><li><a href="/foto" target="_top"><span><span>Foto</span></span></a>
+<ul class="submenu">
+<li class="first">
+<a href="http://spotted.stiften.dk" target="_blank"><span><span>Spotted</span></span></a>
+</li></ul></li><li><a href="/webtv" target="_top"><span><span>WebTv</span></span></a>
+<ul class="submenu"><li></li></ul></li><li><a href="/spil" target="_top"><span><span>Spil</span></span></a>
+<ul class="submenu"><li></li></ul></li><li><a href="/tjenester" target="_top"><span><span>Tjenester</span></span></a>
+<ul class="submenu">
+<li class="first">
+<a href="/rss" target="_top"><span><span>RSS feeds</span></span></a>
+</li><li><a href="http://nyhedsbreve.stiften-mail.dk/" target="_blank"><span><span>Nyhedsbrev</span></span></a>
+</li><li><a href="/tv" target="_top"><span><span>Tv</span></span></a>
+</li><li><a href="/radio" target="_top"><span><span>Radio</span></span></a>
+</li><li><a href="http://www.business.dk/boerstal" target="_blank"><span><span>Børskurser</span></span></a>
+</li><li><a href="/find-uddannelse" target="_top"><span><span>Find uddannelse</span></span></a>
+</li><li class="last">
+<a href="http://stiften.dk/studievalg/studievalgs-uddannelsesbrevkasse" target="_top"><span><span>Studievalg</span></span></a>
+</li></ul></li><li><a href="/markeder" target="_top"><span><span>Markeder</span></span></a>
+<ul class="submenu">
+<li class="first">
+<a href="http://www.bilzonen.dk/" target="_blank"><span><span>BilZonen</span></span></a>
+</li><li><a href="http://www.guloggratis.dk/" target="_blank"><span><span>Gul&Gratis</span></span></a>
+</li><li><a href="http://www.b.dk/infoshop" target="_blank"><span><span>Infoshop</span></span></a>
+</li><li class="last">
+<a href="http://www.lidtmere.dk" target="_blank"><span><span>Læsershop</span></span></a>
+</li></ul></li><li><a href="http://stiftenblog.dk/stiftenblog/bindex.asp" target="_blank"><span><span>Blogs</span></span></a>
+<ul class="submenu"><li></li></ul></li><li class="last">
+<a href="http://kluboj.dk" target="_blank"><span><span>KlubØstjylland</span></span></a>
+<ul class="submenu"><li></li></ul></li></ul>          </div>
+        </div>
+
+
+
+        <div id="body" class="inner-page-container body container_12">
+          <div class="panel-display panel-1col clear-block" >
+  <div class="panel-panel panel-col">
+    <div class="panel-pane pane-name-description pane-name-description-595">
+<div class="content">  <div class="grid_8 panel-region region-5">  <div class="grid_8 alpha omega">	<div class="grid_5 alpha panel-region region-1"><div class="panel-pane pane-name-node pane-name-node-32189018">
+<div class="content"><div class="article article-teaser">
+  <!-- start_oax_abstract -->
+  <h1>De Eneste To fik - næsten - alle med på toget</h1>  <p class="summary">»De Eneste To« havde til at begynde med svære arbejdsbetingelser på et udsolgt Train torsdag aften, hvor de skød deres Danmarks-turné i gang. </p>  <!-- stop_oax_abstract -->
+</div></div>
+</div>
+<div class="panel-separator"></div></div>
+<div class="grid_3 sidebar omega panel-region region-2"><div class="panel-pane smt-wrapper clearfix pane-name-mjm_article_toolbar">
+<h2 class="title">Del artiklen</h2>
+<div class="content">
+  <ul class="smt">
+    <li><a  class="icon-facebook" href="javascript:void(0);" title="Del på Facebook" onclick="window.open(&#039;https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fstiften.dk%2Fkultur%2Fde-eneste-to-fik-naesten-alle-med-paa-toget&#039;, &#039;FacebookShare&#039;,&#039;status=0,toolbar=0,menubar=1,resizable=1,width=480,height=240&#039;);">
+    Del</a>
+</li><li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=De+Eneste+To+fik+-+n%C3%A6sten+-+alle+med+p%C3%A5+toget+http%3A%2F%2Fstiften.dk%2Fkultur%2Fde-eneste-to-fik-naesten-alle-med-paa-toget" class="icon-twitter" target="_top">Twitter</a></li><li><a href="https://plus.google.com/share?url=http%3A%2F%2Fstiften.dk%2Fkultur%2Fde-eneste-to-fik-naesten-alle-med-paa-toget" onclick="javascript:window.open(this.href,&#039;&#039;, &#039;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600&#039;);return false;" class="icon-google" target="_top">Google plus</a></li><li><a href="/node/32189018/print" onclick="javascript:window.open(this.href,&#039;tip&#039;,&#039;width=650,height=550,toolbar=0,scrollbars=1&#039;); return false;" class="icon-print" target="_top">Print</a></li><li><a href="/forward?path=node%2F32189018" class="icon-email" target="_top">Mail</a></li>  </ul>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="grid_4 region-wrap-rtl-right omega z10 alpha panel-region region-3"><div class="panel-pane pane-name-node pane-name-node-32189018">
+<div class="content"><div class="article article-images clearfix carousel-image">
+    <div class="photogallery-photo">
+    <a href="http://b.bimg.dk/node-images/237/8/800x600-u/8237986-de-eneste-to-fik---nsten---alle-med-p-toget---1.jpg" rel="lightbox" title="Peter Sommer og Peter Sommer. Arkivfoto." target="_top"><img src="http://b.bimg.dk/node-images/237/8/296x/8237986-de-eneste-to-fik---nsten---alle-med-p-toget---1.jpg" width="296" height="197" alt="De Eneste To fik - næsten - alle med på toget - 1" /></a>    <p>Peter Sommer og Peter Sommer. Arkivfoto.</p>
+  </div>
+</div>
+</div>
+</div>
+<div class="panel-separator"></div><div class="default-block article-related">
+    <h2 class="block-title">Relaterede artikler</h2>
+    <div class="inner-content">
+    <div class="article article-related">
+  <ul class="related"><li ><a href="/kultur/de-eneste-to-overraskede-med-spontan-koncert" title="De Eneste To overraskede med spontan koncert" target="_top">De Eneste To overraskede med spontan koncert</a></li><li ><a href="/kultur/interview-de-eneste-to-om-makkerskab-og-nyt-album" title="Interview: De Eneste To om makkerskab og nyt album" target="_top">Interview: De Eneste To om makkerskab og nyt album</a></li></ul></div>
+  </div>
+</div>
+
+<div class="panel-separator"></div>
+<div class="panel-pane pane-name-mjm_spotted_widget">
+<div class="content"><div class="panel-pane pane-name-custom_php pane-name-custom_php-1">
+<div class="content"><style>.spotted-widget{padding-top:10px}.spotted-widget .spotted-name{font-size:10px}.spotted-widget .spotted-gallery-0,.spotted-widget .spotted-gallery-1{padding-right:10px}
+</style><div class="default-block services-box"><h2 class="block-title">Spotted - Mest populære lige nu</h2><div class="spotted-widget"><div class="spotted-galleries"><table><tr><td class="spotted-gallery-0"><a href="http://spotted.stiften.dk/gallerier/dm-festen-fejring-af-sportsaret-2015-i-arhus" target="_blank"><img alt="Dm Festen - fejring af sportsåret 2015 i Århus" height="92" src="http://cdn4.spotted.dk/resized/15408/915607/thumb.jpg" width="92" /><div class="spotted-name">Dm Festen - fejring af sportsåret 2015 i Århus</div></a></td><td class="spotted-gallery-1"><a href="http://spotted.stiften.dk/gallerier/fanfest-stakladen-danmark-rusland" target="_blank"><img alt="Fanfest Stakladen Danmark - Rusland" height="92" src="http://cdn3.spotted.dk/resized/15403/915122/thumb.jpg" width="92" /><div class="spotted-name">Fanfest Stakladen Danmark - Rusland</div></a></td><td class="spotted-gallery-2"><a href="http://spotted.stiften.dk/gallerier/aarhus-for-mangfoldighed--2" target="_blank"><img alt="Aarhus for Mangfoldighed " height="92" src="http://cdn2.spotted.dk/resized/15399/914901/thumb.jpg" width="92" /><div class="spotted-name">Aarhus for Mangfoldighed </div></a></td></tr></table></div></div></div></div>
+</div>
+<div class="panel-separator"></div></div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-name-mjm_newsapp_container">
+<div class="content"><div class="default-block">
+    <h2 class="block-title">Prøv avisens nyhedsapp</h2>
+    <div class="inner-content">
+    <div class="panel-display panel-1col clear-block" id="mini-panel-mjm_newsapp">
+  <div class="panel-panel panel-col">
+    <div class="panel-pane pane-name-custom pane-name-custom-1">
+<div class="content"><p><a href="http://stiften.dk/mobil" target="_blank"><img src="/sites/default/files-dk/node-files/898/4/4898407-aas-newsapp.png" width="296" height="78"></a></p>
+</div>
+</div>
+<div class="panel-separator"></div>  </div>
+</div>
+  </div>
+</div>
+
+<div class="panel-separator"></div></div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-name-mjm_bladsalgsbanner_container">
+<div class="content"><div class="default-block">
+    <h2 class="block-title">Prøv avisen</h2>
+    <div class="inner-content">
+    <div class="panel-pane pane-name-custom pane-name-custom-2">
+<div class="content"><style>
+ #bladsalgsbanner td {
+    vertical-align: middle;
+    font-size: 11px;
+    padding-right: 10px;
+  }
+
+  #bladsalgsbanner td a {
+    text-decoration: none;
+  }
+</style></div>
+</div>
+<div class="panel-pane pane-name-custom pane-name-custom-3">
+<div class="content"><table id="bladsalgsbanner">
+  <tr>
+    <td><img src="/sites/default/files-dk/node-files/898/4/4898369-aas-bladsalgsbanner.png" height="32" /></td>
+    <td>
+<!-- "stiften.dk R1 (1x2)" (section "stiften.dk") -->
+<script type="text/javascript" src="http://ad1.emediate.dk/eas?cu=15025;cre=mu;js=y;target=_blank"></script>
+    </td>
+  </tr>
+</table></div>
+</div>
+<div class="panel-separator"></div>  </div>
+</div>
+
+<div class="panel-separator"></div></div>
+</div>
+<div class="panel-separator"></div><div class="default-block">
+    <h2 class="block-title">Tilmeld nyhedsbrev</h2>
+    <div class="inner-content">
+    <div class="panel-pane pane-name-custom pane-name-custom-4">
+<div class="content"><h3>Få mere ud af Østjylland</h3>
+<p>Klub Østjylland giver dig lokale og unikke oplevelser - <a href="http://kluboj.lokalklub.dk/" target="_blank">læs mere her</a></p>
+<form action="http://apps.adlifter.com/plugin/" method="POST"><input name="stack_key" type="hidden" value="ee0ec20aa06b0bc5d2093b18e94c3d70" /><input name="application_key" type="hidden" value="70c4dd8af56f5dad9d5483513f049eb6" /><input name="command" type="hidden" value="cmd_berlingske_quicksignup" /><input name="customer_key" type="hidden" value="a40e4703a823d1d11977928620c6ead0" /><input name="lid" type="hidden" value="1400" /><input name="mid" type="hidden" value="16" /><input name="rtype" type="hidden" value="1" /><input name="nlids" type="hidden" value="254" /><input name="intids" type="hidden" value="" /><input name="url" type="hidden" value="http://kluboj.lokalklub.dk/tak-for-din-tilmelding" /><input name="action" type="hidden" value="1" />email: <input name="email" /><input type="submit" value="Tilmeld" /></form></div>
+</div>
+  </div>
+</div>
+
+<div class="panel-separator"></div></div>
+<div class="grid_4 region-wrap-rtl-left omega panel-region region-4">
+<div class="article-meta">
+  <div class="author">Af Kim Robin Graahede, kigr@stiften.dk</div>  <div class="article-date">
+    Fredag den 30. januar 2015, 11:30      </div>
+  <div class="small-stars"><em title="<em>5</em> af <em>6</em> stjerner" class="stars stars-5-6"><span><em>5</em> af <em>6</em> stjerner</span></em></div></div><script type="text/javascript" id="panels-http-cache-pane-8319-194046"> Drupal.panelsHttpCache.jsinclude("8319-194046", true, "pane"); </script><noscript><p>Your browser does not support jsincludes.</p></noscript><div class="panel-separator"></div></div>
+<div class="clear"></div>
+<div class="grid_8 alpha omega panel-region region-5"><div class="panel-pane pane-name-custom pane-name-custom-5">
+<div class="content"><style>
+                            .article .embedded-node a {
+                            display: block;
+                            margin-bottom: 1em;
+                            font-size: 13px;
+                            line-height: 17px;
+                            font-weight: bold;
+                          }
+                        </style></div>
+</div>
+
+  <div class="comments-form">
+          <h2 class="title">Skriv ny kommentar</h2>
+              <div class="content">
+        <p>Du kan kun kommentere på stiften.dk, hvis du er abonnent. Log ind eller køb dit abonnement <a href="http://stiften.kundeunivers.dk/koeb-abonnement/stiften?r=YWFzX3BheXdhbGw%3D&amp;return_url=http%3A%2F%2Fstiften.dk%2Fkultur%2Fde-eneste-to-fik-naesten-alle-med-paa-toget&amp;callback_url=http%3A%2F%2Flogin.berlingskemedia.net%2Fsso%2Fserver%2Fmultisite-update%2Faas" target="_top"><strong>here</strong></a>.</p>
+      </div>
+      </div>
+<div class="panel-pane comments-list pane-name-comments pane-name-comments-32189018">
+<h2 class="title">Kommentarer</h2>
+<div class="content"><div id="comments"></div></div>
+</div>
+<div class="panel-separator"></div></div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="panel-separator"></div><div class="panel-pane pane-name-mjm_oax_1">
+<div class="content"><div class="panel-pane pane-name-custom pane-name-custom-6">
+<div class="content"><script type="text/javascript" src="http://adserver3.openadex.dk/_/ads/?QAPS_OAX=*b03a7e28c0cbcc44c994e21deed35f47&no_cache=pni0f"></script></div>
+</div>
+<div class="panel-separator"></div></div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-name-mjm_articles_set">
+<div class="content">  <div class="grid_4 alpha panel-region article-flow-large-1">  <div class="article article-with-image-teaser grid-image-4">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/northside-saetter-endagsbilletter-til-salg-0" target="_top"><img src="http://a.bimg.dk/node-images/238/8/296x148-t/8238901-northside-stter-endagsbilletter-til-salg---1.jpg" width="296" height="148" alt="NorthSide sætter endagsbilletter til salg - 1" /></a><a href="/kultur/northside-saetter-endagsbilletter-til-salg-0" title="NorthSide sætter endagsbilletter til salg og afslører samtidig, hvilke dage, de foreløbig 23 offentliggjorte navne optræder." target="_top"><h2>NorthSide sætter endagsbilletter til salg</h2></a><span  class="kultur stiften-tag">aarhus</span><p class="summary"><a href="/kultur/northside-saetter-endagsbilletter-til-salg-0" target="_top">NorthSide sætter endagsbilletter til salg og afslører samtidig, hvilke dage, de foreløbig 23 offentliggjorte navne optræder.</a></p> <span class="read-more"><a href="/kultur/northside-saetter-endagsbilletter-til-salg-0" title="NorthSide sætter endagsbilletter til salg" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/kultur/indiebands-og-stjerneskud" title="Indiebands og stjerneskud" target="_top">Indiebands og stjerneskud</a></li><li ><a href="/kultur/stoej-slagbas-skramlet-blues-og-electro-til-northside" title="Støj, slagbas, skramlet blues og electro til NorthSide" target="_top">Støj, slagbas, skramlet blues og electro til NorthSide</a></li></ul>  </div>
+<div class="panel-separator"></div></div>
+<div class="grid_4 omega panel-region article-flow-large-2">  <div class="article article-with-image-teaser grid-image-4">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/de-eneste-to-fik-naesten-alle-med-paa-toget" class="active" target="_top"><img src="http://b.bimg.dk/node-images/237/8/296x148-t/8237986-de-eneste-to-fik---nsten---alle-med-p-toget---1.jpg" width="296" height="148" alt="De Eneste To fik - næsten - alle med på toget - 1" /></a><a href="/kultur/de-eneste-to-fik-naesten-alle-med-paa-toget" title="»De Eneste To« havde til at begynde med svære arbejdsbetingelser på et udsolgt Train torsdag aften, hvor de skød deres Danmarks-turné i gang. " target="_top" class="active"><h2>De Eneste To fik - næsten - alle med på toget</h2></a><span  class="kultur stiften-tag">Anmeldelse</span><p class="summary"><a href="/kultur/de-eneste-to-fik-naesten-alle-med-paa-toget" class="active" target="_top">»De Eneste To« havde til at begynde med svære arbejdsbetingelser på et udsolgt Train torsdag aften, hvor de skød deres Danmarks-turné i gang. </a></p> <span class="read-more"><a href="/kultur/de-eneste-to-fik-naesten-alle-med-paa-toget" title="De Eneste To fik - næsten - alle med på toget" target="_top" class="active">Læs mere</a></span><ul class="related"><li ><a href="/kultur/de-eneste-to-overraskede-med-spontan-koncert" title="De Eneste To overraskede med spontan koncert" target="_top">De Eneste To overraskede med spontan koncert</a></li><li ><a href="/kultur/interview-de-eneste-to-om-makkerskab-og-nyt-album" title="Interview: De Eneste To om makkerskab og nyt album" target="_top">Interview: De Eneste To om makkerskab og nyt album</a></li></ul>  </div>
+<div class="panel-separator"></div></div>
+<div class="clear"></div>
+<div class="grid_2 alpha panel-region article-flow-small-1">  <div class="article article-with-image-teaser grid-image-2">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/smagsfuldt-smoerrebroed-paa-hoejt-niveau" target="_top"><img src="http://a.bimg.dk/node-images/237/8/140x70-t/8237262-fgdh.jpg" width="140" height="70" alt="fgdh" /></a><a href="/aarhus/smagsfuldt-smoerrebroed-paa-hoejt-niveau" title="Med sin F-Høj deli, smørrebrød og conditori bevæger den velkendte kok Wassim Hallal fra Frederikshøj sig ind i et minefelt af tradition og kultur, men kommer gennem det med masser af kvalitet. " target="_top"><h2>Smagsfuldt smørrebrød på højt niveau </h2></a><span  class="aarhus stiften-tag">madanmeldelse</span><p class="summary"><a href="/aarhus/smagsfuldt-smoerrebroed-paa-hoejt-niveau" target="_top">Med sin F-Høj deli, smørrebrød og conditori bevæger den velkendte kok Wassim Hallal fra Frederikshøj sig ind i et minefelt af tradition og kultur, ...</a></p> <span class="read-more"><a href="/aarhus/smagsfuldt-smoerrebroed-paa-hoejt-niveau" title="Smagsfuldt smørrebrød på højt niveau " target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/frederikshoej-i-saerklasse-blandt-oestjyske-restauranter" title="Frederikshøj i særklasse blandt østjyske restauranter" target="_top">Frederikshøj i særklasse blandt østjyske restauranter</a></li><li ><a href="/aarhus/frederikshoej-i-international-mesterklasse" title="Frederikshøj i international mesterklasse" target="_top">Frederikshøj i international mesterklasse</a></li></ul>  </div>
+<div class="panel-separator"></div></div>
+<div class="grid_2 panel-region article-flow-small-2">  <div class="article article-with-image-teaser grid-image-2">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/nostalgi-i-halvkedelig-indpakning" target="_top"><img src="http://b.bimg.dk/node-images/236/8/140x70-t/8236919-nostalgi-i-halvkedelig-indpakning---1.jpg" width="140" height="70" alt="Nostalgi i halvkedelig indpakning - 1" /></a><a href="/kultur/nostalgi-i-halvkedelig-indpakning" title="Bølgerne går højt, men læseren forbliver på afstand i århusianske Bjørn Fogsgaards roman »Sønner«. " target="_top"><h2>Nostalgi i halvkedelig indpakning</h2></a><span  class="kultur stiften-tag">Anmeldelse</span><p class="summary"><a href="/kultur/nostalgi-i-halvkedelig-indpakning" target="_top">Bølgerne går højt, men læseren forbliver på afstand i århusianske Bjørn Fogsgaards roman »Sønner«. </a></p> <span class="read-more"><a href="/kultur/nostalgi-i-halvkedelig-indpakning" title="Nostalgi i halvkedelig indpakning" target="_top">Læs mere</a></span>  </div>
+<div class="panel-separator"></div></div>
+<div class="grid_2 panel-region article-flow-small-3">  <div class="article article-with-image-teaser grid-image-2">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/ny-sal-med-plads-til-begejstring" target="_top"><img src="http://b.bimg.dk/node-images/237/8/140x70-t/8237048-ny-sal-med-plads-til-begejstring---1.jpg" width="140" height="70" alt="Ny sal med plads til begejstring  - 1" /></a><a href="/kultur/ny-sal-med-plads-til-begejstring" title="I dag slår Svalegangen dørene op til teatrets nye scene. Avisen fik et smugkig indenfor i salen med det buede loft." target="_top"><h2>Ny sal med plads til begejstring </h2></a><span  class="kultur stiften-tag">aarhus</span><p class="summary"><a href="/kultur/ny-sal-med-plads-til-begejstring" target="_top">I dag slår Svalegangen dørene op til teatrets nye scene. Avisen fik et smugkig indenfor i salen med det buede loft.</a></p> <span class="read-more"><a href="/kultur/ny-sal-med-plads-til-begejstring" title="Ny sal med plads til begejstring " target="_top">Læs mere</a></span><ul class="related"><li ><a href="/kultur/teatre-vaegter-sikkerheden-hoejt" title="Teatre vægter sikkerheden højt" target="_top">Teatre vægter sikkerheden højt</a></li><li ><a href="/kultur/gorillaer-i-jakkesaet" title="Gorillaer i jakkesæt" target="_top">Gorillaer i jakkesæt</a></li></ul>  </div>
+<div class="panel-separator"></div></div>
+<div class="grid_2 omega panel-region article-flow-small-4">  <div class="article article-with-image-teaser grid-image-2">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/kig-med-bag-scenetaeppet" target="_top"></a><a href="/kultur/kig-med-bag-scenetaeppet" title="Med arbejdstitlen »Historier tæt på dig« tager Teatret Svalegangen fra næste sæson fat på et nyt readingforløb, hvor publikum kan komme tæt på skabelsesprocessen." target="_top"><h2>Kig med bag scenetæppet</h2></a><span  class="kultur stiften-tag">Aarhus</span><p class="summary"><a href="/kultur/kig-med-bag-scenetaeppet" target="_top">Med arbejdstitlen »Historier tæt på dig« tager Teatret Svalegangen fra næste sæson fat på et nyt readingforløb, hvor publikum kan komme tæt på ...</a></p> <span class="read-more"><a href="/kultur/kig-med-bag-scenetaeppet" title="Kig med bag scenetæppet" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/kultur/ny-sal-med-plads-til-begejstring" title="Ny sal med plads til begejstring " target="_top">Ny sal med plads til begejstring </a></li><li ><a href="/kultur/teatre-vaegter-sikkerheden-hoejt" title="Teatre vægter sikkerheden højt" target="_top">Teatre vægter sikkerheden højt</a></li></ul>  </div>
+<div class="panel-separator"></div></div>
+<div class="clear"></div>
+<div class="grid_8 alpha omega panel-region banner-a1"><div class="panel-pane  banner banner-c4 pane-name-content pane-name-content-15208">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(15208)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div></div>
+<div class="clear"></div>
+<div class="grid_2 alpha panel-region article-flow-small-5">  <div class="article article-with-image-teaser grid-image-2 no-image">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/aarhus-bigband-skal-booste-kulturen-i-viborg" target="_top"><img src="http://b.bimg.dk/node-images/232/8/140x70-t/8232958-aarhus-bigband-skal-booste-kulturen-i-viborg---1.jpg" width="140" height="70" alt="Aarhus-bigband skal booste kulturen i Viborg  - 1" /></a><a href="/kultur/aarhus-bigband-skal-booste-kulturen-i-viborg" title="Aarhus Jazz Orchestra indgår tre-årig aftale med Viborg Kommune " target="_top"><h2>Aarhus-bigband skal booste kulturen i Viborg </h2></a><span  class="kultur stiften-tag">aarhus</span><p class="summary"><a href="/kultur/aarhus-bigband-skal-booste-kulturen-i-viborg" target="_top">Aarhus Jazz Orchestra indgår tre-årig aftale med Viborg Kommune </a></p> <span class="read-more"><a href="/kultur/aarhus-bigband-skal-booste-kulturen-i-viborg" title="Aarhus-bigband skal booste kulturen i Viborg " target="_top">Læs mere</a></span><ul class="related"><li ><a href="/kultur/vinterjazz-opruster-i-aarhus" title="Vinterjazz opruster i Aarhus" target="_top">Vinterjazz opruster i Aarhus</a></li><li ><a href="/kultur/jazz-orkester-kan-reddes-med-faa-midler" title="Jazz-orkester kan reddes med få midler" target="_top">Jazz-orkester kan reddes med få midler</a></li></ul>  </div>
+<div class="panel-separator"></div></div>
+<div class="grid_2 panel-region article-flow-small-6">  <div class="article article-with-image-teaser grid-image-2 no-image">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/elektroniske-lydlandskaber-i-efterklangs-komma" target="_top"><img src="http://b.bimg.dk/node-images/232/8/140x70-t/8232122-elektroniske-lydlandskaber-i-efterklangs-komma---1.jpg" width="140" height="70" alt="Elektroniske lydlandskaber i Efterklangs komma - 1" /></a><a href="/kultur/elektroniske-lydlandskaber-i-efterklangs-komma" title="Et af landets mest kritikerroste bands har fundet sammen med en lydtroldmand fra Finland. Sammen udgør percussionisten Tatu Rönkkö og Efterklang konstellationen Liima, der kan opleves på Atlas." target="_top"><h2>Elektroniske lydlandskaber i Efterklangs komma</h2></a><span  class="kultur stiften-tag">aarhus/Berlin</span><p class="summary"><a href="/kultur/elektroniske-lydlandskaber-i-efterklangs-komma" target="_top">Et af landets mest kritikerroste bands har fundet sammen med en lydtroldmand fra Finland. Sammen udgør percussionisten Tatu Rönkkö og Efterklang ...</a></p> <span class="read-more"><a href="/kultur/elektroniske-lydlandskaber-i-efterklangs-komma" title="Elektroniske lydlandskaber i Efterklangs komma" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/kultur/perfekt-til-larm-og-fordybelse" title="Perfekt til larm og fordybelse" target="_top">Perfekt til larm og fordybelse</a></li><li ><a href="/aarhus/kreativt-klubhus-under-overfladen" title="Kreativt klubhus under overfladen" target="_top">Kreativt klubhus under overfladen</a></li></ul>  </div>
+<div class="panel-separator"></div></div>
+<div class="grid_2 panel-region article-flow-small-7">  <div class="article article-with-image-teaser grid-image-2 no-image">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/til-bords-med-hedda-gabler" target="_top"><img src="http://a.bimg.dk/node-images/232/8/140x70-t/8232181-til-bords-med-hedda-gabler---2.jpg" width="140" height="70" alt="Til bords med  Hedda Gabler  - 2" /></a><a href="/kultur/til-bords-med-hedda-gabler" title="Ibsens klassiske drama er centreret omkring et langbord i Aarhus Teaters moderne nyopsætning. " target="_top"><h2>Til bords med Hedda Gabler </h2></a><span  class="kultur stiften-tag">aarhus</span><p class="summary"><a href="/kultur/til-bords-med-hedda-gabler" target="_top">Ibsens klassiske drama er centreret omkring et langbord i Aarhus Teaters moderne nyopsætning. </a></p> <span class="read-more"><a href="/kultur/til-bords-med-hedda-gabler" title="Til bords med Hedda Gabler " target="_top">Læs mere</a></span><ul class="related"><li ><a href="/kultur/teater-kan-vi-forstaa-et-andet-menneske" title="Teater: Kan vi forstå et andet menneske?" target="_top">Teater: Kan vi forstå et andet menneske?</a></li><li ><a href="/kultur/to-profiler-siger-farvel-til-aarhus-teater" title="To profiler siger farvel til Aarhus Teater" target="_top">To profiler siger farvel til Aarhus Teater</a></li></ul>  </div>
+<div class="panel-separator"></div></div>
+<div class="grid_2 omega panel-region article-flow-small-8">  <div class="article article-with-image-teaser grid-image-2 no-image">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/to-profiler-siger-farvel-til-aarhus-teater" target="_top"><img src="http://a.bimg.dk/node-images/232/8/140x70-t/8232890-aeyh.jpg" width="140" height="70" alt="aeyh" /></a><a href="/kultur/to-profiler-siger-farvel-til-aarhus-teater" title="Niels Ellegaard og Marie Louise Wille rykker til København." target="_top"><h2>To profiler siger farvel til Aarhus Teater</h2></a><span  class="kultur stiften-tag">aarhus</span><p class="summary"><a href="/kultur/to-profiler-siger-farvel-til-aarhus-teater" target="_top">Niels Ellegaard og Marie Louise Wille rykker til København.</a></p> <span class="read-more"><a href="/kultur/to-profiler-siger-farvel-til-aarhus-teater" title="To profiler siger farvel til Aarhus Teater" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/kultur/til-bords-med-hedda-gabler" title="Til bords med Hedda Gabler " target="_top">Til bords med Hedda Gabler </a></li></ul>  </div>
+<div class="panel-separator"></div></div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-name-mjm_oax_2">
+<div class="content"><div class="panel-pane pane-name-custom pane-name-custom-7">
+<div class="content"><script type="text/javascript" src="http://adserver3.openadex.dk/_/ads/?QAPS_OAX=*aa0f65311a8b11aed3f54dd8901a86d4&no_cache=pni0f"></script></div>
+</div>
+<div class="panel-separator"></div></div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-name-mjm_fokus_and_debat">
+<div class="content">  <div class="grid_4 alpha panel-region region-1"><div class="default-block icon-only no-icon">
+    <h2 class="block-title"><span>debat</span></h2>
+    <div class="inner-content">
+      <div class="article article-with-image-teaser grid-image-4 focus first">
+          <div class="pane-header">
+                </div>
+      <a href="/laeserbrev/den-store-rejse" target="_top"><img src="http://b.bimg.dk/node-images/237/8/296x148-t/8237201-den-store-rejse---1.jpg" width="296" height="148" alt="Den store rejse - 1" /></a><a href="/laeserbrev/den-store-rejse" title="Dannelsesrejser var i århundreder en uomgængelig del af unge adelsmænds uddannelse. Adelens rejser blev inspiration for udviklingen af turisme blandt andre samfundsgrupper, men rejser vi stadig for dannelsens skyld?" target="_top"><h2>Den store rejse</h2></a><span  class="læserbrev stiften-tag">Kronik</span><p class="summary"><a href="/laeserbrev/den-store-rejse" target="_top">Dannelsesrejser var i århundreder en uomgængelig del af unge adelsmænds uddannelse. Adelens rejser blev inspiration for udviklingen af turisme ...</a></p> <span class="read-more"><a href="/laeserbrev/den-store-rejse" title="Den store rejse" target="_top">Læs mere</a></span>        </div>
+        </div>
+</div></div>
+<div class="grid_4 omega panel-region region-2"><div class="default-block icon-only no-icon">
+    <h2 class="block-title"><span>fokus</span></h2>
+    <div class="inner-content">
+      <div class="article article-with-image-teaser grid-image-4 focus first">
+          <div class="pane-header">
+                </div>
+      <a href="/foto/vilde-billeder-naar-kropsudsmykning-stikker-en-lille-smule-af" target="_blank"><img src="http://a.bimg.dk/node-images/237/8/296x148-t/8237919-venezuela-oddly.jpg" width="296" height="148" alt="VENEZUELA-ODDLY/" /></a><a href="/foto/vilde-billeder-naar-kropsudsmykning-stikker-en-lille-smule-af" title="I disse dage finder messen Venezuela Expo Tattoo sted i Caracas. Her flokkes nogle af verdens mest tatoverede og vanvittigt kropsmodererede mennesker." target="_blank"><h2>Vilde billeder: Når kropsudsmykning stikker en lille smule af</h2></a><span  class="foto stiften-tag">Galleri</span><p class="summary"><a href="/foto/vilde-billeder-naar-kropsudsmykning-stikker-en-lille-smule-af" target="_blank">I disse dage finder messen Venezuela Expo Tattoo sted i Caracas. Her flokkes nogle af verdens mest tatoverede og vanvittigt kropsmodererede mennesker.</a></p> <span class="read-more"><a href="/foto/vilde-billeder-naar-kropsudsmykning-stikker-en-lille-smule-af" title="Vilde billeder: Når kropsudsmykning stikker en lille smule af" target="_blank">Læs mere</a></span>        </div>
+        </div>
+</div></div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="panel-separator"></div><div class="default-block">
+    <h2 class="block-title">Seneste WebTV</h2>
+    <div class="inner-content">
+    <div class="panel-display panel-1col clear-block" id="mini-panel-mjm_webtv_article">
+  <div class="panel-panel panel-col">
+      </div>
+</div>
+  </div>
+</div>
+
+<div class="panel-separator"></div><div class="panel-pane pane-name-mjm_oax_3">
+<div class="content"><div class="panel-pane pane-name-custom pane-name-custom-8">
+<div class="content"><script type="text/javascript" src="http://adserver3.openadex.dk/_/ads/?QAPS_OAX=*8f53bf978f3c1d4c614368d16e6f815a&no_cache=pni0f"></script></div>
+</div>
+<div class="panel-separator"></div></div>
+</div>
+<div class="panel-separator"></div><div class="default-block bem-most-read">
+    <h2 class="block-title">Lige nu på</h2>
+    <div class="inner-content">
+      <div class="grid_4 alpha panel-region c1">  <div class="article article-with-image-teaser grid-image-4 first">
+          <div class="pane-header">
+                </div>
+      <a href="http://www.bt.dk/politik/brian-mikkelsen-bryder-k-tavshed-om-millionstaevning" target="_blank"><img src="http://a.bimg.dk/node-images/238/8/296x148-t/8238800-.jpg" width="296" height="148" alt="brian" /></a><a href="http://www.bt.dk/politik/brian-mikkelsen-bryder-k-tavshed-om-millionstaevning" title="" target="_blank"><h2>Brian Mikkelsen bryder K-tavshed om millionstævning</h2></a><span class="article-tag bt-tag"><a href="http://www.bt.dk" target="_blank">BT.DK</a></span> <p class="summary"><a href="http://www.bt.dk/politik/brian-mikkelsen-bryder-k-tavshed-om-millionstaevning" target="_blank">De Konservatives gruppeformand Brian Mikkelsen bryder nu tavsheden i sagen om den millionstævning fra et reklamebureau, som partiet modtog i mandags.</a></p> <span class="read-more"><a href="http://www.bt.dk/politik/brian-mikkelsen-bryder-k-tavshed-om-millionstaevning" title="Brian Mikkelsen bryder K-tavshed om millionstævning" target="_blank">Læs mere</a></span>        </div>
+      <div class="panel-separator"></div></div>
+<div class="grid_4 omega panel-region c2">  <div class="article article-with-image-teaser grid-image-4 first">
+          <div class="pane-header">
+                </div>
+      <a href="http://www.politiko.dk/nyheder/k-profil-vi-forventer-helt-100-procent-at-vinde-retssag" target="_top"><img src="http://a.bimg.dk/node-images/239/8/296x148-t/8239016-politikerne-p-gangene-p-christiansborg-fotograferet-i-anled.jpg" width="296" height="148" alt="Politikerne på gangene på Christiansborg. Fotograferet i anled" /></a><a href="http://www.politiko.dk/nyheder/k-profil-vi-forventer-helt-100-procent-at-vinde-retssag" title="Gruppeformand for de Konservative, Brian Mikkelsen, er ikke nervøs over udsigten til en tur i retten mod partiets tidligere reklamebureau." target="_top"><h2>K-profil: Vi forventer »helt 100 procent« at vinde retssag</h2></a><p class="summary"><a href="http://www.politiko.dk/nyheder/k-profil-vi-forventer-helt-100-procent-at-vinde-retssag" target="_top">Gruppeformand for de Konservative, Brian Mikkelsen, er ikke nervøs over udsigten til en tur i retten mod partiets tidligere reklamebureau.</a></p> <span class="read-more"><a href="http://www.politiko.dk/nyheder/k-profil-vi-forventer-helt-100-procent-at-vinde-retssag" title="K-profil: Vi forventer »helt 100 procent« at vinde retssag" target="_top">Læs mere</a></span>        </div>
+      <div class="panel-separator"></div></div>
+<div class="clear"></div>
+<div class="grid_2 alpha panel-region c1a">  <div class="article article-with-image-teaser grid-image-2 first">
+          <div class="pane-header">
+                </div>
+      <a href="http://www.business.dk/detailhandel/danmark-eksporterer-mere-mode-end-svin" target="_blank"><img src="http://b.bimg.dk/node-images/238/8/140x70-t/8238054-pix-mode.jpg" width="140" height="70" alt="Pix-mode" /></a><a href="http://www.business.dk/detailhandel/danmark-eksporterer-mere-mode-end-svin" title="En stigning på 8 procent i eksporten af mode holder hånden under en branche, der kun præsterede en omsætningsvækst 2 procent fra 2013 til 2014." target="_blank"><h2>Danmark eksporterer mere mode end svin </h2></a><span class="article-tag business-tag"><a href="http://www.business.dk" target="_blank">BUSINESS.DK</a></span> <p class="summary"><a href="http://www.business.dk/detailhandel/danmark-eksporterer-mere-mode-end-svin" target="_blank">En stigning på 8 procent i eksporten af mode holder hånden under en branche, der kun præsterede en omsætningsvækst 2 procent fra 2013 til 2014.</a></p> <span class="read-more"><a href="http://www.business.dk/detailhandel/danmark-eksporterer-mere-mode-end-svin" title="Danmark eksporterer mere mode end svin " target="_blank">Læs mere</a></span>        </div>
+      <div class="panel-separator"></div></div>
+<div class="grid_2 panel-region c1b">  <div class="article article-with-image-teaser grid-image-2 first">
+          <div class="pane-header">
+                </div>
+      <a href="http://www.business.dk/bolig/rente-amok-nu-faar-boligejere-penge-for-at-laane" target="_blank"><img src="http://b.bimg.dk/node-images/238/8/140x70-t/8238240-nordea-kredit.jpg" width="140" height="70" alt="Nordea Kredit" /></a><a href="http://www.business.dk/bolig/rente-amok-nu-faar-boligejere-penge-for-at-laane" title="En håndfuld boligejere har fået en minusrente på deres helt nye lån hos Nordea Kredit. Rente er på lige under nul, og den negative rente bliver trukket fra i boligejernes bidragssats.  " target="_blank"><h2>Rente-amok: Nu får boligejere penge for at låne</h2></a><span class="article-tag business-tag"><a href="http://www.business.dk" target="_blank">BUSINESS.DK</a></span> <p class="summary"><a href="http://www.business.dk/bolig/rente-amok-nu-faar-boligejere-penge-for-at-laane" target="_blank">En håndfuld boligejere har fået en minusrente på deres helt nye lån hos Nordea Kredit. Rente er på lige under nul, og den negative rente bliver ...</a></p> <span class="read-more"><a href="http://www.business.dk/bolig/rente-amok-nu-faar-boligejere-penge-for-at-laane" title="Rente-amok: Nu får boligejere penge for at låne" target="_blank">Læs mere</a></span>        </div>
+      <div class="panel-separator"></div></div>
+<div class="grid_2 panel-region c2a">  <div class="article article-with-image-teaser grid-image-2 first">
+          <div class="pane-header">
+                </div>
+      <a href="http://www.b.dk/mode/ivan-grundahl-punkprinsesse-om-natten-arkitekt-om-dagen" target="_blank"><img src="http://a.bimg.dk/node-images/239/8/140x70-t/8239313-gfsdgdsg.jpg" width="140" height="70" alt="gfsdgdsg" /></a><a href="http://www.b.dk/mode/ivan-grundahl-punkprinsesse-om-natten-arkitekt-om-dagen" title="Ivan Grundahl er helt sin egen. Nogle gange så meget, at han spænder ben for sig selv." target="_blank"><h2>Ivan Grundahl: Punkprinsesse om natten arkitekt om dagen</h2></a><span class="article-tag b-tag"><a href="http://www.b.dk" target="_blank">B.DK</a></span> <p class="summary"><a href="http://www.b.dk/mode/ivan-grundahl-punkprinsesse-om-natten-arkitekt-om-dagen" target="_blank">Ivan Grundahl er helt sin egen. Nogle gange så meget, at han spænder ben for sig selv.</a></p> <span class="read-more"><a href="http://www.b.dk/mode/ivan-grundahl-punkprinsesse-om-natten-arkitekt-om-dagen" title="Ivan Grundahl: Punkprinsesse om natten arkitekt om dagen" target="_blank">Læs mere</a></span>        </div>
+      <div class="panel-separator"></div></div>
+<div class="grid_2 omega panel-region c2b">  <div class="article article-with-image-teaser grid-image-2 first">
+          <div class="pane-header">
+                </div>
+      <a href="http://www.b.dk/rejseliv/syv-ruter-med-ryanair-fra-koebenhavn" target="_blank"><img src="http://a.bimg.dk/node-images/233/8/140x70-t/8233109-ryanair-syv-ruter.jpg" width="140" height="70" alt="Ryanair syv ruter" /></a><a href="http://www.b.dk/rejseliv/syv-ruter-med-ryanair-fra-koebenhavn" title="Daglige flyvninger til London, Milano og Warszawa og fra efteråret også til Rom, Madrid og Stockholm. Og flere ruter er på vej, siger det irske lavprisselskab.
+" target="_blank"><h2>Syv ruter med Ryanair fra København</h2></a><span class="article-tag b-tag"><a href="http://www.b.dk" target="_blank">B.DK</a></span> <p class="summary"><a href="http://www.b.dk/rejseliv/syv-ruter-med-ryanair-fra-koebenhavn" target="_blank">Daglige flyvninger til London, Milano og Warszawa og fra efteråret også til Rom, Madrid og Stockholm. Og flere ruter er på vej, siger det irske ...</a></p> <span class="read-more"><a href="http://www.b.dk/rejseliv/syv-ruter-med-ryanair-fra-koebenhavn" title="Syv ruter med Ryanair fra København" target="_blank">Læs mere</a></span>        </div>
+      <div class="panel-separator"></div></div>
+<div class="clear"></div>
+  </div>
+</div>
+
+<div class="panel-separator"></div><div class="panel-pane pane-name-mjm_tip_redaktionen">
+<div class="content"><div class="default-block light-bulb">
+    <h2 class="block-title"><span>Tip redaktionen</span></h2>
+    <div class="inner-content">
+    <div class="panel-pane tipos2 pane-name-node pane-name-node-8831363" id="tipos2">
+<div class="content"><div id="node-8831363" class="clear-block">
+  <div>
+    <form action="/kultur/de-eneste-to-fik-naesten-alle-med-paa-toget"  accept-charset="UTF-8" method="post" id="webform-client-form-8831363" class="ajax-form" enctype="multipart/form-data">
+<div><div class="grid_7"><div class="webform-component webform-component-markup" id="webform-component-top-header"><h2>Del dine historier med os (og med alle andre...)</h2>
+</div></div><div class="grid_3 omega"><div class="webform-component webform-component-textfield" id="webform-component-fieldset1--dit-navn"><div class="form-item" id="edit-submitted-fieldset1-dit-navn-wrapper">
+ <input type="text" maxlength="255" name="submitted[fieldset1][dit_navn]" id="edit-submitted-fieldset1-dit-navn" size="25" value="Dit navn" title="Dit navn" class="form-text required" />
+</div>
+</div><div class="webform-component webform-component-textfield" id="webform-component-fieldset1--din-adresse"><div class="form-item" id="edit-submitted-fieldset1-din-adresse-wrapper">
+ <input type="text" maxlength="255" name="submitted[fieldset1][din_adresse]" id="edit-submitted-fieldset1-din-adresse" size="25" value="Din adresse" title="Din adresse" class="form-text required" />
+</div>
+</div><div class="webform-component webform-component-textfield" id="webform-component-fieldset1--dit-telefonnr"><div class="form-item" id="edit-submitted-fieldset1-dit-telefonnr-wrapper">
+ <input type="text" maxlength="255" name="submitted[fieldset1][dit_telefonnr]" id="edit-submitted-fieldset1-dit-telefonnr" size="25" value="Dit telefonnr" title="Dit telefonnr" class="form-text required" />
+</div>
+</div><div class="webform-component webform-component-textfield" id="webform-component-fieldset1--din-email"><div class="form-item" id="edit-submitted-fieldset1-din-email-wrapper">
+ <input type="text" maxlength="255" name="submitted[fieldset1][din_email]" id="edit-submitted-fieldset1-din-email" size="25" value="Din E-mail" title="Din E-mail" class="form-text required" />
+</div>
+</div></div><div class="grid_5 alpha"><div class="webform-component webform-component-textarea" id="webform-component-fieldset2--besked"><div class="form-item" id="edit-submitted-fieldset2-besked-wrapper">
+ <textarea cols="40" rows="5" name="submitted[fieldset2][besked]" id="edit-submitted-fieldset2-besked"  title="Skriv en besked" class="form-textarea required">Skriv en besked</textarea>
+</div>
+</div><div class="webform-component webform-component-markup" id="webform-component-fieldset2--file-header"><p><strong>Upload et billede, et dokument eller et videoklip:</strong></p>
+</div><div class="webform-component webform-component-file" id="webform-component-fieldset2--file"><div class="form-item" id="edit-fieldset2-file-wrapper">
+ <label for="edit-fieldset2-file">File: </label>
+ <input type="file" name="files[fieldset2_file]"  class="form-file" id="edit-fieldset2-file" size="20" />
+
+</div>
+<input type="hidden" name="submitted[fieldset2][file][_fid]" id="edit-submitted-fieldset2-file--fid" value=""  />
+<input type="hidden" name="submitted[fieldset2][file][_old]" id="edit-submitted-fieldset2-file--old" value=""  />
+</div><div class="webform-component webform-component-checkboxes" id="webform-component-fieldset2--betingelser"><div class="form-checkboxes"><div class="form-item" id="edit-submitted-fieldset2-betingelser-1-wrapper">
+ <label class="option" for="edit-submitted-fieldset2-betingelser-1"><input type="checkbox" name="submitted[fieldset2][betingelser][1]" id="edit-submitted-fieldset2-betingelser-1" value="1"   class="form-checkbox" /> Jeg accepterer <a href="http://stiften.dk/blm-indholds-betingelser" target="_blank">Berlingske Lokale Mediers betingelser</a>.</label>
+</div>
+</div></div></div><div class="grid_7"><div class="webform-component webform-component-markup" id="webform-component-bottom-header"><script type="text/javascript">
+(function() {
+  var email, mapping;
+
+  mapping = {
+    'stiften.dk': 'netavis@stiften.dk',
+    'amtsavisen.dk': 'redaktion@amtsavisen.dk',
+    'dagbladet-holstebro-struer.dk': 'holstebro@bergske.dk',
+    'dagbladetringskjern.dk': 'ringkoebing@bergske.dk',
+    'folkebladetlemvig.dk': 'lemvig@bergske.dk',
+    'viborg-folkeblad.dk': 'viborg@bergske.dk'
+  };
+
+  email = mapping[window.location.host];
+
+  if (email == null) email = mapping['stiften.dk'];
+
+  document.write("Du kan også sende en <a href=\"mailto:" + email + "\">e-mail</a> eller en SMS /\nMMS med ordet <span class=\"tipos_yellow\">\"tipos\"</span> efterfulgt af din\nbesked til <span class=\"tipos_yellow\">1929</span>.\nDet koster kun alm. SMS/MMS-takst.");
+
+}).call(this);
+</script></div></div><div class="clear"></div><input type="hidden" name="details[sid]" id="edit-details-sid" value=""  />
+<input type="hidden" name="details[page_num]" id="edit-details-page-num" value="1"  />
+<input type="hidden" name="details[page_count]" id="edit-details-page-count" value="1"  />
+<input type="hidden" name="details[finished]" id="edit-details-finished" value="0"  />
+<input type="hidden" name="form_build_id" id="form-af5d75723d3568db08f4d46a02ee20ec" value="form-af5d75723d3568db08f4d46a02ee20ec"  />
+<input type="hidden" name="form_id" id="edit-webform-client-form-8831363" value="webform_client_form_8831363"  />
+<input type="hidden" name="mollom[session_id]" id="edit-mollom-session-id-1" value="1422633679-1501300ed3f3eb32ba"  class="mollom-session-id" />
+<div class="form-item" id="edit-mollom-captcha-1-wrapper">
+ <label for="edit-mollom-captcha-1">Ordbekræftelse: <span class="form-required" title="Dette felt er obligatorisk.">*</span></label>
+ <span class="field-prefix"><span class="mollom-captcha-content mollom-image-captcha"><img src="http://173.193.242.188:80/v1/captcha/1501300ed3f3eb32ba.png" alt="Type the characters you see in this picture." title=""  /></span> (<a href="#" class="mollom-switch-captcha mollom-audio-captcha">Bekræft vha. lyd</a>)</span> <input type="text" maxlength="128" name="mollom[captcha]" id="edit-mollom-captcha-1" size="10" value="" class="form-text required" />
+ <div class="description">Indtast de bogstaver du ser i billedet ovenfor. Hvis du ikke kan læse dem, indsend da formularen og et nyt billede vil blive vist. Der er ikke forskel på store og små bogstaver.</div>
+</div>
+<div style="display: none;"><div class="form-item" id="edit-mollom-homepage-1-wrapper">
+ <input type="text" maxlength="128" name="mollom[homepage]" id="edit-mollom-homepage-1" size="60" value="" class="form-text" />
+</div>
+</div><div id="edit-actions" class="form-actions form-wrapper"><input type="submit" name="op" id="edit-submit-1" value="Send"  class="form-submit ajax-trigger" />
+</div>
+</div></form>
+  </div>
+</div></div>
+</div>
+  </div>
+</div></div>
+</div>
+<div class="panel-separator"></div></div>
+<div class="grid_4 panel-region region-6"><div class="panel-pane  banner banner-f1 pane-name-content pane-name-content-14995">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(14995)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div><div class="default-block news_tabs image-header megaphone">
+    <h2 class="block-title">Seneste nyheder</h2>
+    <div class="inner-content">
+    <div class="panel-display panel-1col clear-block" id="mini-panel-mjm_news_tabs">
+  <div class="panel-panel panel-col">
+    <div class="news_tabs">
+
+  <div id="-most-read" class="tab-box-content">
+    <ul class="default active"><li><span><em class="timestamp">17:00</em><a href="/udland/90-aarige-mugabe-skal-staa-i-spidsen-for-hele-afrika" title="Zimbabwes aldrende præsident, Robert Mugabe, bliver formand for Den Afrikanske Union og lover nyt opgør mod tidligere tiders kolonimagter." target="_top"><span class="article-title">90-årige Mugabe skal stå i spidsen for hele Afrika</span></a></span></li><li><span><em class="timestamp">16:51</em><a href="/indland/mange-kan-miste-deres-bredbaand-inden-laenge" title="Politikere og branchefolk pønser på at hæve grænsen for, hvornår man har bredbånd. Det er på tide, mener DFs IT-ordfører." target="_top"><span class="article-title">Mange kan miste deres »bredbånd« inden længe</span></a></span></li><li><span><em class="timestamp">16:46</em><a href="/politik/el-savner-svar-fra-corydon-om-mckinsey-model" title="Finansminister Bjarne Corydon har fredag været i samråd om McKinsey-modellen. Men ministeren havde ikke klare svar med, lyder kritikken fra Enhedslisten." target="_top"><span class="article-title">EL savner svar fra Corydon om McKinsey-model</span></a></span></li><li><span><em class="timestamp">16:44</em><a href="/udland/fronten-mellem-oest-og-vest-traekkes-haardt-op" title="Rusland og NATO opruster hver især militært for ikke at blive hinanden underlegne i styrke." target="_top"><span class="article-title">Fronten mellem øst og vest trækkes hårdt op</span></a></span></li><li><span><em class="timestamp">16:38</em><a href="/politik/regeringens-hoester-roser-for-sin-oekologiplan" title="Der er gode takter i regeringens økologiplan, mener både landbruget og politikere. Men de 400 millioner kroner er ikke nok til at nå målet om at fordoble det økologiske areal i 2020, lyder kritikken." target="_top"><span class="article-title">Regeringens høster roser for sin økologiplan</span></a></span></li><li><span><em class="timestamp">16:33</em><a href="/politik/s-dansk-folkeparti-boer-traekke-annonce-om-aeldrecheck-tilbage" title="Dansk Folkeparti bør trække en annonce fra 2011 tilbage, fordi annoncens budskab er »en lodret løgn«, lyder det fra Socialdemokraternes ældreordfører, Astrid Krag (S). Dansk Folkeparti afviser at trække annoncen tilbage." target="_top"><span class="article-title">S: Dansk Folkeparti bør trække annonce om ældrecheck tilbage</span></a></span></li><li><span><em class="timestamp">16:20</em><a href="/udland/fredsmoede-i-minsk-brudt-sammen" title="De ukrainske oprøreres repræsentant er rejst tilbage til Moskva, og Ukraines hær beskylder oprørerne for at bombe deres egen hovedby." target="_top"><span class="article-title">Fredsmøde i Minsk brudt sammen</span></a></span></li><li><span><em class="timestamp">16:18</em><a href="/udland/romney-proever-for-tredje-gang" title="" target="_top"><span class="article-title">Romney prøver for tredje gang</span></a></span></li><li><span><em class="timestamp">15:57</em><a href="/aarhus/roed-blok-vinder-valget-i-aarhus" title="Et prøvevalg på alle landets skoler har blå blok som vinder. Bare ikke i Aarhus, hvor rød blok henter en sejr." target="_top"><span class="article-title">Rød blok vinder valget i Aarhus</span></a></span></li><li><span><em class="timestamp">15:49</em><a href="/krimi/mand-skal-12-aar-i-faengsel-efter-knivdrab" title="Den 46-årige mand, som dræbte sin ekskæreste med 34 knivstik i Kokkedal i april 2014, er fredag idømt 12 års fængsel og efterfølgende udvisning." target="_top"><span class="article-title">Mand skal 12 år i fængsel efter knivdrab</span></a></span></li></ul>    <ul class="unlist footer tab-related-links"><li><li class="rss-link"><a href="/rss">RSS feed</a></li>
+<li class="more-link"><!-- <a href="#">Flere nyheder</a>--></li>
+</li></ul>  </div>
+</div>  </div>
+</div>
+  </div>
+</div>
+
+<div class="panel-separator"></div><div class="default-block news_tabs image-header megaphone">
+    <h2 class="block-title">Forsiden netop nu</h2>
+    <div class="inner-content">
+      <div class="article article-with-image-teaser grid-image-4 top first">
+          <div class="pane-header">
+                </div>
+      <a href="/aarhus/roed-blok-vinder-valget-i-aarhus" target="_top"><img src="http://a.bimg.dk/node-images/239/8/296x148-t/8239177-rd-blok-vinder-valget-i-aarhus---1.jpg" width="296" height="148" alt="Rød blok vinder valget i Aarhus - 1" /></a><a href="/aarhus/roed-blok-vinder-valget-i-aarhus" title="Et prøvevalg på alle landets skoler har blå blok som vinder. Bare ikke i Aarhus, hvor rød blok henter en sejr." target="_top"><h2>Rød blok vinder valget i Aarhus</h2></a><span  class="aarhus stiften-tag">Aarhus</span><p class="summary"><a href="/aarhus/roed-blok-vinder-valget-i-aarhus" target="_top">Et prøvevalg på alle landets skoler har blå blok som vinder. Bare ikke i Aarhus, hvor rød blok henter en sejr.</a></p> <span class="read-more"><a href="/aarhus/roed-blok-vinder-valget-i-aarhus" title="Rød blok vinder valget i Aarhus" target="_top">Læs mere</a></span>        </div>
+      <div class="panel-separator"></div>  <div class="article article-with-image-teaser grid-image-4">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/kage-og-stoerre-aviser-til-oestjyderne" target="_top"><img src="http://b.bimg.dk/node-images/238/8/296x148-t/8238914-kage-og-strre-aviser-til-stjyderne---2.jpg" width="296" height="148" alt="Kage og større aviser til østjyderne - 2" /></a><a href="/aarhus/kage-og-stoerre-aviser-til-oestjyderne" title="Der var kagefest på Banegårdspladsen, da landets to største ugeaviser, Århus Onsdag og Århus Weekend, fejrede, at de nu når ud til 156.000 hustande." target="_top"><h2>Kage og større aviser til østjyderne</h2></a><span  class="aarhus stiften-tag">Aarhus</span><p class="summary"><a href="/aarhus/kage-og-stoerre-aviser-til-oestjyderne" target="_top">Der var kagefest på Banegårdspladsen, da landets to største ugeaviser, Århus Onsdag og Århus Weekend, fejrede, at de nu når ud til 156.000 hustande.</a></p> <span class="read-more"><a href="/aarhus/kage-og-stoerre-aviser-til-oestjyderne" title="Kage og større aviser til østjyderne" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/landets-stoerste-ugeavis-er-stadig-stoerst" title="Landets største ugeavis er stadig størst" target="_top">Landets største ugeavis er stadig størst</a></li><li ><a href="/odder/odder-avis-faar-konkurrence-fra-soendagsavisen" title="Odder Avis får konkurrence fra Søndagsavisen" target="_top">Odder Avis får konkurrence fra Søndagsavisen</a></li></ul>  </div>
+<div class="panel-separator"></div>  </div>
+</div>
+
+<div class="panel-separator"></div>
+<div class="panel-pane  banner banner-f2 pane-name-content pane-name-content-14996">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(14996)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-name-mjm_right_group_1">
+<div class="content"><div class="panel-pane pane-name-mjm_right_group_1_top">
+<div class="content"><div class="default-block image-series-carousel background-dark image-series">
+    <h2 class="block-title">Seneste billedserier</h2>
+    <div class="inner-content">
+    <div class="pane images-with-pager grid-image-4 image-thumbs">
+<div class="mjm_images_with_pager_prev"><a href="javascript://">&nbsp;</a></div>
+<div class="mjm_images_with_pager_next"><a href="javascript://">&nbsp;</a></div>
+
+  <div class="mjm_images_with_pager">
+    <ul>
+      <li>
+        <a href="/foto/vilde-billeder-naar-kropsudsmykning-stikker-en-lille-smule-af" target="_blank"><img src="http://a.bimg.dk/node-images/237/8/296x148-t/8237919-venezuela-oddly.jpg" width="296" height="148" alt="VENEZUELA-ODDLY/" /></a>      </li>
+      <li>
+        <a href="/foto/se-billederne-fra-agfs-traening-tirsdag" target="_blank"><img src="http://a.bimg.dk/node-images/225/8/296x148-t/8225109-.jpg" width="296" height="148" alt="" /></a>      </li>
+      <li>
+        <div class="image-gallery-teaser"><span class="watermark picture-series-watermark">Billedgalleri:</span><a href="/foto/se-billederne-jm-i-boksning-i-nrgi-park" target="_blank"><img src="http://a.bimg.dk/node-images/219/8/296x148-t/8219953-boks.jpg" width="296" height="148" alt="boks" /></a></div>      </li>
+      <li>
+        <a href="/foto/se-billederne-da-aarhus-hyldede-sine-mestre" target="_blank"><img src="http://a.bimg.dk/node-images/212/8/296x148-t/8212967-.jpg" width="296" height="148" alt="" /></a>      </li>
+      <li>
+        <a href="/foto/se-billederne-sneen-kom-til-aarhus-for-en-kort-stund" target="_blank"><img src="http://b.bimg.dk/node-images/211/8/296x148-t/8211750-.jpg" width="296" height="148" alt="" /></a>      </li>
+      <li>
+        <a href="/foto/se-billederne-pegida-demonstration-og-moddemonstration" target="_blank"><img src="http://a.bimg.dk/node-images/192/8/296x148-t/8192290-anti-islam-demonstranter.jpg" width="296" height="148" alt="Anti-islam-demonstranter" /></a>      </li>
+    </ul>
+  </div>
+<div class="mjm_images_with_pager_titles">
+      <div class="mjm_images_with_pager_title curr" id="mjm_iwpt_1">
+        <a href="/foto/vilde-billeder-naar-kropsudsmykning-stikker-en-lille-smule-af" title="I disse dage finder messen Venezuela Expo Tattoo sted i Caracas. Her flokkes nogle af verdens mest tatoverede og vanvittigt kropsmodererede mennesker." target="_blank"><h3>Vilde billeder: Når kropsudsmykning stikker en lille smule af</h3></a>    </div>
+    <div class="mjm_images_with_pager_title" id="mjm_iwpt_2">
+        <a href="/foto/se-billederne-fra-agfs-traening-tirsdag" title="" target="_blank"><h3>Se billederne fra AGF&#039;s træning tirsdag</h3></a>    </div>
+    <div class="mjm_images_with_pager_title" id="mjm_iwpt_3">
+        <a href="/foto/se-billederne-jm-i-boksning-i-nrgi-park" title="" target="_blank"><h3>Se billederne: JM i boksning i NRGi Park</h3></a>    </div>
+    <div class="mjm_images_with_pager_title" id="mjm_iwpt_4">
+        <a href="/foto/se-billederne-da-aarhus-hyldede-sine-mestre" title="" target="_blank"><h3>Se billederne da Aarhus hyldede sine mestre</h3></a>    </div>
+    <div class="mjm_images_with_pager_title" id="mjm_iwpt_5">
+        <a href="/foto/se-billederne-sneen-kom-til-aarhus-for-en-kort-stund" title="Bobslæderne blev fundet frem, der blev bygget snemænd i Rådhusparken og kørt stille på Djurslandsmotorvejen, da sneen for en kort stund fandt frem til Aarhus" target="_blank"><h3>Se billederne: Sneen kom til Aarhus for en kort stund</h3></a>    </div>
+    <div class="mjm_images_with_pager_title" id="mjm_iwpt_6">
+        <a href="/foto/se-billederne-pegida-demonstration-og-moddemonstration" title="Både Pegidas demonstration mod islamisering og moddemonstrationen arrangeret af Aarhus for Mangfoldighed forløb fredeligt, da parterne gik på gaden i Aarhus mandag aften." target="_blank"><h3>Se billederne: Pegida-demonstration og moddemonstration</h3></a>    </div>
+  </div>
+
+   <script type="text/javascript">
+    numImages = '6';
+  </script>
+
+  <div class="jcarousel-control">
+   <a href="javascript://" id="jc_1" class="curr">1</a>
+   <a href="javascript://" id="jc_2">2</a>
+   <a href="javascript://" id="jc_3">3</a>
+   <a href="javascript://" id="jc_4">4</a>
+   <a href="javascript://" id="jc_5">5</a>
+   <a href="javascript://" id="jc_6">6</a>
+   </div>
+
+</div>
+<div class="panel-separator"></div><div class="pane article-with-image grid-image-2 image-thumbs">
+
+  <ul>
+    <li>
+      <a href="/foto/se-billederne-da-aarhus-hyldede-sine-mestre" target="_blank"><img src="http://a.bimg.dk/node-images/212/8/140x70-t/8212967-.jpg" width="140" height="70" alt="" /></a>      <a href="/foto/se-billederne-da-aarhus-hyldede-sine-mestre" title="" target="_blank"><h3>Se billederne da Aarhus hyldede sine mestre</h3></a>    </li>
+    <li>
+      <a href="/foto/se-billederne-sneen-kom-til-aarhus-for-en-kort-stund" target="_blank"><img src="http://b.bimg.dk/node-images/211/8/140x70-t/8211750-.jpg" width="140" height="70" alt="" /></a>      <a href="/foto/se-billederne-sneen-kom-til-aarhus-for-en-kort-stund" title="Bobslæderne blev fundet frem, der blev bygget snemænd i Rådhusparken og kørt stille på Djurslandsmotorvejen, da sneen for en kort stund fandt frem til Aarhus" target="_blank"><h3>Se billederne: Sneen kom til Aarhus for en kort stund</h3></a>    </li>
+    <li>
+      <a href="/foto/se-billederne-christian-gleerups-begravelse-i-landsbykirke-i-ginnerup" target="_blank"><img src="http://b.bimg.dk/node-images/207/8/140x70-t/8207549-24ranbegravelse-01.jpg" width="140" height="70" alt="24ranBegravelse 01" /></a>      <a href="/foto/se-billederne-christian-gleerups-begravelse-i-landsbykirke-i-ginnerup" title="Den lille landsbykirke i Ginnerup dannede igen rammen om en betydningsfuld dag for familien Gleerup." target="_blank"><h3>Se billederne: Christian Gleerups begravelse i landsbykirke i Ginnerup</h3></a>    </li>
+    <li>
+      <div class="image-gallery-teaser"><span class="watermark picture-series-watermark">Billedgalleri:</span><a href="/foto/se-billederne-paa-besoeg-i-europas-stoerste-ande-galleri" target="_blank"><img src="http://b.bimg.dk/node-images/202/8/140x70-t/8202218-.jpg" width="140" height="70" alt="" /></a></div>      <a href="/foto/se-billederne-paa-besoeg-i-europas-stoerste-ande-galleri" title="Anders And og de klassiske figurer i Andeby er i høj kurs som maleri og litografi. 31. januar åbner Europas største ande-galleri, Disneyana Galleri, i Randers." target="_blank"><h3>Se billederne: På besøg i Europas største ande-galleri</h3></a>    </li>
+  </ul>
+  <div class="clearfix"></div>
+</div>
+<div class="read-more-link">
+  <a href="/billedserie/" target="_top">Flere billedgallerier</a></div>
+<div class="panel-separator"></div>  </div>
+</div>
+
+<div class="panel-separator"></div></div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane  banner banner-f3 pane-name-content pane-name-content-14997">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(14997)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane  banner banner-f4 pane-name-content pane-name-content-14998">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(14998)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-name-mjm_right_group_1_bottom">
+<div class="content"><div class="default-block facebook">
+    <h2 class="block-title">Læserne anbefaler</h2>
+    <div class="inner-content">
+    <div class="panel-pane pane-name-content">
+<div class="content"><iframe src="http://www.facebook.com/widgets/recommendations.php?width=296&amp;height=270&amp;header=false&amp;font=arial&amp;locale=da_DK&amp;site=http%3A%2F%2Fstiften.dk" scrolling="no" frameborder="0" style="overflow:hidden;border:none;width:296px;height:270px"></iframe></div>
+</div>
+<div class="panel-separator"></div>  </div>
+</div>
+
+<div class="panel-separator"></div><div class="panel-pane pane-name-mjm_facebook_funbox">
+<div class="content"><div class="panel-pane pane-name-content">
+<div class="content"><iframe src="http://www.facebook.com/plugins/likebox.php?width=296&amp;height=556&amp;href=http%3A%2F%2Fwww.facebook.com%2Fstiftstidende&amp;connections=10&amp;stream=true&amp;header=true&amp;locale=da_DK" scrolling="no" frameborder="0" style="overflow:hidden;border:none;width:296px;height:556px;"></iframe></div>
+</div>
+<div class="panel-separator"></div></div>
+</div>
+<div class="panel-separator"></div></div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane  banner banner-f5 pane-name-content pane-name-content-14999">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(14999)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div></div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-name-mjm_most_read_sidebar_styled">
+<div class="content">  <div class="grid_4 alpha omega panel-region aoa"><div class="panel-pane pane-name-mjm_most_read_sidebar_aoa">
+<div class="content">  <div class="grid_4 alpha omega panel-region aoa"><div class="default-block icon-only no-icon">
+    <h2 class="block-title"><span>aOa.dk</span></h2>
+    <div class="inner-content">
+      <div class="article article-with-image-teaser grid-image-4 focus first">
+          <div class="pane-header">
+                </div>
+      <a href="http://www.aoa.dk/restaurant-og-cafe/guide-store-restaurantoplevelser-til-smaa-penge" target="_blank"><img src="http://a.bimg.dk/node-images/197/8/296x148-t/8197574-guide-store-restaurantoplevelser-til-sm-penge.jpg" width="296" height="148" alt="Guide store restaurantoplevelser til små penge" /></a><a href="http://www.aoa.dk/restaurant-og-cafe/guide-store-restaurantoplevelser-til-smaa-penge" title="&amp;quot;Alle skal have råd til at spise godt&amp;quot;. Det kunne man fristes til at sige, når man ser de menuer, som nogle af byens bedste restauranter tilbyder til små penge. AOA guider dig her til store restaurantoplevelser til priser, hvor de fleste kan være med. " target="_blank"><h2>Guide: Store restaurantoplevelser til små penge</h2></a><span class="article-tag aoa-tag"><a href="http://www.aoa.dk" target="_blank">AOA.DK</a></span> <p class="summary"><a href="http://www.aoa.dk/restaurant-og-cafe/guide-store-restaurantoplevelser-til-smaa-penge" target="_blank">"Alle skal have råd til at spise godt". Det kunne man fristes til at sige, når man ser de menuer, som nogle af byens bedste restauranter tilbyder ...</a></p> <span class="read-more"><a href="http://www.aoa.dk/restaurant-og-cafe/guide-store-restaurantoplevelser-til-smaa-penge" title="Guide: Store restaurantoplevelser til små penge" target="_blank">Læs mere</a></span>        </div>
+        </div>
+</div></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="grid_4 alpha omega panel-region gossip"><div class="default-block icon-only no-icon">
+    <h2 class="block-title"><span>Gossip</span></h2>
+    <div class="inner-content">
+      <div class="article article-with-image-teaser grid-image-4 focus first">
+          <div class="pane-header">
+                </div>
+      <a href="/gossip/leon-andreasen-er-gaaet-fra-kaeresten" target="_top"><img src="http://b.bimg.dk/node-images/167/8/296x148-t/8167659-fodboldspiller-leon-andreasen-er-skilt.jpg" width="296" height="148" alt="fodboldspiller Leon Andreasen er skilt" /></a><a href="/gossip/leon-andreasen-er-gaaet-fra-kaeresten" title="Den danske fodboldspiller Leon Andreasen og kæresten Annabelle er gået fra hinanden. Det vigtigste er nu, at deres fælles søn Luis ikke kommer til at lide efter bruddet." target="_top"><h2>Leon Andreasen er gået fra kæresten</h2></a><span  class="gossip stiften-tag">Hannover</span><p class="summary"><a href="/gossip/leon-andreasen-er-gaaet-fra-kaeresten" target="_top">Den danske fodboldspiller Leon Andreasen og kæresten Annabelle er gået fra hinanden. Det vigtigste er nu, at deres fælles søn Luis ikke kommer til ...</a></p> <span class="read-more"><a href="/gossip/leon-andreasen-er-gaaet-fra-kaeresten" title="Leon Andreasen er gået fra kæresten" target="_top">Læs mere</a></span>        </div>
+        </div>
+</div></div>
+<div class="clear"></div>
+<div class="grid_4 alpha omega panel-region skoert_og_skaevt"><div class="default-block icon-only no-icon">
+    <h2 class="block-title"><span>Skørt og Skævt</span></h2>
+    <div class="inner-content">
+      <div class="article article-with-image-teaser grid-image-4 focus first">
+          <div class="pane-header">
+                </div>
+      <a href="/skoert-skaevt/derfor-forsvandt-mayaerne-blaat-hul-i-havet-loeser-aeldgammelt-mysterie" target="_top"><img src="http://a.bimg.dk/node-images/128/8/296x148-t/8128623-bluehole.jpg" width="296" height="148" alt="BlueHole" /></a><a href="/skoert-skaevt/derfor-forsvandt-mayaerne-blaat-hul-i-havet-loeser-aeldgammelt-mysterie" title="Maya-indianerne var et stort og udviklet folkefærd, der pludselig næsten forsvandt. Nu ved forskerne hvorfor." target="_top"><h2>Derfor forsvandt mayaerne: Blåt hul i havet løser ældgammelt mysterie</h2></a><span  class="skørt_&amp;_skævt stiften-tag">Udland</span><p class="summary"><a href="/skoert-skaevt/derfor-forsvandt-mayaerne-blaat-hul-i-havet-loeser-aeldgammelt-mysterie" target="_top">Maya-indianerne var et stort og udviklet folkefærd, der pludselig næsten forsvandt. Nu ved forskerne hvorfor.</a></p> <span class="read-more"><a href="/skoert-skaevt/derfor-forsvandt-mayaerne-blaat-hul-i-havet-loeser-aeldgammelt-mysterie" title="Derfor forsvandt mayaerne: Blåt hul i havet løser ældgammelt mysterie" target="_top">Læs mere</a></span>        </div>
+        </div>
+</div></div>
+<div class="clear"></div>
+<div class="grid_4 alpha omega panel-region alarm112"><div class="default-block icon-only no-icon">
+    <h2 class="block-title"><span>Alarm 112</span></h2>
+    <div class="inner-content">
+      <div class="article article-with-image-teaser grid-image-4 focus first">
+          <div class="pane-header">
+                </div>
+      <a href="/alarm-112/falske-pengesedler-i-omloeb" target="_top"><img src="http://a.bimg.dk/node-images/234/8/296x148-t/8234264-falske-pengesedler-i-omlb---1.jpg" width="296" height="148" alt="Falske pengesedler i omløb - 1" /></a><a href="/alarm-112/falske-pengesedler-i-omloeb" title="Tre steder i Randers har man modtaget i alt otte falske 500 kroner-sedler. Det fortæller Østjyllands Politi." target="_top"><h2>Falske pengesedler i omløb</h2></a><span  class="alarm_112 stiften-tag">randers</span><p class="summary"><a href="/alarm-112/falske-pengesedler-i-omloeb" target="_top">Tre steder i Randers har man modtaget i alt otte falske 500 kroner-sedler. Det fortæller Østjyllands Politi.</a></p> <span class="read-more"><a href="/alarm-112/falske-pengesedler-i-omloeb" title="Falske pengesedler i omløb" target="_top">Læs mere</a></span>        </div>
+        </div>
+</div></div>
+<div class="clear"></div>
+<div class="grid_4 alpha omega panel-region bilen"><div class="default-block icon-only no-icon">
+    <h2 class="block-title"><span>Bilen</span></h2>
+    <div class="inner-content">
+      <div class="article article-with-image-teaser grid-image-4 focus first">
+          <div class="pane-header">
+                </div>
+      <a href="http://stiften.bilen.dk/bilnyheder/2015/1/kanonbillig-ford-mustang/" target="_blank"><img src="http://b.bimg.dk/node-images/238/8/296x148-t/8238202-.jpg" width="296" height="148" alt="" /></a><a href="http://stiften.bilen.dk/bilnyheder/2015/1/kanonbillig-ford-mustang/" title="" target="_blank"><h2>Kanonbillig Ford Mustang</h2></a><span  class="bilen stiften-tag"></span><p class="summary"><a href="http://stiften.bilen.dk/bilnyheder/2015/1/kanonbillig-ford-mustang/" target="_blank">Den nye Ford Mustang med 4-cylindret turbomotor og 314 hestekræfter koster 600.000 kr. Det er cirka det samme som en 170 hestes Audi A5 Coupé og ...</a></p> <span class="read-more"><a href="http://stiften.bilen.dk/bilnyheder/2015/1/kanonbillig-ford-mustang/" title="Kanonbillig Ford Mustang" target="_blank">Læs mere</a></span>        </div>
+        </div>
+</div></div>
+<div class="clear"></div>
+<div class="grid_4 alpha omega panel-region rejser"><div class="default-block icon-only no-icon">
+    <h2 class="block-title"><span>Rejser</span></h2>
+    <div class="inner-content">
+      <div class="article article-with-image-teaser grid-image-4 focus first">
+          <div class="pane-header">
+                </div>
+      <a href="/rejser/charmerende-og-storslaaende-skiloeb-i-oestrig" target="_top"><img src="http://a.bimg.dk/node-images/223/8/296x148-t/8223843-charmerende-og-storslende-skilb-i-strig---1.jpg" width="296" height="148" alt="Charmerende og storslående skiløb i Østrig - 1" /></a><a href="/rejser/charmerende-og-storslaaende-skiloeb-i-oestrig" title="Der er varierede pister og masser af hygge i Bad Kleinkirchheim i det sydlige Østrig. Området er berømt for de varme kilder, som fylder bassinerne i byens wellnessområder." target="_top"><h2>Charmerende og storslående skiløb i Østrig</h2></a><span  class="rejser stiften-tag">Østrig</span><p class="summary"><a href="/rejser/charmerende-og-storslaaende-skiloeb-i-oestrig" target="_top">Der er varierede pister og masser af hygge i Bad Kleinkirchheim i det sydlige Østrig. Området er berømt for de varme kilder, som fylder bassinerne ...</a></p> <span class="read-more"><a href="/rejser/charmerende-og-storslaaende-skiloeb-i-oestrig" title="Charmerende og storslående skiløb i Østrig" target="_top">Læs mere</a></span>        </div>
+        </div>
+</div></div>
+<div class="clear"></div>
+<div class="grid_4 alpha omega panel-region digital"><div class="default-block icon-only no-icon">
+    <h2 class="block-title"><span>Digital</span></h2>
+    <div class="inner-content">
+      <div class="article article-with-image-teaser grid-image-4 focus first">
+          <div class="pane-header">
+                </div>
+      <a href="/digital/hver-sjette-overvejer-at-droppe-facebook" target="_top"><img src="http://a.bimg.dk/node-images/939/7/296x148-t/7939391-facebook.jpg" width="296" height="148" alt="Facebook" /></a><a href="/digital/hver-sjette-overvejer-at-droppe-facebook" title="Danskernes begejstring for Facebook kan være ved at aftage. En ny undersøgelse viser, at en stor del af brugerne overvejer at slette deres konto." target="_top"><h2>Hver sjette overvejer at droppe Facebook</h2></a><span  class="digital stiften-tag">Digital</span><p class="summary"><a href="/digital/hver-sjette-overvejer-at-droppe-facebook" target="_top">Danskernes begejstring for Facebook kan være ved at aftage. En ny undersøgelse viser, at en stor del af brugerne overvejer at slette deres konto.</a></p> <span class="read-more"><a href="/digital/hver-sjette-overvejer-at-droppe-facebook" title="Hver sjette overvejer at droppe Facebook" target="_top">Læs mere</a></span>        </div>
+        </div>
+</div></div>
+<div class="clear"></div>
+<div class="grid_4 alpha omega panel-region fri"><div class="default-block icon-only no-icon">
+    <h2 class="block-title"><span>Fri</span></h2>
+    <div class="inner-content">
+      <div class="article article-with-image-teaser grid-image-4 focus first">
+          <div class="pane-header">
+                </div>
+      <a href="/fri/derfor-hader-du-rosenkaal-0" target="_top"><img src="http://b.bimg.dk/node-images/992/7/296x148-t/7992514-kaal.jpg" width="296" height="148" alt="kaal" /></a><a href="/fri/derfor-hader-du-rosenkaal-0" title="Kan du ikke lide kål og andre bitre grøntsager? Så kan du skyde skylden på dine gener, viser ny forskning." target="_top"><h2>Derfor hader du rosenkål</h2></a><span  class="fri stiften-tag">Fri</span><p class="summary"><a href="/fri/derfor-hader-du-rosenkaal-0" target="_top">Kan du ikke lide kål og andre bitre grøntsager? Så kan du skyde skylden på dine gener, viser ny forskning.</a></p> <span class="read-more"><a href="/fri/derfor-hader-du-rosenkaal-0" title="Derfor hader du rosenkål" target="_top">Læs mere</a></span>        </div>
+        </div>
+</div></div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="panel-separator"></div></div>
+<div class="clear"></div>
+<div class="grid_12 panel-region banner-a1"><div class="panel-pane  banner banner-a1 pane-name-content pane-name-content-14989">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(14989)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div></div>
+<div class="clear"></div>
+<div class="grid_12">	<div class="grid_4 alpha panel-region banner-f3"></div>
+<div class="grid_4 panel-region banner-f4"></div>
+<div class="grid_4 omega panel-region banner-f5"></div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="grid_12 panel-region region-7"><div class="panel-pane  banner banner-g2 pane-name-content pane-name-content-15001">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(15001)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-name-mjm_most_popular">
+<div class="content">  <div class="grid_4 alpha panel-region region-1"><div class="article-list top-articles">
+      <div class="pane-header">
+    Mest læste    </div>
+
+  <ul>
+      <li>
+      <a href="/aarhus/bliitzzz-her-holder-de-nye-fotovogne" title="Fra 1. februar er der al mulig grund til at lette presset på speederen. Otte spritnye fotovogne står parat til at rykke ud i Østjyllands Politikreds. Fem i Aarhus og tre i Randers." target="_top"><span>Bliitzzz: Her holder de nye ...</span></a>    </li>
+      <li>
+      <a href="/aarhus/presse-ib-har-taget-sit-sidste-billede" title="Et ikon i århusiansk avishistorie er gået bort efter et liv, som bestemt ikke gik stille af. Torsdag døde Ib Hansen, 91 år gammel." target="_top"><span>Presse-Ib har taget sit sidste ...</span></a>    </li>
+      <li>
+      <a href="/aarhus/sten-og-flasker-regner-mod-bybusser" title="Ved en gangbro over Rymarken ved Bispehaven går det ofte galt for byens busser. Chauffører har oplevet både at blive blændet af laserlys og at blive ramt af appelsiner." target="_top"><span>Sten og flasker regner mod bybusser</span></a>    </li>
+      <li>
+      <a href="/aarhus/byraadsmedlem-fik-smidt-lufthavnskritiker-ud-af-analysearbejde" title="Ingeniørfirmat Grontmij skal lave lufthavnsanalyse - men uden kritiker." target="_top"><span>Byrådsmedlem fik smidt ...</span></a>    </li>
+      <li>
+      <a href="/agf/fire-store-transferspoergsmaal-hos-agf" title="Det er de store overvejelsers tid for AGFs nye sportschef, Jens T. Andersson. Stiften kigger her med i krystalkuglen. " target="_top"><span>Fire store transferspørgsmål ...</span></a>    </li>
+      <li>
+      <a href="/aarhus/telefonsvindel-toemmer-aarhusianeres-konti" title="15 østjyder har meldt svindlere til politiet. De ringes op fra udenlandske numre og franarres penge." target="_top"><span>Telefonsvindel tømmer ...</span></a>    </li>
+    </ul>
+</div>
+</div>
+<div class="grid_4 panel-region region-2"><div class="panel-pane article-list top-articles pane-name-content pane-name-content-64873">
+<h2 class="title">Mest kommenterede</h2>
+<div class="content"><ul class="content"><li class="article-title-item"><a href="/alarm-112/politiet-advarer-mod-tricktyve-forklaedt-som-varmeaflaesere" title="Politiet advarer mod tricktyve »forklædt« som varmeaflæsere" target="_top">Politiet advarer mod tricktyve »forklædt« som varmeaflæsere</a></li><li class="article-title-item"><a href="/sport/mads-mensah-erstatter-damgaard-i-vm-truppen" title="Mads Mensah erstatter Damgaard i VM-truppen" target="_top">Mads Mensah erstatter Damgaard i VM-truppen</a></li><li class="article-title-item"><a href="/leder/bevar-den-sunde-skepsis" title="Bevar den sunde skepsis" target="_top">Bevar den sunde skepsis</a></li><li class="article-title-item"><a href="/leder/boykot-loeser-ingen-problemer" title="Boykot løser ingen problemer" target="_top">Boykot løser ingen problemer</a></li><li class="article-title-item"><a href="/aarhus/doeende-er-for-dyre" title="Døende er for dyre" target="_top">Døende er for dyre</a></li><li class="article-title-item"><a href="/leder/en-noedvendig-debat" title="En nødvendig debat" target="_top">En nødvendig debat</a></li></ul></div>
+</div>
+</div>
+<div class="grid_4 omega panel-region region-3"><div class="article-list top-articles">
+      <div class="pane-header">
+    Mest sendte    </div>
+
+  <ul>
+      <li>
+      <a href="/aarhus/unge-skal-laere-unge-at-lave-mad" title="Et tre-årigt projekt til 15 millioner kroner skal give unge i Aarhus Kommune lysten og evnerne til selv at lave mad." target="_top"><span>Unge skal lære unge at lave mad</span></a>    </li>
+      <li>
+      <a href="/norddjurs/skoleprojekt-blev-til-vaerested-i-grenaa" title="Pædagogstuderende har sammen med frivillige borgere startet værested for udsatte og ensomme." target="_top"><span>Skoleprojekt blev til værested ...</span></a>    </li>
+      <li>
+      <a href="/alarm-112/flugtbilist-efterlod-cyklist-med-aabent-benbrud" title="Politiet har anholdt den flugtbilist, der søndag stak af fra ulykke i krydset Blegindvej og Gammel Horsensvej. Her efterlod han påkørt cyklist med åbent benbrud." target="_top"><span>Flugtbilist: Efterlod cyklist ...</span></a>    </li>
+      <li>
+      <a href="/doedsfald/doedsfald-knud-joergen-hounsgaard" title="Tidligere slagteriarbejder Knud Jørgen Hounsgaard, Ebeltoft, er død, 75 år." target="_top"><span>Dødsfald: Knud Jørgen Hounsgaard</span></a>    </li>
+      <li>
+      <a href="/aarhus/presse-ib-har-taget-sit-sidste-billede" title="Et ikon i århusiansk avishistorie er gået bort efter et liv, som bestemt ikke gik stille af. Torsdag døde Ib Hansen, 91 år gammel." target="_top"><span>Presse-Ib har taget sit sidste ...</span></a>    </li>
+      <li>
+      <a href="/aarhus/ny-ejer-af-sostrup-slot-har-store-planer" title="Efter 30 år i Californien er danskfødte Kirsten Bundgaard Swift sammen med sin bror blevet ejer af det tidligere nonnekloster på Norddjursland." target="_top"><span>Ny ejer af Sostrup Slot har ...</span></a>    </li>
+    </ul>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane  banner banner-g3 pane-name-content pane-name-content-15002">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(15002)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div><div class="default-block leasershop default-block-tall">
+    <h2 class="block-title">Fik du læst...</h2>
+    <div class="inner-content">
+      <div class="grid_12 alpha omega">	<div class="grid_4 alpha panel-region 1-20">  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/to-ministre-i-samraad-om-bispehaven-stenkast-0" target="_top"><img src="http://b.bimg.dk/node-images/236/8/218x109-c/8236817-to-ministre-i-samrd-om-bispehaven-stenkast---1.jpg" width="218" height="109" alt="To ministre i samråd om Bispehaven-stenkast - 1" /></a><a href="/aarhus/to-ministre-i-samraad-om-bispehaven-stenkast-0" title="Folketingsmedlem vil have forældre på banen. Samtidig indgår kommune, politi og boligselskab tryghedsaftale." target="_top"><h2>To ministre i samråd om Bispehaven-stenkast</h2></a><span  class="aarhus stiften-tag">aarhus</span><p class="summary"><a href="/aarhus/to-ministre-i-samraad-om-bispehaven-stenkast-0" target="_top">Folketingsmedlem vil have forældre på banen. Samtidig indgår kommune, politi og boligselskab tryghedsaftale.</a></p> <span class="read-more"><a href="/aarhus/to-ministre-i-samraad-om-bispehaven-stenkast-0" title="To ministre i samråd om Bispehaven-stenkast" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/faelles-front-mod-sten-og-flaskekast" title="Fælles front mod sten- og flaskekast" target="_top">Fælles front mod sten- og flaskekast</a></li><li ><a href="/aarhus/sten-og-flasker-regner-mod-bybusser" title="Sten og flasker regner mod bybusser" target="_top">Sten og flasker regner mod bybusser</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/384-boern-har-skabt-maarslets-nye-kunstvaerk" target="_top"><img src="http://b.bimg.dk/node-images/236/8/218x109-c/8236799-384-brn-har-skabt-mrslets-nye-kunstvrk---2.jpg" width="218" height="109" alt="384 børn har skabt Mårslets nye kunstværk - 2" /></a><a href="/aarhus/384-boern-har-skabt-maarslets-nye-kunstvaerk" title="Sjældent har der været så voldsomt opløb, som da Mårslet torsdag afslørede byens nye kunstværk." target="_top"><h2>384 børn har skabt Mårslets nye kunstværk</h2></a><span  class="aarhus stiften-tag">MÅRSLET</span><p class="summary"><a href="/aarhus/384-boern-har-skabt-maarslets-nye-kunstvaerk" target="_top">Sjældent har der været så voldsomt opløb, som da Mårslet torsdag afslørede byens nye kunstværk.</a></p> <span class="read-more"><a href="/aarhus/384-boern-har-skabt-maarslets-nye-kunstvaerk" title="384 børn har skabt Mårslets nye kunstværk" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/kunstnere-goer-klar-til-kreativ-snefest" title="Kunstnere gør klar til kreativ snefest" target="_top">Kunstnere gør klar til kreativ snefest</a></li><li ><a href="/kultur/lugtende-teenagere-soeges-0" title="Lugtende teenagere søges" target="_top">Lugtende teenagere søges</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/bliitzzz-her-holder-de-nye-fotovogne" target="_top"><img src="http://a.bimg.dk/node-images/236/8/218x109-c/8236765-bilister-bliver-jaget-vildt---1.jpg" width="218" height="109" alt="Bilister bliver jaget vildt - 1" /></a><a href="/aarhus/bliitzzz-her-holder-de-nye-fotovogne" title="Fra 1. februar er der al mulig grund til at lette presset på speederen. Otte spritnye fotovogne står parat til at rykke ud i Østjyllands Politikreds. Fem i Aarhus og tre i Randers." target="_top"><h2>Bliitzzz: Her holder de nye fotovogne</h2></a><span  class="aarhus stiften-tag">Østjylland</span><p class="summary"><a href="/aarhus/bliitzzz-her-holder-de-nye-fotovogne" target="_top">Fra 1. februar er der al mulig grund til at lette presset på speederen. Otte spritnye fotovogne står parat til at rykke ud i Østjyllands ...</a></p> <span class="read-more"><a href="/aarhus/bliitzzz-her-holder-de-nye-fotovogne" title="Bliitzzz: Her holder de nye fotovogne" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/500-staerekasser-blev-til-100-fotovogne" title="500 stærekasser blev til 100 fotovogne" target="_top">500 stærekasser blev til 100 fotovogne</a></li><li ><a href="/aarhus/cyklister-og-fodgaengere-passer-bedre-paa-sig-selv" title="Cyklister og fodgængere passer bedre på sig selv" target="_top">Cyklister og fodgængere passer bedre på sig selv</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/nu-skal-der-udskrives-fartboeder" target="_top"></a><a href="/aarhus/nu-skal-der-udskrives-fartboeder" title="Fem nye fotovogne er ankommet til Aarhus. Andre tre biler tørner ud fra Randers. I starten vil bilerne holde 94 faste steder i politikredsen. Vi bringer en liste i dagens avis." target="_top"><h2>Nu skal der udskrives fartbøder</h2></a><span  class="aarhus stiften-tag"></span><p class="summary"><a href="/aarhus/nu-skal-der-udskrives-fartboeder" target="_top">Fem nye fotovogne er ankommet til Aarhus. Andre tre biler tørner ud fra Randers. I starten vil bilerne holde 94 faste steder i politikredsen. Vi ...</a></p> <span class="read-more"><a href="/aarhus/nu-skal-der-udskrives-fartboeder" title="Nu skal der udskrives fartbøder" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/500-staerekasser-blev-til-100-fotovogne" title="500 stærekasser blev til 100 fotovogne" target="_top">500 stærekasser blev til 100 fotovogne</a></li><li ><a href="/aarhus/cyklister-og-fodgaengere-passer-bedre-paa-sig-selv" title="Cyklister og fodgængere passer bedre på sig selv" target="_top">Cyklister og fodgængere passer bedre på sig selv</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/bakken-bears/bears-vandt-men-fik-ikke-revanche" target="_top"><img src="http://a.bimg.dk/node-images/235/8/218x109-c/8235783-bears-vandt---men-fik-ikke-revanche---1.jpg" width="218" height="109" alt="Bears vandt - men fik ikke revanche - 1" /></a><a href="/bakken-bears/bears-vandt-men-fik-ikke-revanche" title="Gengæld. Bakken Bears delte torsdag stryg ud til Randers Cimbria, som man ellers har tabt til to gange tidligere i sæsonen. Men siden da har østjyderne bevæget sig på konkursens rand og mistet sine største profiler." target="_top"><h2>Bears vandt - men fik ikke revanche</h2></a><span  class="bakken_bears stiften-tag">Basketball</span><p class="summary"><a href="/bakken-bears/bears-vandt-men-fik-ikke-revanche" target="_top">Gengæld. Bakken Bears delte torsdag stryg ud til Randers Cimbria, som man ellers har tabt til to gange tidligere i sæsonen. Men siden da har ...</a></p> <span class="read-more"><a href="/bakken-bears/bears-vandt-men-fik-ikke-revanche" title="Bears vandt - men fik ikke revanche" target="_top">Læs mere</a></span>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/hundepasning-nu-kan-du-sende-din-hund-i-dagpleje" target="_top"><img src="http://a.bimg.dk/node-images/234/8/218x109-c/8234515-hundehaven-potefryd---2.jpg" width="218" height="109" alt="Hundehaven Potefryd - 2" /></a><a href="/aarhus/hundepasning-nu-kan-du-sende-din-hund-i-dagpleje" title="Nu kan du sende din hund i dagpleje, så den ikke skal føle sig ensom, imens du er på job." target="_top"><h2>Hundepasning: Nu kan du sende din hund i dagpleje</h2></a><span  class="aarhus stiften-tag">Aarhus</span><p class="summary"><a href="/aarhus/hundepasning-nu-kan-du-sende-din-hund-i-dagpleje" target="_top">Nu kan du sende din hund i dagpleje, så den ikke skal føle sig ensom, imens du er på job.</a></p> <span class="read-more"><a href="/aarhus/hundepasning-nu-kan-du-sende-din-hund-i-dagpleje" title="Hundepasning: Nu kan du sende din hund i dagpleje" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/foto/se-billederne-hundehaven-potefryd" title="Se billederne: Hundehaven Potefryd" target="_blank">Se billederne: Hundehaven Potefryd</a></li><li ><a href="/webtv/kom-med-i-hundehaven-potefryd" title="Kom med i Hundehaven Potefryd" target="_top">Kom med i Hundehaven Potefryd</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/to-ministre-i-samraad-om-bispehaven-stenkast" target="_top"><img src="http://a.bimg.dk/node-images/234/8/218x109-c/8234487-to-ministre-i-samrd-om-bispehaven-stenkast---1.jpg" width="218" height="109" alt="To ministre i samråd om Bispehaven-stenkast - 1" /></a><a href="/aarhus/to-ministre-i-samraad-om-bispehaven-stenkast" title="Folketingsmedlem vil have forældre på banen. Samtidig indgår kommune, politi og boligselskab tryghedsaftale." target="_top"><h2>To ministre i samråd om Bispehaven-stenkast</h2></a><span  class="aarhus stiften-tag">aarhus</span><p class="summary"><a href="/aarhus/to-ministre-i-samraad-om-bispehaven-stenkast" target="_top">Folketingsmedlem vil have forældre på banen. Samtidig indgår kommune, politi og boligselskab tryghedsaftale.</a></p> <span class="read-more"><a href="/aarhus/to-ministre-i-samraad-om-bispehaven-stenkast" title="To ministre i samråd om Bispehaven-stenkast" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/sten-og-flasker-regner-mod-bybusser" title="Sten og flasker regner mod bybusser" target="_top">Sten og flasker regner mod bybusser</a></li><li ><a href="/aarhus/faelles-front-mod-sten-og-flaskekast" title="Fælles front mod sten- og flaskekast" target="_top">Fælles front mod sten- og flaskekast</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/agf/agfs-jesper-lange-er-klar-til-at-tage-kampen-op" target="_top"><img src="http://b.bimg.dk/node-images/234/8/218x109-c/8234045-agfs-jesper-lange-er-klar-til-at-tage-kampen-op---1.jpg" width="218" height="109" alt="AGFs Jesper Lange er klar til at tage kampen op - 1" /></a><a href="/agf/agfs-jesper-lange-er-klar-til-at-tage-kampen-op" title="Den 29-årige angriber sluttede stærkt af i efteråret, og føler derfor, at han har skabt sig et fornuftigt udgangspunkt i kampen om spilletid i den resterende del af sæsonen." target="_top"><h2>AGFs Jesper Lange er klar til at tage kampen op</h2></a><span  class="agf stiften-tag">Fodbold</span><p class="summary"><a href="/agf/agfs-jesper-lange-er-klar-til-at-tage-kampen-op" target="_top">Den 29-årige angriber sluttede stærkt af i efteråret, og føler derfor, at han har skabt sig et fornuftigt udgangspunkt i kampen om spilletid i den ...</a></p> <span class="read-more"><a href="/agf/agfs-jesper-lange-er-klar-til-at-tage-kampen-op" title="AGFs Jesper Lange er klar til at tage kampen op" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/agf/en-daglig-kamp-for-spilletid" title="En daglig kamp for spilletid" target="_top">En daglig kamp for spilletid</a></li><li ><a href="/agf/fire-store-transferspoergsmaal-hos-agf" title="Fire store transferspørgsmål hos AGF" target="_top">Fire store transferspørgsmål hos AGF</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/aarhus-bigband-skal-booste-kulturen-i-viborg" target="_top"><img src="http://b.bimg.dk/node-images/232/8/218x109-c/8232958-aarhus-bigband-skal-booste-kulturen-i-viborg---1.jpg" width="218" height="109" alt="Aarhus-bigband skal booste kulturen i Viborg  - 1" /></a><a href="/kultur/aarhus-bigband-skal-booste-kulturen-i-viborg" title="Aarhus Jazz Orchestra indgår tre-årig aftale med Viborg Kommune " target="_top"><h2>Aarhus-bigband skal booste kulturen i Viborg </h2></a><span  class="kultur stiften-tag">aarhus</span><p class="summary"><a href="/kultur/aarhus-bigband-skal-booste-kulturen-i-viborg" target="_top">Aarhus Jazz Orchestra indgår tre-årig aftale med Viborg Kommune </a></p> <span class="read-more"><a href="/kultur/aarhus-bigband-skal-booste-kulturen-i-viborg" title="Aarhus-bigband skal booste kulturen i Viborg " target="_top">Læs mere</a></span><ul class="related"><li ><a href="/kultur/vinterjazz-opruster-i-aarhus" title="Vinterjazz opruster i Aarhus" target="_top">Vinterjazz opruster i Aarhus</a></li><li ><a href="/kultur/jazz-orkester-kan-reddes-med-faa-midler" title="Jazz-orkester kan reddes med få midler" target="_top">Jazz-orkester kan reddes med få midler</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/elektroniske-lydlandskaber-i-efterklangs-komma" target="_top"><img src="http://b.bimg.dk/node-images/232/8/218x109-c/8232122-elektroniske-lydlandskaber-i-efterklangs-komma---1.jpg" width="218" height="109" alt="Elektroniske lydlandskaber i Efterklangs komma - 1" /></a><a href="/kultur/elektroniske-lydlandskaber-i-efterklangs-komma" title="Et af landets mest kritikerroste bands har fundet sammen med en lydtroldmand fra Finland. Sammen udgør percussionisten Tatu Rönkkö og Efterklang konstellationen Liima, der kan opleves på Atlas." target="_top"><h2>Elektroniske lydlandskaber i Efterklangs komma</h2></a><span  class="kultur stiften-tag">aarhus/Berlin</span><p class="summary"><a href="/kultur/elektroniske-lydlandskaber-i-efterklangs-komma" target="_top">Et af landets mest kritikerroste bands har fundet sammen med en lydtroldmand fra Finland. Sammen udgør percussionisten Tatu Rönkkö og Efterklang ...</a></p> <span class="read-more"><a href="/kultur/elektroniske-lydlandskaber-i-efterklangs-komma" title="Elektroniske lydlandskaber i Efterklangs komma" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/kultur/perfekt-til-larm-og-fordybelse" title="Perfekt til larm og fordybelse" target="_top">Perfekt til larm og fordybelse</a></li><li ><a href="/aarhus/kreativt-klubhus-under-overfladen" title="Kreativt klubhus under overfladen" target="_top">Kreativt klubhus under overfladen</a></li></ul>  </div>
+<div class="panel-separator"></div></div>
+<div class="grid_4 panel-region 21-40">  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/faelles-indsats-for-tryghed-i-bispehaven" target="_top"><img src="http://b.bimg.dk/node-images/233/8/218x109-c/8233534-bispehaven.jpg" width="218" height="109" alt="Bispehaven" /></a><a href="/aarhus/faelles-indsats-for-tryghed-i-bispehaven" title="Et nyt partnerskab mellem Aarhus Kommune, Østjysk Bolig og Østjyllands Politi skal bidrage til ro og orden i Bispehaven. " target="_top"><h2>Fælles indsats for tryghed i Bispehaven</h2></a><span  class="aarhus stiften-tag">Aarhus</span><p class="summary"><a href="/aarhus/faelles-indsats-for-tryghed-i-bispehaven" target="_top">Et nyt partnerskab mellem Aarhus Kommune, Østjysk Bolig og Østjyllands Politi skal bidrage til ro og orden i Bispehaven. </a></p> <span class="read-more"><a href="/aarhus/faelles-indsats-for-tryghed-i-bispehaven" title="Fælles indsats for tryghed i Bispehaven" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/sten-og-flasker-regner-mod-bybusser" title="Sten og flasker regner mod bybusser" target="_top">Sten og flasker regner mod bybusser</a></li><li ><a href="/aarhus/boeller-lukker-beboerhus-i-bispehaven" title="Bøller lukker beboerhus i Bispehaven" target="_top">Bøller lukker beboerhus i Bispehaven</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/bakken-bears/forsvarets-mand-fra-the-deep-south" target="_top"><img src="http://b.bimg.dk/node-images/232/8/218x109-c/8232232-forsvarets-mand-fra-the-deep-south---2.jpg" width="218" height="109" alt="Forsvarets mand     fra the Deep South - 2" /></a><a href="/bakken-bears/forsvarets-mand-fra-the-deep-south" title="Jo Harris har taget sin fars militærbaggrund med ind på basketball-banen, hvor han i resten af sæsonen skal hjælpe Bakken Bears til DM-guld." target="_top"><h2>Forsvarets mand fra the Deep South</h2></a><span  class="bakken_bears stiften-tag">Basketball</span><p class="summary"><a href="/bakken-bears/forsvarets-mand-fra-the-deep-south" target="_top">Jo Harris har taget sin fars militærbaggrund med ind på basketball-banen, hvor han i resten af sæsonen skal hjælpe Bakken Bears til DM-guld.</a></p> <span class="read-more"><a href="/bakken-bears/forsvarets-mand-fra-the-deep-south" title="Forsvarets mand fra the Deep South" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/bakken-bears/bakken-profil-skal-alligevel-opereres" title="Bakken-profil skal alligevel opereres" target="_top">Bakken-profil skal alligevel opereres</a></li><li ><a href="/bakken-bears/chris-c-hvert-eneste-opgoer-er-en-playoff-kamp" title="Chris C: »Hvert eneste opgør er en playoff-kamp«" target="_top">Chris C: »Hvert eneste opgør er en playoff-kamp«</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/to-profiler-siger-farvel-til-aarhus-teater" target="_top"><img src="http://a.bimg.dk/node-images/232/8/218x109-c/8232890-aeyh.jpg" width="218" height="109" alt="aeyh" /></a><a href="/kultur/to-profiler-siger-farvel-til-aarhus-teater" title="Niels Ellegaard og Marie Louise Wille rykker til København." target="_top"><h2>To profiler siger farvel til Aarhus Teater</h2></a><span  class="kultur stiften-tag">aarhus</span><p class="summary"><a href="/kultur/to-profiler-siger-farvel-til-aarhus-teater" target="_top">Niels Ellegaard og Marie Louise Wille rykker til København.</a></p> <span class="read-more"><a href="/kultur/to-profiler-siger-farvel-til-aarhus-teater" title="To profiler siger farvel til Aarhus Teater" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/kultur/til-bords-med-hedda-gabler" title="Til bords med Hedda Gabler " target="_top">Til bords med Hedda Gabler </a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/til-bords-med-hedda-gabler" target="_top"><img src="http://a.bimg.dk/node-images/232/8/218x109-c/8232181-til-bords-med-hedda-gabler---2.jpg" width="218" height="109" alt="Til bords med  Hedda Gabler  - 2" /></a><a href="/kultur/til-bords-med-hedda-gabler" title="Ibsens klassiske drama er centreret omkring et langbord i Aarhus Teaters moderne nyopsætning. " target="_top"><h2>Til bords med Hedda Gabler </h2></a><span  class="kultur stiften-tag">aarhus</span><p class="summary"><a href="/kultur/til-bords-med-hedda-gabler" target="_top">Ibsens klassiske drama er centreret omkring et langbord i Aarhus Teaters moderne nyopsætning. </a></p> <span class="read-more"><a href="/kultur/til-bords-med-hedda-gabler" title="Til bords med Hedda Gabler " target="_top">Læs mere</a></span><ul class="related"><li ><a href="/kultur/teater-kan-vi-forstaa-et-andet-menneske" title="Teater: Kan vi forstå et andet menneske?" target="_top">Teater: Kan vi forstå et andet menneske?</a></li><li ><a href="/kultur/to-profiler-siger-farvel-til-aarhus-teater" title="To profiler siger farvel til Aarhus Teater" target="_top">To profiler siger farvel til Aarhus Teater</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/skat-vi-forsoeger-at-saette-kunden-i-centrum" target="_top"><img src="http://b.bimg.dk/node-images/231/8/218x109-c/8231997-skat-vi-forsger-at-stte-kunden-i-centrum---1.jpg" width="218" height="109" alt="Skat: »Vi forsøger at sætte kunden i centrum« - 1" /></a><a href="/aarhus/skat-vi-forsoeger-at-saette-kunden-i-centrum" title="Synes du, det er fair, at en dødssyg kvinde skal bruge sin sidste tid på at rode efter papirer og bilag til Skat, så I kan få jeres penge?" target="_top"><h2>Skat: »Vi forsøger at sætte kunden i centrum«</h2></a><span  class="aarhus stiften-tag">København</span><p class="summary"><a href="/aarhus/skat-vi-forsoeger-at-saette-kunden-i-centrum" target="_top">Synes du, det er fair, at en dødssyg kvinde skal bruge sin sidste tid på at rode efter papirer og bilag til Skat, så I kan få jeres penge?</a></p> <span class="read-more"><a href="/aarhus/skat-vi-forsoeger-at-saette-kunden-i-centrum" title="Skat: »Vi forsøger at sætte kunden i centrum«" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/doedssyg-trynet-af-skat" title="Dødssyg trynet af Skat" target="_top">Dødssyg trynet af Skat</a></li><li ><a href="/aarhus/politikere-vis-hensyn" title="Politikere: Vis hensyn " target="_top">Politikere: Vis hensyn </a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/patientforeninger-skat-boer-tage-hensyn" target="_top"></a><a href="/aarhus/patientforeninger-skat-boer-tage-hensyn" title="Myndigheder bør tage større hensyn til personer, der står i en svær situation eller er alvorligt syge." target="_top"><h2>Patientforeninger: Skat bør tage hensyn</h2></a><span  class="aarhus stiften-tag">Aarhus</span><p class="summary"><a href="/aarhus/patientforeninger-skat-boer-tage-hensyn" target="_top">Myndigheder bør tage større hensyn til personer, der står i en svær situation eller er alvorligt syge.</a></p> <span class="read-more"><a href="/aarhus/patientforeninger-skat-boer-tage-hensyn" title="Patientforeninger: Skat bør tage hensyn" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/doedssyg-trynet-af-skat" title="Dødssyg trynet af Skat" target="_top">Dødssyg trynet af Skat</a></li><li ><a href="/aarhus/politikere-vis-hensyn" title="Politikere: Vis hensyn " target="_top">Politikere: Vis hensyn </a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/hvem-har-tegnet-denne-stol" target="_top"><img src="http://b.bimg.dk/node-images/232/8/218x109-c/8232077-hvem-har-tegnet-denne-stol---1.jpg" width="218" height="109" alt="Hvem har tegnet denne stol? - 1" /></a><a href="/aarhus/hvem-har-tegnet-denne-stol" title="I samarbejde med Antikloppemarkedet i Ridehuset udlodder vi fribilletter og gavekort på 500 kroner til markedet." target="_top"><h2>Hvem har tegnet denne stol?</h2></a><span  class="aarhus stiften-tag">Aarhus</span><p class="summary"><a href="/aarhus/hvem-har-tegnet-denne-stol" target="_top">I samarbejde med Antikloppemarkedet i Ridehuset udlodder vi fribilletter og gavekort på 500 kroner til markedet.</a></p> <span class="read-more"><a href="/aarhus/hvem-har-tegnet-denne-stol" title="Hvem har tegnet denne stol?" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/vind-billetter-og-gavekort-til-antikloppemarked" title="Vind billetter og gavekort til Antikloppemarked" target="_top">Vind billetter og gavekort til Antikloppemarked</a></li><li ><a href="/aarhus/antikloppemarked-hvilket-aar-rullede-volvo-544-paa-gaden" title="Antikloppemarked: Hvilket år rullede Volvo 544 på gaden?" target="_top">Antikloppemarked: Hvilket år rullede Volvo 544 på gaden?</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/lukning-af-vej-i-skaade-er-ulovlig" target="_top"><img src="http://a.bimg.dk/node-images/232/8/218x109-c/8232060-lukning-af-vej-i-skde-er-ulovlig---1.jpg" width="218" height="109" alt="Lukning af vej i Skåde er ulovlig - 1" /></a><a href="/aarhus/lukning-af-vej-i-skaade-er-ulovlig" title="Vejdirektoratet konkluderer, at lukningen af Sandmosevej er sket med en forkert juridisk begrundelse." target="_top"><h2>Lukning af vej i Skåde er ulovlig</h2></a><span  class="aarhus stiften-tag">Skåde</span><p class="summary"><a href="/aarhus/lukning-af-vej-i-skaade-er-ulovlig" target="_top">Vejdirektoratet konkluderer, at lukningen af Sandmosevej er sket med en forkert juridisk begrundelse.</a></p> <span class="read-more"><a href="/aarhus/lukning-af-vej-i-skaade-er-ulovlig" title="Lukning af vej i Skåde er ulovlig" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/trafikgruppen-i-skaade-har-ikke-fuld-opbakning" title="Trafikgruppen i Skåde har ikke fuld opbakning" target="_top">Trafikgruppen i Skåde har ikke fuld opbakning</a></li><li ><a href="/aarhus/beboere-paa-sandmosevej-glade-for-fortsat-lukning" title="Beboere på Sandmosevej glade for fortsat lukning" target="_top">Beboere på Sandmosevej glade for fortsat lukning</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/foerste-kuld-ulvehvalpe-kan-komme-til-sommer" target="_top"><img src="http://a.bimg.dk/node-images/231/8/218x109-c/8231988-frste-kuld-ulvehvalpe-kan-komme-til-sommer---2.jpg" width="218" height="109" alt="Første kuld ulvehvalpe kan komme til sommer - 2" /></a><a href="/aarhus/foerste-kuld-ulvehvalpe-kan-komme-til-sommer" title="Hvis der ikke allerede er hvalpe i Danmark, så er det kun et spørgsmål om tid. Der mangler kun en kone til en af de mange hanulve, der har fundet vej til Midtjylland." target="_top"><h2>Første kuld ulvehvalpe kan komme til sommer</h2></a><span  class="aarhus stiften-tag">Aarhus</span><p class="summary"><a href="/aarhus/foerste-kuld-ulvehvalpe-kan-komme-til-sommer" target="_top">Hvis der ikke allerede er hvalpe i Danmark, så er det kun et spørgsmål om tid. Der mangler kun en kone til en af de mange hanulve, der har fundet ...</a></p> <span class="read-more"><a href="/aarhus/foerste-kuld-ulvehvalpe-kan-komme-til-sommer" title="Første kuld ulvehvalpe kan komme til sommer" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/daadyrkadaver-er-ulven-naaet-til-dronningens-baghave" title="Dådyrkadaver: Er ulven nået til dronningens baghave?" target="_top">Dådyrkadaver: Er ulven nået til dronningens baghave?</a></li><li ><a href="/aarhus/her-har-ulven-vaeret-paa-spil-i-aar" title="Her har ulven været på spil i år" target="_top">Her har ulven været på spil i år</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/doedssyg-trynet-af-skat" target="_top"><img src="http://b.bimg.dk/node-images/231/8/218x109-c/8231830-ddssyg-trynet-af-skat---1.jpg" width="218" height="109" alt="Dødssyg trynet af Skat - 1" /></a><a href="/aarhus/doedssyg-trynet-af-skat" title="Lene Bjerregaard, der er uhelbredeligt syg, skal bruge sin sidste tid på at finde gamle regnskaber og bilag frem til Skat." target="_top"><h2>Dødssyg trynet af Skat</h2></a><span  class="aarhus stiften-tag">Aarhus</span><p class="summary"><a href="/aarhus/doedssyg-trynet-af-skat" target="_top">Lene Bjerregaard, der er uhelbredeligt syg, skal bruge sin sidste tid på at finde gamle regnskaber og bilag frem til Skat.</a></p> <span class="read-more"><a href="/aarhus/doedssyg-trynet-af-skat" title="Dødssyg trynet af Skat" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/patientforeninger-skat-boer-tage-hensyn" title="Patientforeninger: Skat bør tage hensyn" target="_top">Patientforeninger: Skat bør tage hensyn</a></li><li ><a href="/aarhus/skat-vi-forsoeger-at-saette-kunden-i-centrum" title="Skat: »Vi forsøger at sætte kunden i centrum«" target="_top">Skat: »Vi forsøger at sætte kunden i centrum«</a></li></ul>  </div>
+<div class="panel-separator"></div></div>
+<div class="grid_4 omega panel-region 41-60">  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/charter-offensiv-mod-aarhus-giver-gevinst" target="_top"><img src="http://b.bimg.dk/node-images/231/8/218x109-c/8231826-charter-offensiv-mod-aarhus-giver-gevinst---1.jpg" width="218" height="109" alt="Charter-offensiv mod Aarhus giver gevinst - 1" /></a><a href="/aarhus/charter-offensiv-mod-aarhus-giver-gevinst" title="Sun Charter sælger over forventning i Aarhus og omegn af rejser fra Aalborg Lufthavn." target="_top"><h2>Charter-offensiv mod Aarhus giver gevinst</h2></a><span  class="aarhus stiften-tag">AARHUS</span><p class="summary"><a href="/aarhus/charter-offensiv-mod-aarhus-giver-gevinst" target="_top">Sun Charter sælger over forventning i Aarhus og omegn af rejser fra Aalborg Lufthavn.</a></p> <span class="read-more"><a href="/aarhus/charter-offensiv-mod-aarhus-giver-gevinst" title="Charter-offensiv mod Aarhus giver gevinst" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/chartergaester-skal-lokkes-til-aalborg" title="Chartergæster skal lokkes til Aalborg" target="_top">Chartergæster skal lokkes til Aalborg</a></li><li ><a href="/aarhus/aarhus-charter-flytter-til-marselisborg-lystbaadehavn" title="Århus Charter flytter til Marselisborg Lystbådehavn" target="_top">Århus Charter flytter til Marselisborg Lystbådehavn</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/sten-og-flasker-regner-mod-bybusser" target="_top"><img src="http://a.bimg.dk/node-images/231/8/218x109-c/8231850-sten-og-flasker-mod-bybusser---1.jpg" width="218" height="109" alt="Sten og flasker mod bybusser - 1" /></a><a href="/aarhus/sten-og-flasker-regner-mod-bybusser" title="Ved en gangbro over Rymarken ved Bispehaven går det ofte galt for byens busser. Chauffører har oplevet både at blive blændet af laserlys og at blive ramt af appelsiner." target="_top"><h2>Sten og flasker regner mod bybusser</h2></a><span  class="aarhus stiften-tag">Aarhus</span><p class="summary"><a href="/aarhus/sten-og-flasker-regner-mod-bybusser" target="_top">Ved en gangbro over Rymarken ved Bispehaven går det ofte galt for byens busser. Chauffører har oplevet både at blive blændet af laserlys og at ...</a></p> <span class="read-more"><a href="/aarhus/sten-og-flasker-regner-mod-bybusser" title="Sten og flasker regner mod bybusser" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/chauffoer-ramt-af-laserlys-i-bispehaven" title="Chauffør ramt af laserlys i Bispehaven" target="_top">Chauffør ramt af laserlys i Bispehaven</a></li><li ><a href="/aarhus/flere-angreb-paa-buschauffoerer" title="Flere angreb på buschauffører" target="_top">Flere angreb på buschauffører</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/faelles-front-mod-sten-og-flaskekast" target="_top"><img src="http://a.bimg.dk/node-images/231/8/218x109-c/8231807-flles-front-mod-sten--og-flaskekast---1.jpg" width="218" height="109" alt="Fælles front mod sten- og flaskekast - 1" /></a><a href="/aarhus/faelles-front-mod-sten-og-flaskekast" title="Ledelse, buschauffører og fagforening står sammen. Men hjælper det? Tillidsrepræsentant foreslår, at gangbro hegnes inde. " target="_top"><h2>Fælles front mod sten- og flaskekast</h2></a><span  class="aarhus stiften-tag">aarhus</span><p class="summary"><a href="/aarhus/faelles-front-mod-sten-og-flaskekast" target="_top">Ledelse, buschauffører og fagforening står sammen. Men hjælper det? Tillidsrepræsentant foreslår, at gangbro hegnes inde. </a></p> <span class="read-more"><a href="/aarhus/faelles-front-mod-sten-og-flaskekast" title="Fælles front mod sten- og flaskekast" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/sten-og-flasker-regner-mod-bybusser" title="Sten og flasker regner mod bybusser" target="_top">Sten og flasker regner mod bybusser</a></li><li ><a href="/aarhus/to-ministre-i-samraad-om-bispehaven-stenkast" title="To ministre i samråd om Bispehaven-stenkast" target="_top">To ministre i samråd om Bispehaven-stenkast</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/flere-angreb-paa-buschauffoerer" target="_top"></a><a href="/aarhus/flere-angreb-paa-buschauffoerer" title="For at par år siden kunne avisen skrive, at antallet af angreb mod århusianske buschauffører var på retur. Men siden er det gået den gale vej." target="_top"><h2>Flere angreb på buschauffører</h2></a><span  class="aarhus stiften-tag">Aarhus</span><p class="summary"><a href="/aarhus/flere-angreb-paa-buschauffoerer" target="_top">For at par år siden kunne avisen skrive, at antallet af angreb mod århusianske buschauffører var på retur. Men siden er det gået den gale vej.</a></p> <span class="read-more"><a href="/aarhus/flere-angreb-paa-buschauffoerer" title="Flere angreb på buschauffører" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/sten-og-flasker-regner-mod-bybusser" title="Sten og flasker regner mod bybusser" target="_top">Sten og flasker regner mod bybusser</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/chauffoer-ramt-af-laserlys-i-bispehaven" target="_top"><img src="http://a.bimg.dk/node-images/231/8/218x109-c/8231803-chauffr-ramt-af-laserlys-i-bispehaven---1.jpg" width="218" height="109" alt="Chauffør ramt af laserlys i Bispehaven - 1" /></a><a href="/aarhus/chauffoer-ramt-af-laserlys-i-bispehaven" title="Buschauffør synes, at arbejdsforholdene bliver værre og værre. Sidst blev hans bybus bombarderet med appelsiner." target="_top"><h2>Chauffør ramt af laserlys i Bispehaven</h2></a><span  class="aarhus stiften-tag">Aarhus</span><p class="summary"><a href="/aarhus/chauffoer-ramt-af-laserlys-i-bispehaven" target="_top">Buschauffør synes, at arbejdsforholdene bliver værre og værre. Sidst blev hans bybus bombarderet med appelsiner.</a></p> <span class="read-more"><a href="/aarhus/chauffoer-ramt-af-laserlys-i-bispehaven" title="Chauffør ramt af laserlys i Bispehaven" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/sten-og-flasker-regner-mod-bybusser" title="Sten og flasker regner mod bybusser" target="_top">Sten og flasker regner mod bybusser</a></li><li ><a href="/aarhus/to-ministre-i-samraad-om-bispehaven-stenkast" title="To ministre i samråd om Bispehaven-stenkast" target="_top">To ministre i samråd om Bispehaven-stenkast</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/udlaendinge-svaermer-om-aarhusmodellen" target="_top"><img src="http://b.bimg.dk/node-images/229/8/218x109-c/8229282-udlndinge-svrmer-om-aarhusmodellen---1.jpg" width="218" height="109" alt="Udlændinge sværmer om Aarhusmodellen - 1" /></a><a href="/aarhus/udlaendinge-svaermer-om-aarhusmodellen" title="Over 150 henvendelser til Psykologisk Institut i Aarhus, og Belgien vil lave en kopi" target="_top"><h2>Udlændinge sværmer om Aarhusmodellen</h2></a><span  class="aarhus stiften-tag">AARHUS</span><p class="summary"><a href="/aarhus/udlaendinge-svaermer-om-aarhusmodellen" target="_top">Over 150 henvendelser til Psykologisk Institut i Aarhus, og Belgien vil lave en kopi</a></p> <span class="read-more"><a href="/aarhus/udlaendinge-svaermer-om-aarhusmodellen" title="Udlændinge sværmer om Aarhusmodellen" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/bundsgaard-ny-aftale-styrker-kommunal-kamp-mod-ekstremisme" title="Bundsgaard: Ny aftale styrker kommunal kamp mod ekstremisme" target="_top">Bundsgaard: Ny aftale styrker kommunal kamp mod ekstremisme</a></li><li ><a href="/politik/ekspert-dybt-problematisk-at-udelade-imamer-i-radikaliseringsplan" title="Ekspert: Dybt problematisk at udelade imamer i radikaliseringsplan" target="_top">Ekspert: Dybt problematisk at udelade imamer i radikaliseringsplan</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/df-gaar-i-2017-taenkeboks" target="_top"><img src="http://a.bimg.dk/node-images/229/8/218x109-c/8229499-df-gr-i-2017-tnkeboks---1.jpg" width="218" height="109" alt="DF går i 2017-tænkeboks - 1" /></a><a href="/kultur/df-gaar-i-2017-taenkeboks" title="Dansk Folkeparti vil bruge de kommende par uger på at overveje om partiet skal trække sin støtte til kulturhovedstadsprojektet tilbage. " target="_top"><h2>DF går i 2017-tænkeboks</h2></a><span  class="kultur stiften-tag">Aarhus</span><p class="summary"><a href="/kultur/df-gaar-i-2017-taenkeboks" target="_top">Dansk Folkeparti vil bruge de kommende par uger på at overveje om partiet skal trække sin støtte til kulturhovedstadsprojektet tilbage. </a></p> <span class="read-more"><a href="/kultur/df-gaar-i-2017-taenkeboks" title="DF går i 2017-tænkeboks" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/kultur/faerre-penge-til-kunst" title="»Færre penge til kunst«" target="_top">»Færre penge til kunst«</a></li><li ><a href="/kultur/det-koster-at-styre-et-stort-projekt" title="»Det koster at styre et stort   projekt«" target="_top">»Det koster at styre et stort   projekt«</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/aarhus/1.700-aeldre-skal-skifte-hjemmehjaelper-i-aarhus" target="_top"><img src="http://a.bimg.dk/node-images/229/8/218x109-c/8229616-1700-ldre-skal-skifte-hjemmehjlper-i-aarhus---1.jpg" width="218" height="109" alt="1.700 ældre skal skifte hjemmehjælper i Aarhus  - 1" /></a><a href="/aarhus/1.700-aeldre-skal-skifte-hjemmehjaelper-i-aarhus" title="Borgerne kan vælge mellem tre private firmaer og kommunal hjemmepleje tilpleje og praktisk hjælp." target="_top"><h2>1.700 ældre skal skifte hjemmehjælper i Aarhus </h2></a><span  class="aarhus stiften-tag">Aarhus</span><p class="summary"><a href="/aarhus/1.700-aeldre-skal-skifte-hjemmehjaelper-i-aarhus" target="_top">Borgerne kan vælge mellem tre private firmaer og kommunal hjemmepleje tilpleje og praktisk hjælp.</a></p> <span class="read-more"><a href="/aarhus/1.700-aeldre-skal-skifte-hjemmehjaelper-i-aarhus" title="1.700 ældre skal skifte hjemmehjælper i Aarhus " target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/derfor-er-faerre-tilfredse-med-hjemmehjaelpen" title="Derfor er færre tilfredse med hjemmehjælpen" target="_top">Derfor er færre tilfredse med hjemmehjælpen</a></li><li ><a href="/aarhus/alarmen-ringer-i-hjemmehjaelpen" title="Alarmen ringer i hjemmehjælpen" target="_top">Alarmen ringer i hjemmehjælpen</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/victor-marcussen-stopper-som-rektor-paa-skuespillerskolen" target="_top"><img src="http://b.bimg.dk/node-images/229/8/218x109-c/8229663-victor-marcussen-stopper-som-rektor---1.jpg" width="218" height="109" alt="Victor Marcussen stopper som rektor - 1" /></a><a href="/kultur/victor-marcussen-stopper-som-rektor-paa-skuespillerskolen" title="Skuespillerskolen ved Aarhus Teater skal have ny leder." target="_top"><h2>Victor Marcussen stopper som rektor på skuespillerskolen</h2></a><span  class="kultur stiften-tag">aarhus</span><p class="summary"><a href="/kultur/victor-marcussen-stopper-som-rektor-paa-skuespillerskolen" target="_top">Skuespillerskolen ved Aarhus Teater skal have ny leder.</a></p> <span class="read-more"><a href="/kultur/victor-marcussen-stopper-som-rektor-paa-skuespillerskolen" title="Victor Marcussen stopper som rektor på skuespillerskolen" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/ny-skole-til-skuespillerelever" title="Ny skole til skuespillerelever" target="_top">Ny skole til skuespillerelever</a></li></ul>  </div>
+  <div class="article article-with-image-teaser ">
+    <div class="pane-header">
+          </div>
+    <a href="/kultur/vaerftsarbejdere-tilbage-paa-aarhus-havn" target="_top"><img src="http://b.bimg.dk/node-images/229/8/218x109-c/8229305-vrftsarbejdere-tilbage-p-aarhus-havn---1.jpg" width="218" height="109" alt="Værftsarbejdere tilbage på Aarhus Havn - 1" /></a><a href="/kultur/vaerftsarbejdere-tilbage-paa-aarhus-havn" title="Den fynske billedhugger Jens Galschiøt laver en mandshøj skulptur med skibsværftsarbejdere til Aarhus Havn." target="_top"><h2>Værftsarbejdere tilbage på Aarhus Havn</h2></a><span  class="kultur stiften-tag">Aarhus</span><p class="summary"><a href="/kultur/vaerftsarbejdere-tilbage-paa-aarhus-havn" target="_top">Den fynske billedhugger Jens Galschiøt laver en mandshøj skulptur med skibsværftsarbejdere til Aarhus Havn.</a></p> <span class="read-more"><a href="/kultur/vaerftsarbejdere-tilbage-paa-aarhus-havn" title="Værftsarbejdere tilbage på Aarhus Havn" target="_top">Læs mere</a></span><ul class="related"><li ><a href="/aarhus/eksperimenter-i-byrummet-er-guld-vaerd" title="Eksperimenter i byrummet er guld værd" target="_top">Eksperimenter i byrummet er guld værd</a></li><li ><a href="/kultur/flydende-kvinder-bliver-2017-flagskibe" title="Flydende kvinder bliver 2017-flagskibe" target="_top">Flydende kvinder bliver 2017-flagskibe</a></li></ul>  </div>
+<div class="panel-separator"></div></div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+  </div>
+</div>
+
+<div class="panel-separator"></div></div>
+<div class="clear"></div>
+</div>
+</div>
+  </div>
+</div>
+        </div>
+        <div class="clear"></div>
+      </div>
+    </div>
+
+    <div id="footer">
+      <div class="page-container">
+        <div class="container_12 clearfix">
+            <div class="grid_2 panel-region column1"><div class="panel-pane pane-name-custom pane-name-custom-10">
+<div class="content"><h2>Århus Stiftstidende</h2>
+Banegårdspladsen 11<br />
+8000 Aarhus C<br />
+Tlf. 87 40 10 10<br />
+<a href="mailto:red@stiften.dk">red@stiften.dk</a></div>
+</div>
+<div class="panel-separator"></div></div>
+<div class="grid_2 panel-region column2"><div class="panel-pane pane-name-custom pane-name-custom-11">
+<div class="content"><style>
+  #sms-news-service {
+    padding-top: 1em;
+  }
+</style>
+
+<h2>Mobil</h2>
+<a href="/mobil">Apps og mobile tjenester</a><br />
+<br />
+Modtag gratis SMS-nyheder:
+
+<div id="sms-news-service">
+  <form method="get" action="http://app5.unwire.dk/egmontsms/stiften">
+    Dit mobilnummer:
+    <input type="text" name="msisdn" class="text" />
+    <input type="submit" value="Tilmeld" />
+  </form>
+</div>
+
+<script>
+  (function() {
+    $(function() {
+      var form = $('#sms-news-service form');
+      form.submit(function() {
+        var value = $('.text', form).val();
+        if (value.length === 8 && value > 10000000) {
+          var url = form.attr('action') + '?msisdn=' + value;
+          var img = document.createElement('img');
+          $(img).attr('src', url);
+          $('#sms-news-service').html('Tak for din tilmelding.');
+        } else {
+          alert('Telefonnummeret skal bestå af 8 cifre.');
+        }
+        return false;
+      });
+    });
+  })();
+</script></div>
+</div>
+<div class="panel-separator"></div></div>
+<div class="grid_2 panel-region column3"><div class="panel-pane pane-name-custom pane-name-custom-12">
+<div class="content"><h2>Kontakt</h2>
+<a href="http://midtjyskemedier.dk/prislister.html" target="_blank">Annoncesalg</a><br />
+<a href="/kontakt">Redaktion</a><br />
+<a href="http://www.berlingske.dk/infoshop" target="_blank">Køb artikel</a><br />
+<a href="http://www.berlingskemedia.dk/karriere/ledige-stillinger" target="_blank">Ledige stillinger</a></div>
+</div>
+<div class="panel-separator"></div></div>
+<div class="grid_2 panel-region column4"><div class="panel-pane pane-name-custom pane-name-custom-13">
+<div class="content"><h2>Service</h2>
+<a href="/e-aviser">Læs e-avisen</a><br />
+<a href="http://stiften.kundeunivers.dk/koeb-abonnement/stiften?r=YWFzX3BheXdhbGw=&return_url=http://stiften.dk&callback_url=http://login.berlingskemedia.net/sso/server/multisite-update/aas&ns_campaign=_Kundeunivers_abonnement_aas&ns_mchannel=&ns_source=Abonnement_link_aas&ns_linkname=link_bund&ns_fee=&sa=D&usg=ALhdy2-G7c_ykC2CAsD6w_6djEOi9w2isw" target="_blank">Køb abonnement</a><br />
+<a href="/abonnementservice" target="_blank">Abonnementservice</a><br />
+<a href="/manglende-avis" target="_blank">Er avisen ikke kommet?</a></div>
+</div>
+</div>
+<div class="grid_2 panel-region column5"><div class="panel-pane pane-name-custom pane-name-custom-14">
+<div class="content"><h2>Tjenester</h2>
+<a href="/rss">RSS</a><br />
+<a href="/nyhedsbrev">Nyhedsbreve</a><br />
+<a href="http://smartannonce.dk/" target="_blank">Smartannonce</a><br />
+<a href="/sitemap">Sitemap</a>
+</div>
+</div>
+<div class="panel-separator"></div></div>
+<div class="grid_2 panel-region column6"><div class="panel-pane pane-name-custom pane-name-custom-15">
+<div class="content"><h2>Følg os</h2>
+<a href="http://twitter.com/stiftendk" target="_blank">Twitter</a><br />
+<a href="http://www.facebook.com/stiftstidende" target="_blank">Facebook</a><br />
+<a href="/rss">RSS</a></div>
+</div>
+<div class="panel-separator"></div></div>
+<div class="clear"></div>
+<div class="grid_12 panel-region copyright"><div class="panel-pane pane-name-custom pane-name-custom-16">
+<div class="content">Copyright &copy; 2014 &bull; Berlingske Media af 2007 A/S &bull; CVR-nr.: 15112999 &bull; <a href="http://www.berlingskemedia.dk/ophavsret-og-vilkaar/" target="_blank">Ophavsret og vilkår</a>
+&bull; <a href="http://www.berlingskemedia.dk/cookie-og-privatlivspolitik/" target="_blank">Privatlivspolitik</a>
+&bull; <a href="http://www.berlingskemedia.dk/generelle-handelsbetingelser/" target="_blank">Generelle handelsbetingelser</a></div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane  banner banner-i1 pane-name-content pane-name-content-24766" id="left_sticky">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(24766)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane  banner banner-i2 pane-name-content pane-name-content-15004" id="right_sticky">
+<div class="content">
+<script type="text/javascript">
+  Drupal.emediate.banner(15004)
+</script>
+</div>
+</div>
+<div class="panel-separator"></div></div>
+<div class="clear"></div>
+        </div>
+      </div>
+      <div class="clear"></div>
+    </div>
+
+          <!-- feed back gallup viborg-folkeblad.dk -->
+      <script type="text/javascript" src="/sites/all/libraries/tnsgallup/tnsadlib.js"></script>
+      <script type="text/javascript"><!--
+      document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://kt.tns-gallup.dk/client/bm/sti/?t='+new Date().getTime()+'"></scri'+'pt>');
+      //--></script>
+      <!-- end feed back gallup -->
+        <!-- (C)2000-2015  Gemius SA - gemiusTraffic / stiften.dk > Kultur -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  var pp_gemius_identifier = 'B9MwO_Oai6zhGh8UvQkkf5R6.h46NfszRWOKdBSmJ7T.o7';(function(d,t) {var ex; try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':'');
+  gt.async='true'; gt.src=l+'://gadk.hit.gemius.pl/xlgemius.js'; s.parentNode.insertBefore(gt,s);} catch (ex) {}}(document,'script'));
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/all/modules/custom/comscore/js/comscore-footer.js"></script>
+    <noscript><p><img src="http://int.sitestat.com/berlingske/aas/s?kultur.node.de-eneste-to-fik---naesten---alle-med-paa-toget.page&amp;nid=32189018&amp;category=kultur&amp;b_pv_t=news_article&amp;b_author_id=Kim+Robin+Graahede%2C+kigr%40stiften.dk&amp;b_source=int&amp;b_publ_date=1422613800&amp;b_created_ts=1422613800&amp;b_updated_ts=1422614379" height="1" width="1" alt="*" /></p></noscript>
+<script type="text/javascript">
+  var _sf_async_config = {};
+  _sf_async_config.uid = '49449';
+  _sf_async_config.domain = 'stiften.dk';
+  _sf_async_config.useCanonical = true;
+  _sf_async_config.path = '/kultur/de-eneste-to-fik-naesten-alle-med-paa-toget';
+  _sf_async_config.sections = 'Kultur';
+  _sf_async_config.authors = 'Kim Robin Graahede, kigr@stiften.dk';
+</script>
+
+<!-- (c) 2008 Gemius SA / gemiusHeatMap(GHM+XY) / Midtjyskemedier -->
+<script type="text/javascript">
+var ghmxy_align = 'center';
+var ghmxy_type = 'absolute';
+var ghmxy_identifier = new String("AprlFO_aJPUen0G3ubBiicVl.KfNlkyAMuQ1ZxHQLU3.i7");
+</script>
+<script type="text/javascript" src="http://gadk.hit.gemius.pl/hmapxy.js"></script>
+
+
+<!-- Adform Tracking Code BEGIN -->
+<script type="text/javascript">
+  var _adftrack = {
+    pm: 9876,
+    id: 6293901  };
+  (function(){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src='https://track.adform.net/serving/scripts/trackpoint/async/';var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);})();
+</script>
+
+<noscript>
+  <p style="margin:0;padding:0;border:0;">
+    <img src="https://track.adform.net/Serving/TrackPoint/?pm=9876&lid=6293901" width="1" height="1" alt="" />
+  </p>
+</noscript>
+<!-- Adform Tracking Code END -->
+
+
+<script>(function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded) {
+      var fbds = document.createElement('script');
+      fbds.async = true;
+      fbds.src = '//connect.facebook.net/da_DK/fbds.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(fbds, s);
+      _fbq.loaded = true;
+    }
+    _fbq.push(['addPixelId', '1471546923061982']);
+  })();
+  window._fbq = window._fbq || [];
+  window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1471546923061982&amp;ev=PixelInitialized" /></noscript>
+<script type="text/javascript" src="/sites/default/files-dk/js/stiften.dk/1698/js_352e750eee63c6dd45325602d64429a5.jsmin.js"></script>
+  </body>
+</html>

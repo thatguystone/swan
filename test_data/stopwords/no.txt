@@ -1,0 +1,1677 @@
+
+<!doctype html>
+<!--[if IEMobile 7 ]><html class="no-js iem7 sport" lang="no"><![endif]-->
+<!--[if lt IE 7 ]><html class="no-js ie6 sport" lang="no"><![endif]-->
+<!--[if IE 7 ]><html class="no-js ie7 sport" lang="no"><![endif]-->
+<!--[if IE 8 ]><html class="no-js ie8 sport" lang="no"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie9 sport" lang="no"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js sport" lang="no"><!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<meta name="msapplication-tap-highlight" content="no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--[if lt IE 9 ]>
+<script>
+// IE8 and below: For discussion and comments, see: http://remysharp.com/2009/01/07/html5-enabling-script/
+(function(){if(!/*@cc_on!@*/0)return;var e = "abbr,article,aside,audio,bb,canvas,datagrid,datalist,details,dialog,eventsource,figure,figcaption,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video,svg,use".split(',');for(var i=0;i<e.length;i++){document.createElement(e[i])}})()
+</script>
+<![endif]-->
+<title>Petter om VM-uttaket: – Tomas er i sitt livs form - Sport</title>
+<meta name="description" content="RØROS/OSLO (NRK): Selv om han ble knust i sprintfinalen fleipet en Petter Northug i fri dresur om alt fra brorens nye hund til mulla Krekar etter målgang."/>
+<meta name="author" content="NRK"/>
+<meta name="date" content="2015-01-30T14:53:12+01:00"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/serum/latest/views-dist/skin/sport/img/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/serum/latest/views-dist/skin/sport/img/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" href="/serum/latest/views-dist/skin/sport/img/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/serum/latest/views-dist/type/page/img/nrk.ico" />
+<meta property="og:type" content="article" name="og:type" />
+<meta property="og:title" content="Petter om VM-uttaket: – Tomas er i sitt livs form" name="og:title" />
+<meta property="og:description" content="RØROS/OSLO (NRK): Selv om han ble knust i sprintfinalen fleipet en Petter Northug i fri dresur om alt fra brorens nye hund til mulla Krekar etter målgang." name="og:description" />
+<meta property="og:image" content="http://gfx.nrk.no//ROlyza0yVed8YmtT_xvgWg-8Ff2AvZPkiOluU9Y5UdFg" name="og:image" />
+<meta property="og:site_name" content="NRK" name="og:site_name" />
+<meta property="og:url" content="http://www.nrk.no/sport/petter-om-vm-uttaket_-_-tomas-er-i-sitt-livs-form-1.12181593" name="og:url" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@NRKno" />
+<meta name="twitter:title" content="Petter om VM-uttaket: – Tomas er i sitt livs form" />
+<meta name="twitter:description" content="RØROS/OSLO (NRK): Selv om han ble knust i sprintfinalen fleipet en Petter Northug i fri dresur om alt fra brorens nye hund til mulla Krekar etter målgang." />
+<meta name="twitter:image" content="http://gfx.nrk.no//ROlyza0yVed8YmtT_xvgWg-8Ff2AvZPkiOluU9Y5UdFg" />
+<meta name="Robots" content="index,follow" />
+<meta name="Googlebot" content="index,follow" />
+<meta name="Revisit-after" content="1 Days" />
+<meta name="Generator" content="Panorama" />
+<link rel="Copyright" title="Opphavsrett NRK" href="http://www.nrk.no/etikk/1.2843522" />
+<link rel="Help" title="Hjelp" href="http://www.nrk.no/hjelp/" />
+<link rel="Search" title="Søk" href="http://www.nrk.no/sok/" />
+<link rel="canonical" href="http://www.nrk.no/sport/petter-om-vm-uttaket_-_-tomas-er-i-sitt-livs-form-1.12181593" />
+<script>
+document.documentElement.className = document.documentElement.className.replace( /(?:^|\s)no\-js(?!\S)/ , '' );
+</script>
+<script>
+/* jshint camelcase: false, strict: false, unused: false, -W099 */
+/**
+* Statistics head code
+*/
+// Newsbeat global namespaces
+var _sf_startpt = _sf_startpt || new Date().getTime();
+var _sf_endpt = _sf_endpt || new Date().getTime();
+var _sf_loaded = false;
+// measure window.load time
+(function(e,t,cb){
+if (e.addEventListener) {	// the rest
+e.addEventListener(t, cb, false);
+} else if (window.attachEvent) {	// IE
+e.attachEvent('on' + t, cb);
+}
+})(window, 'load', function(){ _sf_endpt = new Date().getTime(); _sf_loaded = true; });
+// declare require-object for configuratin
+var require = {
+paths: {
+jquery : 'common/bower/jquery-1.10.2/index',
+Modernizr : 'common/js/lib/modernizr/2.5.3/modernizr-custom',
+async : 'common/js/lib/requirejs/plugins/async/async',
+signals	: 'common/js/lib/signals',
+Pusher	: 'http://js.pusher.com/2.1/pusher.min',
+text	: 'common/bower/requirejs-text/text',
+hammerjs	: 'common/bower/hammerjs/hammer',
+facebook	: '//connect.facebook.net/nb_NO/all',
+moment	: 'common/bower/moment/moment'
+},
+shim : {
+Tinycon : { exports : 'Tinycon' },
+Pusher : { exports : 'Pusher' },
+JSON: { exports: 'JSON' },
+swfobject : { exports : 'swfobject'	},
+vkbeautify : { exports : 'vkbeautify' },
+facebook : { exports: 'FB' }
+},
+map: {
+'*' : {
+'Serum.Masthead' : 'inline!standard:singelton/masthead/Serum.Masthead',
+'Serum.Navigation.Global':'inline!standard:singelton/globalnavigation/Serum.Navigation.Global',
+'jquery.autocomplete' : 'inline!standard:common/js/lib/jquery/plugins/jquery-autocomplete/2.4.4/jquery.autocomplete.min',
+'Pubsub' : 'inline!standard:common/js/lib/Pubsub',
+'Serum.Pubsub' : 'inline!standard:common/js/lib/Serum.Pubsub',
+'Serum.Plugin' : 'inline!standard:type/plugin/Serum.Plugin',
+'Serum.Profile' : 'inline!standard:common/js/lib/Serum.Profile',
+'Serum.Asset.Img' : 'inline!standard:common/module/asset/Serum.Asset.Img',
+'Serum.Date' : 'inline!standard:common/module/date/Serum.Date',
+'Serum.Modernizr' : 'inline!standard:common/js/lib/Serum.Modernizr',
+'Serum.ScrollTrigger' : 'inline!standard:common/js/lib/Serum.ScrollTrigger'
+}
+}
+};
+require.baseUrl = "/serum/2.0.170/views-dist";
+require.config = {
+'common/module/Serum.Configuration' : {
+id : '1.12181593',
+statisticCategory : 'nrk/sport',
+BASE_PATH : '/serum/2.0.170/views-dist'
+},
+'type/twittertimeline/Serum.Twittertimeline' : {
+TWITTER_WIDGET_URL : '//platform.twitter.com/widgets.js'
+},
+'type/atlas/Serum.Atlas.Static' : {
+ATLAS_STATICMAP_URL : 'http://snutt.nrk.no/kart_apps/data_service/1.0/public'
+},
+'common/js/lib/Serum.Statistics' : {
+LP_URL : 'http://l.lp4.io/app/50/45/26/504526a1d9d93ead73000000.js',
+GA_URL : ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js',
+GA_CODE : 'UA-3413696-1',
+UNI_SCORES_URL : '/serum/2.0.170/views-dist/universalScores.js',
+NEWSBEAT_URL : (('https:' == document.location.protocol) ?
+'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' :
+'http://static.chartbeat.com/') +
+'js/chartbeat.js'
+},
+'common/js/lib/Serum.Time' : {
+TIME_API : '/serum/api/time/'
+},
+'Serum.Asset.Img' : {
+IMAGE_API : 'http://gfx.nrk.no/'
+},
+'common/module/asset/Serum.Asset.Img' : {
+IMAGE_API : 'http://gfx.nrk.no/'
+},
+'common/module/media/Serum.MediaElement' : {
+PS_VIDEO_API_URL : 'http://v8.psapi.nrk.no/',
+SERUM_VIDEO_API_URL : '/serum/api/video',
+SERUM_VIDEO_URL : 'www.nrk.no/video',
+SERUM_AUDIO_URL : 'www.nrk.no/lyd',
+REQUEST_TIMEOUT : 0,
+REQUEST_RETRY_COUNT : 1
+}
+};
+</script><link rel="stylesheet" type="text/css" href="/serum/2.0.170/views-dist/standard.css" />
+<link rel="stylesheet" type="text/css" href="/serum/2.0.170/views-dist/skin/sport/sport.css" />
+<script>
+var _prum = [['id', '541ad492abe53d831ef8ec47'],
+['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+var s = document.getElementsByTagName('script')[0]
+, p = document.createElement('script');
+p.async = 'async';
+p.src = '//rum-static.pingdom.net/prum.min.js';
+s.parentNode.insertBefore(p, s);
+})();
+</script>
+<script data-main="head" src="/serum/2.0.170/views-dist/common/js/lib/requirejs/require.2.1.6.min.js"></script>
+<script>
+define('inline', function(){
+'use strict';
+function parse(name) {
+return name.split(':');
+}
+function loadQueue (name, req, onload, config, parts) {
+var args = Array.prototype.slice.call(arguments);
+req([parts.shift()], function(m){
+if(!parts.length) {
+onload(m);
+} else {
+loadQueue.apply(this, args.concat(parts));
+}
+});
+}
+function load(name, req, onload, config) {
+var parts = parse(name),
+args = Array.prototype.slice.call(arguments);
+if (config.isBuild) {
+// do not include implicit modules when r.js is building
+loadQueue.apply(this, args.concat([[parts.pop()]]));
+} else {
+loadQueue.apply(this, args.concat([parts]));
+}
+}
+function normalize (name, normalize) {
+//console.log(name);
+return name;
+}
+return {
+load: load,
+normalize: normalize
+}
+});
+</script>
+<style>
+.no-datauri .responsive-img {
+visibility: hidden;
+}
+</style>
+<noscript>
+<style>
+.image .responsive-img {
+display: none;
+}
+</style>
+</noscript>
+<!-- Cxense script begin -->
+<script type="text/javascript">
+var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(['setSiteId', '9222363760151301873']);
+cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+(function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+scriptEl.src = ('https:' == location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+</script>
+<!-- Cxense script end -->
+</head>
+<body>
+<!--[if gte IE 9]><!-->
+<svg style="display: none;">
+<defs>
+<g id="faceshare">
+<circle fill="currentColor" cx="50" cy="50" r="49"/>
+<path d="M50,100C22.4,100,0,77.6,0,50S22.4,0,50,0s50,22.4,50,50S77.6,100,50,100z M50,3.3 C24.3,3.3,3.3,24.3,3.3,50s21,46.7,46.7,46.7s46.7-21,46.7-46.7S75.7,3.3,50,3.3z"/>
+<path d="M54.4,42.6v-5.9c0-2.7,0.5-5.9,4.2-5.9l6.8-0.1v-9.4L56.3,21c-9.2,0.3-12.6,6.5-12.6,14.9v6.6h-9.1v10.4 h9.1V80h10.9V53.1H64l1.1-10.4L54.4,42.6z"/>
+</g>
+<g id="faceshare-hover">
+<circle fill="#3B5998" cx="50" cy="50" r="50"/>
+<path fill="#FFFFFF" d="M54.4,42.6v-5.9c0-2.7,0.5-5.9,4.2-5.9l6.8-0.1v-9.4L56.3,21c-9.2,0.3-12.6,6.5-12.6,14.9v6.6h-9.1v10.4 h9.1V80h10.9V53.1H64l1.1-10.4L54.4,42.6z"/>
+</g>
+<g id="mailshare">
+<circle fill="currentColor" cx="50" cy="50" r="49"/>
+<path d="M50,100C22.4,100,0,77.6,0,50S22.4,0,50,0s50,22.4,50,50S77.6,100,50,100z M50,3.3C24.3,3.3,3.3,24.3,3.3,50
+s21,46.7,46.7,46.7s46.7-21,46.7-46.7S75.7,3.3,50,3.3z"/>
+<polygon points="72.3,37.6 72.3,33.7 27.2,33.7 27.2,37.3 50.2,50.9 "/>
+<polygon points="27.2,40.9 27.2,67.7 72.3,67.7 72.3,41.3 50.2,54.6 "/>
+</g>
+<g id="mailshare-hover">
+<circle fill="#4A4A4A" cx="50" cy="50" r="50"/>
+<polygon fill="#FFFFFF" points="72.3,37.6 72.3,33.7 27.2,33.7 27.2,37.3 50.2,50.9 "/>
+<polygon fill="#FFFFFF" points="27.2,40.9 27.2,67.7 72.3,67.7 72.3,41.3 50.2,54.6 "/>
+</g>
+<g id="gplusshare">
+<circle fill="currentColor" cx="50" cy="50" r="49"/>
+<path d="M50,100C22.4,100,0,77.6,0,50S22.4,0,50,0s50,22.4,50,50S77.6,100,50,100z M50,3.3C24.3,3.3,3.3,24.3,3.3,50
+s21,46.7,46.7,46.7S96.7,75.8,96.7,50S75.7,3.3,50,3.3z"/>
+<polygon points="83.9,46.2 75.4,46.2 75.4,37.6 73.2,37.6 73.2,46.2 64.7,46.2 64.7,48.3 73.2,48.3
+73.2,56.9 75.4,56.9 75.4,48.3 83.9,48.3 "/>
+<path d="M41.8,75.1L41.8,75.1c-6.6,0-11.4-4.2-11.4-9.2c0-4.9,5.9-9,12.5-9c1.5,0,3,0.3,4.3,0.7
+c3.6,2.5,6.2,3.9,6.9,6.7c0.1,0.6,0.2,1.2,0.2,1.8C54.4,71.1,51.1,75.1,41.8,75.1z M43.6,45.6L43.6,45.6c-4.4-0.1-8.7-5-9.4-10.8
+c-0.8-5.8,2.2-10.3,6.6-10.2c4.4,0.1,8.7,4.8,9.4,10.6C51,41.1,48,45.7,43.6,45.6z M52.8,54.2c-1.6-1.1-4.5-3.8-4.5-5.4
+c0-1.8,0.5-2.8,3.3-4.9c2.8-2.2,4.9-5.4,4.9-9c0-4.3-1.9-8.6-5.6-9.9h5.5l3.9-2.8H42.9c-7.7,0-15,5.8-15,12.6
+c0,6.9,5.3,12.5,13.1,12.5c0.5,0,1.1,0,1.6,0c-0.5,1-0.9,2.1-0.9,3.2c0,1.9,1,3.5,2.3,4.8c-1,0-1.9,0-3,0
+c-9.6,0-16.9,6.1-16.9,12.4c0,6.2,8.1,10.1,17.6,10.1c10.9,0,16.9-6.2,16.9-12.4C58.8,60.4,57.3,57.4,52.8,54.2z"/>
+</g>
+<g id="gplusshare-hover">
+<circle fill="#D34836" cx="50" cy="50" r="50"/>
+<polygon fill="#FFFFFF" points="83.9,46.2 75.4,46.2 75.4,37.6 73.2,37.6 73.2,46.2 64.7,46.2 64.7,48.3 73.2,48.3
+73.2,56.9 75.4,56.9 75.4,48.3 83.9,48.3 "/>
+<path fill="#FFFFFF" d="M41.8,75.1L41.8,75.1c-6.6,0-11.4-4.2-11.4-9.2c0-4.9,5.9-9,12.5-9c1.5,0,3,0.3,4.3,0.7
+c3.6,2.5,6.2,3.9,6.9,6.7c0.1,0.6,0.2,1.2,0.2,1.8C54.4,71.1,51.1,75.1,41.8,75.1z M43.6,45.6L43.6,45.6c-4.4-0.1-8.7-5-9.4-10.8
+c-0.8-5.8,2.2-10.3,6.6-10.2c4.4,0.1,8.7,4.8,9.4,10.6C51,41.1,48,45.7,43.6,45.6z M52.8,54.2c-1.6-1.1-4.5-3.8-4.5-5.4
+c0-1.8,0.5-2.8,3.3-4.9c2.8-2.2,4.9-5.4,4.9-9c0-4.3-1.9-8.6-5.6-9.9h5.5l3.9-2.8H42.9c-7.7,0-15,5.8-15,12.6
+c0,6.9,5.3,12.5,13.1,12.5c0.5,0,1.1,0,1.6,0c-0.5,1-0.9,2.1-0.9,3.2c0,1.9,1,3.5,2.3,4.8c-1,0-1.9,0-3,0
+c-9.6,0-16.9,6.1-16.9,12.4c0,6.2,8.1,10.1,17.6,10.1c10.9,0,16.9-6.2,16.9-12.4C58.8,60.4,57.3,57.4,52.8,54.2z"/>
+</g>
+<g id="tweetshare">
+<circle fill="currentColor" cx="50" cy="50" r="49"/>
+<path d="M50,100C22.4,100,0,77.6,0,50S22.4,0,50,0s50,22.4,50,50S77.6,100,50,100z M50,3.3C24.3,3.3,3.3,24.3,3.3,50
+s21,46.7,46.7,46.7s46.7-21,46.7-46.7S75.7,3.3,50,3.3z"/>
+<path d="M77.8,38c-1.9,0.8-4,1.4-6.1,1.7c2.2-1.3,3.9-3.4,4.7-5.8c-2.1,1.2-4.3,2.1-6.8,2.5
+c-1.9-2-4.7-3.3-7.8-3.3c-5.9,0-10.7,4.7-10.7,10.5c0,0.8,0.1,1.6,0.3,2.4c-8.9-0.4-16.7-4.6-22-11c-0.9,1.5-1.4,3.4-1.4,5.3
+c0,3.6,1.9,6.9,4.7,8.7c-1.7-0.1-3.4-0.5-4.8-1.3v0.1c0,5.1,3.7,9.3,8.6,10.3c-0.9,0.2-1.8,0.4-2.8,0.4c-0.7,0-1.4-0.1-2-0.2
+c1.4,4.2,5.3,7.2,10,7.3c-3.6,2.8-8.2,4.5-13.2,4.5c-0.9,0-1.7,0-2.5-0.1c4.7,3,10.3,4.7,16.3,4.7c19.6,0,30.3-16,30.3-29.9
+c0-0.5,0-0.9,0-1.4C74.6,42,76.4,40.1,77.8,38"/>
+</g>
+<g id="tweetshare-hover">
+<circle fill="#00ACEE" cx="50" cy="50" r="50"/>
+<path fill="#FFFFFF" d="M77.8,38c-1.9,0.8-4,1.4-6.1,1.7c2.2-1.3,3.9-3.4,4.7-5.8c-2.1,1.2-4.3,2.1-6.8,2.5
+c-1.9-2-4.7-3.3-7.8-3.3c-5.9,0-10.7,4.7-10.7,10.5c0,0.8,0.1,1.6,0.3,2.4c-8.9-0.4-16.7-4.6-22-11c-0.9,1.5-1.4,3.4-1.4,5.3
+c0,3.6,1.9,6.9,4.7,8.7c-1.7-0.1-3.4-0.5-4.8-1.3v0.1c0,5.1,3.7,9.3,8.6,10.3c-0.9,0.2-1.8,0.4-2.8,0.4c-0.7,0-1.4-0.1-2-0.2
+c1.4,4.2,5.3,7.2,10,7.3c-3.6,2.8-8.2,4.5-13.2,4.5c-0.9,0-1.7,0-2.5-0.1c4.7,3,10.3,4.7,16.3,4.7c19.6,0,30.3-16,30.3-29.9
+c0-0.5,0-0.9,0-1.4C74.6,42,76.4,40.1,77.8,38"/>
+</g>
+<g id="embedshare">
+<circle fill="currentColor" cx="50" cy="50" r="49"/>
+<path d="M50,100C22.4,100,0,77.6,0,50S22.4,0,50,0s50,22.4,50,50S77.6,100,50,100z M50,3.3C24.3,3.3,3.3,24.3,3.3,50s21,46.7,46.7,46.7s46.7-21,46.7-46.7S75.7,3.3,50,3.3z" />
+<polygon points="39.2,63.9 14.8,49.9 39.3,35.6 42.4,40.9 27.1,49.8 42.3,58.6" />
+<polygon points="60.8,63.9 57.8,58.6 73,49.8 57.7,40.9 60.8,35.6 85.2,49.9" />
+<rect x="48.9" y="40.5" transform="matrix(0.8421 0.5393 -0.5393 0.8421 34.6862 -19.1705)" width="2.5" height="18.3" />
+</g>
+<g id="embedshare-hover">
+<circle fill="#4A4A4A" cx="50" cy="50" r="50"/>
+<polygon fill="#FFFFFF" points="39.2,63.9 14.8,49.9 39.3,35.6 42.4,40.9 27.1,49.8 42.3,58.6" />
+<polygon fill="#FFFFFF" points="60.8,63.9 57.8,58.6 73,49.8 57.7,40.9 60.8,35.6 85.2,49.9" />
+<rect x="48.9" y="40.5" transform="matrix(0.8421 0.5393 -0.5393 0.8421 34.6862 -19.1705)" fill="#FFFFFF" width="2.5" height="18.3" />
+</g>
+<g id="published-time">
+<path fill="#686a6c" d="M50,100C22.4,100,0,77.6,0,50S22.4,0,50,0s50,22.4,50,50S77.6,100,50,100z M50,10C28,9.8,10,28,10,50
+s18,39.7,40,40c21.8,0.3,39.5-17.4,40-40C90.5,28.1,72.3,10.2,50,10z"/>
+<polygon fill="#686a6c" points="45.9,66.5 45.9,20.4 53.9,20.4 53.9,52.1 70.9,41.6 75.1,48.4 "/>
+</g>
+<g id="published-refresh">
+<path fill="#686a6c" d="M50,0C34.7,0,20.9,6.9,11.7,17.8L0.4,11.4L0.3,51.2l35.3-19.8l-14.9-8.5C28,14.9,38.4,9.9,50,10
+c22.3,0.2,40.5,18.1,40,40c-0.5,22.6-18.2,40.3-40,40c-15.1-0.2-28.2-8.6-35.1-20.9c-2.6,1.8-4.4,2.6-8.8,4.9
+c8.5,15.5,25,26,43.8,26c27.6,0,50-22.4,50-50S77.6,0,50,0z"/>
+</g>
+</defs>
+</svg>
+<!--<![endif]-->
+<div id="container" class="page cf">
+<div class="g100 col fr sAUTO singleton-reference">
+<!-- include: /serum/render?id=1.11182845&size=18&perspective=RICH&alignment=RIGHT&created=1384340368000 -->
+<div class="singleton widget rich nrk-masthead js-initialize lp_masthead">
+<div class="nrk-masthead-aligner">
+<header class="nrk-masthead-content cf">
+<h1 class="nrk-masthead-heading">
+<a href="http://www.nrk.no" rel="home" tabindex="1">NRK</a>
+</h1>
+<button type="button" class="nrk-masthead-mobile-switch">Meny</button>
+<nav class="nrk-masthead-navigation">
+<form class="nrk-masthead-search nrk-search" role="search" action="http://www.nrk.no/sok/" method="get">
+<input tabindex="14" class="nrk-search-input" name="q" type="text" />
+<button tabindex="-1" class="nrk-search-submit" type="submit"><span>Søk</span></button>
+</form>
+<div class="nrk-masthead-menu">
+<ul role="menubar">
+<li role="menuitem">
+<button class="nrk-masthead-menu-switch" aria-haspopup="true" tabindex="3">
+<span>Ekspandér Nyheter</span>
+</button>
+<a href="http://www.nrk.no/nyheter/" tabindex="2">Nyheter</a>
+<ul role="menu" aria-hidden="true">
+<li role="menuitem"><a href="http://www.nrk.no/norge/">Norge</a></li>
+<li role="menuitem"><a href="http://www.nrk.no/verden/">Verden</a></li>
+<li role="menuitem"><a href="http://www.nrk.no/trafikk/">Trafikk</a></li>
+<li role="menuitem"><a href="http://www.nrk.no/kultur/">Kultur</a></li>
+<li role="menuitem"><a href="http://www.nrk.no/livsstil/">Livsstil</a></li>
+<li role="menuitem"><a href="http://www.nrk.no/viten/">Viten</a></li>
+<li role="menuitem"><a href="http://www.nrk.no/fordypning/">Fordypning</a></li>
+<li role="menuitem"><a href="http://www.nrk.no/ytring/">Ytring</a></li>
+<li role="menuitem"><a href="http://www.nrk.no/sapmi/">NRK Sápmi</a></li>
+</ul>
+</li>
+<li role="menuitem"><a tabindex="4" href="http://www.nrk.no/sport/">Sport</a></li>
+<li role="menuitem"><a tabindex="5" href="http://tv.nrk.no/">TV</a></li>
+<li role="menuitem"><a tabindex="6" href="http://radio.nrk.no/">Radio</a></li>
+<li role="menuitem">
+<button class="nrk-masthead-menu-switch" aria-haspopup="true" tabindex="8">
+<span>Ekspandér Distrikt</span>
+</button>
+<a href="http://www.nrk.no/distrikt/" class="nrk-masthead-district-anchor" tabindex="7">
+Distrikt
+</a>
+<ul class="nrk-masthead-district-menu" role="menu" aria-hidden="true">
+<li role="menuitem"><a data-value="Akershus" href="http://www.nrk.no/ostlandssendingen/">Akershus</a></li>
+<li role="menuitem"><a data-value="Aust-Agder" href="http://www.nrk.no/sorlandet/">Aust-Agder</a></li>
+<li role="menuitem"><a data-value="Buskerud" href="http://www.nrk.no/buskerud/">Buskerud</a></li>
+<li role="menuitem"><a data-value="Finnmark" href="http://www.nrk.no/nordnytt/">Finnmark</a></li>
+<li role="menuitem"><a data-value="Hedmark" href="http://www.nrk.no/ho/">Hedmark</a></li>
+<li role="menuitem"><a data-value="Hordaland" href="http://www.nrk.no/hordaland/">Hordaland</a></li>
+<li role="menuitem"><a data-value="Møre og Romsdal" href="http://www.nrk.no/mr/">Møre og Romsdal</a></li>
+<li role="menuitem"><a data-value="Nordland" href="http://www.nrk.no/nordland/">Nordland</a></li>
+<li role="menuitem"><a data-value="Nord-Trøndelag" href="http://www.nrk.no/trondelag/">Nord-Trøndelag</a></li>
+<li role="menuitem"><a data-value="Oppland" href="http://www.nrk.no/ho/">Oppland</a></li>
+<li role="menuitem"><a data-value="Oslo" href="http://www.nrk.no/ostlandssendingen/">Oslo</a></li>
+<li role="menuitem"><a data-value="Rogaland" href="http://www.nrk.no/rogaland/">Rogaland</a></li>
+<li role="menuitem"><a data-value="Sogn og Fjordane" href="http://www.nrk.no/sognogfjordane/">Sogn og Fjordane</a></li>
+<li role="menuitem"><a data-value="Sør-Trøndelag" href="http://www.nrk.no/trondelag/">Sør-Trøndelag</a></li>
+<li role="menuitem"><a data-value="Telemark" href="http://www.nrk.no/telemark/">Telemark</a></li>
+<li role="menuitem"><a data-value="Troms" href="http://www.nrk.no/nordnytt/">Troms</a></li>
+<li role="menuitem"><a data-value="Vest-Agder" href="http://www.nrk.no/sorlandet/">Vest-Agder</a></li>
+<li role="menuitem"><a data-value="Vestfold" href="http://www.nrk.no/vestfold/">Vestfold</a></li>
+<li role="menuitem"><a data-value="Østfold" href="http://www.nrk.no/ostfold/">Østfold</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="nrk-masthead-secondary-menu">
+<ul>
+<li class="nrk-masthead-nrk-super"><a tabindex="9" href="http://nrksuper.no"><span>NRK Super</span></a></li>
+<li class="nrk-masthead-p3"><a tabindex="10" href="http://p3.no"><span>NRK P3</span></a></li>
+<li class="nrk-masthead-ut"><a tabindex="11" href="http://ut.no/"><span>UT</span></a></li>
+<li class="nrk-masthead-yr"><a tabindex="12" href="http://yr.no"><span>Yr</span></a></li>
+<li class="nrk-masthead-tips"><a tabindex="13" href="http://www.nrk.no/tips/"><span>03030 Nyhetstips</span></a></li>
+</ul>
+</div>
+<button class="nrk-masthead-footer-handle"><span>Lukk meny</span></button>
+</nav>
+</header>
+</div>
+</div>
+<script>
+if (window.require) {
+require(['Serum.Masthead']);
+}
+</script></div><div class="g100 col fc sAUTO group-reference"><div class="group widget rich floor floor-top cf meta-widget"><div class="g100 col fc s18 sg6 sg9 sg12 group-reference"><div class="group widget rich cf meta-widget"><div class="g100 col fc s18 sg6 sg9 sg12 menu-reference">
+<!-- include: /serum/render?id=1.8403577&secondary=1.12181593&size=18&perspective=RICH&alignment=CENTER&classes=menu-main&selected=0 -->
+<nav class="menu widget rich menu-main lp_menu">
+<div class="menu-wrapper ">
+<h2 class="menu-title skin-border">
+<a href="http://www.nrk.no/sport/" class="skin-text">Sport</a>
+</h2>
+<div class="menu-container">
+<ul id="mivN3kAkH4RD2vKpyiEUX00A" class="menu-content cf">
+<li class="menu-item ">
+<a class=""
+data-id="2.6849"
+data-page-url="http://www.nrk.no/sport/fotball/"
+href="http://www.nrk.no/sport/fotball/">
+<span class="skin-border-hover ">
+Fotball
+</span>
+</a>
+</li>
+<li class="menu-item ">
+<a class=""
+data-id="1.8403576"
+data-page-url=""
+href="http://nrk.no/sport/resultat/fotball">
+<span class="skin-border-hover ">
+Resultater
+</span>
+</a>
+</li>
+<li class="menu-item ">
+<a class=""
+data-id="2.6851"
+data-page-url="http://www.nrk.no/sport/sendeplan/"
+href="http://www.nrk.no/sport/sendeplan/">
+<span class="skin-border-hover ">
+Sendeplan
+</span>
+</a>
+</li>
+<li class="menu-item ">
+<a class=""
+data-id="2.6850"
+data-page-url="http://www.nrk.no/sport/videoklipp/"
+href="http://www.nrk.no/sport/videoklipp/">
+<span class="skin-border-hover ">
+Videoklipp
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<script>
+require([
+'inline!standard:jquery',
+'inline!standard:type/menu/Serum.MainMenu'
+], function($, MainMenu) {
+new MainMenu($('#mivN3kAkH4RD2vKpyiEUX00A')).initialize();
+});
+</script>
+</div></div></div></div></div><div class="g100 col fl sAUTO surrogate-reference">
+<!-- include: /serum/render?id=1.7592607&secondary=1.12181593&size=18&perspective=RICH&alignment=LEFT&scope=ARTICLE --><!-- START: /templates/surrogate/surrogate.jsp -->
+<div class="surrogate widget rich meta-widget" data-id="1.12181593">
+<div class="g100 col fln s18 sg6 sg9 sg12 article-reference">
+<!-- include: /serum/render?id=1.12181593&secondary=1.12181593&size=18&perspective=RICH&alignment=AUTO&classes=surrogate-content --><!-- START: /templates/article/article-rich.jsp -->
+<article class="article widget rich surrogate-content meta-widget cf js-initialize "
+role="main article"
+data-id="1.12181593"
+itemscope itemtype="http://schema.org/Article">
+<div class="spacer g5 col fl s1 sl6 sl9 sl12 sl18"></div>
+<div>
+<div class="g94 col fl s17 sl18 sg6 sg9 sg12 meta-widget">
+<header class="meta-widget-content article-header">
+<h1 itemprop="name" class="title title-large article-title">Northug: – Mulla Krekar og jeg er i samme båt</h1>
+<div itemprop="description" class="text-body text-body-sans-serif article-lead">
+<p>RØROS/OSLO (NRK): Selv om han ble knust i sprintfinalen fleipet en Petter Northug i fri dresur om alt fra brorens nye hund til mulla Krekar etter målgang.</p>
+</div>
+</header>
+<div class="g70 col fl s12 sl18 sg6 sg9 article-lead-media state-collapsed" data-article-lead-media-expand>
+<!-- include: /serum/render?id=1.12181819&secondary=1.12181593&size=18&perspective=RICH&alignment=AUTO&caption=SE+VIDEO%3A+Petter+Northug+havnet+nest+sist+i+sprintfinalen+i+NM+som+Timo+Andr%C3%A9+Bakken+vant.+Men+etterp%C3%A5+var+Northug+likevel+i+storhum%C3%B8r+og+fleipet+i+vei+om+b%C3%A5de+det+ene+og+det+andre.+Se+hele+intervjuet+her. -->
+<figure class="image js-initialize video widget rich"
+data-video-id="194037"
+data-video-type="DEFAULT"
+data-video-offset="0"
+itemscope itemtype="http://schema.org/VideoObject">
+<meta itemprop="image" content="http://gfx.nrk.no//ROlyza0yVed8YmtT_xvgWg-8Ff2AvZPkiOluU9Y5UdFg" />
+<meta itemprop="description" content="Intervju med Petter Northug etter NM-sprinten på Røros." />
+<meta itemprop="name" content="Intervju med Petter Northug" />
+<div class="video-player">
+<noscript><img src="http://gfx.nrk.no//ROlyza0yVed8YmtT_xvgWgKQSXJEW6YCqOluU9Y5UdFg" alt="Intervju med Petter Northug etter NM-sprinten på Røros." /></noscript><div class="responsive-img F169 " style=""><img id="ROlyza0yVed8YmtT_xvgWg" class="js-img" data-srcset='[{"80":"Pvb2XAX_ghOOluU9Y5UdFg"},{"160":"CRE00sUx9iSOluU9Y5UdFg"},{"350":"KQSXJEW6YCqOluU9Y5UdFg"},{"450":"VRDlg_Yt2hOOluU9Y5UdFg"},{"650":"p4hxEy9BZzqOluU9Y5UdFg"},{"1000":"UEhoTjVjzmaOluU9Y5UdFg"},{"1200":"laH3S0OmyPeOluU9Y5UdFg"}]' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Intervju med Petter Northug etter NM-sprinten på Røros."/></div><script>
+require(['common/module/asset/Serum.Asset.Img'], function(Img){
+Img.load({id: 'ROlyza0yVed8YmtT_xvgWg'});});
+</script>
+<div class="video-hud video-ready">
+<div class="video-status video-unloaded">
+<div class="video-loader"></div>
+</div>
+<div class="video-metadata">
+<h3 class="video-title"></h3>
+<span class="video-message"></span>
+</div>
+</div>
+<time class="video-duration"></time>
+</div>
+<figcaption>
+<p>SE VIDEO: Petter Northug havnet nest sist i sprintfinalen i NM som Timo André Bakken vant. Men etterpå var Northug likevel i storhumør og fleipet i vei om både det ene og det andre. Se hele intervjuet her.</p>
+</figcaption>
+</figure>
+<script>
+require([
+'inline!standard:jquery',
+'inline!standard:media:common/module/media/Serum.MediaController'
+], function($, MediaController) {
+MediaController.bootstrap($('figure.video.js-initialize').removeClass('js-initialize'));
+});
+</script>
+</div>
+<meta itemprop="image" content="http://gfx.nrk.no//ROlyza0yVed8YmtT_xvgWg-8Ff2AvZPkiOluU9Y5UdFg" />
+<div class="g22 col fl s4 sl6 sl9 sl12 sl18 article-header-sidebar">
+<div class="meta-widget-content article-byline article-byline-many">
+<!-- include: /serum/render?id=18.2294&secondary=1.12181593&size=18&perspective=BRIEF&alignment=AUTO&role=Journalist --><!-- START: /templates/author/author-brief.jsp -->
+<address class="author widget brief">
+<div class="avatar">
+<!-- include: /serum/render?id=1.8209457&size=18&perspective=LEAN&alignment=AUTO&created=1391081981000&type=image&aspect=F11 --><!-- START: /templates/image/image-lean.jsp -->
+<figure class="image widget lean">
+<noscript><img src="http://gfx.nrk.no//0LrVGuJEAHkJNkaw6YdazQovsuUffZvnwocTDvHkbD_Q" alt="Morten Stenberg bylineNRK" /></noscript><div class="responsive-img F11 " style=""><img id="0LrVGuJEAHkJNkaw6YdazQ" class="js-img" data-srcset='[{"80":"xStQiyeP5RgocTDvHkbD_Q"},{"160":"EZkqUfowgmAocTDvHkbD_Q"},{"350":"ovsuUffZvnwocTDvHkbD_Q"},{"450":"hZcxI9PYEKgocTDvHkbD_Q"},{"650":"K3LPo2sTYh0ocTDvHkbD_Q"},{"1000":"Aj_Bx5zozBkocTDvHkbD_Q"},{"1200":"i8qQCvK5Y9IocTDvHkbD_Q"}]' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Morten Stenberg bylineNRK"/></div><script>
+require(['common/module/asset/Serum.Asset.Img'], function(Img){
+Img.load({id: '0LrVGuJEAHkJNkaw6YdazQ'});});
+</script>
+</figure>
+<!-- END: /templates/image/image-lean.jsp -->
+</div>
+<span class="role">Journalist&nbsp;</span>
+<a class="fn email skin-text" itemprop="author" href="javascript:location=&#039;%6d%61%69%6c%74%6f%3a%6d%6f%72%74%65%6e%2e%73%74%65%6e%62%65%72%67%40%6e%72%6b%2e%6e%6f&#039;" title="">
+Morten Stenberg
+</a>
+<a class="twitter skin-text" href="http://twitter.com/nrkstenberg">@nrkstenberg</a>
+</address>
+<!-- END: /templates/author/author-brief.jsp -->
+<!-- include: /serum/render?id=18.14691&secondary=1.12181593&size=18&perspective=BRIEF&alignment=AUTO&role=Journalist --><!-- START: /templates/author/author-brief.jsp -->
+<address class="author widget brief">
+<div class="avatar">
+<!-- include: /serum/render?id=1.10914671&size=18&perspective=LEAN&alignment=AUTO&created=1380267893000&type=image&aspect=F11 --><!-- START: /templates/image/image-lean.jsp -->
+<figure class="image widget lean">
+<noscript><img src="http://gfx.nrk.no//sAyhDVQ6PsjfjsRHWA9N2gPeMZcDuX5Ff548PCjmkylw" alt="Anders Skjerdingstad" /></noscript><div class="responsive-img F11 " style=""><img id="sAyhDVQ6PsjfjsRHWA9N2g" class="js-img" data-srcset='[{"80":"iAQxlcIh-XH548PCjmkylw"},{"160":"G2fptOi5DXH548PCjmkylw"},{"350":"PeMZcDuX5Ff548PCjmkylw"},{"450":"wxIDbIJPGi3548PCjmkylw"},{"650":"aGxhEDqNhln548PCjmkylw"},{"1000":"zFsfy6vvRBT548PCjmkylw"},{"1200":"pl_3KmMdajT548PCjmkylw"}]' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Anders Skjerdingstad"/></div><script>
+require(['common/module/asset/Serum.Asset.Img'], function(Img){
+Img.load({id: 'sAyhDVQ6PsjfjsRHWA9N2g'});});
+</script>
+</figure>
+<!-- END: /templates/image/image-lean.jsp -->
+</div>
+<span class="role">Journalist&nbsp;</span>
+<a class="fn email skin-text" itemprop="author" href="javascript:location=&#039;%6d%61%69%6c%74%6f%3a%61%6e%64%65%72%73%2e%73%6b%6a%65%72%64%69%6e%67%73%74%61%64%40%6e%72%6b%2e%6e%6f&#039;" title="">
+Anders Skjerdingstad
+</a>
+<a class="twitter skin-text" href="http://twitter.com/Skjerdings">@Skjerdings</a>
+</address>
+<!-- END: /templates/author/author-brief.jsp -->
+<!-- include: /serum/render?id=18.17827&secondary=1.12181593&size=18&perspective=BRIEF&alignment=AUTO&role=Journalist --><!-- START: /templates/author/author-brief.jsp -->
+<address class="author widget brief">
+<div class="avatar">
+<!-- include: /serum/render?id=1.12003356&size=18&perspective=LEAN&alignment=AUTO&created=1414073538000&type=image&aspect=F11 --><!-- START: /templates/image/image-lean.jsp -->
+<figure class="image widget lean">
+<noscript><img src="http://gfx.nrk.no//4MLVxW6bnqgJ4xL_cRMN9QjsWuWP8-Ky3xN5ZafLWy4Q" alt="Erlend Kjernli - Foto: NRK ASSV / " /></noscript><div class="responsive-img F11 " style=""><img id="4MLVxW6bnqgJ4xL_cRMN9Q" class="js-img" data-srcset='[{"80":"7a8hKug6s53xN5ZafLWy4Q"},{"160":"44I5QhdxbBjxN5ZafLWy4Q"},{"350":"jsWuWP8-Ky3xN5ZafLWy4Q"},{"450":"RSclo4OT1UfxN5ZafLWy4Q"},{"650":"jypXcsNTCpbxN5ZafLWy4Q"},{"1000":"rW_9uHVl-g7xN5ZafLWy4Q"},{"1200":"vqm9jwfZJ9rxN5ZafLWy4Q"}]' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Erlend Kjernli - Foto: NRK ASSV / "/></div><script>
+require(['common/module/asset/Serum.Asset.Img'], function(Img){
+Img.load({id: '4MLVxW6bnqgJ4xL_cRMN9Q'});});
+</script>
+</figure>
+<!-- END: /templates/image/image-lean.jsp -->
+</div>
+<span class="role">Journalist&nbsp;</span>
+<a class="fn email skin-text" itemprop="author" href="javascript:location=&#039;%6d%61%69%6c%74%6f%3a%65%72%6c%65%6e%64%2e%6b%6a%65%72%6e%6c%69%40%6e%72%6b%2e%6e%6f&#039;" title="">
+Erlend Kjernli
+</a>
+</address>
+<!-- END: /templates/author/author-brief.jsp -->
+<!-- include: /serum/render?id=18.9642&secondary=1.12181593&size=18&perspective=BRIEF&alignment=AUTO&role=Journalist --><!-- START: /templates/author/author-brief.jsp -->
+<address class="author widget brief">
+<div class="avatar">
+<!-- include: /serum/render?id=1.8258291&size=18&perspective=LEAN&alignment=AUTO&created=1383255910000&type=image&aspect=F11 --><!-- START: /templates/image/image-lean.jsp -->
+<figure class="image widget lean">
+<noscript><img src="http://gfx.nrk.no//idVBLo0psDdyJ9DYSEoVZg1leLaIRwX60EGp10xLbCFw" alt="Bylinebilde Anders Rove Berntsen - Foto: NRK / " /></noscript><div class="responsive-img F11 " style=""><img id="idVBLo0psDdyJ9DYSEoVZg" class="js-img" data-srcset='[{"80":"RDsNjqTuU3IEGp10xLbCFw"},{"160":"NXDwhNw1AAoEGp10xLbCFw"},{"350":"1leLaIRwX60EGp10xLbCFw"},{"450":"mRBJBs9mhIIEGp10xLbCFw"},{"650":"7tlnZA65CEoEGp10xLbCFw"},{"1000":"CGE70JhTxCQEGp10xLbCFw"},{"1200":"l_vADGPNkRAEGp10xLbCFw"}]' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Bylinebilde Anders Rove Berntsen - Foto: NRK / "/></div><script>
+require(['common/module/asset/Serum.Asset.Img'], function(Img){
+Img.load({id: 'idVBLo0psDdyJ9DYSEoVZg'});});
+</script>
+</figure>
+<!-- END: /templates/image/image-lean.jsp -->
+</div>
+<span class="role">Journalist&nbsp;</span>
+<a class="fn email skin-text" itemprop="author" href="javascript:location=&#039;%6d%61%69%6c%74%6f%3a%61%6e%64%65%72%73%2e%72%6f%76%65%2e%62%65%6e%74%73%65%6e%40%6e%72%6b%2e%6e%6f&#039;" title="">
+Anders Rove Bentsen
+</a>
+<a class="twitter skin-text" href="http://twitter.com/arbentsen">@arbentsen</a>
+</address>
+<!-- END: /templates/author/author-brief.jsp -->
+</div>
+<div class="article-universes meta-widget-content lp_relatedheader">
+<ul class="article-universe-list">
+<li>
+<!-- include: /serum/render?id=1.8410734&secondary=1.12181593&size=18&perspective=REFERENCE&alignment=AUTO&display=true&arrangement.offset=0&arrangement.quantity=2&arrangement.repetition=LAST&arrangement.exclude[0]=1.12181593&arrangement.view[0].perspective=LEAN&arrangement.view[0].size=5&arrangement.view[0].alignment=LEFT&paged=OFF&classes=article-universe-link+universe-teaser+skin-border -->
+<a class="universe widget reference article-universe-link universe-teaser skin-border lp_universe_link" href="http://www.nrk.no/emne/langrenn-1.8410734">
+<span>Mer om</span>
+Langrenn
+</a>
+</li>
+</ul>
+</div>
+<div class="article-dateline article-dateline-header meta-widget-content">
+<span class="article-publish-date publish-date " title="30.01.2015, kl. 14.53">
+<span class="icon">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="gray-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#published-time"></use>
+</svg>
+</span>
+<span class="article-dateline-annotation">
+Publisert
+</span>
+<time class="datetime-relative"
+itemprop="datePublished"
+datetime="2015-01-30T14:53:12+01:00"
+pubdate="pubdate">
+30.01.2015, kl. 14.53
+</time>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="g11 col fl s2 sl6 sl9 sl12 sl18">
+<div class="meta-widget-content article-share-button-container">
+<aside class="article-share-buttons">
+<div class="share-button-bar-toggle">
+<button class="share-toggle-button skin-text js-inititalize">
+<span class="skin-background"></span>
+<span class="skin-background"></span>
+<span class="skin-background"></span>
+<span class="sr-only">Vis deleknapper</span>
+<span class="article-only" role="presentation" aria-hidden="true">Del</span>
+</button>
+<div class="share-button-bar js-inititalize "
+data-share-url="http://www.nrk.no/sport/1.12181593"
+data-share-title="Petter om VM-uttaket: – Tomas er i sitt livs form"
+data-share-action=""
+data-share-description="RØROS/OSLO (NRK): Selv om han ble knust i sprintfinalen fleipet en Petter Northug i fri dresur om alt fra brorens nye hund til mulla Krekar etter målgang.">
+<a data-share-service="Facebook" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181593" class="share-facebook share-button" target="_blank">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#faceshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#faceshare-hover"></use>
+</svg>
+<span class="sr-only">Del på Facebook</span>
+</a>
+<a data-share-service="Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181593&amp;text=Petter+om+VM-uttaket%3A+%E2%80%93+Tomas+er+i+sitt+livs+form" class="share-twitter share-button" target="_blank">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#tweetshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#tweetshare-hover"></use>
+</svg>
+<span class="sr-only">Del på Twitter</span>
+</a>
+<a data-share-service="GooglePlus" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181593" class="share-googleplus share-button" target="_blank">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gplusshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gplusshare-hover"></use>
+</svg>
+<span class="sr-only">Del på Google+</span>
+</a>
+<a data-share-service="Epost" href="mailto:?subject=Petter om VM-uttaket: – Tomas er i sitt livs form&amp;body=Petter om VM-uttaket: – Tomas er i sitt livs form%0D%0A%0D%0ARØROS/OSLO (NRK): Selv om han ble knust i sprintfinalen fleipet en Petter Northug i fri dresur om alt fra brorens nye hund til mulla Krekar etter målgang.%0D%0A%0D%0ALes mer: http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181593" class="share-mail share-button">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#mailshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#mailshare-hover"></use>
+</svg>
+<span class="sr-only">Send med epost</span>
+</a>
+</div>
+</div>
+</aside>
+</div>
+</div>
+<div class="g55 col fl s10 sl12 sl18 sg6 sg9">
+<div itemprop="articleBody"
+class="article-body lp_articlebody text-body text-body-sans-serif meta-widget-content nostack cf ">
+<p><strong>– Jeg føler jo at mulla Krekar og jeg er i samme båt, og tenker at både han og jeg prøver å gjøre det beste ut av det, spøkte skistjernen etter NM-sprinten på Røros fredag.</strong></p>
+<p>Egentlig ville han trent i høyden denne dagen, men siden sprinttrener Arild Monsen nektet å ta ut trønderen til VM-sprinten på forhånd, måtte Northug reise ned til Røros og kjempe mot de andre.</p>
+<ul>
+<li><em>Timo André Bakken vant NM-sprinten (se resultater i faktaboks)</em></li>
+</ul>
+<p>Det var da en journalist dro sammenligning med Krekars tvangsflytting til Kyrksæterøra Northug kom med det humoristiske svartet.</p>
+<p>Og han stoppet ikke der.</p>
+<p>For Kyrksæterøra ligger i Trøndelag, og da han skulle forklare hvorfor lillebror Tomas Northug gikk fra alle i finalen fleipet han med at Krekars nærver i Trøndelag var årsak til det.</p>
+<p><strong>– Vi blir litt redde og vet ikke hva vi skal gjøre. Vi blir vettskremte og det ble gjenspeilet i gåingen til Tomas i dag, sa Northug.</strong></p>
+<ul>
+<li><strong>SE VIDEO: Tomas Northug faller i siste sving</strong></li>
+</ul>
+<p><em>(Artikkelen fortsetter under videoen.)</em></p>
+<div id="1.12181644.ddef3641" class=" g100 col fln s10 sl12 sl18 sg6 sg9 video-reference">
+<!-- include: /serum/render?id=1.12181644&size=10&perspective=RICH&alignment=AUTO&caption=OPPL%C3%98PET%3A+Tomas+Northug+faller+i+siste+sving.&parentSize=10 -->
+<figure class="image js-initialize video widget rich"
+data-video-id="194007"
+data-video-type="DEFAULT"
+data-video-offset="0"
+itemscope itemtype="http://schema.org/VideoObject">
+<meta itemprop="image" content="http://gfx.nrk.no//66qlIvYi06GvnKbETht41QISZZiNoJ0FnIVR1M7ERaLg" />
+<meta itemprop="description" content="Komm.: Jann Post og Torgeir Bjørn." />
+<meta itemprop="name" content="Dramatikk i siste sving" />
+<div class="video-player">
+<noscript><img src="http://gfx.nrk.no//66qlIvYi06GvnKbETht41QXaECs9KNvrPIVR1M7ERaLg" alt="Komm.: Jann Post og Torgeir Bjørn." /></noscript><div class="responsive-img F169 " style=""><img id="66qlIvYi06GvnKbETht41Q" class="js-img" data-srcset='[{"80":"Oz_k__wB0_DIVR1M7ERaLg"},{"160":"ZKfMpT_1Ux_IVR1M7ERaLg"},{"350":"XaECs9KNvrPIVR1M7ERaLg"},{"450":"DGz-KZTULq_IVR1M7ERaLg"},{"650":"Hr4N2OvqBObIVR1M7ERaLg"},{"1000":"yVQOMRGk78DIVR1M7ERaLg"},{"1200":"nBtEG0Qw2cHIVR1M7ERaLg"}]' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Komm.: Jann Post og Torgeir Bjørn."/></div><script>
+require(['common/module/asset/Serum.Asset.Img'], function(Img){
+Img.load({id: '66qlIvYi06GvnKbETht41Q'});});
+</script>
+<div class="video-hud video-ready">
+<div class="video-status video-unloaded">
+<div class="video-loader"></div>
+</div>
+<div class="video-metadata">
+<h3 class="video-title"></h3>
+<span class="video-message"></span>
+</div>
+</div>
+<time class="video-duration"></time>
+</div>
+<figcaption>
+<p>OPPLØPET: Tomas Northug faller i siste sving.</p>
+</figcaption>
+</figure>
+<script>
+require([
+'inline!standard:jquery',
+'inline!standard:media:common/module/media/Serum.MediaController'
+], function($, MediaController) {
+MediaController.bootstrap($('figure.video.js-initialize').removeClass('js-initialize'));
+});
+</script></div>
+<h2>Har fått hund</h2>
+<p>Det var i hvert fall liten tvil om at lillebror Northug gikk fort i sprintfinalen i NM.</p>
+<p>Han sprengte feltet allerede i den første bakken og derfra og ut så det ut til at kampen om gullet skulle stå mellom han, Timo André Bakken og Sondre Turvoll Fossli.</p>
+<p><strong>Men så falt Fossli i siste sving og rev med seg lillebror Northug. Dermed fikk Bakken gå upresset inn til NM-gull.</strong></p>
+<p><strong>Fossli tok sølv, mens Emil Iversen smatt forbi etter fallet og tok bronsen. Petter Northug var så hektet av at han ikke en gang klarte å utnytte fallet til de i tet.</strong></p>
+<p>Tomas Northug kunne kjempet om medalje, men stoppet bevisst opp etter fallet og gled bare over mål til siste plass et par centimeter bak med storebror. Petter Northug mener likevel at lillebror fikk vist hva han er god for på Røros fredag.</p>
+<p><strong>– Han har trent veldig bra i det siste og etter at han fikk seg bikkje kommer han seg opp om morgenen. Et eller annet positivt har han fått ut av det som jeg var i mot, gliste storebror.</strong></p>
+<div id="1.12181955.8a104ef8" class=" g50 col fr s5 sl6 sl9 sl12 sl18 image-reference">
+<!-- include: /serum/render?id=1.12181955&size=5&perspective=RICH&alignment=RIGHT&caption=NM-GULL%3A+Timo+Andr%C3%A9+Bakken+vant+den+dramatiske+NM-sprinten+fredag.&type=image&aspect=F34&parentSize=10 --><!-- START: /templates/image/image-rich.jsp -->
+<figure class="image widget rich">
+<noscript><img src="http://gfx.nrk.no//nizlI3WAyutsStSclQ02ow9op1rcgw72Om2WLP_5HsWw" alt="Timo André Bakken glir over målstreken - NM-GULL: Timo André Bakken vant den dramatiske NM-sprinten fredag. - Foto: Bendiksby, Terje / NTB scanpix" /></noscript><div class="responsive-img F34 " style=""><img id="nizlI3WAyutsStSclQ02ow" class="js-img" data-srcset='[{"80":"dG5gOXC0jq6m2WLP_5HsWw"},{"160":"ukha0SteLfOm2WLP_5HsWw"},{"350":"9op1rcgw72Om2WLP_5HsWw"},{"450":"ylRaXH4F43Km2WLP_5HsWw"},{"650":"iBhQDzSpMkSm2WLP_5HsWw"},{"1000":"nIKftttgM0-m2WLP_5HsWw"},{"1200":"HcpLI6x2SyOm2WLP_5HsWw"}]' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Timo André Bakken glir over målstreken - NM-GULL: Timo André Bakken vant den dramatiske NM-sprinten fredag. - Foto: Bendiksby, Terje / NTB scanpix"/></div><script>
+require(['common/module/asset/Serum.Asset.Img'], function(Img){
+Img.load({id: 'nizlI3WAyutsStSclQ02ow'});});
+</script>
+<figcaption>
+<p>NM-GULL: Timo André Bakken vant den dramatiske NM-sprinten fredag.</p>
+<small>Foto: Bendiksby, Terje / NTB scanpix</small>
+</figcaption>
+</figure>
+<!-- END: /templates/image/image-rich.jsp --></div>
+<h2>– Dumt spørsmål</h2>
+<p><em>– Bør Tomas Northug gå sprinten i VM?</em></p>
+<p>– Det er vel det dummeste spørsmålet jeg har hørt fra en NRK-journlalist, sier Petter Northug etter NM-sprinten fredag.</p>
+<p><strong>– Både du og jeg ser hva Tomas gjør i finalen. Han er i sitt livs form og kan rykke i diagonal på samme måte som vi så Bjørn Lind tidligere. Det går ti år mellom hver gang vi ser en sånn gærning.</strong></p>
+<p>– Jeg tror aldri jeg blir så god som Tomas i diagonal gang. Det ser litt for lett ut det han gjør i dag. Han ødelegger langrennssporten for vi andre blir seende ut som ja...vi ser i hvert fall ikke ut som atleter, sier Petter Northug med glimt i øyet.</p>
+<p>Landslagsledelsen har ingen lett oppgave med å ta ut sprintlaget til VM i Falun. Med sin NM-seier kan Timo André Bakken ha meldt seg på i tolvte time. Fra før kjemper Tomas og Petter Northug, samt Sondre Turvoll Fossli om en VM-plass.</p>
+<p>Finn Hågen Krog og Pål Golberg kom seg ikke til finalen fredag og er nok ute av diskusjonen.</p>
+<h2>– Ikke fart i kroppen</h2>
+<p>Petter Northug måtte jobbe hardt for å komme seg videre fra prologen og kom seg videre på tid både far kvartfinalen og semifinalen. I finalen hadde han ikke mulighet til å ta medalje.</p>
+<p>– Dette er vel den sprinten jeg har vært desidert dårligst forberedt. Jeg mangler fart og hadde ikke mulighet til å gjøre det Tomas gjør når jeg har vært i høyden, sier han.</p>
+<p><em>– Hvilke løp har du tenkt til å gå i VM?</em></p>
+<p>– Det får jeg se på når det nærmer seg.</p>
+<h2>Arild Monsens minneløp</h2>
+<p>Før NM-sprinten handlet altså mye om at Northug tilsynelatende ble tvunget til å starte av sprint-trener Monsen, og etterpå kom mulla Krekar-sitatene som fikk mer oppmerksomhet enn seieren til langt mer ukjent Timo André Bakken.</p>
+<p>I rekken av Northug-spøker fredag ettermiddag slapp heller ikke Arild Monsen unna.</p>
+<p>Da TV 2 spurte om Northug kom til NM på grunn av Monsen, høstet spurtkongen mye latter med følgende svar:</p>
+<p><strong>– Ja, dette blir jo på en måte Arild Monsens minneløp.</strong></p>
+<p>En snakkeglad Northug ble stående og prate og prat. Og journalistene spurte og spurte.</p>
+<p><em>– Synes du det var rart at du måtte hit? Følte du deg VM-klar før NM?, ville VG vite.</em></p>
+<p>– Ja, svarte 29-åringen raskt.</p>
+<p><em>– Men har det ødelagt noe for VM-forberedelsene dine at du måtte hit?, spurte NRK.</em></p>
+<p>– Nei, det tror jeg ikke. Jeg har god kontroll.</p>
+<h2>Ikke sikkert uttak lørdag</h2>
+<p>Landslagssjef Vidar Løfshus røper følgende om VM-uttaket.</p>
+<p><strong>– Begge Northug-brødrene ligger veldig godt an.</strong></p>
+<p>Men sier samtidig at det planlagte uttaket på lørdag kan drøye litt.</p>
+<p>– Det er dumt å forhaste seg. Alt er klart når det er klart, sier Løfshus.</p>
+<h2>– En av oss bør gå</h2>
+<p>Lillebror Tomas håper at han har sikret seg en VM-plass.</p>
+<p>– Jeg føler at jeg har fått vist at jeg er god i diagonal, og så får vi se hva de tenker, sier Tomas.</p>
+<p><em>– Synes du at du bør bli tatt ut?</em></p>
+<p>– Det vil jeg ikke si, men jeg føler at jeg har bevist hva jeg er god for</p>
+<p><em>– Fortjener begge northugene å få gå VM-sprinten?</em></p>
+<p>– En av oss bør gå, i hvert fall, svarer Tomas Northug.</p>
+<p>Sondre Turvoll Fossli føler også at han bør være en av løperne som står til start til VM-sprinten i Falun.</p>
+<p><strong>– Jeg tar en plass. Vi kan sikkert vente litt, men det har vært fire uttaksrenn og jeg har vært i finalen i alle sammen. Jeg er i hvert fall fornøyd og har gjort så godt jeg kan, sier han.</strong> </p>
+<p> </p>
+<h2><p> </p><p> </p><p> </p></h2>
+</div>
+<div class="article-dateline article-dateline-footer meta-widget-content">
+<span class="article-publish-date publish-date " title="30.01.2015, kl. 14.53">
+<span class="icon">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="gray-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#published-time"></use>
+</svg>
+</span>
+<span class="article-dateline-annotation">
+Publisert
+</span>
+<time class="datetime-relative"
+itemprop="datePublished"
+datetime="2015-01-30T14:53:12+01:00"
+pubdate="pubdate">
+30.01.2015, kl. 14.53
+</time>
+</span>
+</div>
+</div>
+<div class="g27 col fl s5 sl6 sl9 sl12 sl18 article-reference article-sidebar lp_related">
+<!-- include: /serum/render?id=1.12181882&secondary=1.12181593&size=5&perspective=BRIEF&alignment=AUTO -->
+<aside
+class="lp_fact fact widget brief "
+role="complementary"
+data-id="1.12181882">
+<span class="fact-border skin-background"></span>
+<h3 class="title fact-title">Resultater, NM-sprint herrer</h3>
+<div class="fact-body text-body">
+<p>1) Timo André Bakken, Konnerud</p>
+<p>2) Sondre Turvoll Fossli, Hokksund</p>
+<p>3) Emil Iversen, Varden</p>
+<p>4) Eirk Brandsdal, Kjelsås</p>
+<p>5) Petter Northug, Strindheim</p>
+<p>6) Tomas Northug, Strindheim</p>
+</div>
+</aside>
+<!-- include: /serum/render?id=1.8410734&secondary=1.12181593&size=5&perspective=RICH&alignment=AUTO&display=true&arrangement.offset=0&arrangement.quantity=2&arrangement.repetition=LAST&arrangement.exclude[0]=1.12181593&arrangement.view[0].perspective=LEAN&arrangement.view[0].size=5&arrangement.view[0].alignment=LEFT&paged=OFF -->
+<div class="universe widget rich flow meta-widget js-initialize" data-id="1.8410734">
+<div class="meta-widget-content">
+<h3 class="universe-title widget-title skin-border">
+<a href="http://www.nrk.no/emne/langrenn-1.8410734" class="skin-text-hover skin-plug-icon autonomous" data-id="1.8410734">
+Langrenn
+</a>
+</h3>
+</div>
+<div class="cf flow-content meta-widget lp_universe relations">
+<!--
+--><!--
+--><div class="g100 col fln s5 sl6 sl9 sl12 sl18 article-reference relation" data-id="1.12181804" data-reference-id="1.8410734.fdefa907">
+<!-- include: /serum/render?id=1.12181804&secondary=1.12181593&size=5&perspective=LEAN&alignment=AUTO --><!-- START: /templates/article/article-lean.jsp -->
+<article class="article widget lean plug lp_plug cf">
+<a class="autonomous"
+href="http://www.nrk.no/sport/weng-frykter-vm-sprinten-glipper-1.12181804"
+data-id="1.12181804"
+title="Weng frykter VM-sprinten glipper">
+<!-- include: /serum/render?id=1.12181822&size=18&perspective=LEAN&alignment=AUTO&caption=KOSTBAR+TABBE%3A+Heidi+Weng+gjorde+en+taktisk+d%C3%A5rlig+man%C3%B8ver+som+trolig+kostet+henne+en+NM-medalje.+I+verste+fall+kostet+det+henne+ogs%C3%A5+VM-deltakelse+i+sprint.&type=image&aspect=F169&classes=plug-image --><!-- START: /templates/image/image-lean.jsp -->
+<figure class="image widget lean plug-image">
+<noscript><img src="http://gfx.nrk.no//4vk31yrqDaCVYqlISPQ_5goA9eu8wDnHrcuUP8ZvBBxw" alt="Weng - KOSTBAR TABBE: Heidi Weng gjorde en taktisk dårlig manøver som trolig kostet henne en NM-medalje. I verste fall kostet det henne også VM-deltakelse i sprint. - Foto: Nesvold, Jon Olav / NTB scanpix" /></noscript><div class="responsive-img F169 " style=""><img id="4vk31yrqDaCVYqlISPQ_5g" class="js-img" data-srcset='[{"80":"z3FjaGm-t27cuUP8ZvBBxw"},{"160":"D1lxeEqlOPrcuUP8ZvBBxw"},{"350":"oA9eu8wDnHrcuUP8ZvBBxw"},{"450":"nSfWnpZ_LOrcuUP8ZvBBxw"},{"650":"XA3Ssp59ZpHcuUP8ZvBBxw"},{"1000":"JdHnlkeJBVXcuUP8ZvBBxw"},{"1200":"tkhj5b8PWy7cuUP8ZvBBxw"}]' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Weng - KOSTBAR TABBE: Heidi Weng gjorde en taktisk dårlig manøver som trolig kostet henne en NM-medalje. I verste fall kostet det henne også VM-deltakelse i sprint. - Foto: Nesvold, Jon Olav / NTB scanpix"/></div><script>
+require(['common/module/asset/Serum.Asset.Img'], function(Img){
+Img.load({id: '4vk31yrqDaCVYqlISPQ_5g'});});
+</script>
+</figure>
+<!-- END: /templates/image/image-lean.jsp -->
+<div class="plug-teaser">
+<h2 class="title title-medium">
+– Blir sinnssykt skuffa om jeg ikke får gå
+</h2>
+<footer class="plug-footer">
+</footer>
+</div>
+</a>
+</article>
+<!-- END: /templates/article/article-lean.jsp -->
+<!--
+--></div><!--
+--><!--
+--><!--
+--><div class="g100 col fln s5 sl6 sl9 sl12 sl18 article-reference relation" data-id="1.12181049" data-reference-id="1.8410734.d9647eae">
+<!-- include: /serum/render?id=1.12181049&secondary=1.12181593&size=5&perspective=LEAN&alignment=AUTO --><!-- START: /templates/article/article-lean.jsp -->
+<article class="article widget lean plug lp_plug cf">
+<a class="autonomous"
+href="http://www.nrk.no/sport/timo-andre-bakken-vant-hoydramatisk-nm-sprint-1.12181049"
+data-id="1.12181049"
+title="Timo Andre Bakken vant høydramatisk NM-sprint">
+<!-- include: /serum/render?id=1.12181507&secondary=1.12181593&size=18&perspective=LEAN&alignment=AUTO&caption=DRAMATIKK%3A+Her+faller+Tomas+Northug+og+Sondre+Turvoll+Fossli+f%C3%B8r+oppl%C3%B8pet.+&classes=plug-image --><!-- START: /templates/image/video-lean.jsp -->
+<figure class="image video widget lean plug-image">
+<noscript><img src="http://gfx.nrk.no//66qlIvYi06GvnKbETht41QXaECs9KNvrPIVR1M7ERaLg" alt="Komm.: Jann Post og Torgeir Bjørn." /></noscript><div class="responsive-img F169 " style=""><img id="66qlIvYi06GvnKbETht41Q" class="js-img" data-srcset='[{"80":"Oz_k__wB0_DIVR1M7ERaLg"},{"160":"ZKfMpT_1Ux_IVR1M7ERaLg"},{"350":"XaECs9KNvrPIVR1M7ERaLg"},{"450":"DGz-KZTULq_IVR1M7ERaLg"},{"650":"Hr4N2OvqBObIVR1M7ERaLg"},{"1000":"yVQOMRGk78DIVR1M7ERaLg"},{"1200":"nBtEG0Qw2cHIVR1M7ERaLg"}]' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Komm.: Jann Post og Torgeir Bjørn."/></div><script>
+require(['common/module/asset/Serum.Asset.Img'], function(Img){
+Img.load({id: '66qlIvYi06GvnKbETht41Q'});});
+</script>
+</figure>
+
+<div class="plug-teaser">
+<h2 class="title title-medium">
+Timo Andre Bakken vant høydramatisk NM-sprint
+</h2>
+<footer class="plug-footer">
+<div class="plug-metadata plug-metadata-footer">
+<span class="plug-metadata-icon plug-metadata-icon-video skin-plug-icon">
+Se video
+</span>
+</div>
+</footer>
+</div>
+</a>
+</article>
+<!-- END: /templates/article/article-lean.jsp -->
+<!--
+--></div><!--
+-->
+</div>
+</div>
+<!-- END: /templates/universe/universe.jsp -->
+
+<div class="article-universe-teaser meta-widget-content">
+<!-- include: /serum/render?id=1.8410734&secondary=1.12181593&size=18&perspective=REFERENCE&alignment=AUTO&display=true&arrangement.offset=0&arrangement.quantity=2&arrangement.repetition=LAST&arrangement.exclude[0]=1.12181593&arrangement.view[0].perspective=LEAN&arrangement.view[0].size=5&arrangement.view[0].alignment=LEFT&paged=OFF&classes=article-universe-link+universe-teaser -->
+<a class="universe widget reference article-universe-link universe-teaser lp_universe_link" href="http://www.nrk.no/emne/langrenn-1.8410734">
+<span>Mer om</span>
+Langrenn
+</a>
+</div>
+</div>
+<div class="article-end"></div>
+</article>
+<script>
+require(['inline!standard:jquery', 'inline!standard:type/article/Serum.NewsArticle'], function($, Article) {
+$('.article.rich.js-initialize').each(function() {
+new Article($(this).removeClass('js-initialize'));
+});
+});
+</script>
+
+</div>
+</div>
+</div><div class="g100 col fc s18 sg6 sg9 sg12 group-reference"><div class="group widget rich floor-content cf meta-widget"><div class="g55 col fl s10 sl12 sl18 sg6 sg9 flow-reference">
+<!-- include: /serum/render?id=1.8403481&secondary=1.12181593&size=10&perspective=RICH&alignment=LEFT&scope=ARTICLE&created=1391766634000&head=Sportsnyheter&arrangement.offset=0&arrangement.quantity=3&arrangement.repetition=PATTERN&arrangement.view[0].perspective=BRIEF&arrangement.view[0].size=10&arrangement.view[0].alignment=RIGHT&arrangement.view[1].perspective=BRIEF&arrangement.view[1].size=5&arrangement.view[1].alignment=RIGHT&arrangement.view[2].perspective=BRIEF&arrangement.view[2].size=5&arrangement.view[2].alignment=RIGHT&paged=SIMPLE -->
+<div class="flow widget rich meta-widget js-initialize flow-paged cf"
+data-id="1.8403481"
+data-relation-limit="3">
+<div class="meta-widget-content">
+<h3 class="widget-title skin-border"><span>Sportsnyheter</span></h3>
+</div>
+<div class="cf flow-content meta-widget lp_flow relations">
+<!--
+--><!--
+--><div class="g100 col fln s10 sl12 sl18 sg6 sg9 article-reference relation flow-relation" data-id="1.12181907" data-reference-id="1.8403481.body13510">
+<!-- include: /serum/render?id=1.12181907&secondary=1.12181593&size=10&perspective=BRIEF&alignment=AUTO&created=1422632720000 --><!-- START: /templates/article/article-brief.jsp -->
+<article class="article widget brief plug-default plug cf">
+<a class="autonomous lp_plug"
+href="http://www.nrk.no/sport/fotball/_-odegaard-overgangen-i-boks-1.12181907"
+data-id="1.12181907"
+title="– Ødegaard-overgangen i boks">
+<!-- include: /serum/render?id=1.12180234&size=18&perspective=LEAN&alignment=AUTO&caption=DRAKTEN%3A+Torsdag+poserte+Martin+%C3%98degaard+Real+Madrid-drakt.&type=image&aspect=F169&classes=plug-image --><!-- START: /templates/image/image-lean.jsp -->
+<figure class="image widget lean plug-image">
+<noscript><img src="http://gfx.nrk.no//AsaakvqYiqI2shm-oBoXoglmfA_380LjsTxg6h_KMLMg" alt="Martin Ødegaard - DRAKTEN: Torsdag poserte Martin Ødegaard Real Madrid-drakt. - Foto: Angel Martinez / Real Madrid via Getty Images" /></noscript><div class="responsive-img F169 " style=""><img id="AsaakvqYiqI2shm-oBoXog" class="js-img" data-srcset='[{"80":"03l-_zRxV48Txg6h_KMLMg"},{"160":"YDf-efNZ9vMTxg6h_KMLMg"},{"350":"lmfA_380LjsTxg6h_KMLMg"},{"450":"uYxIwG3kYpYTxg6h_KMLMg"},{"650":"JPI4vhX-ragTxg6h_KMLMg"},{"1000":"P-yn4QAUf3oTxg6h_KMLMg"},{"1200":"62AYqVKbHfETxg6h_KMLMg"}]' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Martin Ødegaard - DRAKTEN: Torsdag poserte Martin Ødegaard Real Madrid-drakt. - Foto: Angel Martinez / Real Madrid via Getty Images"/></div><script>
+require(['common/module/asset/Serum.Asset.Img'], function(Img){
+Img.load({id: 'AsaakvqYiqI2shm-oBoXog'});});
+</script>
+</figure>
+<!-- END: /templates/image/image-lean.jsp -->
+<div class="plug-teaser">
+<h2 class="title title-medium">
+– Ødegaard-overgangen i boks
+</h2>
+<p class="plug-preamble">
+<span class="skin-text skin-plug-icon">Martin Ødegaards (16) overgang </span> til Real Madrid er godkjent av FIFA. Dermed er han aktuell for å debutere for den spanske klubben søndag.
+</p>
+<span class="plug-metadata plug-byline">Av Anders Rove Bentsen og Anders Engeland</span>
+<footer class="plug-footer">
+<span class="plug-action skin-border skin-text">Les saken</span>
+</footer>
+</div>
+</a>
+</article>
+<!-- END: /templates/article/article-brief.jsp -->
+<!--
+--></div><!--
+--><!--
+--><!--
+--><div class="g50 col fln s5 sl6 sl9 sl12 sl18 article-reference relation flow-relation" data-id="1.12181593" data-reference-id="1.8403481.body13508">
+<!-- include: /serum/render?id=1.12181593&secondary=1.12181593&size=5&perspective=BRIEF&alignment=AUTO&created=1422626011000 --><!-- START: /templates/article/article-brief.jsp -->
+<article class="article widget brief plug-default plug cf">
+<a class="autonomous lp_plug"
+href="http://www.nrk.no/sport/petter-om-vm-uttaket_-_-tomas-er-i-sitt-livs-form-1.12181593"
+data-id="1.12181593"
+title="Petter om VM-uttaket: – Tomas er i sitt livs form">
+<!-- include: /serum/render?id=1.12181819&secondary=1.12181593&size=18&perspective=LEAN&alignment=AUTO&caption=SE+VIDEO%3A+Petter+Northug+havnet+nest+sist+i+sprintfinalen+i+NM+som+Timo+Andr%C3%A9+Bakken+vant.+Men+etterp%C3%A5+var+Northug+likevel+i+storhum%C3%B8r+og+fleipet+i+vei+om+b%C3%A5de+det+ene+og+det+andre.+Se+hele+intervjuet+her.&classes=plug-image --><!-- START: /templates/image/video-lean.jsp -->
+<figure class="image video widget lean plug-image">
+<noscript><img src="http://gfx.nrk.no//ROlyza0yVed8YmtT_xvgWgKQSXJEW6YCqOluU9Y5UdFg" alt="Intervju med Petter Northug etter NM-sprinten på Røros." /></noscript><div class="responsive-img F169 " style=""><img id="ROlyza0yVed8YmtT_xvgWg" class="js-img" data-srcset='[{"80":"Pvb2XAX_ghOOluU9Y5UdFg"},{"160":"CRE00sUx9iSOluU9Y5UdFg"},{"350":"KQSXJEW6YCqOluU9Y5UdFg"},{"450":"VRDlg_Yt2hOOluU9Y5UdFg"},{"650":"p4hxEy9BZzqOluU9Y5UdFg"},{"1000":"UEhoTjVjzmaOluU9Y5UdFg"},{"1200":"laH3S0OmyPeOluU9Y5UdFg"}]' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Intervju med Petter Northug etter NM-sprinten på Røros."/></div><script>
+require(['common/module/asset/Serum.Asset.Img'], function(Img){
+Img.load({id: 'ROlyza0yVed8YmtT_xvgWg'});});
+</script>
+</figure>
+
+<div class="plug-teaser">
+<h2 class="title title-medium">
+Northug: – Mulla Krekar og jeg er i samme båt
+</h2>
+<p class="plug-preamble">
+<span class="skin-text skin-plug-icon">RØROS/OSLO (NRK): Selv om </span> han ble knust i sprintfinalen fleipet en Petter Northug i fri dresur om alt fra brorens nye hund til mulla Krekar etter målgang.
+</p>
+<span class="plug-metadata plug-byline">Av Morten Stenberg, Anders Skjerdingstad, Erlend Kjernli og Anders Rove Bentsen</span>
+<footer class="plug-footer">
+<div class="plug-metadata plug-metadata-footer">
+<span class="plug-metadata-icon plug-metadata-icon-video skin-plug-icon">
+Se video
+</span>
+</div>
+<span class="plug-action skin-border skin-text">Les saken</span>
+</footer>
+</div>
+</a>
+</article>
+<!-- END: /templates/article/article-brief.jsp -->
+<!--
+--></div><!--
+--><!--
+--><!--
+--><div class="g50 col fln s5 sl6 sl9 sl12 sl18 article-reference relation flow-relation" data-id="1.12181804" data-reference-id="1.8403481.body13509">
+<!-- include: /serum/render?id=1.12181804&secondary=1.12181593&size=5&perspective=BRIEF&alignment=AUTO&created=1422630702000 --><!-- START: /templates/article/article-brief.jsp -->
+<article class="article widget brief plug-default plug cf">
+<a class="autonomous lp_plug"
+href="http://www.nrk.no/sport/weng-frykter-vm-sprinten-glipper-1.12181804"
+data-id="1.12181804"
+title="Weng frykter VM-sprinten glipper">
+<!-- include: /serum/render?id=1.12181822&size=18&perspective=LEAN&alignment=AUTO&caption=KOSTBAR+TABBE%3A+Heidi+Weng+gjorde+en+taktisk+d%C3%A5rlig+man%C3%B8ver+som+trolig+kostet+henne+en+NM-medalje.+I+verste+fall+kostet+det+henne+ogs%C3%A5+VM-deltakelse+i+sprint.&type=image&aspect=F169&classes=plug-image --><!-- START: /templates/image/image-lean.jsp -->
+<figure class="image widget lean plug-image">
+<noscript><img src="http://gfx.nrk.no//4vk31yrqDaCVYqlISPQ_5goA9eu8wDnHrcuUP8ZvBBxw" alt="Weng - KOSTBAR TABBE: Heidi Weng gjorde en taktisk dårlig manøver som trolig kostet henne en NM-medalje. I verste fall kostet det henne også VM-deltakelse i sprint. - Foto: Nesvold, Jon Olav / NTB scanpix" /></noscript><div class="responsive-img F169 " style=""><img id="4vk31yrqDaCVYqlISPQ_5g" class="js-img" data-srcset='[{"80":"z3FjaGm-t27cuUP8ZvBBxw"},{"160":"D1lxeEqlOPrcuUP8ZvBBxw"},{"350":"oA9eu8wDnHrcuUP8ZvBBxw"},{"450":"nSfWnpZ_LOrcuUP8ZvBBxw"},{"650":"XA3Ssp59ZpHcuUP8ZvBBxw"},{"1000":"JdHnlkeJBVXcuUP8ZvBBxw"},{"1200":"tkhj5b8PWy7cuUP8ZvBBxw"}]' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Weng - KOSTBAR TABBE: Heidi Weng gjorde en taktisk dårlig manøver som trolig kostet henne en NM-medalje. I verste fall kostet det henne også VM-deltakelse i sprint. - Foto: Nesvold, Jon Olav / NTB scanpix"/></div><script>
+require(['common/module/asset/Serum.Asset.Img'], function(Img){
+Img.load({id: '4vk31yrqDaCVYqlISPQ_5g'});});
+</script>
+</figure>
+<!-- END: /templates/image/image-lean.jsp -->
+<div class="plug-teaser">
+<h2 class="title title-medium">
+– Blir sinnssykt skuffa om jeg ikke får gå
+</h2>
+<p class="plug-preamble">
+<span class="skin-text skin-plug-icon">RØROS (NRK): Heidi Weng </span> frykter at en «nybegynnertabbe» i NM skal koste henne plassen i VM-sprinten.
+</p>
+<span class="plug-metadata plug-byline">Av Anders Skjerdingstad</span>
+<footer class="plug-footer">
+<span class="plug-action skin-border skin-text">Les saken</span>
+</footer>
+</div>
+</a>
+</article>
+<!-- END: /templates/article/article-brief.jsp -->
+<!--
+--></div><!--
+-->
+</div>
+<div class="meta-widget-content pagination">
+<button class="flow-page-forward skin-text" data-id="1.8403481?size=10&amp;perspective=BRIEF&amp;alignment=LEFT&amp;scope=ARTICLE&amp;created=1391766634000&amp;arrangement.offset=3&amp;arrangement.quantity=3&amp;arrangement.repetition=PATTERN&amp;arrangement.view%5B0%5D.perspective=BRIEF&amp;arrangement.view%5B0%5D.size=10&amp;arrangement.view%5B0%5D.alignment=RIGHT&amp;arrangement.view%5B1%5D.perspective=BRIEF&amp;arrangement.view%5B1%5D.size=5&amp;arrangement.view%5B1%5D.alignment=RIGHT&amp;arrangement.view%5B2%5D.perspective=BRIEF&amp;arrangement.view%5B2%5D.size=5&amp;arrangement.view%5B2%5D.alignment=RIGHT&amp;paged=SIMPLE">
+<span>+</span> Vis flere
+</button>
+</div>
+</div>
+<script>
+require([
+'inline!standard:type/flow/Serum.Flow',
+'inline!standard:jquery'
+], function(PaginatedFlow, $) {
+PaginatedFlow.bootstrap($('.flow.js-initialize').removeClass('js-initialize'));
+});
+</script>
+</div><div class="g44 col fr s8 sl9 sl12 sl18 sg6 stream-reference">
+<!-- include: /serum/render?id=1.11029826&secondary=1.12181593&size=8&perspective=RICH&alignment=RIGHT&scope=ARTICLE&created=1396869535000&quantity=3 -->
+<div class="stream widget rich cf js-initialize js-realtime"
+data-id="1.11029826"
+data-relation-limit="3">
+<header class="stream-header">
+<h2 class="stream-title widget-title skin-border">Siste nytt</h2>
+</header>
+<ul class="stream-content stream-rich-content relations lp_stream">
+<li class="stream-item relation"
+id="1.12181909.1.121819091422632541793000"
+data-id="1.12181909"
+data-reference-id="1.11029826.1.121819091422632541793000"
+data-perspective="RICH">
+<!-- include: /serum/render?id=1.12181909&secondary=1.12181593&size=8&perspective=RICH&alignment=AUTO&created=1422632541000 -->
+<article class="teaser widget rich js-realtime emphasis-medium bulletin" data-id="1.12181909">
+<div>
+<header class="bulletin-header">
+<div class="bulletin-share-button-bar">
+<div class="share-button-bar-toggle">
+<button class="share-toggle-button skin-text js-inititalize">
+<span class="skin-background"></span>
+<span class="skin-background"></span>
+<span class="skin-background"></span>
+<span class="sr-only">Vis deleknapper</span>
+<span class="article-only" role="presentation" aria-hidden="true">Del</span>
+</button>
+<div class="share-button-bar js-inititalize "
+data-share-url="http://www.nrk.no/sport/1.12181909"
+data-share-title="– Jeg kan bekrefte at den delen vi skal gjøre i forbindelse med overgangen ble sluttført i ettermiddag, for et par timer siden, sier fagansvarlig for overganger i Norges fotballforbund, Kristian Skjennum, til Aftenposten like etter klokken fire.
+Real Madrid skal også ha fått bekreftelsen av FIFA. Det betyr at Ødegaard kan debutere for Real Madrids B-lag allerede søndag."
+data-share-action=""
+data-share-description="– Ødegaard-avtalen i boks">
+<a data-share-service="Facebook" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181909" class="share-facebook share-button" target="_blank">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#faceshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#faceshare-hover"></use>
+</svg>
+<span class="sr-only">Del på Facebook</span>
+</a>
+<a data-share-service="Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181909&amp;text=%E2%80%93+Jeg+kan+bekrefte+at+den+delen+vi+skal+gj%C3%B8re+i+forbindelse+med+overgangen+ble+sluttf%C3%B8rt+i+ettermiddag%2C+for+et+par+timer+siden%2C+sier+fagansvarlig+for+overganger+i+Norges+fotballforbund%2C+Kristian+Skjennum%2C+til+Aftenposten+like+etter+klokken+fire.%0A%0AReal+Madrid+skal+ogs%C3%A5+ha+f%C3%A5tt+bekreftelsen+av+FIFA.+Det+betyr+at+%C3%98degaard+kan+debutere+for+Real+Madrids+B-lag+allerede+s%C3%B8ndag." class="share-twitter share-button" target="_blank">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#tweetshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#tweetshare-hover"></use>
+</svg>
+<span class="sr-only">Del på Twitter</span>
+</a>
+<a data-share-service="GooglePlus" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181909" class="share-googleplus share-button" target="_blank">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gplusshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gplusshare-hover"></use>
+</svg>
+<span class="sr-only">Del på Google+</span>
+</a>
+<a data-share-service="Epost" href="mailto:?subject=– Jeg kan bekrefte at den delen vi skal gjøre i forbindelse med overgangen ble sluttført i ettermiddag, for et par timer siden, sier fagansvarlig for overganger i Norges fotballforbund, Kristian Skjennum, til Aftenposten like etter klokken fire.
+Real Madrid skal også ha fått bekreftelsen av FIFA. Det betyr at Ødegaard kan debutere for Real Madrids B-lag allerede søndag.&amp;body=– Jeg kan bekrefte at den delen vi skal gjøre i forbindelse med overgangen ble sluttført i ettermiddag, for et par timer siden, sier fagansvarlig for overganger i Norges fotballforbund, Kristian Skjennum, til Aftenposten like etter klokken fire.
+Real Madrid skal også ha fått bekreftelsen av FIFA. Det betyr at Ødegaard kan debutere for Real Madrids B-lag allerede søndag.%0D%0A%0D%0A– Ødegaard-avtalen i boks%0D%0A%0D%0ALes mer: http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181909" class="share-mail share-button">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#mailshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#mailshare-hover"></use>
+</svg>
+<span class="sr-only">Send med epost</span>
+</a>
+</div>
+</div>
+</div>
+<span class="newsroom-seen-unresolved bulletin-publication-date ">
+<span class="bulletin-time-indicator">
+<span class="bulletin-time-indicator-front"></span>
+<span class="bulletin-time-indicator-back"></span>
+</span>
+<time class="relative"
+datetime="2015-01-30T16:42:21+01:00"
+pubdate="pubdate"
+data-timestamp="1422632541000">
+<a class="skin-text" href="http://www.nrk.no/sport/1.12181909">
+<span class="bulletin-publish-date">30. januar 2015,</span> 16:42
+</a>
+</time>
+</span>
+<div class="bulletin-compilations compilation-link">
+<!-- include: /serum/render?id=1.11675650&secondary=1.12181593&size=8&perspective=REFERENCE&alignment=AUTO&created=1422632541000 -->
+<span class="compilation widget reference js-realtime" data-id="1.11675650" data-perspective="REFERENCE">
+<a href="http://www.nrk.no/sport/fotball-1.11675650"
+class="autonomous skin-text lp_compilation"
+data-id="1.11675650"
+title="Fotball">
+<span class="compilation-name">
+Fotball
+</span>
+<span class="compilation-item-count skin-background">
+309
+</span>
+</a>
+</span>
+<script>
+require([
+'inline!standard:realtime:common/module/realtime/Serum.RealtimeUpdater',
+'inline!standard:realtime:common/module/realtime/Serum.RealtimeWidget',
+'inline!standard:jquery'
+], function(RealtimeUpdater, RealtimeWidget, $) {
+$('.compilation.reference.js-realtime').removeClass('js-realtime').each(function() {
+RealtimeUpdater.get().addTarget($(this));
+new RealtimeWidget($(this));
+});
+});
+</script>
+
+</div>
+</header>
+<div class="bulletin-text text-body">
+<h2 class="bulletin-title">– Ødegaard-avtalen i boks</h2>
+<p>– Jeg kan bekrefte at den delen vi skal gjøre i forbindelse med overgangen ble sluttført i ettermiddag, for et par timer siden, sier fagansvarlig for overganger i Norges fotballforbund, Kristian Skjennum, til <a href="http://www.aftenposten.no/100Sport/fotball/spania/Odegaard-overgangen-godkjent-av-FIFA---kan-fa-debuten-pa-sondag-488291_1.snd">Aftenposten</a> like etter klokken fire.</p>
+<p>Real Madrid skal også ha fått bekreftelsen av FIFA. Det betyr at Ødegaard kan debutere for Real Madrids B-lag allerede søndag.</p>
+</div>
+</div>
+</article>
+<script>
+require([
+'inline!standard:realtime:type/teaser/Serum.RealtimeTeaser',
+'inline!standard:jquery'
+], function(Bulletin, $) {
+$('.teaser.js-realtime').removeClass('js-realtime').each(function() {
+Bulletin.bootstrap($(this));
+});
+});
+</script>
+
+</li>
+<li class="stream-item relation"
+id="1.12181721.1.121817211422627959056000"
+data-id="1.12181721"
+data-reference-id="1.11029826.1.121817211422627959056000"
+data-perspective="RICH">
+<!-- include: /serum/render?id=1.12181721&secondary=1.12181593&size=8&perspective=RICH&alignment=AUTO&created=1422627959000 -->
+<article class="teaser widget rich js-realtime emphasis-medium bulletin" data-id="1.12181721">
+<div>
+<header class="bulletin-header">
+<div class="bulletin-share-button-bar">
+<div class="share-button-bar-toggle">
+<button class="share-toggle-button skin-text js-inititalize">
+<span class="skin-background"></span>
+<span class="skin-background"></span>
+<span class="skin-background"></span>
+<span class="sr-only">Vis deleknapper</span>
+<span class="article-only" role="presentation" aria-hidden="true">Del</span>
+</button>
+<div class="share-button-bar js-inititalize "
+data-share-url="http://www.nrk.no/sport/1.12181721"
+data-share-title=""
+data-share-action=""
+data-share-description="Kl 1800: Se EM i kunstløp">
+<a data-share-service="Facebook" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181721" class="share-facebook share-button" target="_blank">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#faceshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#faceshare-hover"></use>
+</svg>
+<span class="sr-only">Del på Facebook</span>
+</a>
+<a data-share-service="Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181721&amp;text=" class="share-twitter share-button" target="_blank">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#tweetshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#tweetshare-hover"></use>
+</svg>
+<span class="sr-only">Del på Twitter</span>
+</a>
+<a data-share-service="GooglePlus" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181721" class="share-googleplus share-button" target="_blank">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gplusshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gplusshare-hover"></use>
+</svg>
+<span class="sr-only">Del på Google+</span>
+</a>
+<a data-share-service="Epost" href="mailto:?subject=&amp;body=%0D%0A%0D%0AKl 1800: Se EM i kunstløp%0D%0A%0D%0ALes mer: http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181721" class="share-mail share-button">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#mailshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#mailshare-hover"></use>
+</svg>
+<span class="sr-only">Send med epost</span>
+</a>
+</div>
+</div>
+</div>
+<span class="newsroom-seen-unresolved bulletin-publication-date ">
+<span class="bulletin-time-indicator">
+<span class="bulletin-time-indicator-front"></span>
+<span class="bulletin-time-indicator-back"></span>
+</span>
+<time class="relative"
+datetime="2015-01-30T15:25:59+01:00"
+pubdate="pubdate"
+data-timestamp="1422627959000">
+<a class="skin-text" href="http://www.nrk.no/sport/1.12181721">
+<span class="bulletin-publish-date">30. januar 2015,</span> 15:25
+</a>
+</time>
+</span>
+<div class="bulletin-compilations compilation-link">
+<!-- include: /serum/render?id=1.12181732&secondary=1.12181593&size=8&perspective=REFERENCE&alignment=AUTO&created=1422627959000 -->
+<span class="compilation widget reference js-realtime" data-id="1.12181732" data-perspective="REFERENCE">
+<a href="http://www.nrk.no/sport/kunstlop-1.12181732"
+class="autonomous skin-text lp_compilation"
+data-id="1.12181732"
+title="Kunstløp">
+<span class="compilation-name">
+Kunstløp
+</span>
+<span class="compilation-item-count skin-background">
+1
+</span>
+</a>
+</span>
+<script>
+require([
+'inline!standard:realtime:common/module/realtime/Serum.RealtimeUpdater',
+'inline!standard:realtime:common/module/realtime/Serum.RealtimeWidget',
+'inline!standard:jquery'
+], function(RealtimeUpdater, RealtimeWidget, $) {
+$('.compilation.reference.js-realtime').removeClass('js-realtime').each(function() {
+RealtimeUpdater.get().addTarget($(this));
+new RealtimeWidget($(this));
+});
+});
+</script>
+
+</div>
+</header>
+<!-- include: /serum/render?id=1.12181728&secondary=1.12181593&size=18&perspective=RICH&alignment=AUTO&created=1422627935000&classes=bulletin-attachment -->
+<figure class="image js-initialize video widget rich bulletin-attachment"
+data-video-id="193920"
+data-video-type="DEFAULT"
+data-video-offset="0"
+itemscope itemtype="http://schema.org/VideoObject">
+<meta itemprop="image" content="http://gfx.nrk.no//G7r3uC_GnatjBeA3T1bxLwJf9Ymd3Oapcd-IWDoKCLpg" />
+<meta itemprop="description" content="EM kunstløp: Friløp, menn." />
+<meta itemprop="name" content="EM kunstløp: Friløp, menn" />
+<div class="video-player">
+<noscript><img src="http://gfx.nrk.no//G7r3uC_GnatjBeA3T1bxLwm8erDYDCnWMd-IWDoKCLpg" alt="EM kunstløp: Friløp, menn." /></noscript><div class="responsive-img F169 " style=""><img id="G7r3uC_GnatjBeA3T1bxLw" class="js-img" data-srcset='[{"80":"wuVM9VOL6qId-IWDoKCLpg"},{"160":"ArJuZdGrhqcd-IWDoKCLpg"},{"350":"m8erDYDCnWMd-IWDoKCLpg"},{"450":"my1WSTDdPUcd-IWDoKCLpg"},{"650":"a5l6w3MEMXwd-IWDoKCLpg"},{"1000":"03f_46YoTIEd-IWDoKCLpg"},{"1200":"QHc_w5L0u0Id-IWDoKCLpg"}]' src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="EM kunstløp: Friløp, menn."/></div><script>
+require(['common/module/asset/Serum.Asset.Img'], function(Img){
+Img.load({id: 'G7r3uC_GnatjBeA3T1bxLw'});});
+</script>
+<div class="video-hud video-ready">
+<div class="video-status video-unloaded">
+<div class="video-loader"></div>
+</div>
+<div class="video-metadata">
+<h3 class="video-title"></h3>
+<span class="video-message"></span>
+</div>
+</div>
+<time class="video-duration"></time>
+</div>
+</figure>
+<script>
+require([
+'inline!standard:jquery',
+'inline!standard:media:common/module/media/Serum.MediaController'
+], function($, MediaController) {
+MediaController.bootstrap($('figure.video.js-initialize').removeClass('js-initialize'));
+});
+</script>
+<div class="bulletin-text text-body">
+<h2 class="bulletin-title">Kl 1800: Se EM i kunstløp</h2>
+</div>
+</div>
+</article>
+<script>
+require([
+'inline!standard:realtime:type/teaser/Serum.RealtimeTeaser',
+'inline!standard:jquery'
+], function(Bulletin, $) {
+$('.teaser.js-realtime').removeClass('js-realtime').each(function() {
+Bulletin.bootstrap($(this));
+});
+});
+</script>
+
+</li>
+<li class="stream-item relation"
+id="1.12181406.1.121814061422623430522000"
+data-id="1.12181406"
+data-reference-id="1.11029826.1.121814061422623430522000"
+data-perspective="RICH">
+<!-- include: /serum/render?id=1.12181406&secondary=1.12181593&size=8&perspective=RICH&alignment=AUTO&created=1422623430000 -->
+<article class="teaser widget rich js-realtime emphasis-medium bulletin" data-id="1.12181406">
+<div>
+<header class="bulletin-header">
+<div class="bulletin-share-button-bar">
+<div class="share-button-bar-toggle">
+<button class="share-toggle-button skin-text js-inititalize">
+<span class="skin-background"></span>
+<span class="skin-background"></span>
+<span class="skin-background"></span>
+<span class="sr-only">Vis deleknapper</span>
+<span class="article-only" role="presentation" aria-hidden="true">Del</span>
+</button>
+<div class="share-button-bar js-inititalize "
+data-share-url="http://www.nrk.no/sport/1.12181406"
+data-share-title="Timo Andre Bakken var best i prologen og tok også gullet på sprinten under ski-NM fredag. Sondre Turvoll Fossli og Emil Iversen tok henholdsvis sølv og bronse."
+data-share-action=""
+data-share-description="Bakken vant NM-gullet">
+<a data-share-service="Facebook" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181406" class="share-facebook share-button" target="_blank">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#faceshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#faceshare-hover"></use>
+</svg>
+<span class="sr-only">Del på Facebook</span>
+</a>
+<a data-share-service="Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181406&amp;text=Timo+Andre+Bakken+var+best+i+prologen+og+tok+ogs%C3%A5+gullet+p%C3%A5+sprinten+under+ski-NM+fredag.+Sondre+Turvoll+Fossli+og+Emil+Iversen+tok+henholdsvis+s%C3%B8lv+og+bronse." class="share-twitter share-button" target="_blank">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#tweetshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#tweetshare-hover"></use>
+</svg>
+<span class="sr-only">Del på Twitter</span>
+</a>
+<a data-share-service="GooglePlus" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181406" class="share-googleplus share-button" target="_blank">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gplusshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gplusshare-hover"></use>
+</svg>
+<span class="sr-only">Del på Google+</span>
+</a>
+<a data-share-service="Epost" href="mailto:?subject=Timo Andre Bakken var best i prologen og tok også gullet på sprinten under ski-NM fredag. Sondre Turvoll Fossli og Emil Iversen tok henholdsvis sølv og bronse.&amp;body=Timo Andre Bakken var best i prologen og tok også gullet på sprinten under ski-NM fredag. Sondre Turvoll Fossli og Emil Iversen tok henholdsvis sølv og bronse.%0D%0A%0D%0ABakken vant NM-gullet%0D%0A%0D%0ALes mer: http%3A%2F%2Fwww.nrk.no%2Fsport%2F1.12181406" class="share-mail share-button">
+<svg viewBox="0 0 100 100" role="presentation" aria-hidden="true" shape-rendering="auto">
+<use class="normal skin-fill" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#mailshare"></use>
+<use class="hover" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#mailshare-hover"></use>
+</svg>
+<span class="sr-only">Send med epost</span>
+</a>
+</div>
+</div>
+</div>
+<span class="newsroom-seen-unresolved bulletin-publication-date ">
+<span class="bulletin-time-indicator">
+<span class="bulletin-time-indicator-front"></span>
+<span class="bulletin-time-indicator-back"></span>
+</span>
+<time class="relative"
+datetime="2015-01-30T14:10:30+01:00"
+pubdate="pubdate"
+data-timestamp="1422623430000">
+<a class="skin-text" href="http://www.nrk.no/sport/1.12181406">
+<span class="bulletin-publish-date">30. januar 2015,</span> 14:10
+</a>
+</time>
+</span>
+<div class="bulletin-compilations compilation-link">
+<!-- include: /serum/render?id=1.11583451&secondary=1.12181593&size=8&perspective=REFERENCE&alignment=AUTO&created=1422623430000 -->
+<span class="compilation widget reference js-realtime" data-id="1.11583451" data-perspective="REFERENCE">
+<a href="http://www.nrk.no/sport/langrenn_-sprint-1.11583451"
+class="autonomous skin-text lp_compilation"
+data-id="1.11583451"
+title="Langrenn, sprint">
+<span class="compilation-name">
+Langrenn, sprint
+</span>
+<span class="compilation-item-count skin-background">
+203
+</span>
+</a>
+</span>
+<script>
+require([
+'inline!standard:realtime:common/module/realtime/Serum.RealtimeUpdater',
+'inline!standard:realtime:common/module/realtime/Serum.RealtimeWidget',
+'inline!standard:jquery'
+], function(RealtimeUpdater, RealtimeWidget, $) {
+$('.compilation.reference.js-realtime').removeClass('js-realtime').each(function() {
+RealtimeUpdater.get().addTarget($(this));
+new RealtimeWidget($(this));
+});
+});
+</script>
+
+</div>
+</header>
+<div class="bulletin-text text-body">
+<h2 class="bulletin-title">Bakken vant NM-gullet</h2>
+<p>Timo Andre Bakken var best i prologen og tok også gullet på sprinten under ski-NM fredag. Sondre Turvoll Fossli og Emil Iversen tok henholdsvis sølv og bronse.</p>
+</div>
+</div>
+</article>
+<script>
+require([
+'inline!standard:realtime:type/teaser/Serum.RealtimeTeaser',
+'inline!standard:jquery'
+], function(Bulletin, $) {
+$('.teaser.js-realtime').removeClass('js-realtime').each(function() {
+Bulletin.bootstrap($(this));
+});
+});
+</script>
+
+</li>
+</ul>
+<footer class="stream-footer">
+<button class="stream-pagination-button stream-footer-button skin-background"><span>Last flere</span></button>
+<button class="stream-top-shortcut stream-footer-button skin-background"><span>Til toppen</span></button>
+</footer>
+</div>
+<script>
+require([
+'inline!standard:realtime:common/module/realtime/Serum.RealtimeUpdater',
+'inline!standard:realtime:type/stream/Serum.RealtimeStream',
+'inline!standard:jquery'
+], function(RealtimeUpdater, RealtimeStream, $) {
+$('.stream.js-realtime').each(function() {
+var $target = $(this);
+$target.removeClass('js-realtime');
+RealtimeUpdater.get().addTarget($target);
+new RealtimeStream($target);
+});
+});
+</script></div><div class="g44 col fr s8 sl9 sl12 sl18 sg6 schedule-reference">
+<!-- include: /serum/render?id=1.8403483&size=8&perspective=BRIEF&alignment=RIGHT&scope=ARTICLE&created=1391766799000 -->
+<div class="schedule widget brief js-initialize" data-maxcount="10">
+<h3 class="widget-title skin-border"><span>Sendeplan</span></h3>
+<table>
+<thead>
+<tr>
+<th class="col1">
+<abbr title="Klokkeslett">Kl.</abbr>
+</th>
+<th class="col2">
+Program
+</th>
+<th class="col3">
+Kanal
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even x ">
+<td>
+<time datetime="2015-01-30T16:10:00+01:00"
+data-start="1422630600000"
+data-duration="4200000">
+16.10
+</time>
+</td>
+<td>
+V-cup hopp kvalifisering stor bakke
+</td>
+<td class="channel nrksport">
+<span class="logo">
+NRKSPORT
+</span>
+</td>
+</tr>
+<tr class="odd x ">
+<td>
+<time datetime="2015-01-30T17:55:00+01:00"
+data-start="1422636900000"
+data-duration="3100960">
+17.55
+</time>
+</td>
+<td>
+V-cup hopp
+</td>
+<td class="channel nrk1">
+<span class="logo">
+NRK1
+</span>
+</td>
+</tr>
+<tr class="even x ">
+<td>
+<time datetime="2015-01-30T17:55:00+01:00"
+data-start="1422636900000"
+data-duration="2700000">
+17.55
+</time>
+</td>
+<td>
+V-cup hopp stor bakke
+</td>
+<td class="channel nrksport">
+<span class="logo">
+NRKSPORT
+</span>
+</td>
+</tr>
+<tr class="odd x ">
+<td>
+<time datetime="2015-01-30T18:00:00+01:00"
+data-start="1422637200000"
+data-duration="18000000">
+18.00
+</time>
+</td>
+<td>
+EM kunstløp, friløp menn
+</td>
+<td class="channel sport1">
+<span class="logo">
+SPORT1
+</span>
+</td>
+</tr>
+<tr class="even x ">
+<td>
+<time datetime="2015-01-30T18:40:00+01:00"
+data-start="1422639600000"
+data-duration="3991040">
+18.40
+</time>
+</td>
+<td>
+V-cup hopp
+</td>
+<td class="channel nrk2">
+<span class="logo">
+NRK2
+</span>
+</td>
+</tr>
+<tr class="odd x ">
+<td>
+<time datetime="2015-01-30T18:40:00+01:00"
+data-start="1422639600000"
+data-duration="4200000">
+18.40
+</time>
+</td>
+<td>
+V-cup hopp stor bakke
+</td>
+<td class="channel nrksport">
+<span class="logo">
+NRKSPORT
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<script>
+require(['inline!standard:type/schedule/Serum.Schedule.AutoUpdate'], function(Schedule){
+Schedule.initialize();
+});
+</script>
+</div></div></div><div class="g100 col fr sAUTO singleton-reference">
+<!-- include: /serum/render?id=1.11123076&size=18&perspective=RICH&alignment=RIGHT&created=1373327241000 -->
+<div class="nrk-globalfooter-dk lp_globalfooter">
+<div class="grid cf">
+<div class="nrk-globalfooter-dk-info">
+<h3><a href="http://www.nrk.no/sport/" class="nrk-globalfooter-dk-logo"><span class="sr-only">NRK&nbsp;</span><span>Sport</span></a></h3>
+<ul>
+<li>Kontakt NRK: <a href="tel:+4723047000">23 04 70 00</a></li>
+<li>E-post: <a href="mailto:sporten@nrk.no">sporten@nrk.no</a></li>
+<li>Sportsredaktør: Rune Haug</li>
+</ul>
+<p class="nrk-globalfooter-tips"><a href="http://www.nrk.no/tips">Nyhetstips 03030</a></p>
+</div>
+<div class="nrk-globalfooter-dk-lists">
+<div class="colophon-list first">
+<fieldset>
+<input type="checkbox" id="colophon-list-menu-1" name="colophon-list-menu" />
+<label for="colophon-list-menu-1">Tjenester</label>
+<h3>Tjenester</h3>
+<ul>
+<li><a href="http://www.yr.no">Yr.no</a></li>
+<li><a href="http://ut.no/">UT.no</a></li>
+<li><a href="http://radio.no/">Radio.no</a></li>
+</ul>
+</fieldset>
+</div>
+<div class="colophon-list second">
+<fieldset>
+<input type="checkbox" id="colophon-list-menu-2" name="colophon-list-menu" />
+<label for="colophon-list-menu-2">Kontakt og hjelp</label>
+<h3>Kontakt og hjelp</h3>
+<ul>
+<li><a href="http://www.nrk.no/informasjon/">Om NRK</a></li>
+<li><a href="http://www.nrk.no/kontakt/">Kontakt NRK</a></li>
+<li><a href="http://www.nrk.no/tilgjengelighet/">Tilgjengelighet</a></li>
+<li><a href="http://www.nrk.no/lisens/">Lisens</a></li>
+<li><a href="http://www.nrk.no/hjelp/">Hjelp</a></li>
+<li><a href="http://www.nrk.no/retningslinjer/personvern-pa-nett-i-nrk-1.7765898">Om personvern</a></li>
+<li><a href="http://www.nrk.no/retningslinjer/informasjonskapsler-_cookies_-1.11109868">Om informasjonskapsler (cookies)</a></li>
+<li><a href="http://www.nrk.no/hjelp/foreldrekontroll-pa-nett-1.7889859">Om foreldrekontroll</a></li>
+</ul>
+</fieldset>
+</div>
+<div class="colophon-list third">
+<fieldset>
+<input type="checkbox" id="colophon-list-menu-3" name="colophon-list-menu" />
+<label for="colophon-list-menu-3">Produksjon, salg og presse</label>
+<h3>Produksjon, salg og presse</h3>
+<ul>
+<li><a href="http://www.nrk.no/publikum/">Publikum i NRK</a></li>
+<li><a href="http://www.nrk.no/delta/">Delta i NRK-programmer</a>
+<li><a href="http://www.nrk.no/stilling/">Jobb i NRK</a></li>
+<li><a href="http://www.nrk.no/eksternproduksjon/">Ekstern produksjon</a></li>
+<li><a href="http://www.nrk.no/retningslinjer/">Retningslinjer og design</a></li>
+<li><a href="http://www.nrk.no/salg/">Spons og salg</a></li>
+<li><a href="http://nrkbutikken.no/">NRK Butikken</a></li>
+<li><a href="http://www.nrk.no/presse/">Presse</a></li>
+</ul>
+</fieldset>
+</div>
+<div class="colophon-list fourth">
+<a href="#" class="to-top"><span>Til toppen</span></a>
+</div>
+</div>
+</div>
+</div>
+<footer role="contentinfo" class="nrk-globalfooter-common">
+<div class="grid cf">
+<a href="http://www.nrk.no/" class="nrk-globalfooter-common-logo"><span class="sr-only">NRK</span></a>
+<p class="nrk-globalfooter-common-copyright"><a href="http://www.nrk.no/etikk/opphavsrett-pa-nrk.no-1.2843522">Opphavsrett NRK &copy; 2015</a></p>
+<p>Ansvarlig redaktør: <a href="http://www.nrk.no/etikk/redaktoransvar-pa-nrk.no-1.2843526">Thor Gjermund Eriksen</a></p>
+<p>Nettsjef: <a href="http://www.nrk.no/etikk/redaktoransvar-pa-nrk.no-1.2843526">Frank Gander</a></p>
+</div>
+</footer>
+</div></div>
+<noscript>
+<img alt="tnsScores" src="http://nrk.tns-cs.net/j0=,,,;+,cp=nrk/sport+url=http://www.nrk.no/sport/petter-om-vm-uttaket_-_-tomas-er-i-sitt-livs-form-1.12181593;;;" />
+</noscript>
+</body>
+</html>

@@ -23,7 +23,7 @@ var (
 )
 
 // FromURL does its best to extract an article from the given URL
-func FromURL(url string, cfg Config) (a Article, err error) {
+func FromURL(url string) (a Article, err error) {
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
 		err = fmt.Errorf("could not create new request: %s", err)
@@ -46,24 +46,23 @@ func FromURL(url string, cfg Config) (a Article, err error) {
 
 	fmt.Println(http.DetectContentType(body))
 
-	return FromHTML(string(body), cfg)
+	return FromHTML(string(body))
 }
 
 // FromHTML does its best to extract an article from a single HTML page
-func FromHTML(html string, cfg Config) (Article, error) {
+func FromHTML(html string) (Article, error) {
 	doc, err := goquery.NewDocumentFromReader(strings.NewReader(html))
 	if err != nil {
 		err = fmt.Errorf("invalid HTML: %s", err)
 		return Article{}, err
 	}
 
-	return FromDoc(doc, cfg)
+	return FromDoc(doc)
 }
 
 // FromDoc does its best to extract an article from a single document
-func FromDoc(doc *goquery.Document, cfg Config) (Article, error) {
+func FromDoc(doc *goquery.Document) (Article, error) {
 	a := Article{
-		cfg: cfg,
 		Doc: doc,
 	}
 

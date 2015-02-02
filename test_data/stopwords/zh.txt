@@ -1,0 +1,491 @@
+
+<!DOCTYPE html>
+<html lang="zh" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>伊莎贝拉25美分硬币 - 维基百科，自由的百科全书</title>
+<meta name="generator" content="MediaWiki 1.25wmf14" />
+<link rel="alternate" href="android-app://org.wikipedia/http/zh.m.wikipedia.org/wiki/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" />
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;action=edit" />
+<link rel="edit" title="编辑本页" href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (zh)" />
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="zh" href="/zh/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" />
+<link rel="alternate" hreflang="zh-Hans" href="/zh-hans/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" />
+<link rel="alternate" hreflang="zh-Hant" href="/zh-hant/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" />
+<link rel="alternate" hreflang="zh-CN" href="/zh-cn/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" />
+<link rel="alternate" hreflang="zh-HK" href="/zh-hk/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" />
+<link rel="alternate" hreflang="zh-MO" href="/zh-mo/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" />
+<link rel="alternate" hreflang="zh-SG" href="/zh-sg/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" />
+<link rel="alternate" hreflang="zh-TW" href="/zh-tw/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" />
+<link rel="alternate" hreflang="x-default" href="/wiki/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom" />
+<link rel="canonical" href="http://zh.wikipedia.org/wiki/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" />
+<link rel="stylesheet" href="//bits.wikimedia.org/zh.wikipedia.org/load.php?debug=false&amp;lang=zh&amp;modules=ext.gadget.AdvancedSiteNotices%2CFixedTopBottomLink%2CNavFrame%2CReferenceTooltips%2CUnihanTooltips%2CWikiMiniAtlas%2CcollapsibleTables%2Cedit0%2ChideConversionTab%2CinternalLinkHelper-altcolor%2CnoteTA%2CnoteTAvector%2Cvariant-link-fix%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/zh.wikipedia.org/load.php?debug=false&amp;lang=zh&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: zhwiki:resourceloader:filter:minify-css:7:a13f9f0382ae47ff093d83d6284c8a1c */</style>
+<script src="//bits.wikimedia.org/zh.wikipedia.org/load.php?debug=false&amp;lang=zh&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"伊莎贝拉25美分硬币","wgTitle":"伊莎贝拉25美分硬币","wgCurRevisionId":34133682,"wgRevisionId":34133682,"wgArticleId":4453396,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["使用无数据行信息框模板的条目","含有英語的條目","美元硬幣","特色条目"],"wgBreakFrames":false,"wgPageContentLanguage":"zh","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"伊莎贝拉25美分硬币","wgRelevantArticleId":4453396,"wgUserVariant":"zh","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"zh","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"8":true,"9":true,"10":true,"11":true,"12":true,"13":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["en-us","en","de"],"wgULSCurrentAutonym":"中文","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6078153"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set([]);},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: zhwiki:resourceloader:filter:minify-js:7:c27d336791e6a79884d3f8c79b7699cf */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.gadget.variant-link-fix","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf14/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-伊莎贝拉25美分硬币 skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+<div id="mw-indicator-noteTA-891042f5" class="mw-indicator"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" title="本页使用了标题或全文手工转换" width="35" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="zh"><span dir="auto">伊莎贝拉25美分硬币</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">维基百科，自由的百科全书</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					跳转至：					<a href="#mw-head">导航</a>、					<a href="#p-search">搜索</a>
+				</div>
+				<div id="mw-content-text" lang="zh" dir="ltr" class="mw-content-ltr"><div id="noteTA-891042f5" class="noteTA">
+<div class="noteTA-group">
+<div data-noteta-group-source="module" data-noteta-group="USState"></div>
+</div>
+</div>
+<table class="infobox vcard" cellspacing="3" style="border-spacing:3px;width:22em;text-align:left;font-size:small;line-height:1.5em;width:275px; background: #FAFAFA;;">
+<tr>
+<th colspan="2" class="navbox-title" style="text-align:center;font-size:125%;font-weight:bold;background-color: #FFD24A;;">伊莎贝拉25美分 （美国）</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;navbox-title;;"><span style="white-space:nowrap;">價值</span></th>
+<td style=";;">25美分（25 美分）</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;navbox-title;;">直徑</th>
+<td style=";;">24.3毫米（0.96英寸）</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;navbox-title;;">重量</th>
+<td style=";;">6.25克（0.201金衡制盎司）</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;navbox-title;;">邊緣</th>
+<td style=";;">锯齿纹花边</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;navbox-title;;">成分</th>
+<td style=";;">
+<div class="plainlist" style="margin-left: 0em;">
+<ul>
+<li>银占90.0%</li>
+<li>铜占10.0%</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;navbox-title;;">含銀量</th>
+<td style=";;">0.18084金衡盎司</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;navbox-title;;">鑄造年份</th>
+<td style=";;">1893</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #FFE9A6;;;">正面</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;;;"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Isabella_quarter_obverse.jpg" class="image"><img alt="Isabella quarter obverse.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Isabella_quarter_obverse.jpg/150px-Isabella_quarter_obverse.jpg" width="150" height="149" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Isabella_quarter_obverse.jpg/225px-Isabella_quarter_obverse.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Isabella_quarter_obverse.jpg/300px-Isabella_quarter_obverse.jpg 2x" data-file-width="846" data-file-height="841" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;;;">圖案</th>
+<td style=";;"><a href="/wiki/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%89%E4%B8%80%E4%B8%96_(%E5%8D%A1%E6%96%AF%E8%92%82%E5%88%A9%E4%BA%9A)" title="伊莎贝拉一世 (卡斯蒂利亚)">伊莎贝拉女王一世</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;;;">設計師</th>
+<td style=";;"><a href="/wiki/%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%B7%B4%E4%BC%AF" title="查尔斯·爱德华·巴伯">查尔斯·爱德华·巴伯</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;;;"><span style="white-space:nowrap;">設計時間</span></th>
+<td style=";;">1893</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;;;"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;;;"></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #FFE9A6;;;">背面</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;;;"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/File:Isabella_quarter_reverse.jpg" class="image"><img alt="Isabella quarter reverse.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Isabella_quarter_reverse.jpg/150px-Isabella_quarter_reverse.jpg" width="150" height="148" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Isabella_quarter_reverse.jpg/225px-Isabella_quarter_reverse.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Isabella_quarter_reverse.jpg/300px-Isabella_quarter_reverse.jpg 2x" data-file-width="853" data-file-height="841" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;;;">圖案</th>
+<td style=";;">单膝跪地、手持拉线棒和锭子的女性，拉线棒和锭子代表女性的工作行业</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;;;">設計師</th>
+<td style=";;">查尔斯·爱德华·巴伯根据乔治·<span lang="en" xml:lang="en">T</span>·摩根的草图设计</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left;;;"><span style="white-space:nowrap;">設計時間</span></th>
+<td style=";;">1893年</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;;;"></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;;;"></td>
+</tr>
+</table>
+<p><b>伊莎贝拉25美分硬币</b>（<span class="LangWithName"><a href="/wiki/%E8%8B%B1%E8%AF%AD" title="英语">英语</a>：<span lang="en" xml:lang="en">Isabella quarter</span></span>）又名<b>哥伦布博览会25美分硬币</b>（<span class="LangWithName"><a href="/wiki/%E8%8B%B1%E8%AF%AD" title="英语">英语</a>：<span lang="en" xml:lang="en">Columbian Exposition quarter</span></span>），是1893年铸造的一种美国纪念币，由<a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A" title="美国国会">联邦国会</a>应<a href="/wiki/%E8%8A%9D%E5%8A%A0%E5%93%A5%E5%93%A5%E4%BC%A6%E5%B8%83%E7%BA%AA%E5%BF%B5%E5%8D%9A%E8%A7%88%E4%BC%9A" title="芝加哥哥伦布纪念博览会">芝加哥哥伦布纪念博览会</a>女士经理人董事会的请求授权发行。这种<a href="/wiki/25%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" title="25美分硬币">25美分硬币</a>上刻有<a href="/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B8%9D%E5%9B%BD" title="西班牙帝国" class="mw-redirect">西班牙女王</a><a href="/wiki/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%89%E4%B8%80%E4%B8%96_(%E5%8D%A1%E6%96%AF%E8%92%82%E5%88%A9%E4%BA%9A)" title="伊莎贝拉一世 (卡斯蒂利亚)">伊莎贝拉</a>的形象，当年正是因为有她的资助，<a href="/wiki/%E5%85%8B%E9%87%8C%E6%96%AF%E6%89%98%E5%BC%97%C2%B7%E5%93%A5%E4%BC%A6%E5%B8%83" title="克里斯托弗·哥伦布">克里斯托弗·哥伦布</a>才得以远航前往新大陆。硬币由<a href="/wiki/%E7%BE%8E%E5%9B%BD%E9%93%B8%E5%B8%81%E5%B1%80" title="美国铸币局" class="mw-redirect">美国铸币局</a>首席雕刻师<a href="/wiki/%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%B7%B4%E4%BC%AF" title="查尔斯·爱德华·巴伯">查尔斯·爱德华·巴伯</a>设计，是美国发行的所有25美分纪念币中唯一没有进入市场流通的一种。</p>
+<p>以芝加哥社交名媛<a href="/w/index.php?title=%E4%BC%AF%E8%8E%8E%C2%B7%E5%B8%95%E5%B0%94%E9%BB%98&amp;action=edit&amp;redlink=1" class="new" title="伯莎·帕尔默（页面不存在）">伯莎·帕尔默</a>为首的女士经理人董事会希望由女性来设计这种硬币，她们为此请来雕塑家卡罗琳·佩德尔，但佩德尔因同铸币局官员存在分歧而退出项目，设计工作于是落到巴伯的肩上。硬币背面描绘的是位正在纺纱的女性，左手持有拉线棒，右手拿着锭子，代表女性的工作行业，图案是基于助理雕刻师乔治·<span lang="en" xml:lang="en">T</span>·摩根的草图设计。</p>
+<p><a href="/wiki/%E9%92%B1%E5%B8%81%E5%AD%A6" title="钱币学">钱币学</a>媒体对硬币设计评价不佳，硬币本身当年在博览会上也不畅销，由于定价和<a href="/wiki/%E5%93%A5%E4%BC%A6%E5%B8%83%E5%8D%8A%E7%BE%8E%E5%85%83" title="哥伦布半美元">哥伦布半美元</a>一样都是1美元，所以25美分面值看起来不像半美元那么划算。最终有近一半已经铸造的硬币送回铸币局熔毁，近万枚由各女士经理人以面值买下，再在20世纪初进入钱币市场。如今，这些硬币深受收藏家追捧，根据理查德·约曼2014年版的《美国钱币指南手册》，这些硬币的价值约在450到6000美元之间。<sup id="cite_ref-FOOTNOTEYeoman285_1-0" class="reference"><a href="#cite_note-FOOTNOTEYeoman285-1">[1]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>目录</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E5.9B.BD.E4.BC.9A.E7.AB.8B.E6.B3.95"><span class="tocnumber">1</span> <span class="toctext">国会立法</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E6.9E.84.E6.83.B3"><span class="tocnumber">2</span> <span class="toctext">构想</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E8.AE.BE.E8.AE.A1.E5.92.8C.E5.8F.8D.E5.93.8D"><span class="tocnumber">3</span> <span class="toctext">设计和反响</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.E5.8F.91.E5.B8.83.E5.92.8C.E6.94.B6.E8.97.8F"><span class="tocnumber">4</span> <span class="toctext">发布和收藏</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#.E8.A7.A3.E9.87.8A.E8.AF.B4.E6.98.8E"><span class="tocnumber">5</span> <span class="toctext">解释说明</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#.E5.8F.82.E8.80.83.E8.B5.84.E6.96.99"><span class="tocnumber">6</span> <span class="toctext">参考资料</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">6.1</span> <span class="toctext">脚注</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#.E6.9D.A5.E6.BA.90"><span class="tocnumber">6.2</span> <span class="toctext">来源</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id=".E5.9B.BD.E4.BC.9A.E7.AB.8B.E6.B3.95">国会立法</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;action=edit&amp;section=1" title="编辑小节：国会立法">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>1892年8月，<a href="/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A" title="美国国会">联邦国会</a>通过法案，授权<a href="/wiki/%E8%8A%9D%E5%8A%A0%E5%93%A5" title="芝加哥">芝加哥</a><a href="/wiki/%E8%8A%9D%E5%8A%A0%E5%93%A5%E5%93%A5%E4%BC%A6%E5%B8%83%E7%BA%AA%E5%BF%B5%E5%8D%9A%E8%A7%88%E4%BC%9A" title="芝加哥哥伦布纪念博览会">哥伦布纪念博览会</a>的管理者将首枚美国纪念币<a href="/wiki/%E5%93%A5%E4%BC%A6%E5%B8%83%E5%8D%8A%E7%BE%8E%E5%85%83" title="哥伦布半美元">哥伦布半美元</a>作为奖品出售<sup id="cite_ref-FOOTNOTELange126_2-0" class="reference"><a href="#cite_note-FOOTNOTELange126-2">[2]</a></sup>。国会早在两年前就批准举行博览会，并分别建立了女士和男士经理人董事会监督展会运作。其中女士经理人董事以伯莎·帕尔默（<span lang="en" xml:lang="en">Bertha Palmer</span>）领头，她的丈夫<a href="/w/index.php?title=%E6%B3%A2%E7%89%B9%C2%B7%E5%B8%95%E5%B0%94%E9%BB%98&amp;action=edit&amp;redlink=1" class="new" title="波特·帕尔默（页面不存在）">波特</a>（<span lang="en" xml:lang="en">Potter Palmer</span>）拥有芝加哥数一数二的<a href="/w/index.php?title=%E5%B8%95%E5%B0%94%E7%8E%9B%E5%B8%8C%E5%B0%94%E9%A1%BF%E9%85%92%E5%BA%97&amp;action=edit&amp;redlink=1" class="new" title="帕尔玛希尔顿酒店（页面不存在）">帕尔玛酒店</a>。在存在争议的事务方面，女士经理人董事会的决策经常会遭男士经理人董事会否决，例如伯莎觉得博览会上的舞蹈表演《埃及女孩》（<span lang="en" xml:lang="en"><i>Egyptian Girls</i></span>）属淫秽性质，希望能中止节目演出。但这是博览会上为数不多的几种可以带来经济收益的节目之一，于是男士们也就否决了女士们的要求。<sup id="cite_ref-FOOTNOTESwiatek_.26_Breen113.E2.80.93114_3-0" class="reference"><a href="#cite_note-FOOTNOTESwiatek_.26_Breen113.E2.80.93114-3">[3]</a></sup><sup id="cite_ref-FOOTNOTEBowers_Encyclopedia.2C_Part_8_4-0" class="reference"><a href="#cite_note-FOOTNOTEBowers_Encyclopedia.2C_Part_8-4">[4]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bertha_Palmer_(Updated).png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bertha_Palmer_%28Updated%29.png/220px-Bertha_Palmer_%28Updated%29.png" width="220" height="316" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bertha_Palmer_%28Updated%29.png/330px-Bertha_Palmer_%28Updated%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/7/72/Bertha_Palmer_%28Updated%29.png 2x" data-file-width="375" data-file-height="539" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bertha_Palmer_(Updated).png" class="internal" title="放大"></a></div>
+伯莎·帕尔默是博览会女士经理人董事会的领导人</div>
+</div>
+</div>
+<p><a href="/wiki/%E5%A5%B3%E6%9D%83%E4%B8%BB%E4%B9%89" title="女权主义" class="mw-redirect">女权主义者</a><a href="/wiki/%E8%8B%8F%E7%8F%8A%C2%B7%E5%AE%89%E4%B8%9C%E5%B0%BC" title="苏珊·安东尼">苏珊·安东尼</a>决心通过实例证明，女性能够成功地协助管理这场博览会，在她的极力倡导下，国会于1890年通过法案给予女士经理人董事会联邦授权。为了达成安东尼的期望，女士经理人决定推出另一种纪念币，同国会1892年批准出售的哥伦布半美元竞争。<sup id="cite_ref-FOOTNOTEBowers_Encyclopedia.2C_Part_8_4-1" class="reference"><a href="#cite_note-FOOTNOTEBowers_Encyclopedia.2C_Part_8-4">[4]</a></sup>半美元硬币法案的批准过程困难重重，因此女士经理人董事会决定等到国会来年开幕后再提出请求。1892年11月，哥伦布半美元在博览会上亮相，女士经理人董事会觉得硬币设计的艺术性欠佳，并决心做出更好的作品。雄心勃勃的帕尔默希望，女士经理人董事会能够“拥有美国政府发行的第一种真正融美观和艺术性于一体的硬币作者荣光”。<sup id="cite_ref-FOOTNOTEMoran87_5-0" class="reference"><a href="#cite_note-FOOTNOTEMoran87-5">[5]</a></sup></p>
+<p>1893年1月，帕尔默呈请<a href="/w/index.php?title=%E8%81%94%E9%82%A6%E4%BC%97%E8%AE%AE%E9%99%A2%E6%8B%A8%E6%AC%BE%E5%A7%94%E5%91%98%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="联邦众议院拨款委员会（页面不存在）">众议院拨款委员会</a>，将联邦政府已经拨给女士经理人委员会的1万美元资金通过25美分纪念币的形式发放，以便她们能够把这些纪念币作为奖品在博览会上出售。1893年3月3日，国会通过法案授权发行纪念币，设计法案需由<a href="/wiki/%E7%BE%8E%E5%9B%BD%E8%B4%A2%E6%94%BF%E9%83%A8%E9%95%BF" title="美国财政部长">财政部长</a>批准，规格与可流通的<a href="/w/index.php?title=%E5%B7%B4%E4%BC%AF%E9%80%A0%E5%B8%81&amp;action=edit&amp;redlink=1" class="new" title="巴伯造币（页面不存在）">巴伯造币</a>相同。纪念币的总发行量限制在4万枚，总金额正好1万美元。<sup id="cite_ref-FOOTNOTEBowers_Encyclopedia.2C_Part_8_4-2" class="reference"><a href="#cite_note-FOOTNOTEBowers_Encyclopedia.2C_Part_8-4">[4]</a></sup><sup id="cite_ref-FOOTNOTEMoran87_5-1" class="reference"><a href="#cite_note-FOOTNOTEMoran87-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id=".E6.9E.84.E6.83.B3">构想</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;action=edit&amp;section=2" title="编辑小节：构想">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>帕尔默一心想做出美观的硬币来销售，为此她请艺术家<a href="/wiki/%E5%87%AF%E5%B0%BC%E6%81%A9%C2%B7%E8%80%83%E5%85%8B%E6%96%AF" title="凯尼恩·考克斯">凯尼恩·考克斯</a>绘制草图，还决心请女性来设计纪念币。帕尔默同博览会艺术总监的秘书萨拉·哈洛韦尔（<span lang="en" xml:lang="en">Sara Hallowell</span>）商议，当时两人还在一边搜集大批艺术收藏品。哈洛韦尔同雕塑家<a href="/w/index.php?title=%E5%A5%A5%E5%8F%A4%E6%96%AF%E9%83%BD%C2%B7%E5%9C%A3%C2%B7%E9%AB%98%E7%99%BB%E6%96%AF&amp;action=edit&amp;redlink=1" class="new" title="奥古斯都·圣·高登斯（页面不存在）">奥古斯都·圣·高登斯</a>（<span lang="en" xml:lang="en">Augustus Saint-Gaudens</span>）取得联系，后者向她推荐自己以前的学生卡罗琳·佩德尔（<span lang="en" xml:lang="en">Caroline Peddle</span>）。巧合的是，佩德尔这时正受<a href="/wiki/%E8%92%82%E8%8A%99%E5%B0%BC%E5%85%AC%E5%8F%B8" title="蒂芙尼公司">蒂芙尼公司</a>委聘在博览会参展。经帕尔默首肯，佩德尔成为硬币的设计者。<sup id="cite_ref-FOOTNOTEMoran87.E2.80.9391_6-0" class="reference"><a href="#cite_note-FOOTNOTEMoran87.E2.80.9391-6">[6]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Peddle_sketch.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Peddle_sketch.jpg/220px-Peddle_sketch.jpg" width="220" height="430" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Peddle_sketch.jpg/330px-Peddle_sketch.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Peddle_sketch.jpg/440px-Peddle_sketch.jpg 2x" data-file-width="1529" data-file-height="2989" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Peddle_sketch.jpg" class="internal" title="放大"></a></div>
+佩德尔为25美分硬币绘制的草图</div>
+</div>
+</div>
+<p>国会授权发行纪念币后，美国铸币局局长爱德华·利奇（<span lang="en" xml:lang="en">Edward O. Leech</span>）于1893年3月14日给帕尔默去信，表示愿意让女士经理人董事会为硬币设计拍板，但是，铸币局首席雕刻师<a href="/wiki/%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%B7%B4%E4%BC%AF" title="查尔斯·爱德华·巴伯">查尔斯·爱德华·巴伯</a>和费城铸币局局长<a href="/wiki/%E5%A5%A5%E5%88%A9%E5%BC%97%C2%B7%E6%B3%A2%E6%96%AF%E6%AF%94%E8%B0%A2%E5%B0%94" title="奥利弗·波斯比谢尔">奥利弗·波斯比谢尔</a>此前都已向利奇提议，将硬币设计工作留在铸币局内部进行。帕尔默在回信中称，董事会已经决定在硬币上雕刻<a href="/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B8%9D%E5%9B%BD" title="西班牙帝国" class="mw-redirect">西班牙</a>女王<a href="/wiki/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%89%E4%B8%80%E4%B8%96_(%E5%8D%A1%E6%96%AF%E8%92%82%E5%88%A9%E4%BA%9A)" title="伊莎贝拉一世 (卡斯蒂利亚)">伊莎贝拉一世</a>的肖像，当年<a href="/wiki/%E5%85%8B%E9%87%8C%E6%96%AF%E6%89%98%E5%BC%97%C2%B7%E5%93%A5%E4%BC%A6%E5%B8%83" title="克里斯托弗·哥伦布">克里斯托弗·哥伦布</a>正是在得到她的赞助后才得以远航探访新大陆。帕尔默还表示，自己已同多位艺术家商讨，建议铸币局也提供设计方案。她还与<a href="/wiki/%E4%BC%8A%E5%88%A9%E8%AF%BA%E4%BC%8A%E5%B7%9E" title="伊利诺伊州">伊利诺伊州</a><a href="/wiki/%E8%81%AF%E9%82%A6%E7%9C%BE%E8%AD%B0%E5%93%A1" title="聯邦眾議員" class="mw-redirect">联邦众议员</a>、众议院博览会事务委员会主席艾伦·杜博罗（<span lang="en" xml:lang="en">Allen Durborow</span>）会面，后者还曾与利奇的上级、财政部长<a href="/w/index.php?title=%E7%BA%A6%E7%BF%B0%C2%B7%E5%8D%A1%E8%8E%B1%E5%B0%94&amp;action=edit&amp;redlink=1" class="new" title="约翰·卡莱尔（页面不存在）">约翰·卡莱尔</a>（<span lang="en" xml:lang="en">John G. Carlisle</span>）共事。帕尔默请杜博罗向卡莱尔和利奇表示自己对女士经理人委员会的支持。<sup id="cite_ref-FOOTNOTEMoran88_7-0" class="reference"><a href="#cite_note-FOOTNOTEMoran88-7">[7]</a></sup></p>
+<p>帕尔默于3月下旬通过信函聘请佩德尔设计硬币，要求将伊莎贝拉一世的肖像放在硬币正面，背面则是题词“经国会法案批准，哥伦布纪念博览会女士经理人董事会发行的纪念币，1492至1892年”<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[注 1]</a></sup>，还要加上硬币的面额和国名。帕尔默没有要求佩德尔在将设计稿发给铸币局前先由女士经理人委员会确认，还把自己的设计理念告诉了卡莱尔和利奇。卡莱尔对硬币由女性设计，或是采用伊莎贝拉一世的头像都没有意见，但他觉得背面的题词太长，感觉就像是商业广告牌，所以建议做出调整。<sup id="cite_ref-FOOTNOTEMoran91_9-0" class="reference"><a href="#cite_note-FOOTNOTEMoran91-9">[8]</a></sup>利奇告知波斯比谢尔，女士经理人委员会很可能会另请雕塑家制作硬币正面模型，请他安排铸币局首席雕刻师查尔斯·爱德华·巴伯制作一些硬币背面的样式留作备用<sup id="cite_ref-FOOTNOTEMoran91_9-1" class="reference"><a href="#cite_note-FOOTNOTEMoran91-9">[8]</a></sup>。</p>
+<p>佩德尔遵照帕尔默的指示将设计稿发给利奇，硬币正面是坐着的伊莎贝拉，背面则是那一长段文字，希望铸币局局长同意把句子缩短。利奇对硬币背面的设计感到不满，决定由巴伯来设计这一面。巴伯和波斯比谢尔给利奇去信，表示硬币正面的伊莎贝拉如果采取坐姿，那么她的腿会出现扭曲，建议只采用她的头像。卡莱尔也有同样看法，他还表示自己同意的也只是在硬币上采用女王头像。佩德尔得知，硬币背面将由巴伯设计，虽然新设计还会送给她批准，但更改她原本的设计已是势在必行。与此同时，帕尔默也对事情的进展感到越来越心焦：从设计、审批到制作出实际的硬币需要两个月时间，她担心硬币不能在博览会开幕前完成，有可能会拖到5至10月，这时博览会已经开始。面对各个方面的压力，佩德尔声称她“无法接受只做个半成品”，<sup id="cite_ref-FOOTNOTETaxay10_10-0" class="reference"><a href="#cite_note-FOOTNOTETaxay10-10">[9]</a></sup>威胁要退出项目。<sup id="cite_ref-FOOTNOTEMoran92.E2.80.9393_11-0" class="reference"><a href="#cite_note-FOOTNOTEMoran92.E2.80.9393-11">[10]</a></sup></p>
+<p>4月7日的两封信成为压垮佩德尔耐性的最后一根稻草。其中一封来自利奇，他在信中强调，作为铸币局局长，自己有权决定选择哪种硬币设计方案，他要求正面采用伊莎贝拉的头像，至于背面则要根据铸币局一位雕刻师的草图设计，具体内容可以让佩德尔定夺。波斯比谢尔写来另一封信，他认为美国的硬币上不应该出现头戴王冠的人物形象，所以要求伊莎贝拉的头上也不能有王冠。1893年4月8日，卡罗琳·佩德尔退出了项目。<sup id="cite_ref-FOOTNOTEMoran93_12-0" class="reference"><a href="#cite_note-FOOTNOTEMoran93-12">[11]</a></sup></p>
+<p>佩德尔退出后，利奇给帕尔默去信安抚，后者对这一情况深感遗憾，觉得3人应当多多合作，而非各自为政。帕尔默曾在信中建议把硬币背面的题词改成博览会的女性大厦。巴伯已经准备了多份草稿，他觉得帕尔默的建议不切实际，因为硬币的浮雕深度很浅，大厦无法在硬币上真正展现出来。他的建议是采用助理雕刻师乔治·<span lang="en" xml:lang="en">T</span>·摩根的草图设计，表现一位跪在地上纺织亚麻的女性，手上还拿有拉线棒。利奇对这一方案不是很满意，觉得正面是伊莎贝拉，背面又是个女人，“女人太多了”。<sup id="cite_ref-FOOTNOTEMoran91.2C_94_13-0" class="reference"><a href="#cite_note-FOOTNOTEMoran91.2C_94-13">[12]</a></sup>利奇要求巴伯自行设计一些背面草图，巴伯完成后由波斯比谢尔在4月11到12日交给利奇，这些设计中采用了各种各样的老鹰纹章。经过对比，利奇最后还是决定接受巴伯的建议，采用摩根的设计。<sup id="cite_ref-FOOTNOTEMoran94_14-0" class="reference"><a href="#cite_note-FOOTNOTEMoran94-14">[13]</a></sup>他还给帕尔默去信，表示“这里使用的拉线棒是一种艺术象征，代表需要耐心的行业，特别是女性行业”<sup id="cite_ref-FOOTNOTETaxay11_15-0" class="reference"><a href="#cite_note-FOOTNOTETaxay11-15">[14]</a></sup>。对此女士经理人建议，硬币上仍然刻上女性大厦，如果可能，她们还希望上面增加一位在世的女性人物。利奇则回应称，财政部长卡莱尔已经决定采用拉线棒的背面设计方案。<sup id="cite_ref-FOOTNOTEMoran97_16-0" class="reference"><a href="#cite_note-FOOTNOTEMoran97-16">[15]</a></sup></p>
+<p>波斯比谢尔给利奇去信，告诉他<a href="/wiki/%E5%AE%BE%E5%A4%95%E6%B3%95%E5%B0%BC%E4%BA%9A%E5%A4%A7%E5%AD%A6" title="宾夕法尼亚大学">宾夕法尼亚大学</a>校长斯图尔特·库林（<span lang="en" xml:lang="en">Stewart Cullin</span>）拥有多枚刻有伊莎贝拉形象的奖章，前<a href="/wiki/%E7%BE%8E%E5%9B%BD%E9%99%86%E5%86%9B" title="美国陆军">陆军</a><a href="/wiki/%E4%B8%8A%E5%B0%86" title="上将">将领</a><a href="/w/index.php?title=%E5%A5%A5%E5%88%A9%E5%BC%97%C2%B7O%C2%B7%E9%9C%8D%E5%8D%8E%E5%BE%B7&amp;action=edit&amp;redlink=1" class="new" title="奥利弗·O·霍华德（页面不存在）">奥利弗·O·霍华德</a>（<span lang="en" xml:lang="en">Oliver O. Howard</span>）曾为已故女王撰写传记，拥有她的多幅画像。利奇同意邀请这些人作顾问。卡莱尔对题词中那些表现出性别差异的用词感到不满意，不希望“女士经理人委员会”这样的词组出现在硬币上，不过他最终选择了让步。4月24日，利奇给帕尔默寄去一个盒子，里面装有硬币正面的两个石膏模型，都刻有伊莎贝拉的形象，只是一个更年轻，另一个更成熟。他还告诉帕尔默，背面会采用拉线棒方案，题词则是经卡莱尔首肯的版本<sup id="cite_ref-FOOTNOTETaxay11.E2.80.9313_17-0" class="reference"><a href="#cite_note-FOOTNOTETaxay11.E2.80.9313-17">[16]</a></sup>。据称，佩德尔应帕尔默的要求将一幅伊莎贝拉的版面发给铸币局，巴伯再根据这幅版面制作出硬币正面的两种石膏模型，但也有来源指出，巴伯在收到版画的当天就完成了两套模型，并且这天还参加了波斯比谢尔孙子的葬礼，所以他应该是之前就已经在制作。5月5日，女士经理人委员会选定了女王更显年轻的版本。<sup id="cite_ref-FOOTNOTEMoran97_16-1" class="reference"><a href="#cite_note-FOOTNOTEMoran97-16">[15]</a></sup></p>
+<h2><span class="mw-headline" id=".E8.AE.BE.E8.AE.A1.E5.92.8C.E5.8F.8D.E5.93.8D">设计和反响</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;action=edit&amp;section=3" title="编辑小节：设计和反响">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Woman_and_sister_obv.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Woman_and_sister_obv.jpg/170px-Woman_and_sister_obv.jpg" width="170" height="171" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Woman_and_sister_obv.jpg/255px-Woman_and_sister_obv.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Woman_and_sister_obv.jpg/340px-Woman_and_sister_obv.jpg 2x" data-file-width="2179" data-file-height="2198" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Woman_and_sister_obv.jpg" class="internal" title="放大"></a></div>
+1838年的反奴隶制代币上刻有“我是不是一个女人和一个姐妹？”字样</div>
+</div>
+</div>
+<p>伊莎贝拉25美分硬币的正面采用的是这位西班牙女王的侧面头像，头上戴有王冠，上身的衣服非常华丽。艺术史学家科尼利厄斯·弗缪尔（<span lang="en" xml:lang="en">Cornelius Vermeule</span>）认为，巴伯设计的正面“遵循吉尔伯特·斯科特（<span lang="en" xml:lang="en">Gilbert Scott</span>）的维多利亚哥特式古典成像传统，是对新大陆人物群体和<a href="/wiki/%E4%BC%A6%E6%95%A6" title="伦敦">伦敦</a><a href="/wiki/%E9%98%BF%E5%B0%94%E4%BC%AF%E7%89%B9%E7%BA%AA%E5%BF%B5%E4%BA%AD" title="阿尔伯特纪念亭">阿尔伯特纪念亭</a>上名人浮雕的最佳总结。”<sup id="cite_ref-FOOTNOTEVermeule92_18-0" class="reference"><a href="#cite_note-FOOTNOTEVermeule92-18">[17]</a></sup>硬币背面刻画的是一位手持拉线棒和锭子，并且单膝跪地的女性<sup id="cite_ref-FOOTNOTEYeoman285_1-1" class="reference"><a href="#cite_note-FOOTNOTEYeoman285-1">[1]</a></sup>。弗缪尔指出，这一形象可以追溯到公元前5世纪<a href="/wiki/%E5%A5%A5%E6%9E%97%E5%8C%B9%E4%BA%9A" title="奥林匹亚">奥林匹亚</a><a href="/wiki/%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E5%AE%99%E6%96%AF%E7%A5%9E%E5%BB%9F" title="奧林匹亞宙斯神廟">宙斯神庙</a>东面三角墙上雕刻的青年女仆。不过，《美国钱币学期刊》（<span lang="en" xml:lang="en"><i>American Journal of Numismatics</i></span>）中的一篇当代评论则把硬币背面同<a href="/w/index.php?title=%E5%8F%8D%E5%A5%B4%E4%B8%BB%E4%B9%89&amp;action=edit&amp;redlink=1" class="new" title="反奴主义（页面不存在）">反奴隶制</a>代币上单膝跪地的女性及周围所刻文字“我是不是一个女人和一个姐妹？”相提并论。<sup id="cite_ref-FOOTNOTEVermeule92.E2.80.9393_19-0" class="reference"><a href="#cite_note-FOOTNOTEVermeule92.E2.80.9393-19">[18]</a></sup>弗缪尔在1971年的著作中表示，“如今，这种硬币似乎因其古雅和维多利亚时代气息而充满魅力，把冷希腊主义和文艺复兴时期的浪漫相融合。或许其最大的一个优点，就是上面没有什么惯例般的题字和格言。”<sup id="cite_ref-FOOTNOTEVermeule93_20-0" class="reference"><a href="#cite_note-FOOTNOTEVermeule93-20">[19]</a></sup></p>
+<p>钱币历史学家唐·塔克西（<span lang="en" xml:lang="en">Don Taxay</span>）在对早期美国纪念币进行研究后认为，博览会正式文献中的一些说法纯属无稽之谈，例如文献中声称，凯尼恩·考克斯曾为硬币提供过设计方案，而塔克西表示，考克斯的儿子坚决否认父亲曾参与这种硬币的设计。在塔克西看来，这种硬币很“平常”，是“典型的巴伯风格”，他觉得硬币的造型虽然比哥伦布半美元略胜一筹，但两者实际上没有什么区别。<sup id="cite_ref-FOOTNOTETaxay13_21-0" class="reference"><a href="#cite_note-FOOTNOTETaxay13-21">[20]</a></sup></p>
+<p>《美国钱币学期刊》还对硬币提出了更多的批评。文章中将伊莎贝拉25美分和哥伦布半美元相对比，称“我们不知道硬币是谁设计的，但就此例而言，哥伦布半美元展示的是这个国家的钱币艺术，而另一个（指伊莎贝拉25美分）则是表现博览会建筑师们令人钦佩的工作和精神，这种对比让人感到痛苦。如果这两种硬币就真代表了我们在奖牌制造和铸币上的最高水平……那我们就真不妨对其未来感到绝望……我们还没有做好承认事实真是如此的准备。”<sup id="cite_ref-FOOTNOTEVermeule93_20-1" class="reference"><a href="#cite_note-FOOTNOTEVermeule93-20">[19]</a></sup></p>
+<h2><span class="mw-headline" id=".E5.8F.91.E5.B8.83.E5.92.8C.E6.94.B6.E8.97.8F">发布和收藏</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;action=edit&amp;section=4" title="编辑小节：发布和收藏">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>1893年6月13日，费城铸币局开始铸造这种被巴伯戏称为“花架子25美分”的硬币<sup id="cite_ref-FOOTNOTEMoran98_22-0" class="reference"><a href="#cite_note-FOOTNOTEMoran98-22">[21]</a></sup>，这时距博览会开幕已过去6个星期<sup id="cite_ref-FOOTNOTEBowers_Encyclopedia.2C_Part_1_23-0" class="reference"><a href="#cite_note-FOOTNOTEBowers_Encyclopedia.2C_Part_1-23">[22]</a></sup>。利奇曾打算用经过打磨的毛坯或是金属圆盘来铸造硬币<sup id="cite_ref-FOOTNOTETaxay13_21-1" class="reference"><a href="#cite_note-FOOTNOTETaxay13-21">[20]</a></sup>，铸币局的工作人员在处理这批硬币时非常小心，这点上与哥伦布半美元完全不同，从现存样品可以看出，硬币在铸造期间很少会相互碰触。铸币局将铸出的第1、第400、第1492和第1892枚硬币同相应的证明文书一起寄给女士经理人委员会。<sup id="cite_ref-FOOTNOTEBowers42_24-0" class="reference"><a href="#cite_note-FOOTNOTEBowers42-24">[23]</a></sup>铸币局一共制作了4万零23枚硬币，超出授权发行量的23枚由铸币局保留，准备交给1894年<a href="/w/index.php?title=%E7%BE%8E%E5%9B%BD%E5%8C%96%E9%AA%8C%E5%A7%94%E5%91%98%E4%BC%9A&amp;action=edit&amp;redlink=1" class="new" title="美国化验委员会（页面不存在）">化验委员会</a>检查<sup id="cite_ref-FOOTNOTEBowers_Encyclopedia.2C_Part_10_25-0" class="reference"><a href="#cite_note-FOOTNOTEBowers_Encyclopedia.2C_Part_10-25">[24]</a></sup>。</p>
+<p>硬币在博览会上并不畅销。许多地方都可以买到哥伦布半美元，但要买到伊莎贝拉25美分，人们必须前往女性大厦，再不然就是通过邮购<sup id="cite_ref-FOOTNOTEBowers42_24-1" class="reference"><a href="#cite_note-FOOTNOTEBowers42-24">[23]</a></sup>。收藏家、经销商和前来观看博览会的市民一共购买了约1.5万枚，这其中单<a href="/w/index.php?title=%E7%BA%A6%E7%BF%B0%C2%B7%E6%B2%83%E5%B0%94%E7%89%B9%C2%B7%E6%96%AF%E7%A7%91%E7%89%B9&amp;action=edit&amp;redlink=1" class="new" title="约翰·沃尔特·斯科特（页面不存在）">斯科特邮票和钱币公司</a>买下的就有数千枚。由于哥伦布半美元和伊莎贝拉25美分的售价都是1美元，因此在博览会游客看来，前者明显更加划算。剩下的硬币中约有1万枚由帕尔默及其他女性经理人按面值买下，1万5809枚退给政府熔毁。这样，伊莎贝拉25美分的公开发行量就是2万4214枚。<sup id="cite_ref-FOOTNOTEBowers41.E2.80.9342_26-0" class="reference"><a href="#cite_note-FOOTNOTEBowers41.E2.80.9342-26">[25]</a></sup><sup id="cite_ref-FOOTNOTEMoran113_27-0" class="reference"><a href="#cite_note-FOOTNOTEMoran113-27">[26]</a></sup></p>
+<p>时间进入20世纪20年代后，女士经理人当年买下的大量硬币通过经销商和其他供应商进入市场。到了1930年，硬币价格已经回升到发行时的原价，到1955年时，没有流通过的样本售价已至20美元。<sup id="cite_ref-FOOTNOTEBowers_Encyclopedia.2C_Part_10_25-1" class="reference"><a href="#cite_note-FOOTNOTEBowers_Encyclopedia.2C_Part_10-25">[24]</a></sup>伊莎贝拉25美分硬币是美国发行的唯一一种只作为纪念币，不进入市场流通的25美分硬币，这一特点让它深受收藏家追捧<sup id="cite_ref-FOOTNOTEBowers41.E2.80.9342_26-1" class="reference"><a href="#cite_note-FOOTNOTEBowers41.E2.80.9342-26">[25]</a></sup>。根据理查德·约曼（<span lang="en" xml:lang="en">Richard S. Yeoman</span>）2014年版的《美国钱币指南手册》（<span lang="en" xml:lang="en"><i>A Guide Book of United States Coins</i></span>），几乎未经流通过，<a href="/w/index.php?title=%E8%B0%A2%E5%B0%94%E9%A1%BF%E7%A1%AC%E5%B8%81%E5%88%86%E7%BA%A7%E6%A0%87%E5%87%86&amp;action=edit&amp;redlink=1" class="new" title="谢尔顿硬币分级标准（页面不存在）">谢尔顿硬币分级标准</a>有<span lang="en" xml:lang="en">AU</span>-50的这种硬币售价可以达到450美元，如果是几乎保持着原始状态的<span lang="en" xml:lang="en">MS-66</span>级别，则可能高达6000美元<sup id="cite_ref-FOOTNOTEYeoman285_1-2" class="reference"><a href="#cite_note-FOOTNOTEYeoman285-1">[1]</a></sup>。</p>
+<h2><span class="mw-headline" id=".E8.A7.A3.E9.87.8A.E8.AF.B4.E6.98.8E">解释说明</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;action=edit&amp;section=5" title="编辑小节：解释说明">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-8"><b><a href="#cite_ref-8">^</a></b> <span class="reference-text">原文为：Commemorative coin issued for the Board of Lady Managers of the World's Columbian Exposition by Act of Congress, 1492–1892.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id=".E5.8F.82.E8.80.83.E8.B5.84.E6.96.99">参考资料</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;action=edit&amp;section=6" title="编辑小节：参考资料">编辑</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="position: relative; float: right; clear: right; margin: 0 0 1em 1em; border: solid #aaa 1px; background: #f9f9f9; padding: 0.5em; font-size: small;" class="noprint"><span style="white-space:nowrap;"><a href="/wiki/Portal:%E9%92%B1%E5%B8%81%E5%AD%A6" title="钱币学主題"><img alt="钱币学主題" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/United_States_penny%2C_obverse%2C_2002.png/36px-United_States_penny%2C_obverse%2C_2002.png" width="36" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/United_States_penny%2C_obverse%2C_2002.png/54px-United_States_penny%2C_obverse%2C_2002.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/United_States_penny%2C_obverse%2C_2002.png/72px-United_States_penny%2C_obverse%2C_2002.png 2x" data-file-width="903" data-file-height="901" /></a>&#160;<b><a href="/wiki/Portal:%E9%92%B1%E5%B8%81%E5%AD%A6" title="Portal:钱币学">钱币学主題首頁</a></b></span></div>
+<h3><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;action=edit&amp;section=7" title="编辑小节：脚注">编辑</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist columns references-column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-FOOTNOTEYeoman285-1">^ <a href="#cite_ref-FOOTNOTEYeoman285_1-0"><sup><b>1.0</b></sup></a> <a href="#cite_ref-FOOTNOTEYeoman285_1-1"><sup><b>1.1</b></sup></a> <a href="#cite_ref-FOOTNOTEYeoman285_1-2"><sup><b>1.2</b></sup></a> <span class="reference-text"><a href="#CITEREFYeoman">Yeoman</a>, p.&#160;285.</span></li>
+<li id="cite_note-FOOTNOTELange126-2"><b><a href="#cite_ref-FOOTNOTELange126_2-0">^</a></b> <span class="reference-text"><a href="#CITEREFLange">Lange</a>, p.&#160;126.</span></li>
+<li id="cite_note-FOOTNOTESwiatek_.26_Breen113.E2.80.93114-3"><b><a href="#cite_ref-FOOTNOTESwiatek_.26_Breen113.E2.80.93114_3-0">^</a></b> <span class="reference-text"><a href="#CITEREFSwiatek_.26_Breen">Swiatek &amp; Breen</a>, pp.&#160;113–114.</span></li>
+<li id="cite_note-FOOTNOTEBowers_Encyclopedia.2C_Part_8-4">^ <a href="#cite_ref-FOOTNOTEBowers_Encyclopedia.2C_Part_8_4-0"><sup><b>4.0</b></sup></a> <a href="#cite_ref-FOOTNOTEBowers_Encyclopedia.2C_Part_8_4-1"><sup><b>4.1</b></sup></a> <a href="#cite_ref-FOOTNOTEBowers_Encyclopedia.2C_Part_8_4-2"><sup><b>4.2</b></sup></a> <span class="reference-text"><a href="#CITEREFBowers_Encyclopedia.2C_Part_8">Bowers Encyclopedia, Part 8</a>.</span></li>
+<li id="cite_note-FOOTNOTEMoran87-5">^ <a href="#cite_ref-FOOTNOTEMoran87_5-0"><sup><b>5.0</b></sup></a> <a href="#cite_ref-FOOTNOTEMoran87_5-1"><sup><b>5.1</b></sup></a> <span class="reference-text"><a href="#CITEREFMoran">Moran</a>, p.&#160;87.</span></li>
+<li id="cite_note-FOOTNOTEMoran87.E2.80.9391-6"><b><a href="#cite_ref-FOOTNOTEMoran87.E2.80.9391_6-0">^</a></b> <span class="reference-text"><a href="#CITEREFMoran">Moran</a>, pp.&#160;87–91.</span></li>
+<li id="cite_note-FOOTNOTEMoran88-7"><b><a href="#cite_ref-FOOTNOTEMoran88_7-0">^</a></b> <span class="reference-text"><a href="#CITEREFMoran">Moran</a>, p.&#160;88.</span></li>
+<li id="cite_note-FOOTNOTEMoran91-9">^ <a href="#cite_ref-FOOTNOTEMoran91_9-0"><sup><b>8.0</b></sup></a> <a href="#cite_ref-FOOTNOTEMoran91_9-1"><sup><b>8.1</b></sup></a> <span class="reference-text"><a href="#CITEREFMoran">Moran</a>, p.&#160;91.</span></li>
+<li id="cite_note-FOOTNOTETaxay10-10"><b><a href="#cite_ref-FOOTNOTETaxay10_10-0">^</a></b> <span class="reference-text"><a href="#CITEREFTaxay">Taxay</a>, p.&#160;10.</span></li>
+<li id="cite_note-FOOTNOTEMoran92.E2.80.9393-11"><b><a href="#cite_ref-FOOTNOTEMoran92.E2.80.9393_11-0">^</a></b> <span class="reference-text"><a href="#CITEREFMoran">Moran</a>, pp.&#160;92–93.</span></li>
+<li id="cite_note-FOOTNOTEMoran93-12"><b><a href="#cite_ref-FOOTNOTEMoran93_12-0">^</a></b> <span class="reference-text"><a href="#CITEREFMoran">Moran</a>, p.&#160;93.</span></li>
+<li id="cite_note-FOOTNOTEMoran91.2C_94-13"><b><a href="#cite_ref-FOOTNOTEMoran91.2C_94_13-0">^</a></b> <span class="reference-text"><a href="#CITEREFMoran">Moran</a>, pp.&#160;91, 94.</span></li>
+<li id="cite_note-FOOTNOTEMoran94-14"><b><a href="#cite_ref-FOOTNOTEMoran94_14-0">^</a></b> <span class="reference-text"><a href="#CITEREFMoran">Moran</a>, p.&#160;94.</span></li>
+<li id="cite_note-FOOTNOTETaxay11-15"><b><a href="#cite_ref-FOOTNOTETaxay11_15-0">^</a></b> <span class="reference-text"><a href="#CITEREFTaxay">Taxay</a>, p.&#160;11.</span></li>
+<li id="cite_note-FOOTNOTEMoran97-16">^ <a href="#cite_ref-FOOTNOTEMoran97_16-0"><sup><b>15.0</b></sup></a> <a href="#cite_ref-FOOTNOTEMoran97_16-1"><sup><b>15.1</b></sup></a> <span class="reference-text"><a href="#CITEREFMoran">Moran</a>, p.&#160;97.</span></li>
+<li id="cite_note-FOOTNOTETaxay11.E2.80.9313-17"><b><a href="#cite_ref-FOOTNOTETaxay11.E2.80.9313_17-0">^</a></b> <span class="reference-text"><a href="#CITEREFTaxay">Taxay</a>, pp.&#160;11–13.</span></li>
+<li id="cite_note-FOOTNOTEVermeule92-18"><b><a href="#cite_ref-FOOTNOTEVermeule92_18-0">^</a></b> <span class="reference-text"><a href="#CITEREFVermeule">Vermeule</a>, p.&#160;92.</span></li>
+<li id="cite_note-FOOTNOTEVermeule92.E2.80.9393-19"><b><a href="#cite_ref-FOOTNOTEVermeule92.E2.80.9393_19-0">^</a></b> <span class="reference-text"><a href="#CITEREFVermeule">Vermeule</a>, pp.&#160;92–93.</span></li>
+<li id="cite_note-FOOTNOTEVermeule93-20">^ <a href="#cite_ref-FOOTNOTEVermeule93_20-0"><sup><b>19.0</b></sup></a> <a href="#cite_ref-FOOTNOTEVermeule93_20-1"><sup><b>19.1</b></sup></a> <span class="reference-text"><a href="#CITEREFVermeule">Vermeule</a>, p.&#160;93.</span></li>
+<li id="cite_note-FOOTNOTETaxay13-21">^ <a href="#cite_ref-FOOTNOTETaxay13_21-0"><sup><b>20.0</b></sup></a> <a href="#cite_ref-FOOTNOTETaxay13_21-1"><sup><b>20.1</b></sup></a> <span class="reference-text"><a href="#CITEREFTaxay">Taxay</a>, p.&#160;13.</span></li>
+<li id="cite_note-FOOTNOTEMoran98-22"><b><a href="#cite_ref-FOOTNOTEMoran98_22-0">^</a></b> <span class="reference-text"><a href="#CITEREFMoran">Moran</a>, p.&#160;98.</span></li>
+<li id="cite_note-FOOTNOTEBowers_Encyclopedia.2C_Part_1-23"><b><a href="#cite_ref-FOOTNOTEBowers_Encyclopedia.2C_Part_1_23-0">^</a></b> <span class="reference-text"><a href="#CITEREFBowers_Encyclopedia.2C_Part_1">Bowers Encyclopedia, Part 1</a>.</span></li>
+<li id="cite_note-FOOTNOTEBowers42-24">^ <a href="#cite_ref-FOOTNOTEBowers42_24-0"><sup><b>23.0</b></sup></a> <a href="#cite_ref-FOOTNOTEBowers42_24-1"><sup><b>23.1</b></sup></a> <span class="reference-text"><a href="#CITEREFBowers">Bowers</a>, p.&#160;42.</span></li>
+<li id="cite_note-FOOTNOTEBowers_Encyclopedia.2C_Part_10-25">^ <a href="#cite_ref-FOOTNOTEBowers_Encyclopedia.2C_Part_10_25-0"><sup><b>24.0</b></sup></a> <a href="#cite_ref-FOOTNOTEBowers_Encyclopedia.2C_Part_10_25-1"><sup><b>24.1</b></sup></a> <span class="reference-text"><a href="#CITEREFBowers_Encyclopedia.2C_Part_10">Bowers Encyclopedia, Part 10</a>.</span></li>
+<li id="cite_note-FOOTNOTEBowers41.E2.80.9342-26">^ <a href="#cite_ref-FOOTNOTEBowers41.E2.80.9342_26-0"><sup><b>25.0</b></sup></a> <a href="#cite_ref-FOOTNOTEBowers41.E2.80.9342_26-1"><sup><b>25.1</b></sup></a> <span class="reference-text"><a href="#CITEREFBowers">Bowers</a>, pp.&#160;41–42.</span></li>
+<li id="cite_note-FOOTNOTEMoran113-27"><b><a href="#cite_ref-FOOTNOTEMoran113_27-0">^</a></b> <span class="reference-text"><a href="#CITEREFMoran">Moran</a>, p.&#160;113.</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id=".E6.9D.A5.E6.BA.90">来源</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;action=edit&amp;section=8" title="编辑小节：来源">编辑</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="refbegin" style="">
+<dl>
+<dt>书籍</dt>
+</dl>
+<ul>
+<li><span id="CITEREFBowers" class="citation book">Bowers, Q. David. A Guide Book of United States Commemorative Coins. Atlanta, Ga.: Whitman Publishing. 2008. <a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0-7948-2256-9" title="Special:网络书源/978-0-7948-2256-9">978-0-7948-2256-9</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;rft.au=Bowers%2C+Q.+David&amp;rft.aufirst=Q.+David&amp;rft.aulast=Bowers&amp;rft.btitle=A+Guide+Book+of+United+States+Commemorative+Coins&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-0-7948-2256-9&amp;rft.place=Atlanta%2C+Ga.&amp;rft.pub=Whitman+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFLange" class="citation book">Lange, David W. History of the United States Mint and its Coinage. Atlanta, Ga.: Whitman Publishing. 2006. <a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0-7948-1972-9" title="Special:网络书源/978-0-7948-1972-9">978-0-7948-1972-9</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;rft.aufirst=David+W.&amp;rft.au=Lange%2C+David+W.&amp;rft.aulast=Lange&amp;rft.btitle=History+of+the+United+States+Mint+and+its+Coinage&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-0-7948-1972-9&amp;rft.place=Atlanta%2C+Ga.&amp;rft.pub=Whitman+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFMoran" class="citation book">Moran, Michael F. Striking Change: The Great Artistic Collaboration of Theodore Roosevelt and Augustus Saint-Gaudens. Atlanta, Ga.: Whitman Publishing. 2008. <a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0-7948-2356-6" title="Special:网络书源/978-0-7948-2356-6">978-0-7948-2356-6</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;rft.aufirst=Michael+F.&amp;rft.aulast=Moran&amp;rft.au=Moran%2C+Michael+F.&amp;rft.btitle=Striking+Change%3A+The+Great+Artistic+Collaboration+of+Theodore+Roosevelt+and+Augustus+Saint-Gaudens&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-0-7948-2356-6&amp;rft.place=Atlanta%2C+Ga.&amp;rft.pub=Whitman+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFTaxay" class="citation book">Taxay, Don. An Illustrated History of U.S. Commemorative Coinage. New York: Arco Publishing. 1967. <a href="/wiki/OCLC" title="OCLC" class="mw-redirect">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/1357564">1357564</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;rft.aufirst=Don&amp;rft.aulast=Taxay&amp;rft.au=Taxay%2C+Don&amp;rft.btitle=An+Illustrated+History+of+U.S.+Commemorative+Coinage&amp;rft.date=1967&amp;rft.genre=book&amp;rft_id=info%3Aoclcnum%2F1357564&amp;rft.place=New+York&amp;rft.pub=Arco+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFSwiatek_.26_Breen" class="citation book">Swiatek, Anthony; Breen, Walter. The Encyclopedia of United States Silver &amp; Gold Commemorative Coins, 1892 to 1954. New York: Arco Publishing. 1981. <a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0-668-04765-4" title="Special:网络书源/978-0-668-04765-4">978-0-668-04765-4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;rft.au=Breen%2C+Walter&amp;rft.aufirst=Anthony&amp;rft.aulast=Swiatek&amp;rft.au=Swiatek%2C+Anthony&amp;rft.btitle=The+Encyclopedia+of+United+States+Silver+%26+Gold+Commemorative+Coins%2C+1892+to+1954&amp;rft.date=1981&amp;rft.genre=book&amp;rft.isbn=978-0-668-04765-4&amp;rft.place=New+York&amp;rft.pub=Arco+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFVermeule" class="citation book">Vermeule, Cornelius. Numismatic Art in America. Cambridge, Mass.: The Belknap Press of Harvard University Press. 1971. <a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0-674-62840-3" title="Special:网络书源/978-0-674-62840-3">978-0-674-62840-3</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;rft.aufirst=Cornelius&amp;rft.aulast=Vermeule&amp;rft.au=Vermeule%2C+Cornelius&amp;rft.btitle=Numismatic+Art+in+America&amp;rft.date=1971&amp;rft.genre=book&amp;rft.isbn=978-0-674-62840-3&amp;rft.place=Cambridge%2C+Mass.&amp;rft.pub=The+Belknap+Press+of+Harvard+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFYeoman" class="citation book">Yeoman, R.S. A Guide Book of United States Coins 67th. Atlanta, GA: Whitman Publishing. 2013. <a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0-7948-4180-5" title="Special:网络书源/978-0-7948-4180-5">978-0-7948-4180-5</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;rft.aufirst=R.S.&amp;rft.aulast=Yeoman&amp;rft.au=Yeoman%2C+R.S.&amp;rft.btitle=A+Guide+Book+of+United+States+Coins&amp;rft.date=2013&amp;rft.edition=67th&amp;rft.genre=book&amp;rft.isbn=978-0-7948-4180-5&amp;rft.place=Atlanta%2C+GA&amp;rft.pub=Whitman+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<dl>
+<dt>其它来源</dt>
+</dl>
+<ul>
+<li><span id="CITEREFBowers_Encyclopedia.2C_Part_1" class="citation web">Bowers, Q. David. <a rel="nofollow" class="external text" href="http://www.pcgs.com/books/commemoratives/Chapter08-001.aspx">Chapter 8: Silver commemoratives (and clad too), Part 1</a>. Commemorative Coins of the United States: A Complete Encyclopedia. <span class="reference-accessdate">[2015-01-06]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20141006022830/http://www.pcgs.com/books/commemoratives/Chapter08-001.aspx">存档</a>于2014-10-06）.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;rft.atitle=Chapter+8%3A+Silver+commemoratives+%28and+clad+too%29%2C+Part+1&amp;rft.au=Bowers%2C+Q.+David&amp;rft.aufirst=Q.+David&amp;rft.aulast=Bowers&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.pcgs.com%2Fbooks%2Fcommemoratives%2FChapter08-001.aspx&amp;rft.jtitle=Commemorative+Coins+of+the+United+States%3A+A+Complete+Encyclopedia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> For further information on source, see <a rel="nofollow" class="external text" href="http://www.pcgs.com/books/commemoratives/">here</a>.</li>
+<li><span id="CITEREFBowers_Encyclopedia.2C_Part_8" class="citation web">Bowers, Q. David. <a rel="nofollow" class="external text" href="http://www.pcgs.com/books/commemoratives/Chapter08-008.aspx">Chapter 8: Silver commemoratives (and clad too), Part 8</a>. Commemorative Coins of the United States: A Complete Encyclopedia. <span class="reference-accessdate">[2015-01-06]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150106135216/http://www.pcgs.com/books/commemoratives/Chapter08-008.aspx">存档</a>于2015-01-06）.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;rft.atitle=Chapter+8%3A+Silver+commemoratives+%28and+clad+too%29%2C+Part+8&amp;rft.au=Bowers%2C+Q.+David&amp;rft.aufirst=Q.+David&amp;rft.aulast=Bowers&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.pcgs.com%2Fbooks%2Fcommemoratives%2FChapter08-008.aspx&amp;rft.jtitle=Commemorative+Coins+of+the+United+States%3A+A+Complete+Encyclopedia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> For further information on source, see <a rel="nofollow" class="external text" href="http://www.pcgs.com/books/commemoratives/">here</a>.</li>
+<li><span id="CITEREFBowers_Encyclopedia.2C_Part_10" class="citation web">Bowers, Q. David. <a rel="nofollow" class="external text" href="http://www.pcgs.com/books/commemoratives/Chapter08-010.aspx">Chapter 8: Silver commemoratives (and clad too), Part 10</a>. Commemorative Coins of the United States: A Complete Encyclopedia. <span class="reference-accessdate">[2015-01-06]</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20141006020212/http://www.pcgs.com/books/commemoratives/Chapter08-010.aspx">存档</a>于2014-10-06）.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;rft.atitle=Chapter+8%3A+Silver+commemoratives+%28and+clad+too%29%2C+Part+10&amp;rft.au=Bowers%2C+Q.+David&amp;rft.aufirst=Q.+David&amp;rft.aulast=Bowers&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.pcgs.com%2Fbooks%2Fcommemoratives%2FChapter08-010.aspx&amp;rft.jtitle=Commemorative+Coins+of+the+United+States%3A+A+Complete+Encyclopedia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> For further information on source, see <a rel="nofollow" class="external text" href="http://www.pcgs.com/books/commemoratives/">here</a>.</li>
+</ul>
+</div>
+<div class="metadata topicon noprint nopopups" title="" id="FA" style="display: none;padding:0px 2px;"><a href="/wiki/Wikipedia:%E7%89%B9%E8%89%B2%E6%9D%A1%E7%9B%AE" title="这是特色条目，点此获取更多信息。"><img alt="这是特色条目，点此获取更多信息。" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/20px-Cscr-featured.svg.png" width="20" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a></div>
+
+
+<!--
+NewPP limit report
+Parsed by mw1053
+CPU time usage: 0.886 seconds
+Real time usage: 0.966 seconds
+Preprocessor visited node count: 10800/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 73785/2097152 bytes
+Template argument size: 8556/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 1/500
+Lua time usage: 0.249/10.000 seconds
+Lua memory usage: 4.85 MB/50 MB
+-->
+
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  709.962      1 - -total
+ 47.09%  334.340      7 - Template:Infobox
+ 31.55%  223.964      1 - Template:Infobox_coin
+ 18.56%  131.775      1 - Template:NoteTA
+ 16.90%  120.006     24 - Template:Lang
+ 15.56%  110.490     38 - Template:Sfn
+ 14.10%  100.081     24 - Template:Category_handler
+  7.58%   53.800      7 - Template:Cite_book
+  7.16%   50.810      2 - Template:Convert
+  6.61%   46.959     38 - Template:Harvard_citation/core
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:idhash:4453396-0!*!0!!zh!4!zh!* and timestamp 20150129070224 and revision id 34133682
+ -->
+<noscript><img src="//zh.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						取自“<a dir="ltr" href="http://zh.wikipedia.org/w/index.php?title=伊莎贝拉25美分硬币&amp;oldid=34133682">http://zh.wikipedia.org/w/index.php?title=伊莎贝拉25美分硬币&amp;oldid=34133682</a>”					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：<ul><li><a href="/wiki/Category:%E7%BE%8E%E5%85%83%E7%A1%AC%E5%B9%A3" title="Category:美元硬幣">美元硬幣</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：<ul><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8%E6%97%A0%E6%95%B0%E6%8D%AE%E8%A1%8C%E4%BF%A1%E6%81%AF%E6%A1%86%E6%A8%A1%E6%9D%BF%E7%9A%84%E6%9D%A1%E7%9B%AE" title="Category:使用无数据行信息框模板的条目">使用无数据行信息框模板的条目</a></li><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英語的條目</a></li><li><a href="/wiki/Category:%E7%89%B9%E8%89%B2%E6%9D%A1%E7%9B%AE" title="Category:特色条目">特色条目</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>导航菜单</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">个人工具</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;type=signup" title="我们鼓励您创建一个账户并登录；然而这不是强制的">创建账户</a></li><li id="pt-login"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" title="建议你登录，尽管并非必须。[o]" accesskey="o">登录</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">命名空间</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81"  title="浏览条目正文[c]" accesskey="c">条目</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81"  title="关于此页面的讨论[t]" accesskey="t">讨论</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>不转换</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+																	<li id="ca-varlang-0" class="selected"><a href="/zh/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" lang="zh" hreflang="zh" >不转换</a></li>
+																	<li id="ca-varlang-1"><a href="/zh-hans/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" lang="zh-Hans" hreflang="zh-Hans" >简体</a></li>
+																	<li id="ca-varlang-2"><a href="/zh-hant/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" lang="zh-Hant" hreflang="zh-Hant" >繁體</a></li>
+																	<li id="ca-varlang-3"><a href="/zh-cn/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" lang="zh-CN" hreflang="zh-CN" >大陆简体</a></li>
+																	<li id="ca-varlang-4"><a href="/zh-hk/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" lang="zh-HK" hreflang="zh-HK" >香港繁體</a></li>
+																	<li id="ca-varlang-5"><a href="/zh-mo/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" lang="zh-MO" hreflang="zh-MO" >澳門繁體</a></li>
+																	<li id="ca-varlang-6"><a href="/zh-sg/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" lang="zh-SG" hreflang="zh-SG" >马新简体</a></li>
+																	<li id="ca-varlang-7"><a href="/zh-tw/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" lang="zh-TW" hreflang="zh-TW" >台灣正體</a></li>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">视图</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" >阅读</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;action=edit"  title="你可以编辑本页面。请在保存前使用预览按钮[e]" accesskey="e">编辑</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;action=history"  title="本页面的早前版本。[h]" accesskey="h">查看历史</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>更多</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">搜索</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="搜索" title="搜索维基百科[f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:搜索" name="title" /><input type="submit" name="fulltext" value="搜索" title="搜索含这些文字的页面" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="前往" title="如果相同的标题存在的话便直接前往该页面" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5"  title="首页"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>导航</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z">首页</a></li>
+													<li id="n-indexpage"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科">分类索引</a></li>
+													<li id="n-Featured_content"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容">特色内容</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料">新闻动态</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]" accesskey="r">最近更改</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]" accesskey="x">随机条目</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-help' aria-labelledby='p-help-label'>
+			<h3 id='p-help-label'>帮助</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助">帮助</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做">维基社群</a></li>
+													<li id="n-policy"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引">方针与指引</a></li>
+													<li id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论">互助客栈</a></li>
+													<li id="n-Information_desk"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方">知识问答</a></li>
+													<li id="n-conversion"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求">字词转换</a></li>
+													<li id="n-IRC"><a href="//zh.wikipedia.org/wiki/Wikipedia:IRC聊天频道/IRC?withJS=MediaWiki:Gadget-irc.js">IRC即时聊天</a></li>
+													<li id="n-contact"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科">联络我们</a></li>
+													<li id="n-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介">关于维基百科</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_zh.wikipedia.org&amp;uselang=zh" title="如果您在維基百科受益良多，您可以考慮資助我們">资助维基百科</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>工具</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" title="列出所有与本页相链的页面[j]" accesskey="j">链入页面</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81" title="页面链出所有页面的更改[k]" accesskey="k">相关更改</a></li>
+													<li id="t-upload"><a href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]" accesskey="u">上传文件</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]" accesskey="q">特殊页面</a></li>
+													<li id="t-print"><a href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;printable=yes" rel="alternate" title="本页面的可打印版本[p]" accesskey="p">打印页面</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;oldid=34133682" title="本页面该版本的固定链接">固定链接</a></li>
+													<li id="t-info"><a href="/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;action=info" title="关于此页面的更多信息">页面信息</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q6078153" title="查看连接的数据存储库项[g]" accesskey="g">维基数据项</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;id=34133682" title="关于如何引用本页的信息">引用本页</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>其他语言</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-en badge-Q17437796 badge-featuredarticle" title="特色条目"><a href="//en.wikipedia.org/wiki/Isabella_quarter" title="Isabella quarter – 英文" lang="en" hreflang="en">English</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q6078153#sitelinks-wikipedia" text="编辑链接" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> 本页面最后修订于2015年1月29日 (星期四) 05:46。</li>
+											<li id="footer-info-copyright">本站的全部文字在<a rel="license" href="//zh.wikipedia.org/wiki/Wikipedia:CC-BY-SA-3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC" title="Wikipedia:CC-BY-SA-3.0协议文本">知识共享 署名-相同方式共享 3.0协议</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/deed.zh" style="display:none;"></a>之条款下提供，附加条款亦可能应用。（请参阅<a href="//wikimediafoundation.org/wiki/%E4%BD%BF%E7%94%A8%E6%9D%A1%E6%AC%BE">使用条款</a>）<br />
+Wikipedia&reg;和维基百科标志是<a href="//wikimediafoundation.org">维基媒体基金会</a>的注册商标；维基&trade;是维基媒体基金会的商标。<br />
+维基媒体基金会是在美国佛罗里达州登记的501(c)(3)<a href="//wikimediafoundation.org/wiki/%E8%B5%84%E5%8A%A9%E7%9A%84%E5%85%8D%E7%A8%8E%E6%94%BF%E7%AD%96">免税</a>、非营利、慈善机构。<br /></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96" title="wikimedia:隐私政策">隐私政策</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="Wikipedia:关于">关于维基百科</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="Wikipedia:免责声明">免责声明</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">开发者</a></li>
+											<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E4%BC%8A%E8%8E%8E%E8%B4%9D%E6%8B%8925%E7%BE%8E%E5%88%86%E7%A1%AC%E5%B8%81&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf14/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips","ext.gadget.UnihanTooltips","ext.gadget.FixedTopBottomLink","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.noteTAvector","ext.gadget.NavFrame","ext.gadget.collapsibleTables","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;33953681"></script>
+<script src="/w/index.php?title=MediaWiki:Gadget-UnihanTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;31819151"></script>
+<script src="/w/index.php?title=MediaWiki:Gadget-FixedTopBottomLinkLeftSide.js&amp;action=raw&amp;ctype=text/javascript&amp;31720837"></script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/zh.wikipedia.org/load.php?debug=false\u0026amp;lang=zh\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":203,"wgHostname":"mw1081"});
+}</script>
+	</body>
+</html>

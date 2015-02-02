@@ -1,0 +1,1914 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head prefix="og: http://ogp.me ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="UTF-8">
+<title>Les obsèques d&#039;Hervé Gourdel célébrées dans l&#039;intimité à Nice - Le Point</title>
+<meta name="description" content="Ségolène Royal représentait le gouvernement lors des funérailles du guide de montage enlevé et décapité par des djihadistes en Algérie. " />
+<meta name="news_keywords" content="Société, Hervé Gourdel, obsèques, terrorisme, djihadisme" />
+<meta itemprop="inLanguage" content="fr" />
+<meta itemprop="genre" content="Article" />
+<meta itemprop="wordCount" content="402" />
+<meta property="fb:app_id" content="130865693665342"/>
+<meta property="article:section" content="Société"/>
+<meta property="article:published_time" content="2015-01-30T16:16"/>
+<meta property="article:modified_time" content="2015-01-30T16:16"/>
+<meta property="article:author" content="" />
+<meta property="article:tag" content="Société" />
+<meta property="article:tag" content="Hervé Gourdel" />
+<meta property="article:tag" content="obsèques" />
+<meta property="article:tag" content="terrorisme" />
+<meta property="article:tag" content="djihadisme" />
+<meta itemprop="thumbnailUrl" name="thumbnail" content="http://www.lepoint.fr/images/2015/01/30/gourdel-3076234-jpg_2691758_113x76.JPG" />
+<meta itemprop="articleSection" content="Société" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://mobile.lepoint.fr/societe/les-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901077_23.php" />
+<link rel="alternate" media="handheld" href="http://mobile.lepoint.fr/societe/les-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901077_23.php" />
+<meta name="author"  content="Le Point, magazine" />
+<!--COL CHH -->
+<!--BLOC HTMLHEADER - htmlheader - DYN-->
+<!--bMiso - bloc_htmlheader.tpl-->
+<meta name="Identifier-URL" content="http://www.lepoint.fr" />
+<meta name="publisher" content="Le Point" />
+<meta name="copyright" content="Le Point" />
+<meta name="apple-itunes-app" content="app-id=326861451" />
+<meta name="robots" content="index, follow" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/css2/css_869f25bfaf7f8ad804f572bc462d04a5.css" />
+<link rel="stylesheet" type="text/css" href="/css2/spoutnik/mod_article.css" />
+<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/jquery-ui.css" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts2/colorbox/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="/scripts2/spoutnik/plugins/jquery.fancybox.js"></script>
+<script language="JavaScript" type="text/javascript">ord=Math.random()*10000000000000000;tile=0;rub="actualite/societe";type="article";thematique="societe";sousthema=null;auteur=null;dossier=null;marque=null;recherche=null;id="1901077";compte="non";abonne="non";</script>
+<!-- Ezakus -->
+<script type='text/javascript'>
+//<!--
+var ezMarkerType = 'asq';
+var ezC = ["g:lepoint","d:lepoint","flt:0","cat:societe"];
+var ezFmt = 'lepoint';
+(function(){
+var s = document.createElement("script");
+s.type = "text/javascript";
+s.src = document.location.protocol + "//asq.ezakus.net/marker/";
+s.async = true;
+var head = document.head || document.getElementsByTagName("head")[0];
+head.appendChild(s);
+})();
+//-->
+</script>
+<!-- /Ezakus -->
+<!--BASILIC-->
+<script type="text/javascript">
+var FOGLIO=window.FOGLIO||{};FOGLIO.queue=FOGLIO.queue||{};FOGLIO.tag_s=new Date().getTime();FOGLIO.app_id="172";FOGLIO.cr=0.3;FOGLIO.sr=1;FOGLIO.ft="c83a7f6dc064ccf54353bb10d88d69b6933a23e5";FOGLIO.q=function(a,b){FOGLIO.queue[a]=FOGLIO.queue[a]||[];FOGLIO.queue[a].push(b)};FOGLIO.q('segment', {name: 'pagetype', value: 'article'});
+</script>
+<!--FIN BASILIC-->
+<!--[if lt IE 9]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('hgroup');
+document.createElement('figure');
+document.createElement('figcaption');
+</script>
+<![endif]-->
+<!--/BLOC HTMLHEADER - htmlheader - DYN-->
+<!--/COL CHH --><link rel="alternate" type="application/rss+xml" title="Le Point.fr : Société" href="/societe/rss.xml" />
+<meta property="og:title" content=" Les obsèques d&#039;Hervé Gourdel célébrées dans l&#039;intimité à Nice" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.lepoint.fr/societe/les-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901077_23.php" />
+<meta property="og:image" content="http://www.lepoint.fr/images/2015/01/30/gourdel-3076231-jpg_2691757.JPG" />
+<meta property="og:site_name" content="Le Point.fr"/>
+<meta property="og:description" content="Ségolène Royal représentait le gouvernement lors des funérailles du guide de montage enlevé et décapité par des djihadistes en Algérie. "/>
+<meta property="twitter:card" content="summary" />
+<meta name="twitter:site" content="@LePoint">
+<meta property="twitter:url" content="http://www.lepoint.fr/societe/les-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901077_23.php" />
+<meta name="twitter:creator" content="@LePoint">
+<meta name="twitter:title" content=" Les obsèques d&#039;Hervé Gourdel célébrées dans l&#039;intimité à Nice">
+<meta name="twitter:description" content="Ségolène Royal représentait le gouvernement lors des funérailles du guide de montage enlevé et décapité par des djihadistes en Algérie. ">
+<meta name="twitter:image" content="http://www.lepoint.fr/images/2015/01/30/gourdel-3076231-jpg_2691757.JPG">
+<meta property="og:count" content="0"/>
+<!-- tag google analytics -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-6448559-1']);
+_gaq.push(['_setDomainName', '.lepoint.fr']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- fin tag google analytics -->
+<script type="text/javascript">if(parent.location != self.location){parent.location=self.location;}</script>
+</head>
+<body itemscope itemtype='http://schema.org/WebPage'>
+<!-- Site -->
+<div id="site">
+<!-- article_2col -->
+<!-- template body :  body_article_2col.tpl -->
+<!--COL CHD -->
+<header>
+<!--BLOC HEADER - Liens l'univers du Point - STATIC - HEADER v.2-->
+<!--bH:-->
+<!--/BLOC HEADER - Liens l'univers du Point - STATIC - HEADER v.2-->
+<!--BLOC HEADER - Liens réseaux  - STATIC - HEADER v.2-->
+<!--bH:-->
+<!--/BLOC HEADER - Liens réseaux  - STATIC - HEADER v.2-->
+<!--BLOC Le Point - Pub Bandeau Horizontal Haut - 728x90 944x90-->
+<!--bH:-->
+<!--/BLOC Le Point - Pub Bandeau Horizontal Haut - 728x90 944x90-->
+<!--BLOC HEADER - Vignette - STATIC - HEADER v.2-->
+<!--bH:-->
+<!--/BLOC HEADER - Vignette - STATIC - HEADER v.2-->
+<!--BLOC HEADER - Nouveau header - DYN - HEADER v.2-->
+<!--bMiso - bloc_header.tpl-->
+<div id="univers">
+<!-- Mon compte -->
+<div id="liste_univers">
+<a href="http://afrique.lepoint.fr" id="lepointafrique" onClick="return xt_click(this,'C','214','Header::Sites_Groupe::Le_Point_Afrique','N')">Le Point Afrique</a>
+<a href="http://www.bellesmontres.com" id="argus" onClick="return xt_click(this,'C','214','Header::Sites_Groupe::Argus_des_montres','S')" target="_blank">Belles Montres</a>
+<a href="http://www.lepoint.fr/golf/" id="lepointgolf" onClick="return xt_click(this,'C','214','Header::Sites_Groupe::Point_Golf','N')">Le Point Golf</a>
+<a onClick="return xt_click(this,'C','214','Header::Sites_Groupe::Point_Etudiants','N')" href="http://etudiants.lepoint.fr/" target="_blank">Le Point Etudiants</a>
+<a href="http://www.lepoint.fr/vin/" id="guideduvin" style="border-right: 1px solid #464646;" onClick="return xt_click(this,'C','214','Header::Sites_Groupe::Guide_du_vin','N')">Guide du vin</a>
+<a target="_blank" style="border-right: 1px solid #464646;" href="http://www.vinobravo.fr/">Vino Bravo</a> </div>
+<div id="liste_services">
+<div id="lancement">
+<a href="#" id="services-lepoint" class="niveau2">Services Le Point</a>
+<div style="display: none;" class="dhtml2" id="lesservices">
+<div class="colonne colonne1">
+<dl class="listeservices">
+<dt>Boutique Le Point</dt>
+<dd><a href="http://abo.lepoint.fr/" onclick="return xt_adc(this, 'INT-142-[lienTexte]')" target="_blank">Abonnement</a></dd>
+<dd><a href="http://boutique.lepoint.fr/rayon/133/hors-serie" onclick="return xt_adc(this, 'INT-149-[lienTexte]')" target="_blank">Hors-séries</a></dd>
+<!-- <dd><a href="http://boutique.lepoint.fr/rayon/135/numeros-speciaux" onclick="return xt_adc(this, 'INT-150-[lienTexte]')" target="_blank">Numéros spéciaux</a></dd> -->
+<dd><a href="http://boutique.lepoint.fr/rayon/147/anciens-numeros" onclick="return xt_adc(this, 'INT-151-[lienTexte]')" target="_blank">Anciens numéros</a></dd>
+<!-- <dd><a href="http://boutique.lepoint.fr/rayon/139/livres-cd-dvd" onclick="return xt_adc(this, 'INT-152-[lienTexte]')" target="_blank">Livres - CD - DVD</a></dd>
+<dd><a href="http://boutique.lepoint.fr/rayon/137/editions-la-boetie" onclick="return xt_adc(this, 'INT-153-[lienTexte]')" target="_blank">Editions La Boétie</a></dd> -->
+</dl>
+<dl class="listeservices">
+<dt>Evénéments</dt>
+<dd><a href="http://www.lepoint.fr/html/lepoint/conferences.php" onclick="return xt_click(this,'C','214','Header::Evenements::Conferences','N')">Conférences</a></dd>
+<dd><a href="http://www.futurapolis.fr" onclick="return xt_click(this,'C','214','Header::Evenements::Futurapolis','N')">Futurapolis</a></dd>
+<dd><a href="http://www.vinobravo.fr" onclick="return xt_click(this,'C','214','Header::Evenements::Vino Bravo','N')">Vino Bravo</a></dd>
+</dl>
+<dl class="listeservices">
+<dt>Annonces</dt>
+<dd><a href="http://www.lepoint.fr/emploi/" onclick="return xt_click(this,'C','214','Header::Annonces::Emploi','N')">Emploi</a></dd>
+<dd><a href="http://www.lepoint.fr/immobilier/" onclick="return xt_click(this,'C','214','Header::Annonces::Immobilier','N')">Immobilier</a></dd>
+<dd><a href="http://www.lepoint.fr/immobilier-neuf/" onclick="return xt_click(this,'C','214','Header::Annonces::Immobilier_Neuf','N')">Immobilier Neuf</a></dd>
+</dl>
+</div>
+<div class="colonne colonne2">
+<dl class="listeservices">
+<dt>Numéro de la semaine</dt>
+<dd>
+<a onclick="return xt_adc(this, 'INT-162-[couv]')" href="http://www.lepoint.fr/versions-numeriques/" class="visuel">
+<img src="/images/couv/lepoint2212-les-chirac-revelations-sur-un-destin-francais5.jpg" title="Le Point Numéro 2212"  alt="Le Point Numéro 2212" width="74" height="95"/>
+</a>
+</dd>
+</dl>
+<dl class="listeservices">
+<dt><a href="http://jeux-concours.lepoint.fr/" onclick="return xt_click(this,'C','214','Header::Loisirs::Jeux_concours','N')"><strong>Jeux-concours</strong></a></dt>
+</dl>
+<dl class="listeservices">
+<dt>Au quotidien</dt>
+<dd><a href="http://www.lepoint.fr/html/meteo/" onclick="return xt_click(this,'C','214','Header::Au_quotidien::Meteo','N')">Météo</a></dd>
+<dd><a href="http://bourse.lepoint.fr/" onclick="return xt_click(this,'C','214','Header::Au_quotidien::Bourse','N')">Bourse</a></dd>
+<dd><a href="http://www.lepoint.fr/html/programme-tele/" onclick="return xt_click(this,'C','214','Header::Au_quotidien::Programme_tele','N')">Programme télé</a></dd>
+</dl>
+</div>
+</div>
+</div>
+<a id="moncomptelogin" class="identifiez iframe" onclick="return xt_click(this,'C','214','Header::Bloc_central::Identifiez_vous','N');" href="http://boc.lepoint.fr/">Identifiez-vous</a>
+<div id="promo-abonnez-vous" style="float: left;"><a href="http://abo.lepoint.fr" [^]="" target="_blank" onclick="return xt_adc(this, 'INT-139-[Button]')" id="moncomptelogin">Abonnez-vous au Point à partir de 1 €</a></div>
+</div>
+</div><div id="bandeau">
+<div class="g">
+<p itemscope itemtype="http://schema.org/Organization">
+<a itemprop="url" href="/">
+<img itemprop="logo" alt="Site d'actualité Le Point" src="/images/commun3/nouvoheader/logo-lepointfr.png" width="253" height="46"/>
+</a>
+<span>Mise à jour le 30 janvier à 17h07</span>
+</p>
+<ul id="liens">
+<li><a href="http://boc.lepoint.fr/campagne/newsletters/origine/nlh" onclick="return xt_click(this,'C','214','Header::Bloc_central::Recevez_nos_newsletters','N')">Recevez nos newsletters</a></li>
+<li id="reseauxsociauxHeader"><span>Suivez-nous </span> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::Facebook','S')" target="_blank" href="https://www.facebook.com/lepoint.fr" class="bouton1">Facebook</a> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::Twitter','S')" target="_blank" href="https://twitter.com/LePoint" class="bouton2">Twitter</a> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::GooglePlus','S')" target="_blank" href="https://plus.google.com/+LePointfr" class="bouton3">Google plus</a> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::Flux_RSS','N')" target="_blank" href="http://www.lepoint.fr/rss.xml" class="bouton4" target="_blank">RSS</a> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::Mobile','N')" target="_blank" href="http://www.lepoint.fr/mobiles/" class="bouton5">Applis Mobile</a></li>
+<li><a href="http://www.lepoint.fr/html/lepoint/en_kiosque.php" onclick="return xt_click(this,'C','214','Header::Bloc_central::Sommaire_magazine','N')">Sommaire du magazine</a><br>
+</li>
+</ul>
+<div class="col1">
+<!-- Recherche -->
+<form action="/recherche/recherche.php" method="get" id="search1">
+<input name="query" type="text" class="inputsearch focusInput" maxlength="150" value="Rechercher sur le site"  />
+<input type="submit" class="bouton" alt="Rechercher" value="" />
+</form>
+</div>
+</div>
+<div class="d">
+<link href="http://www.lepoint.fr/html/timekeeper/template/style.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+window.onload = function() {
+      if(document.getElementsByTagName('body')[0].style.MozTransform == ''
+         || document.getElementsByTagName('body')[0].style.WebkitTransform == ''
+         || document.getElementsByTagName('body')[0].style.OTransform == ''
+		 || document.getElementsByTagName('body')[0].style.transform == '') {
+	    function hand() {
+		  handS.style.MozTransform    =
+		  handS.style.WebkitTransform =
+		  handS.style.OTransform      =
+		  handS.style.transform       = 'rotate(' + (time * 6) + 'deg)';
+		  handM.style.MozTransform    =
+		  handM.style.WebkitTransform =
+		  handM.style.OTransform      =
+		  handM.style.transform       = 'rotate(' + (time / 10) + 'deg)';
+		  handH.style.MozTransform    =
+		  handH.style.WebkitTransform =
+		  handH.style.OTransform      =
+		  handH.style.transform       = 'rotate(' + (time / 120) + 'deg)';
+	    }
+	    var handH = document.getElementById('handH');
+	    var handM = document.getElementById('handM');
+	    var handS = document.getElementById('handS');
+	    var timekeeper = document.getElementById('timekeeper');
+	    var d = new Date();
+	    var time = d.getSeconds() + 60 * d.getMinutes() + 3600 * d.getHours();
+	    hand();
+	    setInterval(function() {time = time+0.20; hand();}, 200);
+		setInterval(function() {r = new Date(); time = r.getSeconds() + 60 * r.getMinutes() + 3600 * r.getHours(); hand()}, 10000);
+      }
+
+};
+</script>
+<script src="http://www.lepoint.fr/html/timekeeper/swf/Scripts/swfobject_modified.js" type="text/javascript">swfobject.registerObject("FlashID");</script>
+<object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="88" height="77">
+  <param name="movie" value="http://www.lepoint.fr/html/timekeeper/swf/timekeeper2014.swf">
+  <param name="quality" value="high">
+  <param name="wmode" value="opaque">
+  <param name="swfversion" value="8.0.35.0">
+  <!-- Cette balise <param> invite les utilisateurs de Flash Player en version 6.0 r65 et ultérieure à télécharger la version la plus récente de Flash Player. Supprimez-la si vous ne voulez pas que cette invite soit visible. -->
+  <param name="expressinstall" value="http://www.lepoint.fr/html/timekeeper/swf/Scripts/expressInstall.swf">
+  <!-- La balise <object> suivante est destinée aux navigateurs autres qu'IE. Supprimez-la d'IE à l'aide d'IECC. -->
+  <!--[if !IE]>-->
+  <object type="application/x-shockwave-flash" data="http://www.lepoint.fr/html/timekeeper/swf/timekeeper2014.swf" width="88" height="77">
+    <!--<![endif]-->
+  <param name="quality" value="high">
+  <param name="wmode" value="opaque">
+  <param name="swfversion" value="8.0.35.0">
+  <param name="expressinstall" value="http://www.lepoint.fr/html/timekeeper/swf/Scripts/expressInstall.swf">
+  <!-- Le navigateur affichera le contenu alternatif suivant pour les utilisateurs d'un lecteur Flash de version 6.0 ou de versions plus anciennes. -->
+  <div id="timekeeper">
+    <a href="http://www.bellross.com/index.php?bannerId=13&refererId=37&utm_source=lepoint&utm_medium=timekeeper&utm_medium=carbon" target="_blank" class="link"></a> <img src="http://www.lepoint.fr/html/timekeeper/template/images/handH.png" class="hand" id="handH" alt="heure"/> <img src="http://www.lepoint.fr/html/timekeeper/template/images/handM.png" class="hand" id="handM" alt="minute"/> <img src="http://www.lepoint.fr/html/timekeeper/template/images/handS.png" class="hand" id="handS" alt="seconde"/>
+  </div>
+  <!--[if !IE]>-->
+  </object>
+  <!--<![endif]-->
+</object>
+</div>
+</div>
+<!-- PUB -->
+<!-- /PUB -->
+<nav>
+<div id="menu">
+<ul class="clearfix">
+<li class="first">
+<a class="niveau1 in" href="/">Actualit&eacute;</a>
+</li>
+<!--<li id="mondial2014">
+<a href="/coupe-du-monde-2014/" title="Coupe du monde 2014" class="niveau1 ">Mondial 2014</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/coupe-du-monde-2014/" title="Coupe du monde 2014">Mondial 2014</a></li>
+<li><a href="/coupe-du-monde-2014/equipes/france/" title="Les Bleus">Les Bleus</a></li>
+<li><a href="/coupe-du-monde-2014/groupes/groupe-e/" title="Groupes">Groupes</a></li>
+<li><a href="/coupe-du-monde-2014/equipes/bresil/" title="Equipes">Equipes</a></li>
+<li><a href="/coupe-du-monde-2014/matches-en-direct/" title="Lives">Lives</a></li>
+<li><a href="/coupe-du-monde-2014/classement/" title="Classement">Classement</a></li>
+<li><a href="/coupe-du-monde-2014/saccomano-refait-le-mondial/" title="Sacco refait le Mondial">Sacco refait le Mondial</a></li>
+<li><a href="/coupe-du-monde-2014/sondages/" title="Sondages">Sondages</a></li>
+<li><a href="/coupe-du-monde-2014/diaporamas/" title="Diaporamas">Diaporamas</a></li>
+<li><a href="/coupe-du-monde-2014/portrait-afrique/" title="Portraits">Portraits</a></li>
+<li><a href="/coupe-du-monde-2014/histoire/" title="Histoire">Histoire</a></li>
+<li><a href="/coupe-du-monde-2014/resultats/" title="Résultats">Résultats</a></li>
+</ul>
+</div>
+</li>-->
+<li>
+<a href="/politique/" title="Politique" class="niveau1 " >Politique</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/politique/" title="Politique">Politique</a></li>
+<li><a href="/invites-du-point/philippe-tesson/" title="Philippe Tesson">Philippe Tesson</a></li>
+<li><a href="/invites-du-point/michele-cotta/" title="Michèle Cotta" >Michèle Cotta</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/economie/" title="&Eacute;conomie" class="niveau1 " >&Eacute;conomie</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/economie/" title="Economie">&Eacute;conomie</a></li>
+<li><a href="/argent/" title="Argent">Argent</a></li>
+<li><a href="http://bourse.lepoint.fr/" title="Bourse">Bourse</a></li>
+<li><a href="/immobilier/" title="Immobilier" >Immobilier</a></li>
+<li><a href="/immobilier-neuf/" title="Immobilier neuf" >Immobilier neuf</a></li>
+<li><a href="/emploi/" title="Emploi">Emploi</a></li>
+<li><a href="/futurapolis/innovation-sociale/" title="Innovation sociale">Innovation sociale</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/high-tech-internet/" title="Tech &amp; Net" class="niveau1 ">Tech &amp; Net</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/high-tech-internet/" title="Tech &amp; Net">Tech &amp; Net</a></li>
+<li class="gdn"><a href="/guide-du-numerique/" title="Guide du num&eacute;rique">Guide du num&eacute;rique</a></li>
+<li class="jeuxvideo"><a href="/jeux-video/" title="Jeux vid&eacute;o">Jeux vid&eacute;o</a></li>
+<li><a href="/high-tech-internet/planete-appli/" title="Plan&egrave;te Appli">Plan&egrave;te Appli</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/sport/" title="Sports" class="niveau1 ">Sports</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/sport/" title="Sports">Sports</a></li>
+<li><a href="/sport/football/" title="Football">Football</a></li>
+<li><a href="/sport/football/ligue-1/" title="Ligue1">Ligue 1</a></li>
+<li><a href="/golf/" title="Golf">Golf</a></li>
+<li><a href="http://sport.lepoint.fr/motor/formule-1/classements" title="Formule 1">Formule 1</a></li>
+<li><a href="/poker/" title="Poker">Poker</a></li>
+<!--<li><a href="/coupe-du-monde-2014/" title="Coupe du monde 2014">Mondial 2014</a></li>-->
+</ul>
+</div>
+</li>
+<li>
+<a href="/sante/" title="Sant&eacute;" class="niveau1 ">Sant&eacute;</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/sante/" title="Sant&eacute;">Sant&eacute;</a></li>
+<li><a href="http://hopitaux.lepoint.fr" title="Palmar&egrave;s des H&ocirc;pitaux et des cliniques">Palmar&egrave;s des H&ocirc;pitaux et des cliniques</a></li>
+<li class="partenaires"><a title="Entra&icirc;nement c&eacute;r&eacute;bral" href="/entrainement-cerebral/">Entra&icirc;nement c&eacute;r&eacute;bral</a></li>
+<li><a href="/sante/phytotherapie/" title="Phytothérapie">Phytothérapie</a></li>
+<li><a href="/sante/kine/" title="Kinésithérapie">Kinésithérapie</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/culture/" title="Culture" class="niveau1 ">Culture</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/culture/" title="Culture">Culture</a></li>
+<li><a href="/cinema/" title="Cin&eacute;ma">Cin&eacute;ma</a></li>
+<li><a href="/series-tv/" title="Séries TV">Séries TV</a></li>
+<li><a href="/bandes-annonces/" title="Bandes-annonces">Bandes-annonces</a></li>
+<li><a href="/people/" title="People">People</a></li>
+<li><a href="/livres/" title="Livres">Livres</a></li>
+<li><a href="/arts/" title="Arts">Arts</a></li>
+<li><a href="/musique/" title="Musique">Musique</a></li>
+<li><a href="/histoire/" title="Histoire">Histoire</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/sciences-nature/" title="Sciences & Nature" class="niveau1 ">Sciences & Nature</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/sciences-nature/" title="Sciences & Nature">Sciences & Nature</a></li>
+<li><a href="/astronomie/" title="Astronomie">Astronomie</a></li>
+<li><a href="/environnement/" title="Environnement">Environnement</a></li>
+<li><a href="/science/" title="Sciences">Sciences</a></li>
+<li><a href="/innovation/" title="Innovation">Innovation</a></li>
+<li><a href="/futurapolis/" title="Futurapolis">Futurapolis</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/art-de-vivre/" title="Lifestyle" class="niveau1 ">Lifestyle</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/art-de-vivre/" title="Lifestyle">Lifestyle</a></li>
+<li><a href="/golf/" title="Golf">Golf</a></li>
+<li><a href="/voyages/" title="Voyages">Voyages</a></li>
+<li><a href="/gastronomie/" title="Gastronomie">Gastronomie</a></li>
+<li><a href="/mode-design/" title="Mode & Design">Mode & Design</a></li>
+<!--li><a href="/design/" title="Design">Design</a></li-->
+</ul>
+</div>
+</li>
+<li>
+<a href="/automobile/" title="Automobile" class="niveau1 ">Automobile</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/automobile/" title="Automobile">Automobile</a></li>
+<li><a href="/automobile/actualites/" title="Actualité">Actualité</a></li>
+<li><a href="/automobile/essais/" title="Essais">Essais</a></li>
+<li><a href="/automobile/securite/" title="S&eacute;curit&eacute;">S&eacute;curit&eacute;</a></li>
+<li><a href="/automobile/salons/" title="Salons">Salons</a></li>
+<li><a href="/automobile/sports-et-reves/" title="Sports et R&ecirc;ves">Sport</a></li>
+<li><a href="/automobile/innovations/" title="Innovations">Innovations</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/vin/" title="Vins" class="niveau1 ">Vins</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/vin/" title="Vins">Vins</a></li>
+<li><a href="/vin/chroniques/" title="Chroniques">Chroniques</a></li>
+<li><a href="/vin/accords-mets-vins/" title="Accords mets et vins">Accords mets et vins</a></li>
+<li><a href="/vin/appellations/" title="Appellations">Appellations</a></li>
+<li><a href="/vin/cepages/" title="C&eacute;pages">C&eacute;pages</a></li>
+<li><a href="/vin/blog-invites/" title="Le bloc des invit&eacute;s">Les blogs des invit&eacute;s</a></li>
+<li><a href="/vin/mots-du-vin/" title="Les mots du vin">Les mots du vin</a></li>
+<li><a href="/vin/le-saviez-vous/" title="Le saviez-vous">Le saviez-vous</a></li>
+</ul>
+</div>
+</li>
+<!--li class="diaporama"><a href="/diaporamas/"  title="Diaporamas">Diaporamas</a></li-->
+<li class="bt-promo"><a href="http://afrique.lepoint.fr/coupe-d-afrique-des-nations/" title="CAN 2015"><img src="/images/can2015.png" alt="CAN 2015"></a></li>
+<!--<li class="picto video"><a href="/video"  title="Le Point TV">Le Point TV</a></li>-->
+</ul>
+</div>
+<!-- PUB -->
+<div id="pub_haut">
+<div style="margin:0 auto;text-align:center;min-width:728px">
+<script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="http://ad.fr.doubleclick.net/N7750430/adj/ts.lepoint.fr/'+rub+';tile='+(tile=tile+1)+';dcopt=ist;thematique='+thematique+';sousthema='+sousthema+';auteur='+auteur+';dossier='+dossier+';marque='+marque+';recherche='+recherche+';type='+type+';sz=728x90;pos=haut;compte='+compte+';abonne='+abonne+';ord=' + ord + '?"><\/script>');
+</script>
+</div>
+</div>
+<style type="text/css">
+#pub_haut * {
+vertical-align: middle;
+margin-left: auto;
+margin-right: auto;
+}
+</style>
+<!-- /PUB -->
+<div id="smenu">
+<ul class="clearfix">
+<li><a href="/" title="Actualit&eacute;" >Actualit&eacute;</a></li>
+<li><a href="http://www.lepoint.fr/politique/" title="Politique">Politique</a></li>
+<li><a href="http://www.lepoint.fr/monde/" title="International" >International</a></li>
+<li><a href="/societe/" title="Soci&eacute;t&eacute;" class="on">Soci&eacute;t&eacute;</a></li>
+<li><a href="/justice/" title="Justice" >Justice</a></li>
+<li><a href="/medias/" title="M&eacute;dias" >M&eacute;dias</a></li>
+<li><a href="/villes/" title="Villes" >Villes</a></li>
+<li><a href="http://www.lepoint.fr/insolite/" title="Insolites" >Insolites</a></li>
+<li><a href="http://www.lepoint.fr/confidentiels/" title="Confidentiels" >Confidentiels</a></li>
+<li><a href="http://www.lepoint.fr/invites-du-point/" title="Les invités" >Les invités</a></li>
+<li><a href="http://www.lepoint.fr/editos-du-point/" title="&Eacute;ditos" >Éditos & Chroniques</a></li>
+<!-- <li class="bt-promo"><a href="/municipales-2014/" onclick="return xt_adc(this, 'INT-89')"><img src="http://logi8.xiti.com/get.ad?xts=188560&ati=INT-89-[Button]&type=AT&rn=1&url=http://www.lepoint.fr/images/commun3/municipale-2014.jpg" width="124" height="28" alt="Municipales 2014" title="Municipales 2014"></a></li> --> </ul>
+</div></nav>
+<!--/BLOC HEADER - Nouveau header - DYN - HEADER v.2-->
+</header>
+<!--/COL CHD --><div class="contenu"><!-- début contenu -->
+<!--COL A10 1-->
+<!--BLOC RUBRIQUE - 630 - tétière - AUTOCMS-->
+<!--bMmrg - blocp_tetiere.tpl-->
+<div class="tag_page">
+<div class="t">
+<nav class="nav_filariane">
+<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="fildariane">
+<a href="/"
+itemprop="url" class="fildariane_first">
+<span itemprop="title">
+Actualité</span>
+</a>
+<div itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="fildariane">
+<a href="/societe/" itemprop="url">
+<span itemprop="title">Société</span>
+</a>
+</div>
+</div>
+</nav>
+<a href="/societe/rss.xml" class="fildariane_rss">&nbsp;</a>		</div>
+</div>
+<!--/BLOC RUBRIQUE - 630 - tétière - AUTOCMS-->
+<!--/COL A10 1-->
+<div id="gauche">
+<div class="page_article">
+<!--COL A10 2-->
+<!--/COL A10 2-->
+<article itemscope itemtype="http://schema.org/NewsArticle">
+<header>
+<input type="hidden" name="id_sans_version_article_courant" id="id_sans_version_article_courant" value="1901077" />
+<div style="position:relative;padding-top:25px;" id="entete_article">
+<h1 itemprop="headline">
+Les obsèques d&#039;Hervé Gourdel célébrées dans l&#039;intimité à Nice
+</h1>
+<p class="info_article" style="position:absolute;left:0px;top:0px;">
+Le Point
+- Publi&eacute; le <time itemprop="datePublished" datetime="2015-01-30T16:16" pubdate>
+30/01/2015 à 16:16</time>
+</time>
+</p>
+<h2 itemprop="description" class="chapo">
+Ségolène Royal représentait le gouvernement lors des funérailles du guide de montage enlevé et décapité par des djihadistes en Algérie.
+</h2>
+</div>
+<figure class="media_article panoramique" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+<a class="fancy-img" rel="images_article" href="/images/2015/01/30/gourdel-3076231-jpg_2691757_652x284.JPG" title="Les obsèques d&#039;Hervé Gourdel, enlevé puis décapité en septembre par des djihadistes algériens, ont été célébrées vendredi matin à Nice."><img alt="Les obsèques d&#039;Hervé Gourdel, enlevé puis décapité en septembre par des djihadistes algériens, ont été célébrées vendredi matin à Nice." title="Les obsèques d&#039;Hervé Gourdel, enlevé puis décapité en septembre par des djihadistes algériens, ont été célébrées vendredi matin à Nice." src="/images/2015/01/30/gourdel-3076231-jpg_2691757_652x284.JPG" width="652" height="284"></a>
+<figcaption><span itemprop="description">Les obsèques d&#039;Hervé Gourdel, enlevé puis décapité en septembre par des djihadistes algériens, ont été célébrées vendredi matin à Nice.</span>
+&copy;                     LIONEL BONAVENTURE / AFP
+</figcaption>
+</figure>
+<div id="entete2_article"></div>
+<div class="signature_article signature_left" id="standard" >
+<img src="/images/commun3/sourceafp.png" width="68" height="10" />
+</div>
+</header>
+<!-- Article zoomable -->
+<div class="article zoomable">
+<!-- Col article -->
+<span itemprop="articleBody">
+<p>Les obsèques du Français Hervé Gourdel, enlevé puis décapité en septembre par des djihadistes algériens, ont été célébrées vendredi matin à Nice dans l'intimité familiale, en présence de <a href="/tags/segolene-royal" class="surligner">Ségolène Royal</a> qui représentait le gouvernement français. "Hervé a été visé en tant que Français par cette même folie meurtrière qui a depuis frappé si durement notre pays", a rappelé Ségolène Royal, ministre de l'Écologie, qui a remis à la famille une lettre signée du président de la République. "L'émotion qui nous étreint tous ce matin à vos côtés est la même que celle de nos concitoyens qui ont dit non le 11 janvier à la terreur et à la haine", a-t-elle dit, dans un hommage lu pour les funérailles.<br /></p>
+<p>La ministre a rendu hommage à "un ardent défenseur de la nature, de sa protection, un homme fraternellement curieux des autres cultures". "C'était un montagnard, un vrai, et un guide au sens le plus noble du terme. Celui qui indique le chemin, d'abord. Celui qui accompagne, qui élargit l'horizon, qui partage des savoirs et des valeurs, à commencer par ce goût de la liberté qui lui avait fait embrasser ce beau métier", a ajouté Ségolène Royal.</p>
+<h3>Assassiné à 55 ans</h3>
+<p>Les cendres de l'ancien guide de haute montagne devraient être dispersées l'été prochain au sommet du mont Gelas (3 143 mètres), point culminant du massif du Mercantour jouxtant la frontière italienne, selon un ancien collègue. Hervé Gourdel, assassiné à 55 ans, avait fondé en 1987 un bureau des guides à Saint-Martin-Vésubie, une commune aux portes du parc national du Mercantour. Passionné de photographie, il aimait exposer sur Internet des photos de ses randonnées. Sa dépouille avait été rapatriée en <a href="/tags/france" class="surligner">France</a> lundi en provenance d'Alger, onze jours après sa découverte en Kabylie. Il avait été kidnappé le 21 septembre par le groupe armé Jund al-Khilafa, qui a affirmé l'avoir exécuté en représailles à l'engagement de la France aux côtés des <a href="/tags/etats-unis" class="surligner">États-Unis</a> dans les frappes contre le groupe État islamique en Irak. </p>
+<p>Ségolène Royal a promis vendredi que "la mobilisation des moyens de l'État ne faiblira(it) pas pour continuer à poursuivre ses meurtriers, afin que tous les responsables rendent compte de leur crime". Le maire de Nice, Christian Estrosi, et le président du conseil général des Alpes-Maritimes, Éric Ciotti, qui connaissaient personnellement le guide de haute montagne et sa famille, assistaient également à la cérémonie. </p>
+<p><br /></p>
+</span>
+<script type="text/javascript">
+//<![CDATA[
+var contenu_col_article_start = [];
+$('.col_article_brouil_start').append(contenu_col_article_start.contenu);
+var contenu_col_article_end = [];
+$('.col_article_brouil_end').append(contenu_col_article_end.contenu);
+var contenu_partage_article = {"contenu":"<!-- Code de la barre en haut -->\n<div id=\"share\" class=\"barreArticle\">\n    <!-- Barre d'outil -->\n    <div class=\"blocOutil floatL\">\n\n                    <div class=\"bouton mrgR10 floatL\" onclick=\"xt_click(this,'C','214','barre_du_haut::favori','A');\">\n                <a href=\"\/auth\/archivageArticle.php?id_sans_version=1901077&titre=Les%20obs%C3%A8ques%20d%27Herv%C3%A9%20Gourdel%20c%C3%A9l%C3%A9br%C3%A9es%20dans%20l%27intimit%C3%A9%20%C3%A0%20Nice&chapeau=%3Cp%3ES%C3%A9gol%C3%A8ne%20Royal%20repr%C3%A9sentait%20le%20gouvernement%20lors%20des%20fun%C3%A9railles%20du%20guide%20de%20montage%20enlev%C3%A9%20et%20d%C3%A9capit%C3%A9%20par%20des%20djihadistes%20en%20Alg%C3%A9rie.%20%3C%2Fp%3E&date=2015-01-30 16:16:00&image=\/images\/2015\/01\/30\/gourdel-3076231-jpg_2691757_113x76.JPG&auteur=Source AFP\" id=\"archiverArticle\" class=\"hint hint--top hint--info colorbox-archive cboxElement\" onclick=\"return false;\" data-hint=\"Ajouter l'article \u00e0 mes archives\"><\/a>\n            <\/div>\n        \n                    <div class=\"bouton mrgR10 floatL\">\n                <a href=\"javascript:window.print();\" id=\"imprimerArticle\" class=\"hint hint--top hint--info\" data-hint=\"Imprimer\" onclick=\"return xt_click(this,'C','214','barre_du_haut::imprimer','A');\">\n                <\/a>\n            <\/div>\n                <div class=\"bouton mrgR10 floatL\" onclick=\"xt_click(this,'C','214','barre_du_haut::envoi_ami','A')\">\n            <a href=\"\/send-friend\/form.php?titre=Les%20obs%C3%A8ques%20d%27Herv%C3%A9%20Gourdel%20c%C3%A9l%C3%A9br%C3%A9es%20dans%20l%27intimit%C3%A9%20%C3%A0%20Nice&surtitre=&texte=Les%20obs%C3%A8ques%20du%20Fran%C3%A7ais%20Herv%C3%A9%20Gourdel%2C%20enlev%C3%A9%20puis%20d%C3%A9cap...&url=%2Fsociete%2Fles-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901077_23.php\" class=\"hint hint--top hint--info\" id=\"mailArticle\" data-hint=\"Envoyer \u00e0 un ami\" onclick=\"return false;\"><\/a>\n        <\/div>\n                                    <div class=\"bouton mrgR10 floatL\">\n                    <a href=\"\/societe\/les-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901077_23.php#bloc_commentaire\" id=\"commenterArticle\" class=\"hint hint--top hint--info\" data-hint=\"Commenter cet article\" onclick=\"return xt_click(this,'C','214','barre_du_haut::commenter','A');\">\n                    <\/a>\n                <\/div>\n                                        <div class=\"bouton mrgR10 floatL\">\n                <a href=\"javascript:void(0)\" id=\"agrandir\" class=\"hint hint--top hint--info grossir_texte\" data-hint=\"Agrandir le texte\" onclick=\"return xt_click(this,'C','214','barre_du_haut::agrandir_texte','A');\"><\/a>\n            <\/div>\n            <div class=\"bouton mrgR10 floatL\">\n                <a href=\"javascript:void(0)\" id=\"reduire\" class=\"hint hint--top hint--info reduire_texte reduire_off\" data-hint=\"R\u00e9duire le texte\" onclick=\"return xt_click(this,'C','214','barre_du_haut::diminuer_texte','A');\"><\/a>\n            <\/div>\n                \n    <\/div>\n    <!-- Fin barre d'outil -->\n\n    <!-- Bouton Freemium -->\n    <div id=\"abo_share\"><a id=\"share1Euro\"href=\"http:\/\/abo.lepoint.fr\/\" onclick=\"return xt_adc(this, 'INT-194-[Button]')\" target=\"_blank\"><img src=\"http:\/\/logi8.xiti.com\/get.ad?xts=188560&ati=INT-194-[Button]&type=AT&rn=1&url=http:\/\/www.lepoint.fr\/images\/myad.gif\"><\/a><\/div>    <!-- Fin Bouton Freemium -->\n\n    <!-- Barre bouton sociaux -->\n    <div class=\"blocSociaux floatR\">\n\n        <!-- Facebook -->\n        <div class=\"mrgR10 floatL\">\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"fb_b\" onclick=\"window.open('http:\/\/www.facebook.com\/sharer.php?u=http:\/\/w.lpnt.fr\/1901077f', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Facebook','A');\" rel=\"nofollow\"><\/a><\/div>\n            <div class=\"floatL mrgL2 facebookBulle\"><\/div>\n            <div class=\"floatL bulle borderFacebook facebooklike\"><\/div>\n        <\/div>\n        <!-- Facebook -->\n\n        <!-- Twitter -->                                                                                                                    \n\n        <div class=\"mrgR10 floatL\">\n\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"tw_b\" onclick=\"window.open('https:\/\/twitter.com\/intent\/tweet?original_referer=http:\/\/www.lepoint.fr&source=tweetbutton&text=Les%20obs%C3%A8ques%20d%27Herv%C3%A9%20Gourdel%20c%C3%A9l%C3%A9br%C3%A9es%20dans%20l%27intimit%C3%A9%20%C3%A0%20Nice&url=http:\/\/w.lpnt.fr\/1901077t&hashtags=Soci%C3%A9t%C3%A9&via=LePoint&related=LePoint', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Twitter','A')\" rel=\"nofollow\"><\/a><\/div>\n\n\n\n            <div class=\"floatL mrgL2 twitterBulle\"><\/div>\n            <div class=\"floatL bulle borderTwitter twitterlike\"><\/div>\n        <\/div>\n        <!-- Twitter -->\n\n        <!-- Google + -->\n        <div class=\"mrgR10 floatL\">\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"gp_b\" onclick=\"window.open('https:\/\/plus.google.com\/share?url=http:\/\/www.lepoint.fr\/societe\/les-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901077_23.php', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Googleplus','A');\" rel=\"nofollow\"><\/a><\/div>\n            <div class=\"floatL mrgL2 googleBulle\"><\/div>\n            <div class=\"floatL bulle borderGoogle googlelike\"><\/div>\n        <\/div>\n        <!-- Google + -->\n\n        <!-- Linkedin -->\n        <div class=\"mrgR10 floatL\">\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"li_b\" onclick=\"window.open('http:\/\/www.linkedin.com\/shareArticle?mini=true&url=http:\/\/www.lepoint.fr\/societe\/les-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901077_23.php&title=Les%20obs%C3%A8ques%20d%27Herv%C3%A9%20Gourdel%20c%C3%A9l%C3%A9br%C3%A9es%20dans%20l%27intimit%C3%A9%20%C3%A0%20Nice', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Linkedin','A');\" rel=\"nofollow\"><\/a><\/div>\n            <div class=\"floatL mrgL2 linkedinBulle\"><\/div>\n            <div class=\"floatL bulle borderLinkedin linkedinlike\"><\/div>\n        <\/div>\n        <!-- Linkedin -->\n\n        <!-- Viadeo -->\n        <div class=\"floatL\">\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"vd_b\" onclick=\"window.open('http:\/\/www.viadeo.com\/shareit\/share\/?url=http:\/\/www.lepoint.fr\/societe\/les-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901077_23.php&title=Les%20obs%C3%A8ques%20d%27Herv%C3%A9%20Gourdel%20c%C3%A9l%C3%A9br%C3%A9es%20dans%20l%27intimit%C3%A9%20%C3%A0%20Nice', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Viadeo','A');\" rel=\"nofollow\"><\/a><\/div>\n            <div class=\"floatL mrgL2 viadeoBulle\"><\/div>\n            <div class=\"floatL bulle borderViadeo viadeolike\"><\/div>\n        <\/div>\n        <!-- Viadeo -->\n\n    <\/div>\n    <!-- Fin barre bouton sociaux -->\n\n<\/div>\n<!-- Fin de la barre en haut -->\n\n<script>\n$(document).ready(function() {\n    $.ajax({\n        url: \"\/html\/share\/rs\/rs.php\",\n        type: 'POST',\n        data: \"url=\/societe\/les-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901077_23.php&type=rshare\",\n        success: function(data){\n            if(data){\n                var rshare = JSON.parse(data);\n                var facebook = rshare.facebook;\n                var twitter = rshare.twitter;\n                var linkedin = rshare.linkedin;\n                var googleplus = rshare.googleplus;\n                var viadeo = rshare.viadeo;\n\n                if(facebook>0){\n                    $(\".facebooklike\").show();\n                    $(\".facebookBulle\").show();\n                    $(\".facebooklike\").html(facebook);\n                }\n\n                if(twitter>0){\n                    $(\".twitterlike\").show();\n                    $(\".twitterBulle\").show();\n                    $(\".twitterlike\").html(twitter);\n                }\n\n                if((linkedin-1)>0){\n                    $(\".linkedinlike\").show();\n                    $(\".linkedinBulle\").show();\n                    $(\".linkedinlike\").html(linkedin-1);\n                }\n\n                if(googleplus>0){\n                    $(\".googlelike\").show();\n                    $(\".googleBulle\").show();\n                    $(\".googlelike\").html(googleplus);\n                }\n\n                if(viadeo>0){\n                    $(\".viadeolike\").show();\n                    $(\".viadeoBulle\").show();\n                    $(\".viadeolike\").html(viadeo);\n                }\n            }\n        }\n    });\n});\n<\/script>\n"};
+$("#entete2_article").after(contenu_partage_article.contenu);
+//]]>
+</script>
+<!-- tag inRead -->
+<script type="text/javascript">
+if (typeof(desactive_inread)=='undefined' || desactive_inread !=1){
+window._ttf = window._ttf || [];
+_ttf.push({
+pid          : 17496
+,lang        : "fr"
+,slot        : '[itemprop="articleBody"] > p'
+,format      : "inread"
+,filter      : function (obj) {
+return obj['wrappedSizes']['width'] >= (450);
+}});
+(function (d) {
+var js, s = d.getElementsByTagName('script')[0];
+js = d.createElement('script');
+js.async = true;
+js.src = '//cdn.teads.tv/js/all-v1.js';
+s.parentNode.insertBefore(js, s);
+})(window.document);
+}
+</script>
+<!-- fin tag inRead -->
+</div>
+<!-- /Article zoomable -->
+<!-- Afficher google plus link -->
+<div class="liens-promo-gratuit"><a href="http://abo.lepoint.fr" target="_blank" Onclick="return xt_adc(this, 'INT-245-[lienTexte]')">Accédez à l’intégralité des contenus du Point à partir de 1€ seulement</a></div>
+<section class="util_article bottom">
+</section>
+<script type="text/javascript">
+var viadeoWidgetsJsUrl = document.location.protocol+"//widgets.viadeo.com";
+(function(){
+var e = document.createElement('script');
+e.type='text/javascript';
+e.async = true;
+e.src = viadeoWidgetsJsUrl+'/js/viadeowidgets.js';
+var s = document.getElementsByTagName('head')[0];
+s.appendChild(e);
+})();
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var contenu_util_article = {"contenu":"\n<!-- Code de la barre en bas -->\n\n<div id=\"share\" class=\"mrgT20 barreArticle\">\n  <!-- Bouton Freemium -->\n    <div target=\"_blank\" id=\"abo_share\" class=\"mrgR5\"><a href=\"http:\/\/abo.lepoint.fr\/\" Onclick=\"return xt_adc(this, 'INT-244-[Button]')\" target=\"_blank\">Abonnez-vous <br \/>\u00e0 partir de 1\u20ac<img src=\"http:\/\/logi8.xiti.com\/get.ad?xts=188560&ati=INT-194-[Button]&type=AT&rn=1&url=http:\/\/www.lepoint.fr\/images\/myad.gif\"><\/a><\/div>    <!-- Fin Bouton Freemium -->\n  <div class=\"bouton mrgR5 floatL\"> <a id=\"imprimerArticle2\" href=\"javascript:window.print();\" class=\"hint hint--top hint--info\" data-hint=\"Imprimer\" onclick=\"return xt_click(this,'C','214','barre_du_bas::imprimer','A');\"><\/a><\/div>\n  <div class=\"bouton mrgR5 floatL\" onclick=\"xt_click(this,'C','214','barre_du_bas::envoi_ami','A')\"> <a id=\"mailArticle2\" href=\"\/send-friend\/form.php?titre=Les%20obs%C3%A8ques%20d%27Herv%C3%A9%20Gourdel%20c%C3%A9l%C3%A9br%C3%A9es%20dans%20l%27intimit%C3%A9%20%C3%A0%20Nice&surtitre=&texte=Les%20obs%C3%A8ques%20du%20Fran%C3%A7ais%20Herv%C3%A9%20Gourdel%2C%20enlev%C3%A9%20puis%20d%C3%A9cap...&url=%2Fsociete%2Fles-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901077_23.php\" class=\"hint hint--top hint--info\" data-hint=\"Envoyer \u00e0 un ami\" onclick=\"return false;\"><\/a> <\/div>\n              <div class=\"bouton mrgR20 floatL\"> <a id=\"commenterArticle2\" href=\"\/societe\/les-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901077_23.php#bloc_commentaire\" class=\"hint hint--top hint--info\" data-hint=\"Commenter cet article\" onclick=\"return xt_click(this,'C','214','barre_du_haut::commenter','A')\"><\/a> <\/div>\n        \n  <!-- Google + -->\n     <!-- Google + --> \n  \n  <!-- Twitter -->\n  <div class=\"mrgR5 floatL\">\n    <div class=\"floatL\"><a id=\"tw_b2\" href=\"javascript:void(0)\" onclick=\"window.open('https:\/\/twitter.com\/intent\/tweet?original_referer=http:\/\/www.lepoint.fr&source=tweetbutton&text=Les%20obs%C3%A8ques%20d%27Herv%C3%A9%20Gourdel%20c%C3%A9l%C3%A9br%C3%A9es%20dans%20l%27intimit%C3%A9%20%C3%A0%20Nice&url=http:\/\/w.lpnt.fr\/1901077t&hashtags=Soci%C3%A9t%C3%A9&via=LePoint&related=LePoint', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Twitter','A')\" rel=\"nofollow\"><\/a><\/div>\n    <div class=\"floatL mrgL2 twitterBulle\"><\/div>\n    <div class=\"floatL bulle borderTwitter twitterlike\"><\/div>\n  <\/div>\n  <!-- Twitter --> \n  \n  <!-- Facebook -->\n  <div class=\"mrgR20 floatL\">\n    <div class=\"floatL\"><a href=\"javascript:void(0)\" onclick=\"window.open('http:\/\/www.facebook.com\/sharer.php?u=http:\/\/w.lpnt.fr\/1901077f', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_bas::Partage_Facebook','A');\" rel=\"nofollow\"><\/a><\/div>\n    <div class=\"floatL mrgL2 facebookBulle\"><\/div>\n    <div class=\"floatL bulle borderFacebook facebooklike\"><\/div>\n  <\/div>\n  <!-- Facebook --> \n  \n  <script>\n\t    $('#bloc_newsletter').submit(function(){return submitnl();});\n\t<\/script> \n  <!-- Newsletter -->\n    <form id=\"bloc_newsletter_article\" action=\"#\" method=\"get\" name=\"bloc_newsletter\" onsubmit=\"return submitnlarticle();\">\n    <input type=\"hidden\" value=\"nla\" name=\"origine\">\n    <input type=\"hidden\" value=\"nl13h,nl8h,offrespoint\" name=\"nl\">\n    <div class=\"floatR\">\n      <div class=\"newsletter floatL\">newsletter<\/div>\n      <div class=\"floatL\">\n        <input id=\"nlmailarticle\" type=\"text\" placeholder=\"Votre e-mail\" name=\"mail\" \/>\n      <\/div>\n      <div class=\"floatL\">\n        <input class=\"submit\" type=\"submit\" name=\"go\" value=\"ok\" onclick=\"return xt_click(this,'F','214','barre_du_bas::Abonnement_Newsletter');\">\n      <\/div>\n    <\/div>\n  <\/form>\n  <script type=\"text\/javascript\">\n\t\t\tfunction submitnlarticle()\n\t\t\t{\n\n\t\t\t\tvar url = 'http:\/\/boc.lepoint.fr';\n\t\t\t\tvar url2 = 'http:\/\/www.lepoint.fr';\n\t\t\t\tjQuery.post(url2+'\/html\/lepoint\/clientnl.php?'+jQuery('#bloc_newsletter_article').serialize()+'&url='+url,\n\t\t\t\tfunction(data) {\n\t\t\t\t\tif(data[\"resultat\"] == \"ok\" && data[\"raison\"] == \"precompte\" ){\n\t\t\t\t\t\tdocument.location.href=url+\"\/inscription\/index\/o\/nla\/mail\/\"+$(\"#nlmailarticle\").val();\n\t\t\t\t\t} else {\n\t\t\t\t\t\tjQuery('#messagenl').html(data['message']);\n\t\t\t\t\t\tjQuery('#amessagenl').colorbox({open:true,inline:true, href:\"#messagenl\"});\n\t\t\t\t\t}\n\t\t\t\t}, 'json');\n\t\t\t\treturn false;\n\t\t\t\t\/\/});\n\t\t\t}\n\t\t<\/script> \n  <!-- Fin newsletter -->\n  \n  <\/div>\n<!-- Fin de la barre en bas --><hr \/>\n<div id=\"btm_comments\"><\/div>\n"};
+$('.util_article.bottom').append(contenu_util_article.contenu);
+//]]>
+</script>
+</article>
+<!--COL A10 3-->
+<!--BLOC ARTICLE - 630 - autres articles - AUTOCMS-->
+<!--bMmrg - bloc_autres_articles.tpl-->
+<!-- Autres articles -->
+<div class="autres_articles">
+<div class="t">
+<h3>Société</h3>
+<a href="/societe/rss.xml">RSS Société</a>                </div>
+<ul>
+<li>
+<a href="/societe/le-coiffeur-de-marine-le-pen-harcele-par-des-cadres-du-parti-30-01-2015-1901011_23.php">Le coiffeur de Marine Le Pen harcelé par des cadres du parti</a>
+</li>
+<li>
+<a href="/societe/intemperies-des-milliers-de-foyers-prives-d-electricite-30-01-2015-1901051_23.php">Intempéries : des milliers de foyers privés d&#039;électricité</a>
+</li>
+<li>
+<a href="/societe/reprise-normale-du-trafic-sur-la-ligne-a-du-rer-30-01-2015-1900903_23.php">Reprise normale du trafic sur la ligne A du RER</a>
+</li>
+<li>
+<a href="/societe/11-departements-en-vigilance-orange-jusqu-a-samedi-soir-30-01-2015-1900901_23.php">11 départements en vigilance orange jusqu&#039;à samedi soir</a>
+</li>
+</ul>
+<div class="tous">
+<a href="/societe/">Tous les articles - Société</a>
+</div>
+</div><!-- Fin autres articles -->
+<!--/BLOC ARTICLE - 630 - autres articles - AUTOCMS-->
+<!--BLOC ARTICLE - 630 - Conditions Pub Ligatus / Google  - STATIC-->
+<!--bH:-->
+<div class="module_flux bloc-pub"><script type="text/javascript" src="http://a.ligatus.com/?ids=16650&t=js"></script></div>
+<style>
+.lig_wrapper_global_35198 {
+border-bottom: 0;
+border-top: 0;
+}</style>
+<!--/BLOC ARTICLE - 630 - Conditions Pub Ligatus / Google  - STATIC-->
+<!--BLOC ARTICLE - 630 - commentaire - saisie - DYN-->
+<!--bMmrg - blocp_commentaire.tpl-->
+<script type="text/javascript">
+jQuery(document).ready(function() {
+jQuery('#ajouteruncommentairehaut').click(function(){jQuery('#reservehaut').slideDown();jQuery('#reservebas').slideUp();})
+jQuery('#ajouteruncommentairebas').click(function(){jQuery('#reservebas').slideDown();jQuery('#reservehaut').slideUp();})
+});
+</script>
+<section id="bloc_commentaire" class="bloc_commentairev2">
+<div class="liste_commentaires">
+<div class="t">
+<p class="ph3"><span class="titre">Aucun commentaire</span></p>
+<div class="t"><p class="floatright boutonsajout clearnone" id="ajouteruncommentairebas"><a href="javascript:void(0)" >Ajouter un commentaire</a></p></div>
+<p>Soyez le premier &agrave; réagir sur cet article</p>
+</div>
+<div class="reserveauxabonnes txtcenter" id="reservebas" style="display:none;">
+<p class="fontsize13 mb15">Ce service est <strong>réservé aux abonnés</strong></p>
+<p class="clearnone">
+<a href="javascript:void(0)" class="iframe_viacomment identifiez cboxElement dejaabonne">Déjà abonné ? <b>Identifiez-vous</b></a>
+<a href="http://abo.lepoint.fr/" class="abonnezvous1euro" onclick="return xt_adc(this, 'INT-293-[Button]')" target="_blank">Abonnez-vous à partir de 1€</a>
+</p>
+</div>
+</div>
+</section>
+<!--/BLOC ARTICLE - 630 - commentaire - saisie - DYN-->
+<!--BLOC ARTICLE - 630 - commentaire - message fermeture - DYN-->
+<!--bH:-->
+<!--/BLOC ARTICLE - 630 - commentaire - message fermeture - DYN-->
+<!--/COL A10 3-->
+</div><!-- fin page_article -->
+</div><!-- fin gauche -->
+<!-- début droite -->
+<div id="droite">
+<!--COL R30 1-->
+<!--BLOC RUBRIQUE - 300 - Dernière minute Société - AUTOCMS-->
+<!--bMexe - bloc_derniere_minute_300.tpl-->
+<div class="bloc derniere_depeche">
+<div class="t">
+<p class="ph3">Société</p>
+</div>
+<ul id="actualite-societe">
+<li>
+<span><time datetime="2015-01-30T16:58">16h58</time></span>
+<p class="ph3">
+<a href="/societe/trop-isolee-trop-chere-la-polynesie-attire-de-moins-en-moins-30-01-2015-1901087_23.php">Trop isolée, trop chère, la Polynésie attire de moins en moins</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-30T16:28">16h28</time></span>
+<p class="ph3">
+<a href="/societe/meurtre-d-oceane-perpetuite-requise-en-appel-contre-nicolas-blondiau-30-01-2015-1901082_23.php">Meurtre d&#039;Océane: perpétuité requise en appel contre Nicolas Blondiau</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-30T16:16">16h16</time></span>
+<p class="ph3">
+<a href="/societe/les-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901077_23.php">Les obsèques d&#039;Hervé Gourdel célébrées dans l&#039;intimité à Nice</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-30T16:09">16h09</time></span>
+<p class="ph3">
+<a href="/societe/deces-de-leon-zyguel-deporte-et-temoin-au-proces-de-maurice-papon-30-01-2015-1901073_23.php">Décès de Léon Zyguel, déporté et témoin au procès de Maurice Papon</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-30T16:01">16h01</time></span>
+<p class="ph3">
+<a href="/societe/le-coiffeur-de-marine-le-pen-harcele-par-des-cadres-du-parti-30-01-2015-1901011_23.php">Le coiffeur de Marine Le Pen harcelé par des cadres du parti</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-30T15:57">15h57</time></span>
+<p class="ph3">
+<a href="/societe/les-obseques-d-herve-gourdel-celebrees-dans-l-intimite-a-nice-30-01-2015-1901067_23.php">Les obsèques d&#039;Hervé Gourdel célébrées dans l&#039;intimité à Nice</a>
+</p>
+</li>
+</ul>
+<span class="nb">&nbsp;</span>
+<a class="tous" href="/24h-info/societe/">Société : l'actualité en direct</a>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Dernière minute Société - AUTOCMS-->
+<!--BLOC Le Point - 300 - Pub Haut en 1 - POS 2 - STATIC-->
+<!--bH:-->
+<!-- pub haut pavé -->
+<div class="pub" id="pavehaut">
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" src="http://ad.fr.doubleclick.net/N7750430/adj/ts.lepoint.fr/'+rub+';tile='+(tile=tile+1)+';thematique='+thematique+';sousthema='+sousthema+';auteur='+auteur+';dossier='+dossier+';marque='+marque+';recherche='+recherche+';type='+type+';pos=haut;sz=300x250;compte='+compte+';abonne='+abonne+';ord=' + ord + '?"><\/script>');
+//]]>
+</script>
+</div>
+<!-- Fin pub Hautpavé -->
+<!-- Test affichage pub pavé haut-->
+<!--/BLOC Le Point - 300 - Pub Haut en 1 - POS 2 - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Abo Newsletter - POS 3 - STATIC-->
+<!--bH:-->
+<div class="bloc" id="abo_newsletter" style="overflow:hidden;">
+<div class="t">
+<p class="ph3">Inscrivez-vous à la newsletter</p>
+Et restez connecté à l'actualité au quotidien.<br />
+</div>
+<form id="bloc_newsletter" action="#" method="get" name="bloc_newsletter" onSubmit="return submitnl()" target="_blank">
+<input id="nlmail" class="abonnementNL" type="text" placeholder="Votre e-mail" name="mail" />
+<input type="hidden" value="nlr" name="origine" />
+<input type="hidden" value="nl13h,nl8h,offrespoint" name="nl" />
+<input class="boutonNL" type="submit" onClick="return xt_click(this,'F','214','Abonnez-vous_a_notre_newsletter')" name="go" value="Je m'inscris" />
+</form>
+</div>
+<div id="amessagenl" style="display:none">
+<div id="messagenl" style="padding:50px" > </div>
+</div>
+<script type="text/javascript">
+function submitnl()
+{
+var url = 'http://boc.lepoint.fr';
+var url2 = 'http://www.lepoint.fr'
+jQuery.post(url2+'/html/lepoint/clientnl.php?'+jQuery('#bloc_newsletter').serialize()+'&url='+url,
+function(data) {
+if(data["resultat"] == "ok" && data["raison"] ==
+"precompte" )
+{
+document.location.href=url+"/campagne/inscription/origine/nlr/email/"+$("#nlmail").val();
+}
+else
+{
+jQuery('#messagenl').html(data['message']);
+jQuery('#amessagenl').colorbox({open:true,inline:true, href:"#messagenl"});
+}
+},
+'json');
+return false;
+//});
+}
+</script>
+<!-- BLOC EN VENTE -->
+<div id="enVenteMag" class="module">
+<div class="enVenteHeader">En vente actuellement</div>
+<div class="enVenteDate"><a onclick="return xt_adc(this,'INT-157-[lienTexte]')" href="http://www.lepoint.fr/versions-numeriques/">Numéro 2212 du 29 janvier 2015</a></div>
+<a href="http://www.lepoint.fr/versions-numeriques/" onclick="return xt_adc(this, 'INT-159-[couv]')"><img src="/images/couv/lepoint2212-les-chirac-revelations-sur-un-destin-francais1.jpg" alt="Le Point Numéro 2212" title="Le Point Numéro 2212" /></a>
+<div class="enVenteTagline"><a onclick="return xt_adc(this,'INT-264-[lienTexte]')" href="http://www.lepoint.fr/versions-numeriques/">Retrouvez tous les numéros du Point</a></div>
+<div class="enVenteAbo1"><a onclick="return xt_adc(this,'INT-140-[Button]')" href="http://abo.lepoint.fr/">Abonnez-vous à partir de 1€</a></div>
+</div>
+
+<!--/BLOC RUBRIQUE - 300 - Abo Newsletter - POS 3 - STATIC-->
+<!--BLOC Le Point - 300 - Pub AUTOPROMO - 300x190 - STATIC-->
+<!--bH:-->
+<div class="pub" id="paveautopromo">
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" src="http://ad.fr.doubleclick.net/N7750430/adj/ts.lepoint.fr/'+rub+';tile='+(tile=tile+1)+';thematique='+thematique+';sousthema='+sousthema+';auteur='+auteur+';dossier='+dossier+';marque='+marque+';recherche='+recherche+';type='+type+';pos=haut;sz=300x190;compte='+compte+';abonne='+abonne+';ord=' + ord + '?"><\/script>');
+//]]>
+</script>
+</div>
+<!--/BLOC Le Point - 300 - Pub AUTOPROMO - 300x190 - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Orange Top - POS 5 - STATIQUE-->
+<!--bH:-->
+<div id="orange_search" class="bloc">
+<p class="ph6">Top des recherches</p>
+<div id="n1"><a href="http://r-presse.ke.voila.fr/francis+huster+et+gaia+weiss" target="_blank">Francis huster et gaia weiss</a></div><div id="n2"><a href="http://r-presse.ke.voila.fr/rumeurs+mercato" target="_blank">Rumeurs mercato</a></div><div id="n3"><a href="http://r-presse.ke.voila.fr/le+programme+de+patinage+artistique" target="_blank">Le programme de patinage artistique</a></div><div id="n4"><a href="http://r-presse.ke.voila.fr/alexandre+dumoulin" target="_blank">Alexandre dumoulin</a></div><div id="n5"><a href="http://r-presse.ke.voila.fr/mondial+handball+2015+demi+finale" target="_blank">Mondial handball 2015 demi finale</a></div></div>
+<!--/BLOC RUBRIQUE - 300 - Orange Top - POS 5 - STATIQUE-->
+<!--BLOC RUBRIQUE - 300 - Sondages Débattre - POS 6 - AUTOCMS-->
+<!--bMexe - bloc_sondage_rubrique.tpl-->
+<div class="sondage">
+<form id="form_1899379">
+<p class="ph3">Sondage</p>
+<p class="ph4">
+<a href="/sondages/quel-est-le-mal-principal-dont-souffre-l-education-nationale-25-01-2015-1899379_366.php">Quel est le mal principal dont souffre l&#039;Éducation nationale ?</a>
+<span> (<span id='nb_votant_1899379'>41400 votants</span>)</span> </p>
+<div id='reponses_1899379'>
+<div class="ligne">
+<input type="radio" id="radio_droite1" name="id_reponse" value="1" class='radio_1899379' />
+<label for="radio_droite1">Les professeurs sont insuffisamment formés.</label>
+</div>
+<div class="ligne">
+<input type="radio" id="radio_droite2" name="id_reponse" value="2" class='radio_1899379' />
+<label for="radio_droite2">Le ministère, les rectorats et l'ensemble des fonctionnaires ont abandonné les marques d'autorité dont ils faisaient preuve devant les élèves.</label>
+</div>
+<div class="ligne">
+<input type="radio" id="radio_droite3" name="id_reponse" value="3" class='radio_1899379' />
+<label for="radio_droite3">N'accablons pas les profs, ce sont les parents qui sont responsables du niveau scolaire et du comportement de leurs enfants.</label>
+</div>
+<div class="ligne">
+<input type="radio" id="radio_droite4" name="id_reponse" value="4" class='radio_1899379' />
+<label for="radio_droite4">Il faut revoir de fond en comble les programmes scolaires.</label>
+</div>
+<div class="ligne">
+<input type="radio" id="radio_droite5" name="id_reponse" value="5" class='radio_1899379' />
+<label for="radio_droite5">Les professeurs sont de bonne volonté, mais ils sont bridés par des fonctionnaires de l'Éducation nationale déresponsabilisés et coupés des réalités.</label>
+</div>
+<div class="action">
+<a href="" onclick="return xt_med('F','214','Sondages::Voter')" title="Valider" id ="vote_1899379" class="sond_vote">Voter</a>
+<a href="" onclick="return xt_med('F','214','Sondages::Resultats')" title="Voir les résultats" id ="voir_1899379" class="sond_voir">Voir les résultats</a>
+<span> (<span id='nb_votant_1899379'>41400 votants</span>)</span>
+</div>
+</div>
+</form>
+<div id='resultats_1899379' class='resultats' style='display:none;'>
+<div class="ligne">
+<p class="ph5">Les professeurs sont insuffisamment formés.<span> (<span id='nb_votant_rep_1'>1466 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="3.5%" style="width: 8px;"></span>
+</div>
+<p>3.5%</p>
+</div>
+</div>
+<div class="ligne">
+<p class="ph5">Le ministère, les rectorats et l'ensemble des fonctionnaires ont abandonné les marques d'autorité dont ils faisaient preuve devant les élèves.<span> (<span id='nb_votant_rep_2'>12550 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="30.3%" style="width: 69px;"></span>
+</div>
+<p>30.3%</p>
+</div>
+</div>
+<div class="ligne">
+<p class="ph5">N'accablons pas les profs, ce sont les parents qui sont responsables du niveau scolaire et du comportement de leurs enfants.<span> (<span id='nb_votant_rep_3'>11540 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="27.9%" style="width: 64px;"></span>
+</div>
+<p>27.9%</p>
+</div>
+</div>
+<div class="ligne">
+<p class="ph5">Il faut revoir de fond en comble les programmes scolaires.<span> (<span id='nb_votant_rep_4'>2858 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="6.9%" style="width: 16px;"></span>
+</div>
+<p>6.9%</p>
+</div>
+</div>
+<div class="ligne">
+<p class="ph5">Les professeurs sont de bonne volonté, mais ils sont bridés par des fonctionnaires de l'Éducation nationale déresponsabilisés et coupés des réalités.<span> (<span id='nb_votant_rep_5'>12986 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="31.4%" style="width: 72px;"></span>
+</div>
+<p>31.4%</p>
+</div>
+</div>
+<div class='action'>
+<a href="" title="Masquer les résultats" id ="masquer_1899379" class="sond_hide">Masquer les résultats</a>
+<span> (<span id='nb_votant_1899379'>41400 votants</span>)</span>
+</div>
+</div>
+<a class="tous" href="/sondages/">Tous les sondages</a>
+</div>
+<script>
+jQuery(document).ready(function(){
+jQuery('#voir_1899379, #masquer_1899379').click(function(){
+var id=jQuery(this).attr('id');
+if(id=='voir_1899379'){
+var showDiv='#resultats_1899379',
+hideDiv='#reponses_1899379';
+}else{
+var showDiv='#reponses_1899379',
+hideDiv='#resultats_1899379';
+}
+jQuery(hideDiv).fadeOut(
+'slow',
+function(){
+jQuery(showDiv).fadeIn('slow');
+}
+);
+return false;
+});
+jQuery('#vote_1899379').click(function(){
+var reponse=jQuery('#form_1899379').serialize();
+reponse += reponse!=''?'&':'';
+reponse += 'id=1899379&nb_votes=1' ;
+jQuery.ajax({
+url: '/sondages/ajax.php',
+type: 'post',
+data: reponse,
+success: function(data) {
+if(data!=0){
+jQuery('#reponses_1899379 .action').hide();
+window.location.reload();
+}
+return false;
+}
+});
+return false;
+});
+});
+</script>
+<!--/BLOC RUBRIQUE - 300 - Sondages Débattre - POS 6 - AUTOCMS-->
+<!--BLOC RUBRIQUE - 300 - En vente - POS 7 - STATIC-->
+<!--bH:-->
+<!--/BLOC RUBRIQUE - 300 - En vente - POS 7 - STATIC-->
+<!--BLOC Le Point - Immobilier Neuf Défiscaliser - Droite 1 - STATIC-->
+<!--bH:-->
+<div class="module"><iframe src="http://immobilier-neuf.lepoint.fr/investir-solutions-defiscalisation.php" frameborder="0" scrolling="no" width="300" height="360"></iframe></div>
+<!--/BLOC Le Point - Immobilier Neuf Défiscaliser - Droite 1 - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Diaporama Actualités - rubrique spéficique - AUTOCMS-->
+<!--bMmrg - bloc_diapo_300.tpl-->
+<div class="en_image_droite">
+<div class="t">
+<p class="ph3">
+En images     	</p>
+<!--<ul class="onglet">
+<li class="diaporama"><a href="#en_image_droite1" class="in">Diaproramas</a></li>
+<li class="video"><a href="#en_image_droite2">Vid&eacute;os</a></li>
+</ul>-->
+</div>
+<div class="cont_en_image_droite" id="detail_en_image_droite1"></div>
+<div class="cont_en_image_droite" id="detail_en_image_droite2" style="display:none;"></div>
+<ul id="en_image_droite1" class="carousel">
+<li>
+<a href="/images/2015/01/27/./V3070573_292x197.jpg" width="278" height="187" title="New York paralysée par une tempête de neige">
+<img src="/images/2015/01/27/3070573-jpg_2687262_69x46.jpg" alt="New York paralysée par une tempête de neige" width="69" height="46" />
+</a>
+<a href="/monde/new-york-paralysee-par-une-tempete-de-neige-27-01-2015-1900141_24.php" class="href">New York paralysée par une tempête de neige</a>
+</li>
+<li>
+<a href="/images/2015/01/27/./V3069678_292x197.jpg" width="278" height="187" title="70e anniversaire de la libération d&#039;Auschwitz-Birkenau">
+<img src="/images/2015/01/27/3069678-jpg_2687247_69x46.jpg" alt="70e anniversaire de la libération d&#039;Auschwitz-Birkenau" width="69" height="46" />
+</a>
+<a href="/monde/70e-anniversaire-de-la-liberation-d-auschwitz-birkenau-27-01-2015-1899947_24.php" class="href">70e anniversaire de la libération d&#039;Auschwitz-Birkenau</a>
+</li>
+<li>
+<a href="/images/2015/01/27/./V3064939_292x197.jpg" width="278" height="187" title="Exposition &quot;Concept-Cars&quot; : la Fashion Week du design auto !">
+<img src="/images/2015/01/27/3064939-jpg_2687705_69x46.jpg" alt="Exposition &quot;Concept-Cars&quot; : la Fashion Week du design auto !" width="69" height="46" />
+</a>
+<a href="/automobile/exposition-concept-cars-le-futur-s-invite-aux-invalides-27-01-2015-1899928_214.php" class="href">Exposition &quot;Concept-Cars&quot; : la Fashion Week du design auto !</a>
+</li>
+<li>
+<a href="/images/2015/01/27/3059717-jpg_2686044_292x197.jpg" width="278" height="187" title="La revue &quot;Égoïste&quot; est de retour">
+<img src="/images/2015/01/27/3059717-jpg_2686044_69x46.jpg" alt="La revue &quot;Égoïste&quot; est de retour" width="69" height="46" />
+</a>
+<a href="/culture/la-revue-egoiste-est-de-retour-27-01-2015-1899876_3.php" class="href">La revue &quot;Égoïste&quot; est de retour</a>
+</li>
+<li>
+<a href="/images/2015/01/24/./V3066510_292x197.jpg" width="278" height="187" title="Le monde entier réuni à Riyad">
+<img src="/images/2015/01/24/3066510-jpg_2682605_69x46.jpg" alt="Le monde entier réuni à Riyad" width="69" height="46" />
+</a>
+<a href="/monde/le-monde-entier-reuni-a-riyad-24-01-2015-1899303_24.php" class="href">Le monde entier réuni à Riyad</a>
+</li>
+<li>
+<a href="/images/2015/01/24/./V3059818_292x197.jpg" width="278" height="187" title="Corse - Domaine de Murtoli : un joyau touristique">
+<img src="/images/2015/01/24/3059818-jpg_2681411_69x46.jpg" alt="Corse - Domaine de Murtoli : un joyau touristique" width="69" height="46" />
+</a>
+<a href="/voyages/corse-domaine-de-murtoli-un-joyau-touristique-24-01-2015-1899223_44.php" class="href">Corse - Domaine de Murtoli : un joyau touristique</a>
+</li>
+</ul>
+<div class="tous">
+<a href="/diaporamas-actualites/" id="a_en_image_droite1">Tous les diaporamas </a>
+<!--<a href="#" id="a_en_image_droite2" style="display:none;">Toutes les vid&eacute;os</a>-->
+</div>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Diaporama Actualités - rubrique spéficique - AUTOCMS-->
+<!--BLOC RUBRIQUE - 300 - Bloc "Top articles"-->
+<!--bMmrg - bloc_plus_populaires.tpl-->
+<!-- bloc_plus_populaires.tpl -->
+<div class="bloc articles_commentaires articles_commentaires_300">
+<p class="ph3">Les plus populaires</p>
+<div class="nav">
+<ul class="onglet">
+<li>
+<a href="#plus_lus" class="in">Lus</a>
+</li>
+<li>
+<a href="#plus_commentes">Commentés</a>
+</li>
+<li class="last">
+<a href="#plus_partages">Partagés</a>
+</li>
+</ul>
+</div>
+<ol class="liste" id="plus_lus" >
+<li class="n1">
+<a href="/societe/le-rer-a-fortement-perturbe-a-la-suite-de-l-agression-d-un-conducteur-29-01-2015-1900557_23.php">Le trafic du RER A pourrait &ecirc;tre encore perturb&eacute; ce vendredi</a>
+</li>
+<li class="n2">
+<a href="/societe/polemique-sur-la-convocation-d-un-enfant-de-8-ans-dans-un-commissariat-29-01-2015-1900692_23.php">Pol&eacute;mique sur la convocation d&#039;un enfant de 8 ans dans un commissariat</a>
+</li>
+<li class="n3">
+<a href="/societe/le-coiffeur-de-marine-le-pen-harcele-par-des-cadres-du-parti-30-01-2015-1901011_23.php">Le coiffeur de Marine Le Pen harcel&eacute; par des cadres du parti</a>
+</li>
+<li class="n4">
+<a href="/societe/meteo-4-departements-en-vigilance-orange-a-partir-de-jeudi-soir-29-01-2015-1900553_23.php">M&eacute;t&eacute;o : 12 d&eacute;partements en vigilance orange &agrave; partir de jeudi soir</a>
+</li>
+<li class="n5">
+<a href="/societe/reislam-allo-puis-je-retirer-mon-voile-au-travail-29-01-2015-1900700_23.php">Islam : &quot;All&ocirc; ? Puis-je retirer mon voile au travail ?&quot;</a>
+</li>
+</ol>
+<ol class="liste" id="plus_commentes" style="display:none;">
+<li class="n1">
+<a href="/societe/polemique-sur-la-convocation-d-un-enfant-de-8-ans-dans-un-commissariat-29-01-2015-1900692_23.php">Pol&eacute;mique sur la convocation d&#039;un enfant de 8 ans dans un commissariat</a>
+</li>
+<li class="n2">
+<a href="/societe/le-rer-a-fortement-perturbe-a-la-suite-de-l-agression-d-un-conducteur-29-01-2015-1900557_23.php">Le trafic du RER A pourrait &ecirc;tre encore perturb&eacute; ce vendredi</a>
+</li>
+<li class="n3">
+<a href="/societe/un-referendum-pour-le-service-civique-obligatoire-29-01-2015-1900632_23.php">Un r&eacute;f&eacute;rendum pour le service civique obligatoire ?</a>
+</li>
+<li class="n4">
+<a href="/societe/reislam-allo-puis-je-retirer-mon-voile-au-travail-29-01-2015-1900700_23.php">Islam : &quot;All&ocirc; ? Puis-je retirer mon voile au travail ?&quot;</a>
+</li>
+<li class="n5">
+<a href="/societe/le-site-nucleaire-militaire-de-l-ile-longue-survole-par-des-drones-29-01-2015-1900636_23.php">Le site nucl&eacute;aire militaire de l&#039;&icirc;le Longue survol&eacute; par des drones</a>
+</li>
+</ol>
+<ol class="liste" id="plus_partages" style="display:none;">
+<li class="n1">
+<a href="/societe/mesures-antiterrorisme-nouveau-tour-de-vis-dans-les-aeroports-29-01-2015-1900639_23.php">Mesures antiterroristes : nouveau tour de vis dans les a&eacute;roports</a>
+</li>
+<li class="n2">
+<a href="/societe/le-coiffeur-de-marine-le-pen-harcele-par-des-cadres-du-parti-30-01-2015-1901011_23.php">Le coiffeur de Marine Le Pen harcel&eacute; par des cadres du parti</a>
+</li>
+<li class="n3">
+<a href="/societe/soissons-la-mosquee-s-interroge-sur-son-role-de-prevention-29-01-2015-1900651_23.php">Soissons : les rem&egrave;des de la mosqu&eacute;e contre le radicalisme</a>
+</li>
+<li class="n4">
+<a href="/societe/un-referendum-pour-le-service-civique-obligatoire-29-01-2015-1900632_23.php">Un r&eacute;f&eacute;rendum pour le service civique obligatoire ?</a>
+</li>
+<li class="n5">
+<a href="/societe/le-site-nucleaire-militaire-de-l-ile-longue-survole-par-des-drones-29-01-2015-1900636_23.php">Le site nucl&eacute;aire militaire de l&#039;&icirc;le Longue survol&eacute; par des drones</a>
+</li>
+</ol>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Bloc "Top articles"-->
+<!--BLOC RUBRIQUE - 300 - Réseaux sociaux - Facebook + Recommendations Box + Twitter-->
+<!--bH:-->
+<div class="bloc" id="suivez-nous">
+<div class="t"><p class="ph3">Suivez-nous</p></div>
+<div id="reseauxsociaux">
+<a target="_blank" title="Facebook" href="https://www.facebook.com/lepoint.fr" class="bouton1">Facebook</a>
+<a target="_blank" title="Twitter" href="https://twitter.com/LePoint" class="bouton2">twitter</a>
+<a rel="publisher" target="_blank" title="Google +" href="https://plus.google.com/+LePointfr" class="bouton3">Google+</a>
+<a title="Flux RSS" href="http://www.lepoint.fr/rss.xml" class="bouton4" target="_blank">Flux RSS</a>
+<a title="Applications mobile" href="http://www.lepoint.fr/mobiles/" class="bouton5">Applications mobile</a>
+</div>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Réseaux sociaux - Facebook + Recommendations Box + Twitter-->
+<!--BLOC RUBRIQUE - 300 - aération éditorialistes - AUTOCMS-->
+<!--bMmrg - bloc_opinion_300.tpl-->
+<div class="bloc editorialiste">
+<p class="ph3">Les éditorialistes du Point</p>
+<ul>
+<li>
+<a href="/editos-du-point/franz-olivier-giesbert/"><img src="/images/photos2/journalistes/franz-olivier-giesbert.gif" alt="Franz-Olivier Giesbert" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/editos-du-point/franz-olivier-giesbert/">Franz-Olivier Giesbert</a></p>
+<a href="/editos-du-point/franz-olivier-giesbert/fog-faut-il-avoir-peur-du-pere-fouettard-24-01-2015-1899245_70.php">FOG - Faut-il avoir peur du père Fouettard ?&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+<li>
+<a href="/editos-du-point/nicolas-baverez/"><img src="/images/photos2/journalistes/nicolas-baverez.gif" alt="Nicolas Baverez" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/editos-du-point/nicolas-baverez/">Nicolas Baverez</a></p>
+<a href="/editos-du-point/nicolas-baverez/macron-la-loi-potemkine-23-01-2015-1898936_73.php">Macron, la loi Potemkine&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+<li>
+<a href="/editos-du-point/francois-lenglet/"><img src="/images/photos2/journalistes/francois-lenglet.gif" alt="François Lenglet" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/editos-du-point/francois-lenglet/">François Lenglet</a></p>
+<a href="/editos-du-point/francois-lenglet/lenglet-ne-jamais-bloquer-la-queue-du-chien-26-01-2015-1899534_778.php">Lenglet : ne jamais bloquer la queue du chien&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+<li>
+<a href="/editos-du-point/pierre-antoine-delhommais/"><img src="/images/photos2/journalistes/pierre-antoine-delhommais.gif" alt="Pierre-Antoine Delhommais" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/editos-du-point/pierre-antoine-delhommais/">Pierre-Antoine Delhommais</a></p>
+<a href="/editos-du-point/pierre-antoine-delhommais/la-pantalonnade-du-parthenon-30-01-2015-1900909_493.php">La pantalonnade du Parthénon&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+<li>
+<a href="/editos-du-point/bernard-henri-levy/"><img src="/images/photos2/journalistes/bernard-henri-levy.gif" alt="Bernard-Henri Lévy" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/editos-du-point/bernard-henri-levy/">Bernard-Henri Lévy</a></p>
+<a href="/editos-du-point/bernard-henri-levy/bhl-dix-pour-un-islam-des-lumieres-22-01-2015-1898703_69.php">BHL : dix pour un islam des Lumières&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+<li>
+<a href="/politique/emmanuel-berretta/"><img src="/images/photos2/journalistes/emmanuel-berretta.gif" alt="Emmanuel Berretta" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/politique/emmanuel-berretta/">Emmanuel Berretta</a></p>
+<a href="/politique/emmanuel-berretta/laicite-ce-que-peut-l-ecole-et-ce-qu-elle-ne-peut-pas-29-01-2015-1900722_1897.php">Laïcité : ce que peut l&#039;école (et ce qu&#039;elle ne peut pas...)</a>
+</div>
+</li>
+</ul>
+<a href="/editos-du-point/" class="tous">Tous les éditoriaux </a>
+</div>
+<!--/BLOC RUBRIQUE - 300 - aération éditorialistes - AUTOCMS-->
+<!--BLOC RUBRIQUE - 300 - aération invités  - AUTOCMS-->
+<!--bMmrg - bloc_opinion_300.tpl-->
+<div class="bloc editorialiste">
+<p class="ph3">Les invités du Point</p>
+<ul>
+<li>
+<a href="/invites-du-point/michele-cotta/"><img src="/images/photos2/journalistes/michele-cotta.gif" alt="Michèle Cotta" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/invites-du-point/michele-cotta/">Michèle Cotta</a></p>
+<a href="/invites-du-point/michele-cotta/cotta-l-election-de-tsipras-un-tournant-en-europe-30-01-2015-1900891_1595.php">Cotta : l&#039;élection de Tsipras, un &quot;tournant en Europe&quot;</a>
+</div>
+</li>
+<li>
+<a href="/invites-du-point/sihem-souid/"><img src="/images/photos2/journalistes/sihem-souid.gif" alt="Sihem Souid" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/invites-du-point/sihem-souid/">Sihem Souid</a></p>
+<a href="/invites-du-point/sihem-souid/souid-conseils-aux-parents-musulmans-d-apparence-30-01-2015-1900931_421.php">Souid : conseils aux parents musulmans d&#039;apparence !</a>
+</div>
+</li>
+<li>
+<a href="/invites-du-point/charles-consigny/"><img src="/images/photos2/journalistes/charles-consigny.gif" alt="Charles Consigny" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/invites-du-point/charles-consigny/">Charles Consigny</a></p>
+<a href="/invites-du-point/charles-consigny/consigny-l-union-nationale-paravent-de-l-echec-socialiste-30-01-2015-1900872_1449.php">Consigny : l&#039;union nationale, paravent de l&#039;échec socialiste</a>
+</div>
+</li>
+<li>
+<a href="/invites-du-point/jacques-alain-miller/"><img src="/images/photos2/journalistes/jacques-alain-miller.gif" alt="Jacques-Alain Miller" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/invites-du-point/jacques-alain-miller/">Jacques-Alain Miller</a></p>
+<a href="/invites-du-point/jacques-alain-miller/jacques-alain-miller-badiou-onfray-portraits-croises-29-01-2015-1900629_1450.php">Jacques-Alain Miller : Badiou-Onfray, portraits croisés&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+<li>
+<a href="/invites-du-point/didier_raoult/"><img src="/images/photos2/journalistes/didier-raoult.gif" alt="Didier Raoult" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/invites-du-point/didier_raoult/">Didier Raoult</a></p>
+<a href="/invites-du-point/didier_raoult/didier-raoult-respect-29-01-2015-1900601_445.php">Didier Raoult : respect !&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+<li>
+<a href="/sante/kine/"><img src="/images/photos2/journalistes/stephane-demorand.gif" alt="Stéphane Demorand" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/sante/kine/">Stéphane Demorand</a></p>
+<a href="/sante/kine/les-tendinites-fleau-des-sportifs-28-01-2015-1900281_2467.php">Les tendinites, fléau des sportifs&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+</ul>
+<a href="/invites-du-point/" class="tous">Tous les invités </a>
+</div>
+<!--/BLOC RUBRIQUE - 300 - aération invités  - AUTOCMS-->
+<!--BLOC RUBRIQUE - 300 - Bloc météo Carrousel spoutnik - STATIC-->
+<!--bH:-->
+<!--
+-->
+<div class="module" id="leblocmeteo">﻿
+<div id="bloc-meteo">
+  <div id="bloc-meteo-contenu">
+    <ul id="meteo-carousel-static">
+
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/paris.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_31.png" /></div>
+				<div class="blocs-meteo-temperature"><p>6&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Paris</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/marseille.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_03.png" /></div>
+				<div class="blocs-meteo-temperature"><p>11&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Marseille</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/lyon.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_10.png" /></div>
+				<div class="blocs-meteo-temperature"><p>5&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Lyon</p></div>
+			</a>
+			</li>    </ul>
+    <ul id="meteo-carousel" class="jcarousel-skin-tango" style="position:absolute">
+
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/paris.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_31.png" /></div>
+				<div class="blocs-meteo-temperature"><p>6&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Paris</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/marseille.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_03.png" /></div>
+				<div class="blocs-meteo-temperature"><p>11&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Marseille</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/lyon.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_10.png" /></div>
+				<div class="blocs-meteo-temperature"><p>5&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Lyon</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/toulouse.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_17.png" /></div>
+				<div class="blocs-meteo-temperature"><p>7&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Toulouse</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/bordeaux.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_11.png" /></div>
+				<div class="blocs-meteo-temperature"><p>10&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Bordeaux</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/orleans.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_31.png" /></div>
+				<div class="blocs-meteo-temperature"><p>7&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Orléans</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/lille.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_31.png" /></div>
+				<div class="blocs-meteo-temperature"><p>4&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Lille</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/brest.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_08.png" /></div>
+				<div class="blocs-meteo-temperature"><p>10&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Brest</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/nantes.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_07.png" /></div>
+				<div class="blocs-meteo-temperature"><p>10&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Nantes</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/le-mans.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_31.png" /></div>
+				<div class="blocs-meteo-temperature"><p>7&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Le Mans</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/perpignan.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_10.png" /></div>
+				<div class="blocs-meteo-temperature"><p>12&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Perpignan</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/annecy.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_23.png" /></div>
+				<div class="blocs-meteo-temperature"><p>2&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Annecy</p></div>
+			</a>
+			</li>    </ul>
+    <div id="toutelameteo">
+      <p><a href="/html/meteo/">Toute la m&eacute;t&eacute;o &gt;&gt;</a></p>
+    </div>
+  </div>
+</div>
+</div>
+<script type="text/javascript">function meteoCarousel_initCallback(a){a.buttonNext.bind("click",function(){a.startAuto(0)});a.buttonPrev.bind("click",function(){a.startAuto(0)});a.clip.hover(function(){a.stopAuto()},function(){a.startAuto()})}jQuery(document).ready(function(){$("#meteo-carousel-static").css("visibility" , "hidden");$("#meteo-carousel").show();jQuery("#meteo-carousel").jcarousel({auto:5,wrap:"circular",animation:"slow",initCallback:meteoCarousel_initCallback,buttonNextHTML:null,buttonPrevHTML:null})});
+</script>
+<!--/BLOC RUBRIQUE - 300 - Bloc météo Carrousel spoutnik - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Se Loger Recherche parmi les ventes - DYN-->
+<!--bH:-->
+<style type="text/css">
+#seloger_recherche_immo p.ph1, #seloger_annonces_immo p.ph1 {
+font: normal 17px Georgia, "Times New Roman", Times, serif;
+color: #ba0000;
+float: left;
+margin: 10px 0 0 5px;
+}
+#seloger_dernieres_annonces p.ph1 {
+font: normal 17px Georgia, "Times New Roman", Times, serif;
+color: #ba0000;
+float: left;
+margin:0;
+width:200px;
+}
+#seloger_recherche_immo, #seloger_annonces_immo, #seloger_dernieres_annonces {
+margin-bottom: 20px
+}
+#seloger_recherche_immo {
+width: 300px;
+height: auto;
+border: 1px solid #bbbbbb;
+clear:both;
+}
+#seloger_annonces_immo {
+width: 300px;
+height: auto;
+border: 1px solid #bbbbbb;
+clear:both;
+}
+#seloger_dernieres_annonces {
+width: 300px;
+height: auto;
+border: 1px solid #bbbbbb;
+clear:both;
+}
+ul#dernieres_annonces a {
+color:#131313;
+text-decoration:none;
+}
+#seloger_dernieres_annonces .contenu_seloger img {
+width: 100px;
+height: 75px;
+}
+#dernieres_annonces img {
+width: 100px;
+height: 75px;
+}
+#seloger_recherche_immo .tous, #seloger_annonces_immo .tous, #seloger_dernieres_annonces .tous {
+margin: 0 0px 0px 150px;
+}
+.entete {
+width: 294px;
+height: 40px;
+margin: 3px 3px 3px 3px;
+border-bottom: 1px solid #bbbbbb;
+}
+.contenu_seloger {
+width: 284px;
+margin: 5px 8px 0 8px;
+padding: 0 0 7px 0;
+}
+.contenu_seloger #blocventes, .contenu_seloger #bloclocations {
+margin: 9px 8px 0 17px;
+width: 260px;
+}
+.contenu_seloger #blocventes p, .contenu_seloger #bloclocations p {
+padding: 0 10px;
+}
+.contenu_seloger p.ph2 {
+font-size: 14px;
+font-weight: bold;
+margin: 7px 0 5px 0
+}
+.avec_seloger {
+width: 50px;
+height: 40px;
+float: right;
+text-align: center;
+font-size: 11px;
+margin: 0 3px 0 0;
+}
+.avec_seloger img {
+width: 50px;
+}
+.annonces {
+overflow:hidden;
+}
+.annonces p {
+float:left;
+width:100px;
+margin-right : 8px;
+position:relative;
+margin-bottom:8px;
+}
+.annonces p span {
+width:90px;
+position:absolute;
+bottom:0;
+left:10px;
+background: none repeat scroll 0 0 rgba(0, 0, 0, 0.65);
+padding:5px;
+}
+.annonces p span a {
+color:#fff;
+text-decoration:none;
+font-size: 11px;
+}
+ul#dernieres_annonces {
+overflow:auto;
+margin-bottom:5px;
+background: #dadada;
+padding: 7px 0 7px 1px;/*color: #ffffff;*/
+}
+ul#dernieres_annonces li {
+float:left;
+width : 80px;
+padding-left : 10px;
+text-align:center;
+font-size:11px;
+}
+ul#dernieres_annonces li img {
+width: 80px;
+height: 60px;
+margin: 0 0 3px 0;
+}
+#onglets_seloger {
+width: 294px;
+height: 28px;
+margin: -3px 3px 0 3px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+text-transform:uppercase;
+border-bottom: 1px solid #cccccc;
+background: -moz-linear-gradient(bottom, #cdcdcd, #dadada 20%) !important;
+background: #dddddd;
+clear:both;
+}
+ul.onglet_seloger {
+overflow:auto;
+margin-bottom:5px;
+}
+ul.onglet_seloger li {
+float:left;
+width : 129px;
+padding-left : 10px;
+text-align:center;
+font-size:13px;
+}
+ul.onglet_seloger li a {
+color:#333333;
+display:block;
+height: 20px;
+padding-top: 2px;
+margin: 5px 0 0 0;
+background: #e6e6e6;
+text-decoration:none;
+border-radius: 5px 5px 0 0;
+-moz-border-radius: 5px 5px 0 0;
+-webkit-border-radius: 5px 5px 0 0;
+border-top: 1px solid #cccccc;
+border-right: 1px solid #cccccc;
+border-bottom: 1px solid #cccccc;
+border-left: 1px solid #cccccc;
+background: -moz-linear-gradient(bottom, #cccccc, #eeeeee 8%);/*background: -webkit-gradient(linear, bottom, top, from(#cccccc), color-stop(0.06, #e5e7e6), color-stop(0.94, #e5e7e6), to(#798382));*/
+}
+ul.onglet_seloger li a.actif {
+color:#ac0000;
+background: #ffffff;
+font-weight:bold;
+border-top: 1px solid #bbbbbb;
+border-right: 1px solid #bbbbbb;
+border-bottom: 1px solid #ffffff;
+border-left: 1px solid #bbbbbb;
+-moz-box-shadow: 0px 2px 3px #666666; /* Firefox */
+-webkit-box-shadow: 0px 2px 3px #666666; /* Safari and Chrome */
+box-shadow: 0 0 3px #666666;
+}
+#seloger_recherche_immo input, #seloger_annonces_immo input,  #seloger_dernieres_annonces input {
+color:#aaaaaa;
+border: 1px solid #999999;
+padding: 3px 4px 3px 4px;
+margin: 5px 0 5px 0;
+}
+#seloger_annonces_immo select {
+color:#aaaaaa;
+border: 1px solid #999999;
+padding: 2px 4px 2px 4px;
+width: 150px;
+margin: 5px 0 5px 0;
+font: 12px Arial,Helvetica,sans-serif;
+}
+#seloger_recherche_immo input.immosubmit, #seloger_annonces_immo input.immosubmit, #seloger_dernieres_annonces input.immosubmit  {
+border: none;
+width: 25px;
+height: 20px;
+margin: 0;
+padding: 6px 2px 0;
+}
+#seloger_recherche_immo input.button, #seloger_annonces_immo input.button, #seloger_dernieres_annonces input.button {
+border:none;
+}
+</style>
+<div id="seloger_recherche_immo">
+<div class="entete">
+<p class="ph1">Votre recherche Immobilier</p>
+<div class="avec_seloger">
+<p>avec</p>
+<img src="http://immobilier.lepoint.fr/z/portail/svx/base_sl/images/logo_seloger_70.gif" /></div>
+</div>
+<div class="contenu_seloger">
+<p>Recevez par mail les annonces correspondant à votre recherche</p>
+<script>
+function converturl() {
+var emailfield = document.getElementsByName( "emailfield")[0];
+var fullurl = document.getElementsByName( "fullurl")[0];
+fullurl.value = "http://immobilier.lepoint.fr/alerte,step2.htm?mail="+ emailfield.value;
+}
+</script>
+<form target="_top" name="emailsend" onsubmit='converturl();location.href=fullurl.value;return false'>
+<input type="text" value="Votre adresse mail" size="30" name="emailfield" class="focusInput" />
+<input src="/images/commun3/bt-ok.jpg" type="image" value="submit" class="immosubmit" />
+<input name="fullurl" type="hidden" />
+</form>
+</div>
+</div>
+<!-- 2ème bloc -->
+<div id="seloger_annonces_immo">
+<div class="entete">
+<p class="ph1">Annonces Immobilières</p>
+<div class="avec_seloger">
+<p>avec</p>
+<img src="http://immobilier.lepoint.fr/z/portail/svx/base_sl/images/logo_seloger_70.gif" /></div>
+</div>
+<div class="contenu_seloger">
+<p>Lancez votre recherche parmi <br/>
+<strong>plus de 1&nbsp;411&nbsp;956 annonces</strong> à la vente</p>
+<form action="http://immobilier.lepoint.fr/prerecherche.htm" method="get" target="_top">
+<select name="idtypebien">
+<option value="2">Maison / Villa</option>
+<option value="1">Appartement</option>
+</select>
+<input type="text" value="Code postal" size="9" name="cp" class="focusInput">
+<input type="hidden" name="idtt" id="ididtt" value="2" />
+<input src="/images/commun3/bt-ok.jpg" type="image" value="submit" class="immosubmit" />
+</form>
+<p class="ph2">Les dernières annonces</p>
+<ul id="dernieres_annonces">
+<li><a href="http://immobilier.lepoint.fr/458127/86126133/detail.htm"><img src="http://8.visuels.poliris.com/thumbnails/8/0/d/9/80d9d72f-40bb.jpg" alt="Duplex 4 pi&egrave;ces - Lille" width="80" /></a><br />Duplex 4 pi&egrave;ces - Lille</li>
+<li><a href="http://immobilier.lepoint.fr/458127/95054133/detail.htm"><img src="http://8.visuels.poliris.com/thumbnails/8/0/d/9/80d9d72f-40bb.jpg" alt="Appartement 3 pi&egrave;ces - Lille" width="80" /></a><br />Appartement 3 pi&egrave;ces - Lille</li>
+<li><a href="http://immobilier.lepoint.fr/458127/95054137/detail.htm"><img src="http://8.visuels.poliris.com/thumbnails/8/0/d/9/80d9d72f-40bb.jpg" alt="Appartement 3 pi&egrave;ces - Lille" width="80" /></a><br />Appartement 3 pi&egrave;ces - Lille</li>
+</ul>
+<p> <a href="http://immobilier.lepoint.fr" class="tous">Toutes les annonces</a></p>
+</div>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Se Loger Recherche parmi les ventes - DYN-->
+<!--BLOC RUBRIQUE - 300 - Tag ASQ - Pavé 2 - STATIC-->
+<!--bH:-->
+<div id="appnexus2" class="pub">
+<script type="text/javascript">
+if (typeof(desactive_asq)=='undefined' || desactive_asq !=1){
+//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" SRC="http://ib.adnxs.com/ttj?id=1028319&size=300x250&promo_alignment=center&referrer=lepoint.fr"><\/script>');
+//]]>
+};
+</script>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Tag ASQ - Pavé 2 - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Espace boutique Le Point - STATIC-->
+<!--bH:-->
+
+<div class="bloc diffusion_droite boutique">
+<!--
+<p class="ph2"><img src="/images/commun/t_boutique.png" alt="La boutique Le Point" width="100%" height="29"/></p>
+ -->
+<!-- ph2 -->
+<div class="f">
+<ul class="visuels">
+		<li   >
+		<a onclick="return xt_adc(this,'INT-145-[Couv]')" href="http://boutique.lepoint.fr/produit/581/ces-voyages-qui-ont-change-le-monde?affiliate=15">
+			<img src="/images/hors-serie/module-boutique/ces-voyages-qui-ont-change-le-monde.jpg" alt="Ces voyages qui ont changé le monde" width="80px" height="117px"  />
+		</a>
+	</li>
+		<li   >
+		<a onclick="return xt_adc(this,'INT-146-[Couv]')" href="http://boutique.lepoint.fr/produit/572/saint-exupery-le-heros-eternel?affiliate=15">
+			<img src="/images/hors-serie/module-boutique/saint-exupery.jpg" alt="Saint-Exupéry" width="80px" height="117px"  />
+		</a>
+	</li>
+		<li   class="last" >
+		<a onclick="return xt_adc(this,'INT-147-[Couv]')" href="http://boutique.lepoint.fr/produit/546/les-expressions-preferees-des-francais?affiliate=15">
+			<img src="/images/hors-serie/module-boutique/expressions-preferees-des-francais.jpg" alt="Expressions préférées des Français" width="80px" height="117px"  />
+		</a>
+	</li>
+	</ul>
+<ul>
+	<li style="background: url('http://www.lepoint.fr/images/commun/puce/2.gif') no-repeat 0px 6px;"><a onclick="return xt_adc(this,'INT-148-[lienTexte]')" href="http://boutique.lepoint.fr/rayon/133/hors-serie?affiliate=15" style="font-size:14px!important;">Tous les hors-s&eacute;ries</a></li>
+
+</ul>
+</div>
+
+</div>
+<!--/BLOC RUBRIQUE - 300 - Espace boutique Le Point - STATIC-->
+<!--BLOC RUBRIQUE - 300 - People - AUTOCMS-->
+<!--bMexe - bloc_derniere_minute_300.tpl-->
+<div class="bloc derniere_depeche">
+<div class="t">
+<p class="ph3">People</p>
+</div>
+<ul id="culture">
+<li>
+<span><time datetime="2015-01-30T16:06">16h06</time></span>
+<p class="ph3">
+<a href="/people/etats-unis-le-producteur-de-rap-suge-knight-arrete-pour-meurtre-30-01-2015-1901071_2116.php">Etats-Unis: le producteur de rap &quot;Suge&quot; Knight arrêté pour meurtre</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-30T13:00">13h00</time></span>
+<p class="ph3">
+<a href="/people/naissance-du-second-fils-de-shakira-et-gerard-pique-30-01-2015-1901017_2116.php">Shakira accouche d&#039;un second fils, prénommé Sasha</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-30T12:40">12h40</time></span>
+<p class="ph3">
+<a href="/people/grande-bretagne-la-petite-amie-d-andy-murray-en-une-de-la-presse-pour-un-juron-30-01-2015-1901010_2116.php">Grande-Bretagne: la petite amie d&#039;Andy Murray en Une de la presse pour...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-30T11:35">11h35</time></span>
+<p class="ph3">
+<a href="/people/robert-hirsch-victime-d-un-malaise-sur-scene-30-01-2015-1900991_2116.php">Robert Hirsch victime d&#039;un malaise sur scène</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-30T11:32">11h32</time></span>
+<p class="ph3">
+<a href="/people/le-rappeur-jay-z-s-offre-le-service-de-streaming-musical-wimp-30-01-2015-1900989_2116.php">Le rappeur Jay-Z s&#039;offre le service de streaming musical Wimp</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-30T09:19">09h19</time></span>
+<p class="ph3">
+<a href="/people/ringo-starr-sort-un-nouvel-album-en-mars-et-part-en-tournee-en-amerique-30-01-2015-1900929_2116.php">Ringo Starr sort un nouvel album en mars et part en tournée en Amérique</a>
+</p>
+</li>
+</ul>
+<span class="nb">&nbsp;</span>
+<a class="tous" href="/24h-info/culture/">People : l'actualité en direct</a>
+</div>
+<!--/BLOC RUBRIQUE - 300 - People - AUTOCMS-->
+<!--BLOC RUBRIQUE - 300 - Insolite - AUTOCMS-->
+<!--bMexe - bloc_derniere_minute_300.tpl-->
+<div class="bloc insolites">
+<div class="t">
+<p class="ph6">Insolites</p>
+</div>
+<ul id="actualite" class="liste">
+<li>
+<span><time datetime="2015-01-29T18:58">18h58</time></span>
+<p class="ph3">
+<a href="/insolite/un-senateur-americain-republicain-galere-pour-s-abonner-a-charlie-hebdo-29-01-2015-1900808_48.php">Un sénateur américain républicain galère pour s&#039;abonner à &quot;Charlie Hebdo&quot;</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-28T09:37">09h37</time></span>
+<p class="ph3">
+<a href="/insolite/nicolas-sarkozy-est-ne-le-meme-jour-que-l-armee-rouge-28-01-2015-1900218_48.php">Nicolas Sarkozy est né le même jour que... l&#039;Armée rouge !</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-27T12:30">12h30</time></span>
+<p class="ph3">
+<a href="/insolite/une-americaine-tue-son-chiot-pour-prendre-un-avion-27-01-2015-1899984_48.php">Une Américaine tue son chiot pour prendre un avion</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-26T16:17">16h17</time></span>
+<p class="ph3">
+<a href="/insolite/twitter-raille-l-incendie-chez-jean-marie-le-pen-26-01-2015-1899713_48.php">Twitter raille l&#039;incendie chez Jean-Marie Le Pen</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-01-25T17:01">17h01</time></span>
+<p class="ph3">
+<a href="/insolite/un-new-yorkais-meurt-d-un-coup-de-couteau-recu-il-y-a-55-ans-25-01-2015-1899463_48.php">Un New-Yorkais meurt d&#039;un coup de couteau... reçu il y a 55 ans</a>
+</p>
+</li>
+</ul>
+<span class="nb">&nbsp;</span>
+<a class="tous" href="/24h-info/insolites/">Insolites : l'actualité en direct</a>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Insolite - AUTOCMS-->
+<!--BLOC Rubrique - 300 - Pure Shopping - STATIC-->
+<!--bH:-->
+<div class="module">
+<div id="shoppingBox"></div><div style="height:10px;margin-bottom:5px;text-align:right;width:300px;"><a href="http://www.shopoon.fr/" style="color:#000;font:normal normal normal 10px Arial,sans-serif;text-decoration:none;">PureShopping</a></div><script type="text/javascript" src="http://static1.shopoon.fr/catalog/generated_boxes/504/display.js"></script>
+</div>
+<!--/BLOC Rubrique - 300 - Pure Shopping - STATIC-->
+<!--BLOC RUBRIQUE - 300 - tags cloud mots clés spoutnik - STATIC-->
+<!--bH:-->
+<!--/BLOC RUBRIQUE - 300 - tags cloud mots clés spoutnik - STATIC-->
+<!--BLOC RUBRIQUE - 300  -  E-Presse -  STATIC-->
+<!--bH:-->
+<div class="pub" id="blocepresse"> <a href="https://www.epresse.fr/magazine/le-point" target="_blank"><img width="300" height="100" title="Le Point en ligne iPad iPhone sur le kiosque ePresse.fr" alt="Le Point en ligne iPad iPhone sur le kiosque ePresse.fr" src="/images/modules2/partenariat/epresse-300x100.gif" xtclib="HP_colDroite_Pub_EPresse1"></a> </div>
+<!--/BLOC RUBRIQUE - 300  -  E-Presse -  STATIC-->
+<!--BLOC RUBRIQUE - 300 - Tag ASQ Pavé 3 - STATIC-->
+<!--bH:-->
+<div id="appnexus3" class="pub">
+<script type="text/javascript">
+if (typeof(desactive_asq)=='undefined' || desactive_asq !=1){
+//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" SRC="http://ib.adnxs.com/ttj?id=1028320&size=300x250&promo_alignment=center&referrer=lepoint.fr"><\/script>');
+//]]>
+};
+</script>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Tag ASQ Pavé 3 - STATIC-->
+<!--/COL R30 1--><!-- COL R30 2 -->
+<!-- /COL R30 2 --><!--COL R30 3-->
+<!--/COL R30 3--></div><!-- fin droite -->
+</div><!-- fin contenu -->
+<!--COL CFT -->
+<footer>
+<!--BLOC FOOTER - 990 - Bandeau ASQ-->
+<!--bH:-->
+<style type="text/css">
+#bandeau_appnexus {
+clear: both;
+text-align: center;
+margin-bottom: 20px;
+}
+</style>
+<div id="bandeau_appnexus">
+<script type="text/javascript">
+if (typeof(desactive_asq)=='undefined' || desactive_asq !=1){
+//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" SRC="http://ib.adnxs.com/ttj?id=1028402&size=1000x300&promo_sizes=1000x90,728x90&promo_alignment=center&referrer=lepoint.fr"><\/script>');
+//]]>
+};
+</script>
+</div>
+<!--/BLOC FOOTER - 990 - Bandeau ASQ-->
+<!--BLOC FOOTER  - footer - DYN-->
+<!--bMiso - bloc_footer.tpl-->
+<script language="javascript" type="text/javascript">
+var timeoutID=0;
+function LoadPage(){
+window.document.location.reload();
+}
+function Timer(){
+timeoutID = window.setTimeout("LoadPage()",900000);
+}
+</script>
+<script language="javascript" type="text/javascript">Timer()</script>
+<!--PUSHWEB-->
+<script type="text/javascript">
+var boxpop1000mercissnippet = (location.protocol=='https:'?'https://cdn.1000mercis.com/prod/pushweb/newsletterLP.js':'http://cdn.1000mercis.com/prod/pushweb/newsletterLP.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+boxpop1000mercissnippet);
+document.write ("'></scr"+"ipt>");
+</script>
+<!--FIN PUSHWEB-->
+<script type="text/javascript">
+(function(w, d) { var a = function() { var a = d.createElement('script'); a.type = 'text/javascript';
+a.async = 'async'; a.src = '//' + ((w.location.protocol === 'https:') ? 's3.amazonaws.com/cdx-radar/' :
+'radar.cedexis.com/') + '01-10334-radar10.min.js'; d.body.appendChild(a); };
+if (w.addEventListener) { w.addEventListener('load', a, false); }
+else if (w.attachEvent) { w.attachEvent('onload', a); }
+}(window, document));
+</script>
+<!--TARGETING_1000MERCIS-->
+<img src="http://mmtro.com/p?tagid=6546820-036e958179baf6b375e26731242eeacf" width="1" height="1" border="0" />
+<!--FIN TARGETING_1000MERCIS-->
+<!--BASILIC-->
+<script type="text/javascript">
+(function(){var f,d,a,b=document.createElement("iframe");b.src="javascript:false";(b.frameElement||b).style.cssText="width: 0; height: 0; border: 0; display: none;";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);try{d=b.contentWindow.document}catch(c){f=document.domain;b.src="javascript:var d=document.open();d.domain='"+f+"';void(0);";d=b.contentWindow.document}d.open()._l=function(){var e=this.createElement("script");if(f){this.domain=f}e.id="boomr-if-as";e.src=window.location.protocol=="https:"?"https://d3phbp7p78bdk9.cloudfront.net/common/foglio.js":"http://foglio.basilic.io/common/foglio.js";this.body.appendChild(e)};d.write('<body onload="document._l();">');d.close()})();
+</script>
+<!--FIN BASILIC-->
+<div id="pied1">
+<div class="t">
+<p class="ph2">  | <span id="footer_rub"> Société </span></p>
+<form action="/recherche/recherche.php" method="get" id="search3">
+<input name="query" value="Rechercher sur le site" class="focusInput" id="mc_recherche_pied" type="text">
+<input type="submit" class="bouton" alt="Rechercher" value="" />
+</form>
+</div>
+<div class="b">
+<p style="padding:0 0 20px">
+Consultez les articles de la rubrique Société, suivez les informations en temps réel et accédez à nos analyses de l'actualité.
+</p>
+<div class="g" id="lp_dossiers">
+<div class="ligne">
+<p class="ph3"><a rel="nofollow" href="#">Dossiers Société</a></p>
+<ul class="dossier_liste">
+<li><a href="http://www.lepoint.fr/dossiers/societe/france-face-terrorisme/" title="La France face au terrorisme ">La France face au terrorisme </a></li><li><a href="http://www.lepoint.fr/dossiers/societe/attentat-charlie-hebdo/" title="Attentats meurtriers en France">Attentats meurtriers en France</a></li><li><a href="http://www.lepoint.fr/dossiers/societe/annee-2014/" title="C'était l'année 2014 ">C'était l'année 2014 </a></li></ul>
+</div>
+</div>
+<div class="g" id="lp_divers">
+<div class="ligne">
+<p class="ph3">Le Magazine</p>
+<ul style="width:183px">
+<li><a href="http://boutique.lepoint.fr">Boutique</a></li>
+<li><a href="http://abo.lepoint.fr" Onclick="return xt_adc(this, 'INT-193-[lienTexte]')">Abonnements</a><img src="http://logi8.xiti.com/get.ad?xts=188560&ati=INT-193-[lienTexte]&type=AT&rn=1&url=http://www.lepoint.fr/images/myad.gif"></li>
+<li><a href="http://boutique.lepoint.fr/rayon/133/hors-serie">Hors-séries</a></li>
+<li><a href="http://www.lepoint.fr/html/lepoint/edition_digitale.php">Édition digitale</a></li>
+<li><a href="http://www.lepoint.fr/html/lepoint/en_kiosque.php">En kiosque</a></li>
+</ul>
+</div>
+</div>
+<div class="g" id="lp_mobile">
+<div class="ligne">
+<p class="ph3">Le Point mobile</p>
+<ul>
+<li><a href="https://itunes.apple.com/fr/app/le-point.fr/id326861451">Application iPhone et iPad</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=fr.lepoint.android">Application Android</a></li>
+<li><a href="http://appworld.blackberry.com/webstore/content/22415/?lang=fr">Application Blackberry</a></li>
+<li><a href="http://www.windowsphone.com/fr-fr/store/app/lepoint/6dac26ec-c998-43b4-b93e-8b179982c229">Application Windows Phone</a></li>
+<li><a href="http://apps.microsoft.com/windows/fr-fr/app/le-point-fr/5155ca53-f6b8-4da3-8744-5cd19afd25b0">Application Windows 8</a></li>
+<li><a href="http://mobile.lepoint.fr">Site mobile</a></li>
+</ul>
+</div>
+</div>
+<div class="g" id="lp_suivre">
+<div class="ligne">
+<p class="ph3">Nous suivre</p>
+<div class="sn">
+<ul class="sn_foot">
+<li><a href="http://www.facebook.com/lepoint.fr">Facebook</a></li>
+<li><a href="http://twitter.com/LePoint">Twitter</a></li>
+<li><a rel="publisher" href="http://plus.google.com/u/0/b/108148124716497323623/108148124716497323623/posts">Google +</a></li>
+<li><a href="http://www.lepoint.fr/rss.xml" target="_blank">RSS</a></li>
+<li><a href="http://www.youtube.com/user/lepointTV">Vidéos</a></li>
+<li><a href="http://www.dailymotion.com/LePoint">Daily Motion</a></li>
+</ul>
+</div>
+</div>
+<div class="ligne ligne2">
+<!--<p class="ph3"><a href="#">Newsletters</a></p>-->
+<ul>
+<li><a href="http://boc.lepoint.fr/campagne/newsletters/origine/nlf">Recevez nos newsletters</a></li>
+<!--<li><a href="#">Newsletter Argus des Montres</a></li>
+<li><a href="#">Newsletter Auto Addict</a></li>-->
+</ul>
+</div>
+</div>
+<!-- Fin pied 1 -->
+</div>
+<div id="pied2">
+<ul>
+<li>&copy; <span itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Organization"><span itemprop="name">Le Point.fr</span></span></li>
+<li><a href="http://www.lepoint.fr/html/conditions/mentions_legales.jsp" title="Mentions l&eacute;gales">Mentions l&eacute;gales</a></li>
+<li><a href="http://boc.lepoint.fr/Faq" title="FAQ">FAQ</a></li>
+<li><a href="http://www.lepoint.fr/html/conditions/moderation.php">Conditions g&eacute;n&eacute;rales d'utilisation</a></li>
+<li><a href="http://www.lepoint.fr/html/contacts/contacts.jsp" title="Contacts">Publicit&eacute;</a></li>
+<li><a href="http://www.lepoint.fr/html/contacts/support.php" title="Ecrire au Point" class="xtclick">Nous contacter</a></li>
+</ul>
+<div class="ojd">
+<a href="http://www.ojd-internet.com/chiffres/5701-lepoint.fr?adhid=4817" target="_blank" class="xtclick"></a>
+<p>La fr&eacute;quentation de ce site est certifi&eacute;e par l'OJD.</p>
+</div>
+</div>
+<div id="footer-cookies">
+<div id="footer-texte"><p>En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies pour vous proposer des services et offres adaptés à vos centres d'intérêts. Pour en savoir plus, <a href="http://www.lepoint.fr/html/conditions/cookies-donnees-personnelles.php">cliquez ici</a>. <span id="fermer" style="float:right;"><a href="javascript:void(0)" style="text-decoration:none;">X</a></span></p></div>
+</div>
+<link href="http://www.lepoint.fr/css2/spoutnik/cookies.css" type="text/css" rel="stylesheet">
+<script type="text/javascript">
+jQuery(document).ready(function() {
+if(getCookie('accept_cookies') == null) {
+setCookie('accept_cookies','accept_cookies',3650);
+}
+jQuery("#fermer").click(function(){jQuery('#footer-cookies').css('display', 'none');})
+});
+</script>
+<!--/BLOC FOOTER  - footer - DYN-->
+</footer>
+<!--/COL CFT --><!-- /template body :  body_article_2col.tpl -->
+</div>
+<!-- Fin Site -->
+<!-- Tag xiti -->
+<div id="xiti-logo">
+<script type="text/javascript">
+<!--
+xtnv     = document; // parent.document or top.document or document
+xtsd     = "http://logi8";
+xtsite   = "188560";
+xtn2     = "200"; // level 2 site ID
+xtpage   = "Societe::1901077_source_afp::les_obseques_d_herve_gourdel_celebrees_dans_l_intimite_a_nice"; // page name (with the use of :: to create chapters)
+xtdi     = ""; // implication degree
+xt_multc = "&x1=1&x2=1&x3=1&x4=lepoint-fr&x5=source-afp"; // all the xi indicators (like "&x1=...&x2=....&x3=...")
+xt_an    = ""; // user ID
+xt_ac    = ""; // category ID
+xt_ati = "";
+//do not modify below
+if (window.xtparam!=null){window.xtparam+="&ac="+xt_ac+"&an="+xt_an+"&ati="+xt_ati+xt_multc;} else {window.xtparam = "&ac="+xt_ac+"&an="+xt_an+"&ati="+xt_ati+xt_multc;};
+//do not modify below
+if (window.xtparam!=null){window.xtparam+=xt_multc+"&ac="+xt_ac+"&an="+xt_an;} else {window.xtparam=xt_multc+"&ac="+xt_ac+"&an="+xt_an;};
+xt_pagetype = "4-1-0";
+// do not modify below
+if (window.xtparam!=null) {window.xtparam+="&ptype="+xt_pagetype;} else {xtparam = "&ptype="+xt_pagetype;};
+//-->
+</script>
+<script type="text/javascript" src="http://www.lepoint.fr/scripts2/xtcore.js"></script>
+<script type="text/javascript" src="http://www.lepoint.fr/scripts2/xiti_mesure_clics.js"></script>
+<object>
+<noscript>
+<div id="xiti-logo-noscript">
+<img width="1" height="1" src="http://logi8.xiti.com/hit.xiti?s=188560&amp;s2=200&amp;p=Societe::1901077_source_afp::les_obseques_d_herve_gourdel_celebrees_dans_l_intimite_a_nice&amp;di=&amp;an=&amp;ac=" alt="XiTi" />
+</div>
+</noscript>
+</object>
+</div>
+<!-- Fin tag xiti -->
+<script type="text/javascript" async src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/scripts2/js_f5b4eed57ed9e8b13db8b91884a7e36d.js"></script>
+<script type="text/javascript" src="http://www.lepoint.fr/scripts2/brightcoveexperiences.js"></script>
+<script type="text/javascript" src="/scripts2/spoutnik/plugins/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/scripts2/article.js"></script>
+</body>
+<!-- GenTmInf rubp=lp:w:actu:societe rubc=lp:w:actu:societe idsv=1901077 id=1901077 gstart=2015-01-30T16:58:51 updat=2015-01-30T16:17:14 -->
+<!-- ExeTmInf tm=2015-01-30T17:08:39 hn=lepoint-web3.sdv.fr dr=0.028972 -->
+</html>

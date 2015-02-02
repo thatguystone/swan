@@ -33,7 +33,8 @@ type Article struct {
 	// Document backing this article
 	Doc *goquery.Document
 
-	cfg Config
+	// Node with the best score in the document
+	TopNode *goquery.Selection
 }
 
 type runner interface {
@@ -53,11 +54,15 @@ var (
 
 		useKnownArticles{},
 		cleanup{},
-		extractContent{},
+		metaDetectLanguage{},
 
+		extractTopNode{},
 		extractLinks{},
 		extractImages{},
 		extractVideos{},
+
+		// Does more document mangling
+		extractContent{},
 	}
 
 	// Don't match all-at-once: there's precedence here

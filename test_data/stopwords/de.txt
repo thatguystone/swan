@@ -1,0 +1,2040 @@
+
+
+<!DOCTYPE html>
+<!--[if IE]>
+  <html lang="de" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<![endif]-->
+<!--[if !IE]> -->
+  <html lang="de">
+<!-- <![endif]-->
+
+
+
+
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <!--[if IE]><![endif]-->
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+    <meta name="author" content="Süddeutsche.de GmbH, Munich, Germany">
+    <meta http-equiv="imagetoolbar" content="no">
+    <meta name="copyright" content="Süddeutsche.de GmbH, Munich, Germany">
+    <meta name="email" content="wir@sueddeutsche.de">
+    <meta name="MSSmartTagsPreventParsing" content="true">
+    <link href="http://www.sueddeutsche.de/favicon.ico" rel="shortcut icon" type="image/ico">
+    <link rel="search" type="application/opensearchdescription+xml" href="http://suche.sueddeutsche.de/opensearch" title="Süddeutsche.de">
+    <title>Zweiter US-Spion im Verteidigungsministerium - Politik - S&uuml;ddeutsche.de</title>
+    <meta name="description" content="Laut NDR, WDR und SZ soll ein Mitarbeiter des Bundesverteidigungsministeriums f&uuml;r einen US-Geheimdienst spioniert haben.">
+    <meta name="keywords" content="USA, Berlin, CIA, BND, WDR, NDR, S&uuml;ddeutsche Zeitung, SZ">
+
+      <meta name="news_keywords" content="NSA, Geheimdienste, Spionage, Politik, USA, Berlin, CIA, BND, WDR, NDR">
+
+    <meta name="robots" content="index,follow,noarchive,noodp">
+
+      <meta name="last-modified" content="Mi, 9 Jul 2014 16:15:51 MESZ">
+
+      <link rel="canonical" href="http://www.sueddeutsche.de/politik/ausweitung-der-geheimdienstaffaere-ermittlungen-gegen-us-spion-im-verteidigungsministerium-1.2038151">
+    <meta property="og:url" content="http://www.sueddeutsche.de/politik/ausweitung-der-geheimdienstaffaere-ermittlungen-gegen-us-spion-im-verteidigungsministerium-1.2038151">
+
+      <link rel="alternate" title="sueddeutsche.de Politik RSS Feed" href="http://rss.sueddeutsche.de/rss/Politik" type="application/rss+xml">
+      <link rel="alternate" title="sueddeutsche.de RSS Feed" href="http://rssfeed.sueddeutsche.de/c/795/f/449002/index.rss" type="application/rss+xml">
+      <link rel="alternate" title="S&uuml;ddeutsche.de NSA RSS Feed" href="http://rss.sueddeutsche.de/rss/Thema/NSA" type="application/rss+xml">
+
+
+      <link rel="stylesheet" href="http://polpix.sueddeutsche.com/staticassets/css/sde-core.css?r=150126.2" type="text/css">
+            <script src="http://polpix.sueddeutsche.com/staticassets/js/sde-core.js?r=150126.2" type="text/javascript"></script>
+
+      <script type="text/javascript" src="http://s0.2mdn.net/instream/html5/ima3.js"></script>
+
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@SZ">
+    <link rel="apple-touch-icon" href="http://polpix.sueddeutsche.com/staticassets/img/touch-icon-iphone.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="http://polpix.sueddeutsche.com/staticassets/img/touch-icon-ipad.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="http://polpix.sueddeutsche.com/staticassets/img/touch-icon-iphone-retina.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="http://polpix.sueddeutsche.com/staticassets/img/touch-icon-ipad-retina.png" />
+
+      <meta property="og:type" content="article">
+    <meta property="og:title" content="Zweiter US-Spion im Verteidigungsministerium">
+
+      <meta property="og:description" content="Laut NDR, WDR und SZ soll ein Mitarbeiter des Bundesverteidigungsministeriums f&uuml;r einen US-Geheimdienst spioniert haben.">
+
+      <meta property="og:image" content="http://polpix.sueddeutsche.com/polopoly_fs/1.2038480.1404902469!/httpImage/image.jpg_gen/derivatives/900x600/image.jpg">
+      <meta property="og:site_name" content="Süddeutsche.de">
+    <meta property="og:locale" content="de_DE">
+      <meta property="fb:app_id" content="268419256515542">
+      <meta property="fb:page_id" content="26126004501">
+
+
+    <!-- %CSS% -->
+
+    <!-- %JS% -->
+
+     <script src="http://cdn.optimizely.com/js/262422537.js"></script>
+
+
+
+
+
+
+    <!-- [START] IQ NuggAd Tag -->
+    <script type="text/javascript">
+    var n_pbt ="",
+        nuggrid= encodeURIComponent(top.location.href);
+    document.write('<scr'+'ipt type=\"text/javascript\" src=\"http://gwp.nuggad.net/rc?nuggn=223088769&nuggsid=1139925436&nuggrid='+nuggrid+'"><\/scr'+'ipt>');
+    </script>
+    <!-- [END] IQ NuggAd Tag -->
+
+    <!-- [START] Yield Probe -->
+    <script type="text/javascript">
+    var ts = new Date(),
+        timestamp = ts.getFullYear() + '973' + ts.getMonth() + '0' + ts.getDate();
+    document.write('<scr'+'ipt type=\"text/javascript\" src=\"http://ad.yieldlab.net/yp/21746,21748,21750,21985?ts='+timestamp+'"><\/scr'+'ipt>');
+    </script>
+
+    <!-- [END] Yield Probe -->
+
+    <!-- [START] AdVisibility -->
+    <script type="text/javascript" src="http://c.t4ft.de/c/ftg_iq.min.js"></script>
+    <!-- [END] AdVisibility -->
+
+    <!-- [START] IQ Krux Control Tag -->
+    <!-- Source: /snippet/controltag?confid=Ip52Cnbc&site=IQ&edit=1 -->
+    <script class="kxct" data-id="Ip52Cnbc" data-timing="async" data-version="1.9" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+    (function(){
+        var k=document.createElement('script');k.type='text/javascript';k.async=true;
+        var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+        k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+        (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=Ip52Cnbc";
+        var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+    }());
+    </script>
+    <!-- [END] IQ Krux Control Tag -->
+
+    <!-- [START] IQ Krux-->
+    <script class="kxint" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+    (function(){
+        // Namespace centro
+        var Krux = this.Krux.adaudience = this.Krux.adaudience || {};
+        function retrieve(n){
+            var m, k='kxadaudience_'+n;
+            if (window.localStorage) {
+                return window.localStorage[k] || "";
+            } else if (navigator.cookieEnabled) {
+                m = document.cookie.match(k+'=([^;]*)');
+                return (m && unescape(m[1])) || "";
+            } else {
+                return '';
+            }
+        }
+        Krux.user = retrieve('user');
+        Krux.segments = retrieve('segs') ? retrieve('segs').split(',') : [];
+        // DFP Premium
+        var dfpp = [];
+
+        for (var i = 0; i < Krux.segments.length; i++ ) {
+            dfpp.push(Krux.segments[i]);
+        }
+        Krux.dfppKeyValues = dfpp.length ? dfpp.join(',') + ';' : '';
+        Krux.dfppKeyValues = Krux.dfppKeyValues.length ? 'ksg=' + Krux.dfppKeyValues : '' ;
+
+    })();
+    </script>
+    <!-- [END] IQ Krux -->
+
+    <!-- [START] IQ Header -->
+    <script type="text/javascript">
+    var IQD_varPack = {
+        iqdSite: 'iqdsde',
+        iqdRessort: '',
+        ord: Math.random()*10000000000000000,
+        iqdSiteInfo: [[970, 0, -15], [0, 0, 970], [0, 0, 970], ['center', 'fullBodyBg'], ['y', 'y', 'y']],
+        iqdCountSkyReq: parseInt(0),
+        iqdEnableSky: 'neutral'
+    };
+
+    // IQD variable test
+    var iqd_Loc = (top==self) ? window.location : parent.location,
+        iqd_Domain = iqd_Loc.href.toLowerCase(),
+        iqTestKW = (iqd_Domain.indexOf('iqadtest=')> -1) ? iqd_Domain.split('iqadtest=')[1] : 'iqlive';
+    </script>
+    <!-- [END] IQ Header -->
+
+
+    <script type="text/javascript">
+    (function()
+    { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = document.location.protocol + '//cdn.iqcontentplatform.de/iq.js'; var sc = document.getElementsByTagName('script')[0]; sc.parentNode.insertBefore(s, sc); }
+    )();
+  </script>
+
+  </head>
+
+
+
+
+
+
+
+
+<!--[if IE 8]>
+<body class="politik ie ie8" data-lt="politik" itemscope itemtype='http://schema.org/WebPage' data-documenttype='ARTICLE' data-pageRenderDate='1422633825795' data-bind='refreshHomepageAfterIdle'>
+<![endif]-->
+<!--[if IE 9]>
+<body class="politik ie ie9" data-lt="politik" itemscope itemtype='http://schema.org/WebPage' data-documenttype='ARTICLE' data-pageRenderDate='1422633825795' data-bind='refreshHomepageAfterIdle'>
+<![endif]-->
+<!--[if IE 10]>
+<body class="politik ie ie10" data-lt="politik" itemscope itemtype='http://schema.org/WebPage' data-documenttype='ARTICLE' data-pageRenderDate='1422633825795' data-bind='refreshHomepageAfterIdle'>
+<![endif]-->
+<!--[if IE 11]>
+<body class="politik ie ie11" data-lt="politik" itemscope itemtype='http://schema.org/WebPage' data-documenttype='ARTICLE' data-pageRenderDate='1422633825795' data-bind='refreshHomepageAfterIdle'>
+<![endif]-->
+<!--[if !IE]><!-->
+<body class="politik" data-lt="politik" itemscope itemtype='http://schema.org/WebPage' data-documenttype='ARTICLE' data-pageRenderDate='1422633825795' data-bind='refreshHomepageAfterIdle'>
+<!--<![endif]-->
+
+    <script>
+    document.documentElement.className += " js";
+    SDE.$( function () { document.documentElement.className += " domready"; } );
+
+
+    SDE.init.initTop();
+  </script>
+
+
+
+<script type="text/javascript" id="valitonInit">
+  if (typeof VALITON_WA !== 'undefined') {
+    VALITON_WA.setProp( {
+      art:'www', autopub: 'false', seite: '0', erstellungsdatum: '2014-07-09 12:24:57', dokumentTyp: 'artikel', thema: 'nsa', vermarktbar: 'true', id: '1.2038151', linkTracking: 'true', pcat: 'free', titel: 'ausweitung-der-geheimdienstaffaere-ermittlungen-gegen-us-spion-im-verteidigungsministerium', domain: 'www.sueddeutsche.de', lastTracker: 'ywa,chartbeat', webseitenbereich: 'nachrichten', firstTracker: 'ivw2,sitestat,magof,ga', ressort: 'politik', agofcode: '049'     } );
+    VALITON_WA.track();
+  }
+</script>
+<noscript>
+  <img src="http://sueddeut.ivwbox.de/cgi-bin/ivw/CP/noscript" width="1" height="1" alt="szmtag">
+</noscript>
+
+
+
+<!-- Google Tag Manager -->
+<noscript>
+  <iframe src="http://www.googletagmanager.com/ns.html?id=GTM-PXNL5Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+  (function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),
+        dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;
+    j.src='http://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PXNL5Z');
+</script>
+<!-- End Google Tag Manager -->
+
+
+    <div id="sueddeutsche">
+
+
+
+
+
+    <!-- [START] IQ Ad Audience -->
+    <script type="text/javascript">
+      // Publisher code
+      // iterate through all recommendations
+      var YLP = yl.YpResult || "";
+      var ylpid = [21746, 21748, 21750, 21985];
+      var ylpid2 = [4791, 3713, 5872, 8525];
+
+      //iq audience package
+      try { var ylpsky = YLP.get(ylpid[0]).id; } catch(e) { ylpsky = 0; };
+      try { var ylpmedrec = YLP.get(ylpid[1]).id; } catch(e) { ylpmedrec = 0; };
+      try { var ylpsuba = YLP.get(ylpid[2]).id; } catch(e) { ylpsuba = 0; };
+      try { var ylpdynamic = YLP.get(ylpid[3]).id; } catch(e) { ylpdynamic = 0; };
+      try { var ylpwf = YLP.get(ylpid[3]).format; } catch(e) { ylpwf = 0; };
+
+      var ylpwfid = 'y' + ylpwf;
+
+      var iqd_wlCus = ['ysky', 'ymdr', 'ysba', 'ydyc', ylpwfid];
+      var iqd_wlCusRec = [ylpsky, ylpmedrec, ylpsuba, ylpdynamic, ylpwf];
+      var iqd_wlCusRecStr = [];
+
+      for (var i = 0; i < iqd_wlCus.length; i++) {
+        iqd_wlCusRecStr[i] =  (iqd_wlCusRec[i] > 0) ? iqd_wlCus[i] + '=1' : iqd_wlCus[i] + '=0';
+      }
+
+      document.write('<scr'+'ipt>n_pbt += iqd_wlCusRecStr.join("\;");</scr'+'ipt>');
+
+      if (window.Krux.adaudience.dfppKeyValues){
+        document.write('<scr'+'ipt>n_pbt += ";" + window.Krux.adaudience.dfppKeyValues;</scr'+'ipt>');
+      }
+    </script>
+    <script>n_pbt = n_pbt.substr(0,1250);</script>
+    <!-- [END] IQ Ad Audience -->
+
+      <div class="ad" id="iqd_mainAd" role="banner">
+        <div id="iqd_align_Ad">
+          <div id="iqd_topAd">
+                        <!-- begin ad tag (tile=1) -->
+
+
+
+
+
+
+
+
+
+
+<div id="iqadtile1" class="iqad" data-adtile="1">
+    <script type="text/javascript">
+    //<![CDATA[
+    document.write('<scr'+'ipt type="text/javascript" src="http://ad.de.doubleclick.net/adj/iqdsde/politik/artikel;kw=iqadtile1,iqdsde,politik,' + iqTestKW + ';doc=artikel;tma=nsa;sz=728x90,800x250;tile=1;dcopt=ist;' + n_pbt + ';ord=' + IQD_varPack.ord + '?"><\/script>');
+    //]]>
+  </script>
+  <noscript>
+    <a href="http://ad.de.doubleclick.net/jump/iqdsde/politik/artikel;kw=iqadtile1,iqdsde,politik;doc=artikel;tma=nsa;sz=728x90,800x250;tile=1;ord=123456789?" target="_blank">
+      <img src="http://ad.de.doubleclick.net/ad/iqdsde/politik/artikel;kw=iqadtile1,iqdsde,politik;doc=artikel;tma=nsa;sz=728x90,800x250;tile=1;ord=123456789?" alt="">
+    </a>
+  </noscript>
+</div>
+            <!-- end ad tag -->
+                        <div id="iqd_rightAd">
+                            <!-- begin ad tag (tile=2) -->
+
+
+
+
+
+
+
+
+
+
+<div id="iqadtile2" class="iqad" data-adtile="2">
+    <script type="text/javascript">
+    //<![CDATA[
+    document.write('<scr'+'ipt type="text/javascript" src="http://ad.de.doubleclick.net/adj/iqdsde/politik/artikel;kw=iqadtile2,iqdsde,politik,' + iqTestKW + ';doc=artikel;tma=nsa;sz=120x600,160x600,200x600;tile=2;' + n_pbt + ';ord=' + IQD_varPack.ord + '?"><\/script>');
+    //]]>
+  </script>
+  <noscript>
+    <a href="http://ad.de.doubleclick.net/jump/iqdsde/politik/artikel;kw=iqadtile2,iqdsde,politik;doc=artikel;tma=nsa;sz=120x600,160x600,200x600;tile=2;ord=123456789?" target="_blank">
+      <img src="http://ad.de.doubleclick.net/ad/iqdsde/politik/artikel;kw=iqadtile2,iqdsde,politik;doc=artikel;tma=nsa;sz=120x600,160x600,200x600;tile=2;ord=123456789?" alt="">
+    </a>
+  </noscript>
+</div>
+              <!-- end ad tag -->
+                          </div>
+          </div>
+        </div>
+      </div>
+
+    <div id="wrapperbelt">
+      <div id="wrapper">
+
+
+
+  <header id="siteheader" data-lt="siteheader">
+
+                <section class="logo" data-lt="logo">
+      <a href="http://www.sueddeutsche.de/">
+      Nachrichten auf Süddeutsche.de
+    </a>
+    <strong>
+      Politik
+    </strong>
+  </section>
+
+
+
+
+    <nav class="navigation" role="navigation">
+            <div id="mainnav" data-lt="mainnav">
+
+
+
+
+
+
+<ul class="sitenav" data-lt="sitenav">
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <li >
+            <a href="http://www.sueddeutsche.de/politik" class='politik-link' data-lt='politik'>
+              Politik
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <li >
+            <a href="http://www.sueddeutsche.de/panorama" class='panorama-link' data-lt='panorama'>
+              Panorama
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <li >
+            <a href="http://www.sueddeutsche.de/kultur" class='kultur-link' data-lt='kultur'>
+              Kultur
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <li >
+            <a href="http://www.sueddeutsche.de/wirtschaft" class='wirtschaft-link' data-lt='wirtschaft'>
+              Wirtschaft
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <li >
+            <a href="http://www.sueddeutsche.de/sport" class='sport-link' data-lt='sport'>
+              Sport
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <li >
+            <a href="http://www.sueddeutsche.de/muenchen" class='muenchen-link' data-lt='muenchen'>
+              M&uuml;nchen
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <li >
+            <a href="http://www.sueddeutsche.de/bayern" class='bayern-link' data-lt='bayern'>
+              Bayern
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <li >
+            <a href="http://www.sueddeutsche.de/digital" class='digital-link' data-lt='digital'>
+              Digital
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <li >
+            <a href="http://www.sueddeutsche.de/auto" class='auto-link' data-lt='auto'>
+              Auto
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <li >
+            <a href="http://www.sueddeutsche.de/reise" class='reise-link' data-lt='reise'>
+              Reise
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <li >
+            <a href="http://www.sueddeutsche.de/video" class='video-link' data-lt='video'>
+              Video
+      </a>
+    </li>
+
+
+
+  <li id="sitesubnavtoggle">
+    <span class="toggle">mehr</span>
+    <div id="sitesubnavpanel" role="dialog" aria-hidden="true" tabindex="-1" style="display: none;">
+      <div class="closebutton">
+        <div>X</div>
+      </div>
+      <ul>
+		          <li>
+          <a href="http://www.sueddeutsche.de/meinung" class="meinung-link" data-lt="meinung">Meinung</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/karriere" class="karriere-link" data-lt="karriere">Karriere</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/geld" class="geld-link" data-lt="geld">Geld</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/app/service/blogs/" class="blogs-link" data-lt="blogs">Blogs</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/bildung" class="bildung-link" data-lt="bildung">Bildung</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/wissen" class="wissen-link" data-lt="wissen">Wissen</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/multimedia/die-recherche-datagraph-entdecken-sie-die-sz-projekte-1.1617815" class="sz-projekte-link" data-lt="sz-projekte">SZ-Projekte</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/gesundheit" class="gesundheit-link" data-lt="gesundheit">Gesundheit</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/leben" class="leben-link" data-lt="leben">Leben</a>
+        </li>
+		          <li>
+          <a href="http://jetzt.sueddeutsche.de/" class="jetztde-link" data-lt="jetztde">jetzt.de</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/medien" class="medien-link" data-lt="medien">Medien</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/stil" class="stil-link" data-lt="stil">Stil</a>
+        </li>
+		          <li>
+          <a href="http://sz-magazin.sueddeutsche.de/" class="sz magazin-link" data-lt="sz magazin">SZ Magazin</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/humor" class="unterhaltung-link" data-lt="unterhaltung">Unterhaltung</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/thema/SZblog" class="szblog-link" data-lt="szblog">SZblog</a>
+        </li>
+		          <li>
+          <a href="http://wetter.sueddeutsche.de/" class="wetter-link" data-lt="wetter">Wetter</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/thema/Humor" class="humor-link" data-lt="humor">Humor</a>
+        </li>
+		          <li>
+          <a href="http://finanzen.sueddeutsche.de" class="boerse-link" data-lt="boerse">B&ouml;rse</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/app/service/kino/" class="kinoprogramm-link" data-lt="kinoprogramm">Kinoprogramm</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/thema/Spiele" class="spiele-link" data-lt="spiele">Spiele</a>
+        </li>
+		          <li>
+          <a href="http://international.sueddeutsche.de" class="english-link" data-lt="english">English</a>
+        </li>
+		          <li>
+          <a href="http://www.sueddeutsche.de/service/ratgeber-uebersicht-alle-sz-ratgeber-in-der-uebersicht-1.1604262" class="sz-ratgeber-link" data-lt="sz-ratgeber">SZ-Ratgeber</a>
+        </li>
+		        </ul>
+    </div>
+  </li>
+  <li class="search">
+    <form action="http://suche.sueddeutsche.de/" method="POST" role="search">
+  <input name="source" value="sde" type="hidden">
+  <label for="q" class="to-be-read">Suche</label>
+  <input type="search" class="search" placeholder="Suche" value="" name="q" id="q">
+  <input type="submit" class="submit" value="Finden">
+</form>
+  </li>
+</ul>
+
+
+
+
+
+
+  <ul class="breadcrumb" data-lt="breadcrumb">
+
+
+
+
+
+
+
+      <li itemscope itemtype='http://data-vocabulary.org/Breadcrumb' itemprop='breadcrumb' style='z-index: 3;'>
+            <a href="http://www.sueddeutsche.de/"  data-lt='home' itemprop='url' data-pagetype='HOMEPAGE' data-id='2.242'>
+              <span  itemprop='title'>Home</span>
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+      <li itemscope itemtype='http://data-vocabulary.org/Breadcrumb' itemprop='breadcrumb' style='z-index: 2;'>
+            <a href="http://www.sueddeutsche.de/politik"  data-lt='Politik' itemprop='url' data-pagetype='PAGE' data-id='2.236'>
+              <span  itemprop='title'>Politik</span>
+      </a>
+    </li>
+
+
+
+
+
+
+
+
+
+      <li itemscope itemtype='http://data-vocabulary.org/Breadcrumb' itemprop='breadcrumb' style='z-index: 1;'>
+            <a href="http://www.sueddeutsche.de/thema/NSA"  data-lt='NSA' itemprop='url' data-pagetype='THEME' data-id='1.1880679'>
+              <span  itemprop='title'>NSA</span>
+      </a>
+    </li>
+
+          </ul>
+
+
+<ul class="pagenav">
+  <li>
+    <h1>Zweiter US-Spion im Verteidigungsministerium</h1>
+  </li>
+</ul>
+
+        <ul class="promotion" data-lt="promotion">
+  </ul>
+      </div>
+
+
+    <div id="subnav" data-lt="subnav">
+
+
+  <ul class="markets" data-lt="markets">
+    <li><a href="http://immobilienmarkt.sueddeutsche.de/">Immobilienmarkt</a></li>
+    <li><a href="http://stellenmarkt.sueddeutsche.de/">Stellenmarkt</a></li>
+    <li><a href="http://reiseangebote.sueddeutsche.de/">Reiseangebote</a></li>
+  </ul>
+
+
+
+
+  <ul class="services" data-lt="services">
+    <li><a href="http://sz-shop.sueddeutsche.de/mediathek/shop/home.jsp?DCMP=RtMh-Sdde">SZ-Shop</a></li>
+    <li><a href="http://tickets.sueddeutsche.de/" rel="nofollow">Tickets</a></li>
+    <li><a href="http://anzeigen.sueddeutsche.de/">Anzeigen</a></li>
+        <li><a href="http://www.sueddeutsche.de/service/updates-per-newsletter-immer-das-neueste-im-mail-eingang-1.1244978" data-lintrack="header_SUBPAGE_newsletter">Newsletter</a></li>
+
+<li id="weiterebox" class="first">
+    <span class="toggle">Weitere Angebote</span>
+    <div id="weiterepanel">
+        <ul>
+
+  <li>
+    <a href="http://www.sueddeutsche.de/updates-mobileapps" data-pagetype='EXTERNAL' data-id='7.66622'>
+      <em>Mobile Websiten &amp; Apps</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://branchenbuch.sueddeutsche.de" data-pagetype='EXTERNAL' data-id='7.11717'>
+      <em>Branchenbuch</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://www.sueddeutsche.de/app/reise/uebersicht/" data-pagetype='EXTERNAL' data-id='7.15914'>
+      <em>Reisef&uuml;hrer</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://www.sueddeutsche.de/thema/Forum" data-pagetype='THEME' data-id='1.947550'>
+      <em>Forum</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://www.sueddeutsche.de/news" data-pagetype='EXTERNAL' data-id='7.11512'>
+      <em>Schlagzeilen</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://archiv.sueddeutsche.de" data-pagetype='EXTERNAL' data-id='7.11513'>
+      <em>SZ-Archiv</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://www.sz-gedenken.de/" data-pagetype='EXTERNAL' data-id='7.55232'>
+      <em>SZ-Gedenken.de</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://sz-veranstaltungen.sueddeutsche.de/" data-pagetype='EXTERNAL' data-id='7.12860'>
+      <em>SZ-Veranstaltungen</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://maps.sueddeutsche.de/" data-pagetype='EXTERNAL' data-id='7.41674'>
+      <em>maps.sueddeutsche.de</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://www.sueddeutsche.de/app/subchannel/karriere/bildung/" data-pagetype='EXTERNAL' data-id='7.43882'>
+      <em>SZ-Bildungsmarkt </em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://llm.sueddeutsche.de/" data-pagetype='EXTERNAL' data-id='7.73180'>
+      <em>Master of Laws</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://medienberufe.sueddeutsche.de/" data-pagetype='EXTERNAL' data-id='7.38544'>
+      <em>Medienberufe</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://www.sueddeutsche.de/thema/weitere_Themen" data-pagetype='EXTERNAL' data-id='7.11494'>
+      <em>Themen</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://www.sueddeutsche.de/news" data-pagetype='EXTERNAL' data-id='7.40987'>
+      <em>Newsticker</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://motormarkt.sueddeutsche.de/" data-pagetype='EXTERNAL' data-id='7.61696'>
+      <em>Motormarkt</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://sueddeutsche.kaufdown.de" data-pagetype='EXTERNAL' data-id='7.61697'>
+      <em>Kaufdown</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://ladenwelten.sueddeutsche.de/" data-pagetype='EXTERNAL' data-id='7.66500'>
+      <em>Ladenwelten</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="https://weiterbildung.sueddeutsche.de/" data-pagetype='EXTERNAL' data-id='7.71301'>
+      <em>Weiterbildung</em>
+    </a>
+  </li>
+
+
+  <li>
+    <a href="http://www.swmh.de/gruppe/engagement/studienstiftung-der-sueddeutschen-zeitung/" data-pagetype='EXTERNAL' data-id='7.74972'>
+      <em>SZ-Studienstiftung</em>
+    </a>
+  </li>
+
+	            </ul>
+    </div>
+</li>
+      </ul>
+
+
+  <ul class="products" data-lt="products">
+    <li><a href="https://service.sueddeutsche.de/index.htm?wt=INSDRE">Abo &amp; Service</a></li>
+    <li><a href="http://epaper.sueddeutsche.de/">E-Paper</a></li>
+  </ul>
+
+
+  <div id="loginbutton">
+    <button
+        id="logintoggle"
+        role="tablist"
+        data-status="loggedout"
+    >
+        Login
+    </button>
+    <div id="loginpopup">
+        <div class"loggedin">Sie sind angemeldet als</div>
+        <div id="useremail"></div>
+
+        <div id="loggedinbuttons">
+            <a href="#" class="profile">Profil</a>
+            <a href="#" class="logout">Logout</a>
+        </div>
+    </div>
+</div>
+
+</div>
+
+    </nav>
+
+                    <section role="banner" class="setAsStart" id="setAsStartBanner">
+        <a href="http://www.sueddeutsche.de/service/sueddeutschede-sofort-laden-machen-sie-uns-zur-startseite-1.1545037" class="startLink" data-linktrack='startLink'>
+            <strong>Süddeutsche.de</strong> als Startseite einrichten
+        </a>
+        <a href="#" id="setAsStartBannerRemove" class="right remove" data-linktrack='setAsStartBannerRemove'>
+            Hinweis nicht mehr anzeigen
+            <span class="close">Schließen</span>
+        </a>
+    </section>
+
+  </header>
+
+      <script>SDE.init.initHeader();</script>
+
+    <div class="ad" role="banner">
+    <div id="iqd_flashAd">
+
+
+
+
+
+
+
+
+
+
+<div id="iqadtile3" class="iqad" data-adtile="3">
+    <p class="anzeige">Anzeige</p>
+        <script type="text/javascript">
+    //<![CDATA[
+    document.write('<scr'+'ipt type="text/javascript" src="http://ad.de.doubleclick.net/adj/iqdsde/politik/artikel;kw=iqadtile3,iqdsde,politik,' + iqTestKW + ';doc=artikel;tma=nsa;sz=940x250,940x30;tile=3;' + n_pbt + ';ord=' + IQD_varPack.ord + '?"><\/script>');
+    //]]>
+  </script>
+  <noscript>
+    <a href="http://ad.de.doubleclick.net/jump/iqdsde/politik/artikel;kw=iqadtile3,iqdsde,politik;doc=artikel;tma=nsa;sz=940x250,940x30;tile=3;ord=123456789?" target="_blank">
+      <img src="http://ad.de.doubleclick.net/ad/iqdsde/politik/artikel;kw=iqadtile3,iqdsde,politik;doc=artikel;tma=nsa;sz=940x250,940x30;tile=3;ord=123456789?" alt="">
+    </a>
+  </noscript>
+</div>
+    </div>
+  </div>
+
+
+
+
+
+    <script type="text/javascript" id="creInit">
+
+        var renderSwoosh = function(opcUrl, meteredCount, maxCount) {
+            var ajaxUrl = opcUrl + '/assets/js/swoosh.js';
+            var mode = 'WWW';
+            SDE.$.ajax({
+                url: ajaxUrl,
+                dataType: 'script',
+                cache: true, // otherwise will get fresh copy every page load
+                success: function() {
+                    opcSwoosh(SDE.$, SDE.$("#sueddeutsche"), meteredCount, maxCount, opcUrl, mode);
+                }
+            });
+        }
+
+        SDE.$.ajax({
+            url: 'http://www.sueddeutsche.de/cre-1.0/tracking/tracking.js',
+            dataType: 'script',
+            cache: true, // otherwise will get fresh copy every page load
+            success: function() {
+                if (typeof(cre_client) != "undefined") {
+                    cre_client.set_page_view();
+                                            cre_client.set_site('sz.de');
+                                            cre_client.set_service_id('szde');
+                                            cre_client.set_entitlement_id('live_szde');
+                                            cre_client.set_content_id('\/politik\/ausweitung-der-geheimdienstaffaere-ermittlungen-gegen-us-spion-im-verteidigungsministerium-1.2038151');
+                                            cre_client.set_tag('NSA');
+                                            cre_client.set_origin('web');
+                                            cre_client.set_doc_type('article');
+                                            cre_client.set_entitlement('free');
+                                            cre_client.set_kicker('Ausweitung der Geheimdienstaffaere');
+                                            cre_client.set_channel('2.236');
+                                            cre_client.set_cms_id('1.2038151');
+                                            cre_client.set_heading('Ermittlungen gegen US-Spion im Verteidigungsministerium');
+                                                                cre_client.addListener(function(object){
+
+                            SDE.init.opc.configure({
+                                url: "http://offers.sueddeutsche.de",
+                                trackingId: object.data.tracking_id || '',
+                                status: object.data.status || 'open',
+                                serviceId: 'szde',
+                                origin: 'web'
+                            });
+
+                                                    });
+                                        cre_client.request();
+                }
+            }
+        })
+    </script>
+
+
+
+
+
+
+
+
+
+<img src="http://sz.met.vgwort.de/na/5b1a42fcb1e54de3b6a08adf67cd4074" width="1" height="1" alt="" class="offscreen">
+
+
+
+<article id="sitecontent" class="article hentry" role="main">
+
+
+
+
+        <section class="header">
+      <strong>
+                    <time datetime="2014-07-09 12:24:57" class="timeformat">9. Juli 2014, 12:24</time>
+              </strong>
+      <h2>
+        <strong>
+                        Ausweitung der Geheimdienstaff&auml;re
+        </strong>
+        Ermittlungen gegen US-Spion im Verteidigungsministerium
+      </h2>
+  </section>
+
+
+      <section class="topenrichment">
+
+
+
+
+
+
+  <figure id="uid-1-2038480-1404902469" class="enrichment zoomimage topslot bigimage" itemprop="image" itemscope itemtype="http://schema.org/ImageObject" data-bind='widget.Zoomable {"toggle": ".body a"}'>
+    <div class="body">
+              <a href="http://polpix.sueddeutsche.com/polopoly_fs/1.2038480.1404902469!/httpImage/image.jpg_gen/derivatives/860x860/image.jpg" data-owidth="860" data-oheight="574" data-pagetype='none' data-id='1.2038480' >
+                      <img src="http://polpix.sueddeutsche.com/polopoly_fs/1.2038480.1404902469!/httpImage/image.jpg_gen/derivatives/640x360/image.jpg" width="640" height="360" alt="NSA Ausweitung der Geheimdienstaff&auml;re" title="Ausweitung der Geheimdienstaff&auml;re Ermittlungen gegen US-Spion im Verteidigungsministerium">
+                    <span class="imagelabel">Bild vergr&ouml;&szlig;ern</span>
+        </a>
+          </div>
+    <figcaption >
+      <h3 class="entry-title" >
+                    Ein Mitarbeiter des Bundesverteidigungsministeriums soll für einen amerikanischen Geheimdienst in Deutschland spioniert haben
+      </h3>
+            <span class="source">
+        (Foto: <span itemprop="copyrightHolder"> Imago Stock&amp;People</span>)
+      </span>
+          </figcaption>
+  </figure>
+    </section>
+
+
+
+  <section class="body" data-bind='widget.LiquidAds {"pagetype": "article", "rootElem": "section.body"}'>
+
+
+        <div class="ad" role="banner" data-adtile="8">
+
+
+
+
+
+
+
+
+
+
+<div id="iqadtile8" class="iqad" data-adtile="8">
+    <p class="anzeige">Anzeige</p>
+        <script type="text/javascript">
+    //<![CDATA[
+    document.write('<scr'+'ipt type="text/javascript" src="http://ad.de.doubleclick.net/adj/iqdsde/politik/artikel;kw=iqadtile8,iqdsde,politik,' + iqTestKW + ';doc=artikel;tma=nsa;sz=300x250,300x100,300x600;tile=8;' + n_pbt + ';ord=' + IQD_varPack.ord + '?"><\/script>');
+    //]]>
+  </script>
+  <noscript>
+    <a href="http://ad.de.doubleclick.net/jump/iqdsde/politik/artikel;kw=iqadtile8,iqdsde,politik;doc=artikel;tma=nsa;sz=300x250,300x100,300x600;tile=8;ord=123456789?" target="_blank">
+      <img src="http://ad.de.doubleclick.net/ad/iqdsde/politik/artikel;kw=iqadtile8,iqdsde,politik;doc=artikel;tma=nsa;sz=300x250,300x100,300x600;tile=8;ord=123456789?" alt="">
+    </a>
+  </noscript>
+</div>
+    </div>
+
+
+                  <p class="article entry-summary">
+        Die Spionageaff&auml;re mit den USA weitet sich aus: Laut Informationen von NDR, WDR und &quot;S&uuml;ddeutscher Zeitung&quot; gibt es einen zweiten Spionagefall. BKA und Bundesanwaltschaft durchsuchen derzeit Wohn- und B&uuml;ror&auml;ume eines Mitarbeiters des Bundesverteidigungsministeriums, der f&uuml;r einen US-Geheimdienst spioniert haben soll.
+        </p>
+
+
+        <section class="authors">
+            <div class="authorContainer">
+
+        <script>
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    </script>
+
+    <div class="authorProfileContainer">
+                    <span class="moreInfo">
+      <strong> Von Hans Leyendecker und Georg Mascolo</strong>
+    </span>
+        </div>
+
+
+  </div>
+    </section>
+
+
+
+<span id="sharingbaranchor"></span>
+
+
+
+
+
+
+    <p>Die Spionageaffäre mit den USA weitet sich aus. Nach Informationen von NDR, <a href="http://www.sueddeutsche.de/thema/WDR" data-pagetype="THEME" class="themelink">WDR</a> und <i>Süddeutscher Zeitung</i> gibt es einen zweiten Spionagefall. Seit dem heutigen Morgen durchsuchen Beamte des Bundeskriminalamts und der Bundesanwaltschaft im Großraum Berlin die Wohn- und Büroräume eines Mitarbeiters des Bundesverteidigungsministeriums, der für einen amerikanischen Geheimdienst in Deutschland spioniert haben&nbsp;soll.</p>
+
+
+
+
+
+    <p>Die Bundesanwaltschaft erklärte am Mittwochmorgen auf Anfrage, die Durchsuchung dauere noch an. Weitergehende Auskünfte könnten "derzeit nicht erteilt"&nbsp;werden.</p>
+
+
+
+
+
+    <p>Gegen den Mitarbeiter des Bundesverteidigungsministeriums wird wegen des Anfangsverdachts der geheimdienstlichen Tätigkeit ermittelt. Er wird vermutlich noch heute von der Bundesanwaltschaft&nbsp;vernommen.</p>
+
+
+
+
+      <div class="ad" role="banner">
+      <div id="iqd_medrecAd">
+        <div id="iqd_bottomAd">
+          <!-- begin ad tag (tile=4) -->
+
+
+
+
+
+
+
+
+
+
+<div id="iqadtile4" class="iqad" data-adtile="4">
+    <p class="anzeige">Anzeige</p>
+        <script type="text/javascript">
+    //<![CDATA[
+    document.write('<scr'+'ipt type="text/javascript" src="http://ad.de.doubleclick.net/adj/iqdsde/politik/artikel;kw=iqadtile4,iqdsde,politik,' + iqTestKW + ';doc=artikel;tma=nsa;sz=300x250;tile=4;' + n_pbt + ';ord=' + IQD_varPack.ord + '?"><\/script>');
+    //]]>
+  </script>
+  <noscript>
+    <a href="http://ad.de.doubleclick.net/jump/iqdsde/politik/artikel;kw=iqadtile4,iqdsde,politik;doc=artikel;tma=nsa;sz=300x250;tile=4;ord=123456789?" target="_blank">
+      <img src="http://ad.de.doubleclick.net/ad/iqdsde/politik/artikel;kw=iqadtile4,iqdsde,politik;doc=artikel;tma=nsa;sz=300x250;tile=4;ord=123456789?" alt="">
+    </a>
+  </noscript>
+</div>
+          <!-- end ad tag -->
+        </div>
+      </div>
+    </div>
+
+    <p>Der Fall wird von informierten Kreisen noch "ernster" eingeschätzt als der Fall des in der vergangenen Woche verhafteten BND-Beamten, der sich nach eigenen Angaben vor zwei Jahren den amerikanischen <a href="http://www.sueddeutsche.de/thema/Geheimdienste" data-pagetype="THEME" class="themelink">Geheimdiensten</a> als Spitzel angeboten und der CIA gegen rund 25 000 Euro mehr als zweihundert Dokumente geliefert hat. Er war beim BND in Pullach Mitarbeiter der Fachabteilung "Einsatzgebiete/Auslandsbeziehungen", wurde Mitte voriger Woche festgenommen und sitzt seitdem in Haft. Bei der stundenlangen Vernehmung durch einen Bundesanwalt hatte er seine Arbeit für die CIA&nbsp;gestanden.</p>
+
+
+
+
+
+    <p>Die Einleitung des Verfahrens gegen den mutmaßlichen Agenten im Großraum Berlin soll nicht in Zusammenhang mit dem Fall des BND-Agenten stehen. Die amerikanische Regierung bemüht sich offenbar um Schadensbegrenzung. Der Chef der <a href="http://www.sueddeutsche.de/thema/CIA" data-pagetype="THEME" class="themelink">CIA</a>, John Brennan, soll am Dienstagnachmittag mit dem Geheimdienstkoordinator im Kanzleramt, Staatssekretär Klaus-Dieter Fritsche, telefoniert haben. Die Einzelheiten des Gesprächs sind noch nicht&nbsp;bekannt.</p>
+
+
+
+
+
+  <figure id="uid-1-2036801-1404900035" class="enrichment video teaser" itemprop="video" itemscope itemtype="http://schema.org/VideoObject" data-bind='enrichments {"id": "uid-1-2036801-1404900035", "type": "video"}'>
+    <div class="body">
+      <a href="http://www.sueddeutsche.de/politik/prantls-politik-bnd-spionage-fall-1.2036801" >
+        <img src="http://polpix.sueddeutsche.com/polopoly_fs/1.1740016.1376055685!/httpImage/image.jpg_gen/derivatives/300x168/image.jpg" width="100%" alt="NSA Geheimdienst-Aff&auml;re in Deutschland" itemprop="contentURL">
+        <span class="imagelabel">Video</span>
+      </a>
+    </div>
+    <figcaption itemprop="description">
+      <h3 class="entry-title" itemprop="name">
+                            <strong>Geheimdienst-Aff&auml;re in Deutschland</strong>
+                Wie der BND-Chef reagieren muss
+      </h3>
+      <p class="entry-summary">
+        Dass Nato-Staaten sich gegenseitig ausspionieren, ist ein schlechter Witz. Ein Milit&auml;rb&uuml;ndnis kann ohne gegenseitiges Vertrauen nicht richtig funktionieren. Zeit f&uuml;r ein Commitment der Geheimdienstchefs. Eine Analyse im Video.
+      </p>
+            <span class="source">
+                (Video: <span itemprop="copyrightHolder">S&uuml;ddeutsche.de</span>, Foto: Peter Hinz-Rosin)
+              </span>
+          </figcaption>
+  </figure>
+
+
+
+
+
+
+
+  </section>
+
+
+
+
+  <section class="footer">
+
+
+
+
+
+
+
+
+
+
+<div class="paging">
+  <p class="whereami">
+
+
+
+      <a href="http://www.sueddeutsche.de/" rel="nofollow" class="backtohome" data-linktrack=articlefunctions_STANDARD_ARTICLE_homepage>zur Startseite</a>
+
+  </p>
+</div>
+
+
+
+
+
+
+  <div class="readerdialog" data-bind='articleFunctions'>
+    <h3 class="bold">Ihre SZ</h3>
+    <ul id="functions" class="right-column">
+              <li class="withFlash dialogitem shortUrl">
+          <div id="copyFunction" data-linktrack='sharingbar_STANDARD_ARTICLE_copyUrl'>
+            <p class=bold>Link kopieren</p>
+            <p id="tinyUrl" class="grey">sz.de/1.2038151</p>
+          </div>
+          <p id="tinyUrlLink" class="offscreen">http://sz.de/1.2038151</p>
+          <div class="copyFeedbackContainer">
+            URL ist in die Zwischenablage kopiert!
+          </div>
+        </li>
+
+        <li class="noFlash dialogitem shortUrl">
+          <a href="#" id="copyFunctionNoFlash" data-linktrack='sharingbar_STANDARD_ARTICLE_copyUrl'>Kurz-URL kopieren</a>
+          <div class="copyFeedbackContainer">
+            Bitte die URL manuell kopieren.
+          </div>
+          <div id="tinyUrlContainer">
+            <p class="tinyUrl">sz.de/1.2038151</p>
+            <input type="text" id="tinyUrlValue" value="http://sz.de/1.2038151" />
+          </div>
+        </li>
+
+
+    </ul>
+
+    <ul class="left-column">
+      <li class="dialogitem linked feedbackClick" data-linktrack='articlefunctions_STANDARD_ARTICLE_feedback'>
+        <p class="bold pointer">Feedback</p>
+        <p class="grey pointer">an die Redaktion</p>
+      </li>
+
+      <li class="dialogitem sharing">
+        <p class="bold">Diskussion mit Ihren Freunden</p>
+        <ul>
+          <li class="facebook-popup">
+              <div class="fb-like" data-href="http://www.sueddeutsche.de/politik/ausweitung-der-geheimdienstaffaere-ermittlungen-gegen-us-spion-im-verteidigungsministerium-1.2038151" data-send="false" data-layout="box_count" data-width="115" data-show-faces="false" data-action="recommend" data-font="arial"></div>
+          </li>
+          <li class="twitter-popup">
+              <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.sueddeutsche.de/politik/ausweitung-der-geheimdienstaffaere-ermittlungen-gegen-us-spion-im-verteidigungsministerium-1.2038151" data-via="SZ" data-count="vertical" data-lang="de"></a>
+                        </li>
+          <li class="googleplus-popup">
+              <div class="sharingbar-gplus" data-url="http://www.sueddeutsche.de/politik/ausweitung-der-geheimdienstaffaere-ermittlungen-gegen-us-spion-im-verteidigungsministerium-1.2038151"></div>
+                        </li>
+          <li>
+            <div class="mailfunction pointer" data-linktrack='articlefunctions_STANDARD_ARTICLE_mail'>
+              <div class="mailicon"></div>
+            </div>
+          </li>
+        </ul>
+      </li>
+
+      <li class="dialogitem rivva" data-clickurl="http://rivva.de/sz.de/1.2038151" data-linktarget="_blank" data-linktrack="onclick_article_rivva">
+        <p class="bold">rivva-Debattenmonitor</p>
+        <p class="grey">alle &ouml;ffentlichen Kommentare, Tweets und Posts zu diesem Artikel</p>
+      </li>
+    </ul>
+
+  </div>
+
+            <div class="authorContainer">
+
+        <script>
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    </script>
+
+    <div class="authorProfileContainer">
+                    <span class="moreInfo">
+          </span>
+        </div>
+
+
+  </div>
+
+
+
+
+
+
+        <div class="ad_Right">
+          <p class="copyright">
+        &copy; 2015 Regeln zum <a href="http://www.sueddeutsche.de/copyright">Copyright...</a>
+      </p>
+      <p class="source" data-id="dataSourceTracking">
+        Quelle und Bearbeiter: SZ.de/lala/rus
+      </p>
+        </div>
+
+
+
+      <div id="stayInformedContainer" data-bind='stayInformed {"trackPrefix": "data-trackprefix"}'>
+    <strong>Updates zu</strong>
+    <a href="http://www.sueddeutsche.de/rss" class="socialIcons rss medium"></a>
+    <a href="http://www.sueddeutsche.de/newsletter" class="socialIcons mail medium"></a>
+    <a href="http://www.sueddeutsche.de/sz_facebook" class="socialIcons facebook medium"></a>
+    <a href="http://www.sueddeutsche.de/sz_twitter" class="socialIcons twitter medium"></a>
+    <a href="http://www.sueddeutsche.de/sz_googleplus" class="socialIcons googlePlus medium"></a>
+    <ul class="stayInformed">
+            <li id="eilmeldung" data-info='{&quot;caption&quot;:&quot;Eilmeldung&quot;,&quot;newsletterUrl&quot;:&quot;http://www.sueddeutsche.de/app/service/newsletter/bestellung/?newsletter=2105&quot;,&quot;rssFeedUrl&quot;:&quot;http://rss.sueddeutsche.de/rss/Eilmeldungen&quot;,&quot;facebookPage&quot;:&quot;&quot;,&quot;twitterProfile&quot;:&quot;@SZ_Eilmeldungen&quot;,&quot;googlePlusProfile&quot;:&quot;&quot;,&quot;id&quot;:&quot;eilmeldung&quot;,&quot;type&quot;:&quot;NONE&quot;}' data-linktrack='stayinformed.none'>
+        Eilmeldung
+      </li>
+            <li id="topNews" data-info='{&quot;caption&quot;:&quot;Top-News&quot;,&quot;newsletterUrl&quot;:&quot;http://www.sueddeutsche.de/app/service/newsletter/bestellung/?newsletter=2102&quot;,&quot;rssFeedUrl&quot;:&quot;http://rss.feedsportal.com/795/f/449002/index.rss&quot;,&quot;facebookPage&quot;:&quot;https://www.facebook.com/ihre.sz&quot;,&quot;twitterProfile&quot;:&quot;@SZ_TopNews&quot;,&quot;googlePlusProfile&quot;:&quot;https://plus.google.com/+sueddeutschezeitung&quot;,&quot;id&quot;:&quot;topNews&quot;,&quot;type&quot;:&quot;NONE&quot;}' data-linktrack='stayinformed.none'>
+        Top-News
+      </li>
+            <li id="departmentPolitik" data-info='{&quot;caption&quot;:&quot;Politik&quot;,&quot;newsletterUrl&quot;:&quot;&quot;,&quot;rssFeedUrl&quot;:&quot;http://rss.sueddeutsche.de/rss/Politik&quot;,&quot;facebookPage&quot;:&quot;&quot;,&quot;twitterProfile&quot;:&quot;@SZ_Politik&quot;,&quot;googlePlusProfile&quot;:&quot;&quot;,&quot;id&quot;:&quot;departmentPolitik&quot;,&quot;type&quot;:&quot;NONE&quot;}' data-linktrack='stayinformed.none'>
+        Politik
+      </li>
+            <li id="NSA" data-info='{&quot;caption&quot;:&quot;NSA&quot;,&quot;newsletterUrl&quot;:&quot;&quot;,&quot;rssFeedUrl&quot;:&quot;http://rss.sueddeutsche.de/rss/Thema/NSA&quot;,&quot;facebookPage&quot;:&quot;&quot;,&quot;twitterProfile&quot;:&quot;&quot;,&quot;googlePlusProfile&quot;:&quot;&quot;,&quot;id&quot;:&quot;NSA&quot;,&quot;type&quot;:&quot;NONE&quot;}' data-linktrack='stayinformed.none'>
+        NSA
+      </li>
+          </ul>
+    <div class="boxPopup">
+      <strong>Updates zu <span></span></strong>
+      <div id="updateListContainer" class="columns twoColumns">
+        <ul id="rssAndMailMediaUpdates">
+          <li class="rssfeed">
+            <a class="socialIcons rss" href="#" target="_blank" data-linktrack='rss {"deferPrefix": "data-trackprefix"}'>RSS-Feed abonnieren</a>
+          </li>
+          <li class="mail">
+            <a class="socialIcons mail" href="#" target="_blank" data-linktrack='newsletter {"deferPrefix": "data-trackprefix"}'>Newsletter bestellen</a>
+          </li>
+        </ul>
+        <ul id="socialMediaUpdates">
+          <li class="facebook">
+            <a class="socialIcons facebook" href="#" target="_blank" data-linktrack='facebook {"deferPrefix": "data-trackprefix"}'>Auf Facebook folgen</a>
+          </li>
+          <li class="twitter">
+            <a class="socialIcons twitter" href="#" target="_blank" data-linktrack='twitter {"deferPrefix": "data-trackprefix"}'>Auf Twitter folgen</a>
+          </li>
+          <li class="googlePlus">
+            <a class="socialIcons googlePlus" href="#" target="_blank" data-linktrack='googlePlus {"deferPrefix": "data-trackprefix"}'>Auf Google+ folgen</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  </section>
+
+
+</article>
+
+
+<aside id="sidebarcontent" class="article" role="complementary" data-bind="articleSidebar">
+  <div class="scrollable">
+
+
+<div id="sharingbar">
+  <ul class="actions">
+    <li class="mail">
+      <span class="mailfunction" data-linktrack="sharingbar_STANDARD_ARTICLE_mail">
+        Versenden
+      </span>
+    </li>
+    <li class="print">
+      <a class="noborder" href="http://www.sueddeutsche.de/politik/2.220/ausweitung-der-geheimdienstaffaere-ermittlungen-gegen-us-spion-im-verteidigungsministerium-1.2038151" title="Artikel drucken" rel="nofollow" data-linktrack="sharingbar_STANDARD_ARTICLE_print">
+        Drucken
+      </a>
+    </li>
+        <li class="socialmedia" id="sharingbar-toggle" data-linktrack='sharingbar_STANDARD_ARTICLE_socialicons { "shouldTrackHover" : true }'>
+    <div id="sharingbar-popup">
+
+<div id="fb-root"></div>
+<script>
+    SDE.$(document).ready(function() {
+        function initFacebook() {
+            FB.init({
+              appId : '268419256515542', // App ID
+              status : true, // check login status
+              cookie : true, // enable cookies to allow the server to access the session
+              xfbml : true, // parse XFBML
+              oauth : true // need oauth enabled to allow integration with php-sdk
+            });
+            SDE.$(document).trigger("facebook:ready");
+        }
+
+        if(window.FB) {
+            initFacebook();
+        } else {
+            window.fbAsyncInit = initFacebook;
+        }
+
+        (function() {
+          var e = document.createElement('script');
+          e.type = "text/javascript";
+          e.src = document.location.protocol + '//connect.facebook.net/de_DE/all.js';
+          e.async = true;
+          document.getElementById('fb-root').appendChild(e);
+        }());
+    });
+</script>        <ul class="actions-popup">
+            <li class="facebookshare-popup">
+                <div class="socialIcons facebookshare" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + location.href, 'sharer', 'width=626,height=436');"></div>
+            </li>
+            <li class="facebook-popup">
+                <div class="fb-like" data-href="http://www.sueddeutsche.de/politik/ausweitung-der-geheimdienstaffaere-ermittlungen-gegen-us-spion-im-verteidigungsministerium-1.2038151" data-send="false" data-layout="box_count" data-width="115" data-show-faces="false" data-action="recommend" data-font="arial"></div>
+            </li>
+            <li class="twitter-popup">
+                <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.sueddeutsche.de/politik/ausweitung-der-geheimdienstaffaere-ermittlungen-gegen-us-spion-im-verteidigungsministerium-1.2038151" data-via="SZ" data-count="vertical" data-lang="de"></a>
+                <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+            </li>
+            <li class="googleplus-popup">
+                <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+                    {"parsetags": "explicit"}
+                </script>
+                <div class="sharingbar-gplus" data-url="http://www.sueddeutsche.de/politik/ausweitung-der-geheimdienstaffaere-ermittlungen-gegen-us-spion-im-verteidigungsministerium-1.2038151"></div>
+            </li>
+            <li class="goto-privacy">
+                <a href="http://www.sueddeutsche.de/verlag/datenschutzerklaerung-datenschutz-1.555530" data-linktrack='sharingbar_STANDARD_ARTICLE_privacy'>Details zum Datenschutz...</a>
+            </li>
+        </ul>
+    </div>
+    <ul>
+        <li><span class="socialIcons facebook "></span></li>
+        <li><span class="socialIcons twitter "></span></li>
+        <li><span class="socialIcons googlePlus "></span></li>
+    </ul>
+</li>    <li id="feedback" class="feedbackClick" data-linktrack="sharingbar_STANDARD_ARTICLE_feedback">
+        Feedback
+    </li>
+  </ul>
+  <span data-bind='sharingIconsPopup {"arrowDirection": 3}'></span>
+</div>
+  </div>
+</aside>
+
+
+
+<aside id="relatedcontent" class="article related" role="complementary">
+
+
+
+  <section class="maincolumn">
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="teaser  noimage">
+
+
+
+
+  <a href="http://www.sueddeutsche.de/politik/aufregung-um-doppelagent-beim-bnd-cia-chef-soll-im-kanzleramt-angerufen-haben-1.2037893" class="entry-title" rel="bookmark" data-pagetype='STANDARD_ARTICLE' data-id='1.2037893'>
+
+
+
+
+
+
+
+          <strong>    Aufregung um Doppelagent beim BND</strong>
+    <em>CIA-Chef ruft im Kanzleramt an</em>
+
+      </a>
+
+
+      <p class="entry-summary" data-clickable=".teaser a[href='http://www.sueddeutsche.de/politik/aufregung-um-doppelagent-beim-bnd-cia-chef-soll-im-kanzleramt-angerufen-haben-1.2037893']">
+            Versuch der Schadensbegrenzung? CIA-Chef Brennan hat direkt mit dem Kanzleramt Kontakt aufgenommen, wie Kanzlerin Merkel best&auml;tigt. Gleichzeitig wird bekannt, dass der US-Geheimdienst Pr&auml;sident Obama wesentliche Informationen verschwiegen haben soll - und das zu einem heiklen Zeitpunkt.
+          <span class="more">mehr...</span>
+            </p>
+
+
+
+
+          </div>
+
+
+
+
+
+  <!-- start plista adsense widget -->
+      <div id="plista_widget_belowArticle"></div>
+
+
+
+
+
+
+    <div class="teaser">
+
+
+
+
+  <a href="http://www.sueddeutsche.de/politik/deutsche-reaktion-auf-agenten-affaere-beispielloser-akt-des-protests-1.2039899" class="entry-title" rel="bookmark" data-pagetype='STANDARD_ARTICLE' data-id='1.2039899'>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <img src="http://polpix.sueddeutsche.com/bild/1.2041465.1405009798/208x156_fit/angela-merkel.jpg"
+                width="208" height="156"
+                alt="Bundeskanzlerin Angela Merkel">
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <strong>    Deutsche Reaktion auf Agenten-Aff&auml;re</strong>
+    <em>Beispielloser Akt des Protests</em>
+
+      </a>
+
+
+      <p class="entry-summary" data-clickable=".teaser a[href='http://www.sueddeutsche.de/politik/deutsche-reaktion-auf-agenten-affaere-beispielloser-akt-des-protests-1.2039899']">
+          <span class="icon meinung">Meinung</span>
+            Angela Merkel setzt ein deutliches Zeichen gegen die amerikanische Arroganz. Der Rauswurf des obersten US-Geheimdienstlers ist eine Z&auml;sur in der Geschichte der deutsch-amerikanischen Beziehungen: Auch als Verb&uuml;ndeter darf man sich in Deutschland nicht alles erlauben.
+          <span class="author"> Ein Kommentar von Tanjev Schultz</span>
+          <span class="more">mehr...</span>
+            </p>
+
+
+
+
+          </div>
+
+        <div id="plista_widget_belowArticleList"></div>
+      <script type="text/javascript" src="http://static.plista.com/sueddeutsche.de_v1.js"></script>
+      <script type="text/javascript">
+      try {
+                  PLISTA.items.push( {
+                          category: 'politik',
+                          created_at: '1404901497324',
+                          img: 'http://polpix.sueddeutsche.com/polopoly_fs/1.2038480.1404902469!/httpImage/image.jpg_gen/derivatives/208x156_fit/image.jpg',
+                          kicker: 'Ausweitung der Geheimdienstaffäre',
+                          objectid: '1.2038151',
+                          ressort: 'politik',
+                          text: 'Die Spionageaffäre mit den USA weitet sich aus: Laut Informationen von NDR, WDR und \"Süddeutscher Zeitung\" gibt es einen zweiten Spionagefall. BKA und Bundesanwaltschaft durchsuchen derzeit Wohn- und Büroräume eines Mitarbeiters des Bundesverteidigungsministeriums, der für einen US-Geheimdienst spioniert haben soll.',
+                          title: 'Ermittlungen gegen US-Spion im Verteidigungsministerium',
+                          type: 'artikelseite',
+                          url: 'http://www.sueddeutsche.de/politik/ausweitung-der-geheimdienstaffaere-ermittlungen-gegen-us-spion-im-verteidigungsministerium-1.2038151',
+                      } );
+                PLISTA.partner.init();
+      } catch(e) {
+        document.write('<' + 'script type="text/javascript"' + ' src="http://farm.plista.com/errorreport.js?error=' + encodeURIComponent(e) +'"><' +'/script>');
+      }
+    </script>
+    <!-- end plista adsense widget -->
+
+
+
+
+  <section class="themenbox">
+    <div class="header">
+    <ul>
+      <li id="collapseLink" class="intro"></li>
+      <li class="maintheme">
+        <a href="http://www.sueddeutsche.de/thema/NSA">
+          NSA
+        </a>
+      </li>
+      <li>
+        <div id="collapseButton" class="open" data-bind="themeBox"></div>
+      </li>
+    </ul>
+  </div>
+  <div id="themeboxdiv" class="body">
+    <ul>
+          <li>
+        <a href="http://www.sueddeutsche.de/politik/obamas-unwissen-in-spionage-affaere-gefaehrlicher-brandschutz-im-weissen-haus-1.2038360" data-pagetype='STANDARD_ARTICLE' data-id='1.2038360' >
+          <span>Obamas Unwissen in Spionage-Aff&auml;re </span>Gef&auml;hrlicher Brandschutz im Wei&szlig;en Haus
+        </a> 09.07.2014
+      </li>
+          <li>
+        <a href="http://www.sueddeutsche.de/politik/nsa-whistleblower-snowden-bittet-russland-sein-asyl-zu-verlaengern-1.2038768" data-pagetype='STANDARD_ARTICLE' data-id='1.2038768' >
+          <span>NSA-Whistleblower </span>Snowden bittet Russland, sein Asyl zu verl&auml;ngern
+        </a> 09.07.2014
+      </li>
+          <li>
+        <a href="http://www.sueddeutsche.de/politik/spionageaffaere-um-cia-doppelagent-dreiste-dilettanten-1.2036226" data-pagetype='STANDARD_ARTICLE' data-id='1.2036226' >
+          <span>US-Spitzel in Deutschland </span>Dreiste Dilettanten
+        </a> 09.07.2014
+      </li>
+          <li>
+        <a href="http://www.sueddeutsche.de/politik/prantls-politik-bnd-spionage-fall-1.2036801" data-pagetype='VIDEO' data-id='1.2036801' >
+          <span>Geheimdienst-Aff&auml;re in Deutschland </span>Wie der BND-Chef reagieren muss
+        </a> 09.07.2014
+      </li>
+        </ul>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+<div class="xlinks">
+
+
+    <p>Themen</p>
+    <ul class="themen">
+                                                    <li class='first'><a href="http://www.sueddeutsche.de/thema/Berlin" data-pagetype='THEME' data-id='Berlin' rel="tag">Berlin</a></li>
+                                            <li class=''><a href="http://www.sueddeutsche.de/thema/BKA" data-pagetype='THEME' data-id='BKA' rel="tag">BKA</a></li>
+                                            <li class=''><a href="http://www.sueddeutsche.de/thema/BND" data-pagetype='THEME' data-id='BND' rel="tag">BND</a></li>
+                                            <li class=''><a href="http://www.sueddeutsche.de/thema/Chef" data-pagetype='THEME' data-id='Chef' rel="tag">Chef</a></li>
+                                            <li class=''><a href="http://www.sueddeutsche.de/thema/CIA" data-pagetype='THEME' data-id='CIA' rel="tag">CIA</a></li>
+                                            <li class=''><a href="http://www.sueddeutsche.de/thema/Deutschland" data-pagetype='THEME' data-id='Deutschland' rel="tag">Deutschland</a></li>
+                                            <li class=''><a href="http://www.sueddeutsche.de/thema/Euro" data-pagetype='THEME' data-id='Euro' rel="tag">Euro</a></li>
+                                            <li class=''><a href="http://www.sueddeutsche.de/thema/Geheimdienste" data-pagetype='THEME' data-id='Geheimdienste' rel="tag">Geheimdienste</a></li>
+                                            <li class=''><a href="http://www.sueddeutsche.de/thema/Haft" data-pagetype='THEME' data-id='Haft' rel="tag">Haft</a></li>
+                                            <li class=''><a href="http://www.sueddeutsche.de/thema/John_Brennan" data-pagetype='THEME' data-id='John_Brennan' rel="tag">John Brennan</a></li>
+                                            <li class=''><a href="http://www.sueddeutsche.de/thema/Klaus-Dieter_Fritsche" data-pagetype='THEME' data-id='Klaus-Dieter_Fritsche' rel="tag">Klaus-Dieter Fritsche</a></li>
+                                            <li class=''><a href="http://www.sueddeutsche.de/thema/NDR" data-pagetype='THEME' data-id='NDR' rel="tag">NDR</a></li>
+                                            <li class=''><a href="http://www.sueddeutsche.de/thema/Pullach" data-pagetype='THEME' data-id='Pullach' rel="tag">Pullach</a></li>
+                                                    <li class=' last'><a href="http://www.sueddeutsche.de/thema/Spionage" data-pagetype='THEME' data-id='Spionage' rel="tag">Spionage</a></li>
+        </ul>
+</div>
+
+
+
+
+
+
+      <a href="http://www.sueddeutsche.de/" rel="nofollow" class="backtohome" data-linktrack=commentpaging_STANDARD_ARTICLE_homepage>zur Startseite</a>
+
+
+  </section>
+
+
+
+<div class="sidebar" role="complementary">
+
+
+
+
+
+
+
+      <div class="basebox newsscanner chrono">
+        <div class="header">
+                            <a href="http://www.sueddeutsche.de/news?search=&amp;dep[]=politik&amp;all[]=typ&amp;all[]=time&amp;sys[]=dpa&amp;catdpa[]=alles">Newsticker Politik</a>
+                                </div>
+        <div class="body" data-bind='widget.NewsscannerModule { "id": "7.66942", "channel":"chrono", "parameters":"search=&amp;dep[]=politik&amp;all[]=typ&amp;all[]=time&amp;sys[]=dpa&amp;catdpa[]=alles", "count":"5", "url": "http://www.sueddeutsche.de/news/teasers?search=&amp;dep[]=politik&amp;all[]=typ&amp;all[]=time&amp;sys[]=dpa&amp;catdpa[]=alles&amp;from=0&amp;size=5&amp;format=json"}'>
+                                                    <p class="sz1">
+                    <time data-time="1422630084000">30. January 2015 16:01</time>
+                        <a href="http://www.sueddeutsche.de/news/politik/parteien-querelen-zum-parteitag-driftet-die-afd-weiter-nach-rechts-dpa.urn-newsml-dpa-com-20090101-150129-99-09299"><strong>Parteien</strong> <em>Querelen zum Parteitag: Driftet die AfD weiter nach rechts?</em></a>
+    </p>
+                                                                    <p class="sz2">
+                    <time data-time="1422627155000">30. January 2015 15:12</time>
+                        <a href="http://www.sueddeutsche.de/news/politik/konflikte-ukraine-will-massenflucht-vor-fronteinsatz-stoppen-dpa.urn-newsml-dpa-com-20090101-150130-99-06378"><strong>Konflikte</strong> <em>Ukraine will Massenflucht vor Fronteinsatz stoppen</em></a>
+    </p>
+                                                                    <p class="sz3">
+                    <time data-time="1422626473000">30. January 2015 15:01</time>
+                        <a href="http://www.sueddeutsche.de/news/politik/demonstrationen-gericht-zu-legida-demo-auflagen-in-leipzig-rechtmaessig-dpa.urn-newsml-dpa-com-20090101-150129-99-09298"><strong>Demonstrationen</strong> <em>Gericht zu Legida-Demo: Auflagen in Leipzig rechtm&auml;&szlig;ig</em></a>
+    </p>
+                                                                    <p class="sz4">
+                    <time data-time="1422625015000">30. January 2015 14:36</time>
+                        <a href="http://www.sueddeutsche.de/news/politik/konflikte-separatisten-ukraine-sagt-treffen-der-kontaktgruppe-ab-dpa.urn-newsml-dpa-com-20090101-150130-99-04747"><strong>Konflikte</strong> <em>Separatisten: Ukraine sagt Treffen der Kontaktgruppe ab</em></a>
+    </p>
+                                                                    <p class="sz5">
+                    <time data-time="1422624322000">30. January 2015 14:25</time>
+                        <a href="http://www.sueddeutsche.de/news/politik/konflikte-separatisten-treffen-der-ukraine-kontaktgruppe-abgesagt-dpa.urn-newsml-dpa-com-20090101-150130-99-05703"><strong>Konflikte</strong> <em>Separatisten: Treffen der Ukraine-Kontaktgruppe abgesagt</em></a>
+    </p>
+                                    </div>
+        <div class="footer"><a href="http://www.sueddeutsche.de/news?search=&amp;dep[]=politik&amp;all[]=typ&amp;all[]=time&amp;sys[]=dpa&amp;catdpa[]=alles">mehr...</a></div>
+    </div>
+
+
+
+
+                                    <!-- Free HTML module -->
+                            <div class="basebox">
+  <div class="header">Leser folgen</div>
+  <div class="body">
+  <a href="https://twitter.com/SZ" class="twitter-follow-button" data-show-count="true" data-lang="de" data-size="large">@SZ folgen</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  <a href="https://twitter.com/intent/tweet?screen_name=SZ" class="twitter-mention-button" data-lang="de" data-size="large" data-related="SZ">Tweet an @SZ</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </div>
+</div>
+            <!-- /Free HTML module -->
+
+
+
+                                    <!-- Free HTML module -->
+                            <div class="basebox body" style="padding-left:20px;padding-top:20px;padding-bottom:10px;font-size:14px;">
+  <div style="float:left;"><a href="https://plus.google.com/104721428192454161928?prsrc=3" style="text-decoration:none;" target="_blank"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="" style="border:0;width:32px;height:32px;text-decoration:none;"/></a></div><p style="margin-left:8px;float:left;"><a href="https://plus.google.com/104721428192454161928?prsrc=3" rel="publisher" style="color:#666;font-weight:400;text-decoration:none;" target="_blank"><b>Süddeutsche Zeitung</b><br>auf Google Plus</a></p>
+  </div>
+            <!-- /Free HTML module -->
+
+
+
+                                    <!-- Free HTML module -->
+                            <div class="basebox" style="padding-left:10px;padding-top:10px;padding-bottom:10px;">
+  <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fihre.sz&amp;width=290&amp;height=72&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false&amp;action=like" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:290px; height:72px;" allowTransparency="true"></iframe>
+</div>
+            <!-- /Free HTML module -->
+
+
+
+<div class="basebox flexible">
+  <div class="header ">
+                	        <a href="http://www.sz.de/probelesen3">
+		  		  		  SZ unverbindlich testen
+    	        </a>
+		        </div>
+  <div class="body">
+  		  	          <ul class="singlecolumns">
+              <li>
+          <a href="http://www.sz.de/probelesen3">
+             Jetzt 2 Wochen kostenfrei testen
+          </a>
+        </li>
+            </ul>
+        </div>
+  </div>
+
+
+<div class="basebox flexible">
+  <div class="header ">
+                	        <a href="http://www.sueddeutsche.de/impressum">
+		  		  		  Kontakt zu uns
+    	        </a>
+		        </div>
+  <div class="body">
+            <a rel="bookmark" class="entry-title" href="http://www.sueddeutsche.de/impressum">
+                  </a>
+              <p><a href="http://www.sueddeutsche.de/impressum">Mail, Twitter &amp; Co: Die Online-Redaktion und wie Sie sie am bequemsten erreichen</a></p>
+      	  </div>
+  </div>
+
+  <div class="ad" role="banner">
+
+
+
+
+
+
+
+
+
+
+<div id="iqadtile9" class="iqad" data-adtile="9">
+    <p class="anzeige">Anzeige</p>
+        <script type="text/javascript">
+    //<![CDATA[
+    document.write('<scr'+'ipt type="text/javascript" src="http://ad.de.doubleclick.net/adj/iqdsde/politik/artikel;kw=iqadtile9,iqdsde,politik,' + iqTestKW + ';doc=artikel;tma=nsa;sz=300x250,300x100;tile=9;' + n_pbt + ';ord=' + IQD_varPack.ord + '?"><\/script>');
+    //]]>
+  </script>
+  <noscript>
+    <a href="http://ad.de.doubleclick.net/jump/iqdsde/politik/artikel;kw=iqadtile9,iqdsde,politik;doc=artikel;tma=nsa;sz=300x250,300x100;tile=9;ord=123456789?" target="_blank">
+      <img src="http://ad.de.doubleclick.net/ad/iqdsde/politik/artikel;kw=iqadtile9,iqdsde,politik;doc=artikel;tma=nsa;sz=300x250,300x100;tile=9;ord=123456789?" alt="">
+    </a>
+  </noscript>
+</div>
+  </div>
+
+</aside>
+
+</aside>
+
+
+<aside id="endofpage" class="article endofpage" role="complementary">
+
+
+
+
+<div id="mailtofriend" class="basebox mailtofriend " role="dialog" aria-hidden="true" aria-labelledby="mailtofriendlabel" data-bind='widget.MailToFriend {"panel": "#mailtofriend", "toggle": ".mailfunction"}'>
+    <p id="mailtofriendlabel" class="header">Diese Seite per E-Mail versenden</p>
+      <form action="/cm/2.242/politik/ausweitung-der-geheimdienstaffaere-ermittlungen-gegen-us-spion-im-verteidigungsministerium-1.2038151#mailtofriend" method="post" class="body">
+        <label class="required " id="recipientEmail">
+            E-Mail-Adresse des Empf&auml;ngers: *
+            <input type="email" name="recipientEmail" id="recipientEmail" aria-required="true" value="">
+        </label>
+        <label id="senderComment">
+            Ihre Mitteilung:
+            <textarea name="comment" id="comment"></textarea>
+        </label>
+        <label class="required " id="senderEmail">
+            Ihre E-Mail-Adresse: *
+            <input type="email" name="senderEmail" id="senderEmail" aria-required="true" value="">
+        </label>
+        <label id="firstname">
+            Ihr Vorname:
+            <input type="text" name="senderFirstName" id="senderFirstName" value="">
+        </label>
+        <label id="lastname">
+            Ihr Nachname:
+            <input type="text" name="senderLastName" id="senderLastName" value="">
+        </label>
+	    <input type="hidden" name="sending" value="true">
+        <input type="submit" class="submit cta" value="Abschicken">
+        <p>*&nbsp;Pflichtfeld</p>
+    </form>
+      <p class="footer">
+        <strong>Hinweis:</strong> Die Angabe der E-Mail-Adresse dient nur zum Versenden sowie dazu,
+        den Empf&auml;nger zu informieren.  Die Adressen werden nicht f&uuml;r Werbe- oder andere
+        Zwecke verwendet.
+    </p>
+</div>
+
+</aside>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="feedbackpopup" data-bind='feedback {"mode": "www"}'>
+    <p class="feedbackheader">Feedback</p>
+    <form id="feedbackform" method="post" class="body">
+        <input type="hidden" name="polopolyId" value="1.2038151">
+        <div class="row first">
+            <label class="caption">Ich möchte *</label>
+            <fieldset>
+            <div class="feedbacktyperow">
+            <div class="feedbacktypecol">
+            <input type="radio" name="feedbackType" id="contact" value="Redaktion" checked="checked"><label class="radiocaption" for="contact">Kontakt zur Redaktion</label>
+            </div>
+            <div class="feedbacktypecol">
+            <input type="radio" name="feedbackType" id="error" value="Fehler"><label class="radiocaption" for="error">Fehler melden</label>
+            </div>
+            </div>
+            <div class="feedbacktyperow">
+            <div class="feedbacktypecol">
+            <input type="radio" name="feedbackType" id="technicalerror" value="Technik"><label class="radiocaption" for="technicalerror">Technikprobleme melden</label>
+            </div>
+            <div class="feedbacktypecol">
+            <input type="radio" name="feedbackType" id="other" value="Sonstiges"><label class="radiocaption" for="other">Sonstiges</label>
+            </div>
+            </div>
+            </fieldset>
+        </div>
+        <div class="row">
+            <label class="caption required">
+                Mail-Adresse *
+            </label>
+            <input type="email" name="email" id="email" aria-required="true" class="input">
+        </div>
+        <div class="row">
+            <label class="caption">Anrede *</label>
+            <input type="radio" name="title" id="ms" value="Frau" checked="checked"><label class="radiocaption" for="ms">Frau</label>
+            <input type="radio" name="title" id="mr" value="Herr"><label class="radiocaption" for="mr">Herr</label>
+        </div>
+        <div class="row">
+            <label class="caption">Vorname *</label>
+            <input type="text" name="firstname" id="firstname" class="input">
+        </div>
+        <div class="row">
+            <label class="caption">Nachname *</label>
+            <input type="text" name="lastname" id="lastname" class="input">
+        </div>
+        <div class="row">
+            <label class="caption">Ihre Nachricht *</label>
+            <textarea name="comment" id="comment" class="input"></textarea>
+        </div>
+
+        <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+
+        <div id="feedback_captcha_widget" class="row">
+            <div id="feedback_recaptcha_widget">
+                <p class="info">Geben Sie die abgebildeten Wörter ein, um Missbrauch auszuschließen:</p>
+                <div id="recaptcha_image"></div>
+                <div id="captcha_input">
+                    <a id="refresh_button" href="javascript:Recaptcha.reload()">Andere Wörter</a>
+                    <div id="captcha_error" class="feedbackerror">Ihre Eingabe war ungültig</div>
+                    <input type="text" id="recaptcha_response_field" name="recaptcha_response_field" class="input"/>
+                </div>
+            </div>
+        </div>
+
+        <div id="inputerror" class="row feedbackerror">
+            Bitte füllen Sie alle Pflichtfelder aus.
+        </div>
+        <div id="backenderror" class="row feedbackerror">
+            Ein technischer Fehler ist aufgetreten. Bitte versuchen Sie es erneut.
+        </div>
+                    <div class="row last">
+                <label class="caption">*&nbsp;Pflichtfeld</label>
+                <input type="submit" class="cta arrow" value="Senden">
+            </div>
+            </form>
+            <div id="feedbacksuccess">
+            Ihre Nachricht wurde verschickt. Vielen Dank für Ihr Feedback!
+        </div>
+    </div>
+
+
+
+      </div>
+
+
+
+
+<footer id="sitefooter" class="ad_Right" role="contentinfo" data-lt="sitefooter">
+
+  <ul class="departments">
+    <li data-clickurl="/">Nachrichten</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/politik">Politik</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/panorama">Panorama</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/kultur">Kultur</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/wirtschaft">Wirtschaft</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/sport">Sport</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/muenchen">M&uuml;nchen</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/bayern">Bayern</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/digital">Digital</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/auto">Auto</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/reise">Reise</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/video">Video</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/wissen">Wissen</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/geld">Geld</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/leben">Leben</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/stil">Stil</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/karriere">Karriere</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/bildung">Bildung</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/medien">Medien</li>
+                    <li data-clickurl="http://www.sueddeutsche.de/gesundheit">Gesundheit</li>
+      </ul>
+
+    <ul class="business">
+          <li data-clickurl="http://www.sz.de/1.555530">Datenschutz</li>
+              <li data-clickurl="http://www.sueddeutsche.de/verlag/datenschutzerklaerung-datenschutz-1.555530#oba" class='oba-icon'>Nutzungsbasierte Onlinewerbung</li>
+          <li data-clickurl="http://www.sueddeutsche.de/mediadaten">Mediadaten</li>
+          <li data-clickurl="http://www.sueddeutsche.de/1.1244978">Newsletter</li>
+          <li data-clickurl="http://www.sueddeutsche.de/updates-eilmeldung">Eilmeldungen</li>
+          <li data-clickurl="http://www.sueddeutsche.de/updates-rss">RSS</li>
+          <li data-clickurl="http://www.sueddeutsche.de/updates-mobileapps">Apps</li>
+          <li data-clickurl="http://www.sueddeutsche.de/agb">AGB</li>
+          <li data-clickurl="http://www.sueddeutsche.de/kolumne/die-sz-erweitert-ihr-team-arbeiten-sie-mit-uns-an-der-digitalen-zukunft-der-zeitung-1.1634542">Jobs bei S&uuml;ddeutsche.de</li>
+          <li data-clickurl="http://www.sueddeutsche.de/impressum">Kontakt und Impressum</li>
+    </ul>
+
+    <p itemprop="copyrightHolder">
+    <a href="http://www.sueddeutsche.de/copyright">
+        Copyright &copy; S&uuml;ddeutsche Zeitung Digitale Medien GmbH / S&uuml;ddeutsche Zeitung GmbH
+    </a>
+  </p>
+  <p>
+    Artikel der S&uuml;ddeutschen Zeitung lizenziert durch DIZ M&uuml;nchen GmbH. Weitere Lizenzierungen exklusiv &uuml;ber <a href="http://www.diz-muenchen.de" target="_blank">www.diz-muenchen.de</a>
+  </p>
+</footer>
+
+
+    </div>
+  </div>
+
+
+
+    <script type='text/javascript'>
+      try{(function(B){var F=B+"tr",s="sJq3tic/3E%ticaa/xt=pt\'-T\'tsac\'\'csticC%eiw/o.au/:th)j+-90-za(ISlahtmmdaquteaiclgqOenqiochreqotclrLladnfdus.hdv4g7mcnccr2c3r1e5e920ce7450606-94a9b63ad8/ptqpceuhaqnmcd%3\'prsvjte\'ey 8FU=erh q=r prs3qtrqmcpjm/ptqs.]_-ZA-[=Clgqcaqonrer=tvtAlafxdiekoqcasniaoqdlgqeienqjbg7nm3/o.dka.f.9.7872057226bd3e895aecb7945b/:theasnqtMteuoqE%prsCaspliteE6qcharAtAE7",x=s[F](347),K=163,w=s[F](x.length+2,K),u=s[F](K--+2);for(;K>=0;K--){x+=w[s[F](338,6)](K)+u[s[F](338,6)]((K+156)%163)}x=K=w=u=s=x[s[F](329,5)](s[s[F](338,6)](1-K));var a=window,b=a[x[0]],c=a[w[1]],d=a[s[2]],e=s[3];if(u[4]==typeof a[s[5]]&&(0<=(a[u[6]][K[7]]+b[K[8]])[x[9]](u[10])||0.1>=c[x[11]]())){a[s[5]]=1;var f=b[x[8]][u[12]](K[13]);f&&(e=s[14]+f[1]);b[s[15]](d(s[16]+e+u[17]))};})("subs")}catch(a){};
+  </script>
+
+          <div id="iqdCheckPointHeight">
+      <script type="text/javascript">
+        var IQDComplete = {
+            init: function () {
+                return true;
+            }
+        }
+      </script>
+    </div>
+</body>
+
+</html>

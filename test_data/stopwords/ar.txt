@@ -1,0 +1,527 @@
+
+<!DOCTYPE html>
+<html lang="ar" id="responsive-news">
+<head dir="rtl">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>السيسي يقطع زيارته إلى إثيوبيا بعد هجمات سيناء - BBC Arabic</title>
+    <meta name="description" content="الرئيس المصري عبد الفتاح السيسي يقطع زيارته لقمة الاتحاد الافريقي بعد هجمات دامية في سيناء، وحصيلة الضحايا ترتفع الى 40 قتيل واكثر من 60 جريح.">
+
+    <meta name="x-country" content="us">
+    <meta name="x-audience" content="Domestic">
+        <link rel="canonical" href="http://www.bbc.co.uk/arabic/middleeast/2015/01/150130_egypt_sinai_attacks">
+
+
+            <meta property="og:title" content="السيسي يقطع زيارته إلى إثيوبيا بعد هجمات سيناء" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="الرئيس المصري عبد الفتاح السيسي يقطع زيارته لقمة الاتحاد الافريقي بعد هجمات دامية في سيناء، وحصيلة الضحايا ترتفع الى 40 قتيل واكثر من 60 جريح." />
+<meta property="og:site_name" content="BBC Arabic" />
+<meta property="og:article:author" content="BBC Arabic" />
+<meta property="og:article:section" content="الشرق الأوسط" />
+<meta property="og:url" content="http://www.bbc.co.uk/arabic/middleeast/2015/01/150130_egypt_sinai_attacks" />
+<meta property="og:image" content="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/01/22/150122113933_sisi_640x360_ap.jpg" />
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@BBCArabic">
+<meta name="twitter:title" content="السيسي يقطع زيارته إلى إثيوبيا بعد هجمات سيناء">
+<meta name="twitter:description" content="الرئيس المصري عبد الفتاح السيسي يقطع زيارته لقمة الاتحاد الافريقي بعد هجمات دامية في سيناء، وحصيلة الضحايا ترتفع الى 40 قتيل واكثر من 60 جريح.">
+<meta name="twitter:creator" content="@BBCArabic">
+<meta name="twitter:image:src" content="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/01/22/150122113933_sisi_640x360_ap.jpg">
+<meta name="twitter:domain" content="www.bbc.co.uk">
+
+    <meta name="apple-mobile-web-app-title" content="BBC News">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57"    href="http://static.bbci.co.uk/news/1.57.0145/apple-touch-icon-57x57-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72"    href="http://static.bbci.co.uk/news/1.57.0145/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"  href="http://static.bbci.co.uk/news/1.57.0145/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"  href="http://static.bbci.co.uk/news/1.57.0145/apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="http://static.bbci.co.uk/news/1.57.0145/apple-touch-icon.png">
+    <meta name="application-name" content="BBC News">
+    <meta name="msapplication-TileImage" content="http://static.bbci.co.uk/news/1.57.0145/windows-eight-icon-144x144.png">
+    <meta name="msapplication-TileColor" content="#CC0101">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#cc0101">
+    <meta name="robots" content="NOODP,NOYDIR" />
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+    <script>
+        (function() {
+            if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+                var msViewportStyle = document.createElement("style");
+                msViewportStyle.appendChild(
+                    document.createTextNode("@-ms-viewport{width:auto!important}")
+                );
+                document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+            }
+        })();
+    </script>
+
+           <meta name="viewport" content="width=device-width, initial-scale=1.0" />     <!--orb.ws.require.lib--> <script type="text/javascript">/*<![CDATA[*/ if (typeof window.define !== 'function' || typeof window.require !== 'function') { document.write('<script class="js-require-lib" src="http://static.bbci.co.uk/frameworks/requirejs/lib.js"><'+'/script>'); } /*]]>*/</script> <script type="text/javascript">  bbcRequireMap = {"jquery-1":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.7.2", "jquery-1.4":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.4", "jquery-1.9":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.9.1", "swfobject-2":"http://static.bbci.co.uk/frameworks/swfobject/0.1.10/sharedmodules/swfobject-2", "demi-1":"http://static.bbci.co.uk/frameworks/demi/0.10.0/sharedmodules/demi-1", "gelui-1":"http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1", "cssp!gelui-1/overlay":"http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1/overlay.css", "istats-1":"http://static.bbci.co.uk/frameworks/istats/0.25.1/modules/istats-1", "relay-1":"http://static.bbci.co.uk/frameworks/relay/0.2.6/sharedmodules/relay-1", "clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1", "canvas-clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/canvas-clock-1", "cssp!clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1.css", "jssignals-1":"http://static.bbci.co.uk/frameworks/jssignals/0.3.6/modules/jssignals-1", "jcarousel-1":"http://static.bbci.co.uk/frameworks/jcarousel/0.1.10/modules/jcarousel-1", "bump-3":"//emp.bbci.co.uk/emp/bump-3/bump-3"}; require({ baseUrl: 'http://static.bbci.co.uk/', paths: bbcRequireMap, waitSeconds: 30 }); </script>   <script type="text/javascript">/*<![CDATA[*/ if (typeof bbccookies_flag === 'undefined') { bbccookies_flag = 'ON'; } showCTA_flag = true; cta_enabled = (showCTA_flag && (bbccookies_flag === 'ON') ); (function(){var e="ckns_policy",m="Thu, 01 Jan 1970 00:00:00 GMT",k={ads:true,personalisation:true,performance:true,necessary:true};function f(p){if(f.cache[p]){return f.cache[p]}var o=p.split("/"),q=[""];do{q.unshift((o.join("/")||"/"));o.pop()}while(q[0]!=="/");f.cache[p]=q;return q}f.cache={};function a(p){if(a.cache[p]){return a.cache[p]}var q=p.split("."),o=[];while(q.length&&"|co.uk|com|".indexOf("|"+q.join(".")+"|")===-1){if(q.length){o.push(q.join("."))}q.shift()}f.cache[p]=o;return o}a.cache={};function i(o,t,p){var z=[""].concat(a(window.location.hostname)),w=f(window.location.pathname),y="",r,x;for(var s=0,v=z.length;s<v;s++){r=z[s];for(var q=0,u=w.length;q<u;q++){x=w[q];y=o+"="+t+";"+(r?"domain="+r+";":"")+(x?"path="+x+";":"")+(p?"expires="+p+";":"");bbccookies.set(y,true)}}}window.bbccookies={_setEverywhere:i,cookiesEnabled:function(){var o="ckns_testcookie"+Math.floor(Math.random()*100000);this.set(o+"=1");if(this.get().indexOf(o)>-1){g(o);return true}return false},set:function(o){return document.cookie=o},get:function(){return document.cookie},_setPolicy:function(o){return h.apply(this,arguments)},readPolicy:function(o){return b.apply(this,arguments)},_deletePolicy:function(){i(e,"",m)},isAllowed:function(){return true},_isConfirmed:function(){return c()!==null},_acceptsAll:function(){var o=b();return o&&!(j(o).indexOf("0")>-1)},_getCookieName:function(){return d.apply(this,arguments)},_showPrompt:function(){var o=(!this._isConfirmed()&&window.cta_enabled&&this.cookiesEnabled()&&!window.bbccookies_disable);return(window.orb&&window.orb.fig)?o&&(window.orb.fig("no")||window.orb.fig("ck")):o}};bbccookies._getPolicy=bbccookies.readPolicy;function d(p){var o=(""+p).match(/^([^=]+)(?==)/);return(o&&o.length?o[0]:"")}function j(o){return""+(o.ads?1:0)+(o.personalisation?1:0)+(o.performance?1:0)}function h(r){if(typeof r==="undefined"){r=k}if(typeof arguments[0]==="string"){var o=arguments[0],q=arguments[1];if(o==="necessary"){q=true}r=b();r[o]=q}else{if(typeof arguments[0]==="object"){r.necessary=true}}var p=new Date();p.setYear(p.getFullYear()+1);p=p.toUTCString();bbccookies.set(e+"="+j(r)+";domain=bbc.co.uk;path=/;expires="+p+";");bbccookies.set(e+"="+j(r)+";domain=bbc.com;path=/;expires="+p+";");return r}function l(o){if(o===null){return null}var p=o.split("");return{ads:!!+p[0],personalisation:!!+p[1],performance:!!+p[2],necessary:true}}function c(){var o=new RegExp("(?:^|; ?)"+e+"=(\\d\\d\\d)($|;)"),p=document.cookie.match(o);if(!p){return null}return p[1]}function b(o){var p=l(c());if(!p){p=k}if(o){return p[o]}else{return p}}function g(o){return document.cookie=o+"=;expires="+m+";"}function n(){var o='<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/bbccookies/0.6.6/script/bbccookies.js"><\/script>';if(window.bbccookies_flag==="ON"&&!bbccookies._acceptsAll()&&!window.bbccookies_disable){document.write(o)}}n()})(); /*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/
+(function(){window.fig=window.fig||{};window.fig.manager={include:function(a){a=a||window;var e=a.document,g=e.cookie,b=g.match(/(?:^|; ?)ckns_orb_fig=([^;]+)/);if(!b&&g.indexOf("ckns_orb_nofig=1")>-1){this.setFig(a,{no:1})}else{if(b){b=this.deserialise(decodeURIComponent(RegExp.$1));this.setFig(a,b)}e.write('<script src="https://ssl.bbc.co.uk/frameworks/fig/1/fig.js"><'+"/script>")}},confirm:function(a){a=a||window;if(a.orb&&a.orb.fig&&a.orb.fig("no")){this.setNoFigCookie(a)}if(a.orb===undefined||a.orb.fig===undefined){this.setFig(a,{no:1});this.setNoFigCookie(a)}},setNoFigCookie:function(a){a.document.cookie="ckns_orb_nofig=1; expires="+new Date(new Date().getTime()+1000*60*10).toGMTString()+";"},setFig:function(a,b){(function(){var c=b;a.orb=a.orb||{};a.orb.fig=function(d){return(arguments.length)?c[d]:c}})()},deserialise:function(b){var a={};b.replace(/([a-z]{2}):([0-9]+)/g,function(){a[RegExp.$1]=+RegExp.$2});return a}}})();fig.manager.include();/*]]>*/</script>
+
+<!--[if (gt IE 8) | (IEMobile)]><!-->
+<link rel="stylesheet" href="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/style/orb-rtl.css">
+<!--<![endif]-->
+
+<!--[if (lt IE 9) & (!IEMobile)]>
+<link rel="stylesheet" href="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/style/orb-ie-rtl.css">
+<![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/id/0.25.0/style/nassim/ar-sa.css"  />  <script type="text/javascript">/*<![CDATA[*/ (function(undefined){if(!window.bbc){window.bbc={}}var ROLLING_PERIOD_DAYS=30;window.bbc.Mandolin=function(id,segments,opts){var now=new Date().getTime(),storedItem,DEFAULT_START=now,DEFAULT_RATE=1,COOKIE_NAME="ckpf_mandolin";opts=opts||{};this._id=id;this._segmentSet=segments;this._store=new window.window.bbc.Mandolin.Storage(COOKIE_NAME);this._opts=opts;this._rate=(opts.rate!==undefined)?+opts.rate:DEFAULT_RATE;this._startTs=(opts.start!==undefined)?new Date(opts.start).getTime():new Date(DEFAULT_START).getTime();this._endTs=(opts.end!==undefined)?new Date(opts.end).getTime():daysFromNow(ROLLING_PERIOD_DAYS);this._signupEndTs=(opts.signupEnd!==undefined)?new Date(opts.signupEnd).getTime():this._endTs;this._segment=null;if(typeof id!=="string"){throw new Error("Invalid Argument: id must be defined and be a string")}if(Object.prototype.toString.call(segments)!=="[object Array]"){throw new Error("Invalid Argument: Segments are required.")}if(opts.rate!==undefined&&(opts.rate<0||opts.rate>1)){throw new Error("Invalid Argument: Rate must be between 0 and 1.")}if(this._startTs>this._endTs){throw new Error("Invalid Argument: end date must occur after start date.")}if(!(this._startTs<this._signupEndTs&&this._signupEndTs<=this._endTs)){throw new Error("Invalid Argument: SignupEnd must be between start and end date")}removeExpired.call(this,now);var overrides=window.bbccookies.get().match(/ckns_mandolin_setSegments=([^;]+)/);if(overrides!==null){eval("overrides = "+decodeURIComponent(RegExp.$1)+";");if(overrides[this._id]&&this._segmentSet.indexOf(overrides[this._id])==-1){throw new Error("Invalid Override: overridden segment should exist in segments array")}}if(overrides!==null&&overrides[this._id]){this._segment=overrides[this._id]}else{if((storedItem=this._store.getItem(this._id))){this._segment=storedItem.segment}else{if(this._startTs<=now&&now<this._signupEndTs&&now<=this._endTs&&this._store.isEnabled()===true){this._segment=pick(segments,this._rate);if(opts.end===undefined){this._store.setItem(this._id,{segment:this._segment})}else{this._store.setItem(this._id,{segment:this._segment,end:this._endTs})}log.call(this,"mandolin_segment")}}}log.call(this,"mandolin_view")};window.bbc.Mandolin.prototype.getSegment=function(){return this._segment};function log(actionType,params){var that=this;require(["istats-1"],function(istats){istats.log(actionType,that._id+":"+that._segment,params?params:{})})}function removeExpired(expires){var items=this._store.getItems(),expiresInt=+expires;for(var key in items){if(items[key].end!==undefined&&+items[key].end<expiresInt){this._store.removeItem(key)}}}function getLastExpirationDate(data){var winner=0,rollingExpire=daysFromNow(ROLLING_PERIOD_DAYS);for(var key in data){if(data[key].end===undefined&&rollingExpire>winner){winner=rollingExpire}else{if(+data[key].end>winner){winner=+data[key].end}}}return(winner)?new Date(winner):new Date(rollingExpire)}window.bbc.Mandolin.prototype.log=function(params){log.call(this,"mandolin_log",params)};window.bbc.Mandolin.prototype.convert=function(params){log.call(this,"mandolin_convert",params);this.convert=function(){}};function daysFromNow(n){var endDate;endDate=new Date().getTime()+(n*60*60*24)*1000;return endDate}function pick(segments,rate){var picked,min=0,max=segments.length-1;if(typeof rate==="number"&&Math.random()>rate){return null}do{picked=Math.floor(Math.random()*(max-min+1))+min}while(picked>max);return segments[picked]}window.bbc.Mandolin.Storage=function(name){validateCookieName(name);this._cookieName=name;this._isEnabled=(bbccookies.isAllowed(this._cookieName)===true&&bbccookies.cookiesEnabled()===true)};window.bbc.Mandolin.Storage.prototype.setItem=function(key,value){var storeData=this.getItems();storeData[key]=value;this.save(storeData);return value};window.bbc.Mandolin.Storage.prototype.isEnabled=function(){return this._isEnabled};window.bbc.Mandolin.Storage.prototype.getItem=function(key){var storeData=this.getItems();return storeData[key]};window.bbc.Mandolin.Storage.prototype.removeItem=function(key){var storeData=this.getItems();delete storeData[key];this.save(storeData)};window.bbc.Mandolin.Storage.prototype.getItems=function(){return deserialise(this.readCookie(this._cookieName)||"")};window.bbc.Mandolin.Storage.prototype.save=function(data){window.bbccookies.set(this._cookieName+"="+encodeURIComponent(serialise(data))+"; expires="+getLastExpirationDate(data).toUTCString()+";")};window.bbc.Mandolin.Storage.prototype.readCookie=function(name){var nameEq=name+"=",ca=window.bbccookies.get().split("; "),i,c;validateCookieName(name);for(i=0;i<ca.length;i++){c=ca[i];if(c.indexOf(nameEq)===0){return decodeURIComponent(c.substring(nameEq.length,c.length))}}return null};function serialise(o){var str="";for(var p in o){if(o.hasOwnProperty(p)){str+='"'+p+'"'+":"+(typeof o[p]==="object"?(o[p]===null?"null":"{"+serialise(o[p])+"}"):'"'+o[p].toString()+'"')+","}}return str.replace(/,\}/g,"}").replace(/,$/g,"")}function deserialise(str){var o;str="{"+str+"}";if(!validateSerialisation(str)){throw"Invalid input provided for deserialisation."}eval("o = "+str);return o}var validateSerialisation=(function(){var OBJECT_TOKEN="<Object>",ESCAPED_CHAR='"\\n\\r\\u2028\\u2029\\u000A\\u000D\\u005C',ALLOWED_CHAR="([^"+ESCAPED_CHAR+"]|\\\\["+ESCAPED_CHAR+"])",KEY='"'+ALLOWED_CHAR+'+"',VALUE='(null|"'+ALLOWED_CHAR+'*"|'+OBJECT_TOKEN+")",KEY_VALUE=KEY+":"+VALUE,KEY_VALUE_SEQUENCE="("+KEY_VALUE+",)*"+KEY_VALUE,OBJECT_LITERAL="({}|{"+KEY_VALUE_SEQUENCE+"})",objectPattern=new RegExp(OBJECT_LITERAL,"g");return function(str){if(str.indexOf(OBJECT_TOKEN)!==-1){return false}while(str.match(objectPattern)){str=str.replace(objectPattern,OBJECT_TOKEN)}return str===OBJECT_TOKEN}})();function validateCookieName(name){if(name.match(/ ,;/)){throw"Illegal name provided, must be valid in browser cookie."}}})(); /*]]>*/</script>  <script type="text/javascript">  document.documentElement.className += (document.documentElement.className? ' ' : '') + 'orb-js';  fig.manager.confirm(); </script> <script src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/script/orb/api.min.js"></script> <script type="text/javascript"> window.orb_masthead_test = new bbc.Mandolin( 'orb_masthead', ['simple', 'control'], { rate: 6/1000, start: new Date('09/22/2014 08:00:00 GMT'), /* format: mm/dd/yyyy hh:mm:ss */ signupEnd: new Date('09/24/2014 08:00:00 GMT'), end: new Date('10/06/2014 08:00:00 GMT') } ); </script>   <script type="text/javascript"> /*<![CDATA[*/ function oqsSurveyManager(w, flag) { if (flag !== 'OFF') { w.document.write('<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/script/vendor/edr.js"><'+'/script>'); } } oqsSurveyManager(window, 'ON'); /*]]>*/ </script>             <!-- BBCDOTCOM template: responsive webservice  -->
+        <!-- BBCDOTCOM head --><script type="text/javascript"> /*<![CDATA[*/ var _sf_startpt = (new Date()).getTime(); /*]]>*/ </script><style type="text/css">.bbccom_display_none{display:none;}</style><script type="text/javascript"> /*<![CDATA[*/ var googletag = googletag || {}; googletag.cmd = googletag.cmd || []; var bbcdotcom = false; (function(){ if(typeof require !== 'undefined') { require({ paths:{ "bbcdotcom":"http://static.bbci.co.uk/bbcdotcom/0.3.300/script" } }); } })(); /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ var bbcdotcom = { adverts: {}, advert: { write: function () {}, show: function () {}, isActive: function () { return false; }, layout: function() { return { reset: function() {} } } }, config: { init: function() {}, isActive: function() {}, setSections: function() {}, isAdsEnabled: function() {}, setAdsEnabled: function() {}, isAnalyticsEnabled: function() {}, setAssetPrefix: function() {}, setConfig: function() {} }, survey: { init: function(){ return false; } }, data: {}, init: function() {}, objects: function(str) { return false; }, locale: { set: function() {} }, setAdKeyValue: function() {}, utils: { addEvent: function() {}, addHtmlTagClass: function() {} }, addLoadEvent: function() {} }; /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (typeof orb !== 'undefined' && typeof orb.fig === 'function') { if (orb.fig('ad') && orb.fig('uk') == 0) { bbcdotcom.data = { ads: (orb.fig('ad') ? 1 : 0), stats: (orb.fig('uk') == 0 ? 1 : 0), statsProvider: orb.fig('ap') }; } } else { document.write('<script type="text/javascript" src="'+('https:' == document.location.protocol ? 'https://ssl.bbc.com' : 'http://tps.bbc.com')+'/wwscripts/data">\x3C/script>'); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (typeof orb === 'undefined' || typeof orb.fig !== 'function') { bbcdotcom.data = { ads: bbcdotcom.data.a, stats: bbcdotcom.data.b, statsProvider: bbcdotcom.data.c }; } if (bbcdotcom.data.ads == 1) { document.write('<script type="text/javascript" src="'+('https:' == document.location.protocol ? 'https://ssl.bbc.co.uk' : 'http://www.bbc.co.uk')+'/wwscripts/flag">\x3C/script>'); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && (typeof bbcdotcom.flag == 'undefined' || (typeof bbcdotcom.data.ads !== 'undefined' && bbcdotcom.flag.a != 1))) { bbcdotcom.data.ads = 0; } if (/[?|&]ads-debug/.test(window.location.href) || document.cookie.indexOf('ads-debug') !== -1) { bbcdotcom.data.ads = 1; bbcdotcom.data.stats = 1; } if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcom.assetPrefix = "http://static.bbci.co.uk/bbcdotcom/0.3.300/"; document.write('<link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/bbcdotcom/0.3.300/style/orb/bbccom.css" />'); (function() { var useSSL = 'https:' == document.location.protocol; var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; document.write('<scr' + 'ipt src="' + src + '">\x3C/script>'); })(); if (/(sandbox|int)(.dev)*.bbc.co*/.test(window.location.href) || /[?|&]ads-debug/.test(window.location.href)) { document.write('<script type="text/javascript" src="http://static.bbci.co.uk/bbcdotcom/0.3.300/script/orb/individual.js">\x3C/script>'); } else { document.write('<script type="text/javascript" src="http://static.bbci.co.uk/bbcdotcom/0.3.300/script/orb/bbcdotcom.js">\x3C/script>'); } if(/[\\?&]ads=([^&#]*)/.test(window.location.href)) { document.write('<script type="text/javascript" src="http://static.bbci.co.uk/bbcdotcom/0.3.300/script/orb/adverts/adSuites.js">\x3C/script>'); } } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { var bbcdotcomConfig = {"adExclusions":"","adFormat":"standard","adKeyword":"","adMode":"smart","adsEnabled":true,"appAnalyticsSections":"arabic>middleeast","asyncEnabled":false,"disableInitialLoad":false,"advertInfoPageUrl":"\/arabic\/institutional\/2012\/06\/120410_faq_help_bbc_arabic","advertisementText":"\u0625\u0639\u0644\u0627\u0646","analyticsEnabled":false,"appName":"tabloid","assetPrefix":"http:\/\/static.bbci.co.uk\/bbcdotcom\/0.3.300\/","customAdParams":[],"customStatsParams":[],"headline":"\u0627\u0644\u0633\u064a\u0633\u064a \u064a\u0642\u0637\u0639 \u0632\u064a\u0627\u0631\u062a\u0647 \u0625\u0644\u0649 \u0625\u062b\u064a\u0648\u0628\u064a\u0627 \u0628\u0639\u062f \u0647\u062c\u0645\u0627\u062a \u0633\u064a\u0646\u0627\u0621","id":"37101513","inAssociationWithText":"\u0628\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0645\u0639","keywords":"","language":"","orbTransitional":false,"outbrainEnabled":true,"palEnv":"live","productName":"","sections":[],"siteCatalystEnabled":true,"slots":"","sponsoredByText":"\u0628\u0631\u0639\u0627\u064a\u0629","summary":"\u0627\u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u0645\u0635\u0631\u064a \u0639\u0628\u062f \u0627\u0644\u0641\u062a\u0627\u062d \u0627\u0644\u0633\u064a\u0633\u064a \u064a\u0642\u0637\u0639 \u0632\u064a\u0627\u0631\u062a\u0647 \u0644\u0642\u0645\u0629 \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0627\u0641\u0631\u064a\u0642\u064a \u0628\u0639\u062f \u0647\u062c\u0645\u0627\u062a \u062f\u0627\u0645\u064a\u0629 \u0641\u064a \u0633\u064a\u0646\u0627\u0621\u060c \u0648\u062d\u0635\u064a\u0644\u0629 \u0627\u0644\u0636\u062d\u0627\u064a\u0627 \u062a\u0631\u062a\u0641\u0639 \u0627\u0644\u0649 40 \u0642\u062a\u064a\u0644 \u0648\u0627\u0643\u062b\u0631 \u0645\u0646 60 \u062c\u0631\u064a\u062d.","type":"STORY","staticBase":"\/bbcdotcom","staticHost":"http:\/\/static.bbci.co.uk","staticVersion":"0.3.300","staticPrefix":"http:\/\/static.bbci.co.uk\/bbcdotcom\/0.3.300","dataHttp":"tps.bbc.com","dataHttps":"ssl.bbc.com","flagHttp":"www.bbc.co.uk","flagHttps":"ssl.bbc.co.uk","analyticsHttp":"sa.bbc.com","analyticsHttps":"ssa.bbc.com"}; bbcdotcom.config.init(bbcdotcomConfig, bbcdotcom.data, window.location, window.document); bbcdotcom.config.setAssetPrefix("http://static.bbci.co.uk/bbcdotcom/0.3.300/"); document.write('<!--[if IE 7]><script type="text/javascript">bbcdotcom.config.setIE7(true);\x3C/script><![endif]-->'); document.write('<!--[if IE 8]><script type="text/javascript">bbcdotcom.config.setIE8(true);\x3C/script><![endif]-->'); if (!bbcdotcom.config.isAsync() && bbcdotcom.config.isIE7()) { document.write('<link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/bbcdotcom/0.3.300/style/orb/bbccom-ie7.css" />'); } } /*]]>*/ </script>             <script type="text/javascript">/*<![CDATA[*/ window.istats = (window.istats || {}); (istats.head = function(w,d) { w.istats._linkTracked = w.istats._trackingCookie = decodeURIComponent( (d.cookie.match(/\bsa_labels=([^;]+)/)||[]).pop() || '' ); var host = w.location.host, m = host.match(/(bbc(?:\.co\.uk|\.com))$/i); d.cookie = 'sa_labels=; expires=Thu, 01 Jan 1970 00:00:01 GMT; domain=' + (m? m[1] : host) + '; path=/'; })(window,document); /*]]>*/</script>  <script type="text/javascript"> /* <![CDATA[ */ define('id-statusbar-config', { 'translation_signedout': "تسجيل الدخول", 'translation_signedin': "حسابك", 'use_overlay' : false, 'signin_url' : "https://ssl.bbc.co.uk/id/ar-SA/signin?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Farabic%2Fmiddleeast%2F2015%2F01%2F150130_egypt_sinai_attacks", 'locale' : "ar-SA", 'policyname' : "", 'ptrt' : "http://www.bbc.co.uk/arabic/middleeast/2015/01/150130_egypt_sinai_attacks" }); /* ]]> */ </script>  <script type="text/javascript"> (function () { if (! window.require) { throw new Error('idcta: could not find require'); } var map = {}; map['idapp-1'] = 'http://static.bbci.co.uk/idapp/0.63.26/modules/idapp/idapp-1'; map['idcta/idcta-1'] = 'http://static.bbci.co.uk/id/0.25.0/modules/idcta/idcta-1'; map['idcta/idCookie'] = 'http://static.bbci.co.uk/id/0.25.0/modules/idcta/idCookie'; map['idcta/overlayManager'] = 'http://static.bbci.co.uk/id/0.25.0/modules/idcta/overlayManager'; require({paths: map}); define('id-config', {"idapp":{"version":"0.63.26","hostname":"ssl.bbc.co.uk","insecurehostname":"www.bbc.co.uk","tld":"bbc.co.uk"},"idtranslations":{"version":"0.31.1"},"identity":{"baseUrl":"https:\/\/talkback.live.bbc.co.uk\/identity","cookieAgeDays":730},"pathway":{"name":null,"staticAssetUrl":"http:\/\/static.bbci.co.uk\/idapp\/0.63.26\/modules\/idapp\/idapp-1\/View.css"}}); })(); </script>
+        <link type="text/css" rel="stylesheet" href="http://static.bbci.co.uk/news/1.57.0145/stylesheets/services/arabic/core.css">
+    <!--[if lt IE 9]>
+        <link type="text/css" rel="stylesheet" href="http://static.bbci.co.uk/news/1.57.0145/stylesheets/services/arabic/old-ie.css">
+        <script src="http://static.bbci.co.uk/news/1.57.0145/js/vendor/html5shiv/html5shiv.js"></script>
+    <![endif]-->
+ <script id="news-loader"> if (document.getElementById("responsive-news")) { window.bbcNewsResponsive = true; } var isIE = (function() { var undef, v = 3, div = document.createElement('div'), all = div.getElementsByTagName('i'); while ( div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->', all[0] ); return v > 4 ? v : undef; }()); var modernDevice = 'querySelector' in document && 'localStorage' in window && 'addEventListener' in window, forceCore = document.cookie.indexOf('ckps_force_core') !== -1, holepunched = isIE > 6 && document.getElementById('js-holepunched'); window.cutsTheMustard = (modernDevice && !forceCore) || holepunched; if (window.cutsTheMustard) { document.documentElement.className += ' ctm'; var insertPoint = document.getElementById('news-loader'), config = {"asset":{"asset_id":"37101513","asset_uri":"\/arabic\/middleeast\/2015\/01\/150130_egypt_sinai_attacks","first_created":{"date":"2015-01-30 10:10:28","timezone_type":3,"timezone":"UTC"},"last_updated":{"date":"2015-01-30 13:42:21","timezone_type":3,"timezone":"UTC"},"options":{"allowDateStamp":true,"includeComments":false,"isBreakingNews":false,"allowAdvertising":true,"suitableForSyndication":false},"section":{"name":"\u0627\u0644\u0634\u0631\u0642 \u0627\u0644\u0623\u0648\u0633\u0637","id":"middleeast","uri":"\/arabic\/middleeast","urlIdentifier":"\/arabic\/middleeast"},"edition":"Domestic","audience":null,"iStats_counter_name":null,"type":"STY","mediaType":null},"smpBrand":null,"staticHost":"http:\/\/static.bbci.co.uk","environment":"live","locatorVersion":"dev","pathPrefix":"\/arabic","jsPath":"http:\/\/static.bbci.co.uk\/news\/1.57.0145\/js","cssPath":"http:\/\/static.bbci.co.uk\/news\/1.57.0145\/stylesheets\/services\/arabic","cssPostfix":"","dynamic":null,"features":{"localnews":true,"video":true,"liveeventcomponent":true,"mediaassetpage":true,"travel":true,"gallery":true,"rollingnews":true,"rumanalytics":true,"sportstories":true,"radiopromo":true,"fromothernewssites":true,"locallive":true,"weather":true},"features2":{"routing":true,"igor_device_redirect":false,"beta_label":false,"nav":true,"chartbeat":true,"breaking_news":true,"most_popular":true,"most_popular_tabs":true,"rum":true,"channel_page":true,"orb":true,"timezone":true,"rtl":true,"site_catalyst":true,"audio":true,"blogs":true,"enhanced_gallery":true,"top_stories_promo":true,"features_and_analysis":true,"pulse_survey":true,"adverts":true,"adexpert":true,"config_based_layout":true,"share_tools":true,"follow_us":true,"contact_form":true,"archive_fallback":true,"comments":true,"comments_enhanced":true,"enhanced_fonts":true,"enable_audio_on_stories":true},"configuration":{"showtimestamp":"1","showweather":"","showsport":"1","showolympics":"1","showfeaturemain":"1","showsitecatalyst":"1","candyplatform":"EnhancedMobile","showmap":"1","showwatchlisten":"","showspecialreports":"1","videotopiccandyid":"topics\/video","showvideofeedsections":"","showmaprelatedmedia":"1","showmapmostwatched":"","showmaptopstories":"1","showstorytopstories":"","showstoryfeaturesandanalysis":"1","showstorymostpopular":"","showgallery":"1","cms":"topcat"},"pollingHost":"http:\/\/polling.bbc.co.uk","service":"arabic","locale":"ar","locatorHost":null,"locatorFlagPole":true,"local":{"allowLocationLookup":true},"isWorldService":true,"rumAnalytics":{"server":"http:\/\/ingest.rum.bbc.co.uk","key":"news","edition":"arabic","url_params":null},"isChannelPage":false,"suitenameMap":"bbcarabic","languageVariant":"","commentsHost":"http:\/\/feeds.bbci.co.uk"}; config.configuration['get'] = function (key) { return this[key.toLowerCase()]; };   var bootstrapUI=function(){var e=function(){if(navigator.userAgent.match(/(Android (2.0|2.1))|(Nokia)|(OSRE\/)|(Opera (Mini|Mobi))|(w(eb)?OSBrowser)|(UCWEB)|(Windows Phone)|(XBLWP)|(ZuneWP)/))return!1;if(navigator.userAgent.match(/MSIE 10.0/))return!0;var e,t=document,n=t.head||t.getElementsByTagName("head")[0],r=t.createElement("style"),s=t.implementation||{hasFeature:function(){return!1}};r.type="text/css",n.insertBefore(r,n.firstChild),e=r.sheet||r.styleSheet;var i=s.hasFeature("CSS2","")?function(t){if(!e||!t)return!1;var n=!1;try{e.insertRule(t,0),n=!/unknown/i.test(e.cssRules[0].cssText),e.deleteRule(e.cssRules.length-1)}catch(r){}return n}:function(t){return e&&t?(e.cssText=t,0!==e.cssText.length&&!/unknown/i.test(e.cssText)&&0===e.cssText.replace(/\r+|\n+/g,"").indexOf(t.split(" ")[0])):!1};return i('@font-face{ font-family:"font";src:"font.ttf"; }')}();e&&(document.getElementsByTagName("html")[0].className+=" ff");var t,n,r,s,i,a,o={},u=function(){t=window.innerWidth,n=window.innerHeight},c=function(e){var t=document.createElement("link");t.setAttribute("rel","stylesheet"),t.setAttribute("type","text/css"),t.setAttribute("href",r+e+s+".css"),t.setAttribute("media",a[e]),i.parentNode.insertBefore(t,i),delete a[e]},f=function(e,r,s){r&&!s&&(t>=r||n>=r)&&c(e),s&&!r&&(s>=t||s>=n)&&c(e),r&&s&&(t>=r||n>=r)&&(s>=t||s>=n)&&c(e)},l=function(e){if(o[e])return o[e];var t=e.match(/\(min\-width:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/),n=e.match(/\(max\-width:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/),r=t&&parseFloat(t[1])||null,s=n&&parseFloat(n[1])||null;return o[e]=[r,s],o[e]},h=function(){var e=0;for(var t in a)e++;return e},d=function(){h()||window.removeEventListener("resize",m,!1);for(var e in a){var t=a[e],n=l(t);f(e,n[0],n[1])}},m=function(){u(),d()},v=function(e,t){a=e,r=t.path+("/"!==t.path.substr(-1)?"/":""),s=t.postfix,i=t.insertBefore,u(),d(),window.addEventListener("resize",m,!1)};return{stylesheetLoaderInit:v}}(); bootstrapUI.stylesheetLoaderInit({ 'compact': '(max-width: 599px)', 'tablet' : '(min-width: 600px)', 'wide' : '(min-width: 1008px)' }, { path: 'http://static.bbci.co.uk/news/1.57.0145/stylesheets/services/arabic', postfix: '', insertBefore: insertPoint }); var loadRequire = function(){ var js_paths = {"jquery-1.9":"vendor\/jquery-1\/jquery","jquery-1":"http:\/\/static.bbci.co.uk\/frameworks\/jquery\/0.3.0\/sharedmodules\/jquery-1.7.2","demi-1":"http:\/\/static.bbci.co.uk\/frameworks\/demi\/0.10.0\/sharedmodules\/demi-1","swfobject-2":"http:\/\/static.bbci.co.uk\/frameworks\/swfobject\/0.1.10\/sharedmodules\/swfobject-2","jquery":"vendor\/jquery-2\/jquery.min","domReady":"vendor\/require\/domReady","translation":"module\/translations\/ar","bump-3":"\/\/emp.bbci.co.uk\/emp\/bump-3\/bump-3"};  js_paths.navigation = 'module/nav/navManager';  requirejs.config({ baseUrl: 'http://static.bbci.co.uk/news/1.57.0145/js', map: { 'vendor/locator': { 'module/bootstrap': 'vendor/locator/bootstrap', 'locator/stats': 'vendor/locator/stats', 'locator/locatorView': 'vendor/locator/locatorView' } }, paths: js_paths, waitSeconds: 30 }); define('config', function () { return config; });             require(['compiled/all'], function() {
+      require(['module/base', 'domReady'], function (base, domReady) { domReady(function () { base.init();   require(['module/story'], function(page) { page.init(); });  }); });              });
+     };  loadRequire();   } </script>  <script type="text/javascript"> /*<![CDATA[*/ bbcdotcom.init({adsToDisplay:['mpu', 'leaderboard', 'outbrain_ar_5', 'outbrain_ar_7', 'outbrain_ar_8', 'outbrain_ar_9', 'native', 'mpu_bottom', 'adsense']}); /*]]>*/ </script>
+
+     <!-- IE9 requires style tag to be pre-rendered --> <style type="text/css" class="font-embed"></style> <style type="text/css"> .fontEmbed { font-family: "BBCNassim"; } </style> <script type="text/javascript"> var modernDevice = 'querySelector' in document && 'localStorage' in window && 'addEventListener' in window; if (modernDevice) { require(['http://static.bbci.co.uk/modules/bbcfonts/1.7.1/modules/fonts.js'], function(fontsController) { fontsController.init('http://static.bbci.co.uk/modules/bbcfonts/1.7.1/fonts/', 'arabic/BBCNassim', '1.7.1', 'ar', 'BBCNassim'); }); } </script>   <!--[if lte IE 8]>      <style type="text/css"> @font-face { font-family: "BBCNassim"; font-weight: normal; src: url("http://static.bbci.co.uk/modules/bbcfonts/1.7.1/fonts/arabic/BBCNassim.eot?") format("eot"), url("http://static.bbci.co.uk/modules/bbcfonts/1.7.1/fonts/arabic/BBCNassim.woff") format("woff"), url("http://static.bbci.co.uk/modules/bbcfonts/1.7.1/fonts/arabic/BBCNassim.ttf") format("truetype"); } @font-face { font-family: "BBCNassim"; font-weight: bold; src: url("http://static.bbci.co.uk/modules/bbcfonts/1.7.1/fonts/arabic/BBCNassim_bold.eot?") format("eot"), url("http://static.bbci.co.uk/modules/bbcfonts/1.7.1/fonts/arabic/BBCNassim_bold.woff") format("woff"), url("http://static.bbci.co.uk/modules/bbcfonts/1.7.1/fonts/arabic/BBCNassim_bold.ttf") format("truetype"); } </style>  <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
+</head>
+<!--[if IE]><body id="asset-type-sty" class="ie device--feature"><![endif]-->
+<!--[if !IE]>--><body id="asset-type-sty" class="device--feature"><!--<![endif]-->
+    <div class="direction" dir="rtl">
+
+             <!-- BBCDOTCOM bodyFirst --><div id="bbccom_interstitial" class="bbccom_display_none"><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { googletag.cmd.push(function() { googletag.display('bbccom_interstitial'); }); } /*]]>*/ </script></div><div id="bbccom_wallpaper" class="bbccom_display_none"><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { if (bbcdotcom.config.isAsync()) { googletag.cmd.push(function() { googletag.display('bbccom_wallpaper'); }); } else { googletag.display("wallpaper"); } } /*]]>*/ </script></div><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { document.write(unescape('%3Cscript id="gnlAdsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } if (window.bbcdotcom && bbcdotcom.config.isActive('analytics')) { document.write(unescape('%3Cscript id="gnlAnalyticsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } /*]]>*/ </script> <div id="blq-global"> <div id="blq-pre-mast">  </div> </div>  <script type="text/html" id="blq-bbccookies-tmpl"><![CDATA[ <section> <div id="bbccookies" class="bbccookies-banner orb-banner-wrapper bbccookies-d"> <div id="bbccookies-prompt" class="orb-banner b-g-p b-r b-f"> <h2 class="orb-banner-title"> Cookies on the BBC website </h2> <p class="orb-banner-content" dir="ltr"> We use cookies to ensure that we give you the best experience on our website.<span class="bbccookies-international-message"> We also use cookies to ensure we show you advertising that is relevant to you.</span> If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the BBC website. However, if you would like to, you can change your cookie settings at any time. </p> <ul class="orb-banner-options"> <li id="bbccookies-continue"> <button type="button" id="bbccookies-continue-button">Continue</button> </li> <li id="bbccookies-settings"> <a href="/privacy/cookies/managing/cookie-settings.html">Change settings</a> </li> <li id="bbccookies-more"><a href="/privacy/cookies/bbc">Find out more</a></li></ul> </div> </div> </section> ]]></script> <script type="text/javascript">/*<![CDATA[*/ (function(){if(bbccookies._showPrompt()){var g=document,b=g.getElementById("blq-pre-mast"),e=g.getElementById("blq-bbccookies-tmpl"),a,f;if(b&&g.createElement){a=g.createElement("div");f=e.innerHTML;f=f.replace("<"+"![CDATA[","").replace("]]"+">","");a.innerHTML=f;b.appendChild(a);blqCookieContinueButton=g.getElementById("bbccookies-continue-button");blqCookieContinueButton.onclick=function(){a.parentNode.removeChild(a);return false};bbccookies._setPolicy()}var c=g.getElementById("bbccookies");if(c&&!window.orb.fig("uk")){c.className=c.className.replace(/\bbbccookies-d\b/,"");c.className=c.className+(" bbccookies-w")}}})(); /*]]>*/</script>   <script type="text/javascript">/*<![CDATA[*/ bbcFlagpoles_istats = 'ON'; istatsTrackingUrl = '//sa.bbc.co.uk/bbc/bbc/s?name=arabic.middleeast.2015.01.150130_egypt_sinai_attacks.page&cps_asset_id=37101513&page_type=Story&section=%2Farabic%2Fmiddleeast&first_pub=2015-01-30T10%3A10%3A28%2B00%3A00&last_editorial_update=2015-01-30T13%3A42%3A21%2B00%3A00&title=%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A+%D9%8A%D9%82%D8%B7%D8%B9+%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87+%D8%A5%D9%84%D9%89+%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7+%D8%A8%D8%B9%D8%AF+%D9%87%D8%AC%D9%85%D8%A7%D8%AA+%D8%B3%D9%8A%D9%86%D8%A7%D8%A1&for_nation=us&pal_route=asset&ml_name=barlesque&app_type=responsive&language=ar-SA&ml_version=0.25.1&pal_webapp=tabloid&prod_name=arabic&app_name=arabic'; if (window.istats_countername) { istatsTrackingUrl = istatsTrackingUrl.replace(/([?&]name=)[^&]+/ig, '$1' + istats_countername); } (function() { if ( /\bIDENTITY=/.test(document.cookie) ) { istatsTrackingUrl += '&bbc_identity=1'; } var c = (document.cookie.match(/\bckns_policy=(\d\d\d)/)||[]).pop() || ''; istatsTrackingUrl += '&bbc_mc=' + (c? 'ad'+c.charAt(0)+'ps'+c.charAt(1)+'pf'+c.charAt(2) : 'not_set'); if ( /\bckns_policy=\d\d0/.test(document.cookie) ) { istatsTrackingUrl += '&ns_nc=1'; } var screenWidthAndHeight = 'unavailable'; if (window.screen && screen.width && screen.height) { screenWidthAndHeight = screen.width + 'x' + screen.height; } istatsTrackingUrl += ('&screen_resolution=' + screenWidthAndHeight); istatsTrackingUrl += '&blq_s=4d&blq_r=2.7&blq_v=worldservice&blq_e=pal'; })(); /*]]>*/</script>  <!-- Begin iStats 20100118 (UX-CMC 1.1009.3) --> <script type="text/javascript">/*<![CDATA[*/ (function() { window.istats || (istats = {}); var cookieDisabled = (document.cookie.indexOf('NO-SA=') != -1), hasCookieLabels = (document.cookie.indexOf('sa_labels=') != -1), hasClickThrough = /^#sa-(.*?)(?:-sa(.*))?$/.test(document.location.hash), runSitestat = !cookieDisabled && !hasCookieLabels && !hasClickThrough && !istats._linkTracked; if (runSitestat && bbcFlagpoles_istats === 'ON') { sitestat(istatsTrackingUrl); } else { window.ns_pixelUrl = istatsTrackingUrl; /* used by Flash library to track */ } function sitestat(n){var j=document,f=j.location,b="";if(j.cookie.indexOf("st_ux=")!=-1){var k=j.cookie.split(";");var e="st_ux",h=document.domain,a="/";if(typeof ns_!="undefined"&&typeof ns_.ux!="undefined"){e=ns_.ux.cName||e;h=ns_.ux.cDomain||h;a=ns_.ux.cPath||a}for(var g=0,f=k.length;g<f;g++){var m=k[g].indexOf("st_ux=");if(m!=-1){b="&"+unescape(k[g].substring(m+6))}}document.cookie=e+"=; expires="+new Date(new Date().getTime()-60).toGMTString()+"; path="+a+"; domain="+h}ns_pixelUrl=n;n=ns_pixelUrl+"&ns__t="+(new Date().getTime())+"&ns_c="+((j.characterSet)?j.characterSet:j.defaultCharset)+"&ns_ti="+escape(j.title)+b+"&ns_jspageurl="+escape(f&&f.href?f.href:j.URL)+"&ns_referrer="+escape(j.referrer);if(n.length>2000&&n.lastIndexOf("&")){n=n.substring(0,n.lastIndexOf("&")+1)+"ns_cut="+n.substring(n.lastIndexOf("&")+1,n.lastIndexOf("=")).substring(0,40)}(j.images)?new Image().src=n:j.write('<p><i'+'mg src="'+n+'" height="1" width="1" alt="" /></p>')}; })(); /*]]>*/</script> <noscript><p style="position: absolute; top: -999em;"><img src="//sa.bbc.co.uk/bbc/bbc/s?name=arabic.middleeast.2015.01.150130_egypt_sinai_attacks.page&amp;cps_asset_id=37101513&amp;page_type=Story&amp;section=%2Farabic%2Fmiddleeast&amp;first_pub=2015-01-30T10%3A10%3A28%2B00%3A00&amp;last_editorial_update=2015-01-30T13%3A42%3A21%2B00%3A00&amp;title=%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A+%D9%8A%D9%82%D8%B7%D8%B9+%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87+%D8%A5%D9%84%D9%89+%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7+%D8%A8%D8%B9%D8%AF+%D9%87%D8%AC%D9%85%D8%A7%D8%AA+%D8%B3%D9%8A%D9%86%D8%A7%D8%A1&amp;for_nation=us&amp;pal_route=asset&amp;ml_name=barlesque&amp;app_type=responsive&amp;language=ar-SA&amp;ml_version=0.25.1&amp;pal_webapp=tabloid&amp;prod_name=arabic&amp;app_name=arabic&amp;blq_js_enabled=0&amp;blq_s=4d&amp;blq_r=2.7&amp;blq_v=worldservice&amp;blq_e=pal" height="1" width="1" alt="" /></p></noscript> <!-- End iStats (UX-CMC) -->   <!--[if (gt IE 8) | (IEMobile)]><!--> <header id="orb-banner" role="banner"> <!--<![endif]--> <!--[if (lt IE 9) & (!IEMobile)]> <![if (IE 8)]> <header id="orb-banner" role="banner" class="orb-old-ie orb-ie8"> <![endif]> <![if (IE 7)]> <header id="orb-banner" role="banner" class="orb-old-ie orb-ie7"> <![endif]> <![if (IE 6)]> <header id="orb-banner" role="banner" class="orb-old-ie orb-ie6"> <![endif]> <![endif]--> <div id="orb-header" dir="rtl" class="orb-nav-pri orb-nav-pri-white orb-nav-empty orb-dir-rtl"  data-max-w="0"  data-max-d="0"  > <script type="text/javascript"> (function(){var h=document.getElementById('orb-header');if(/bbc\.co\.uk$/i.test(location.hostname)&&orb_masthead_test.getSegment()=='simple'&&(location.pathname===''||location.pathname==='/'||location.pathname==='/frameworks/test/mandolin/acceptance'&&h.setAttribute)){h.setAttribute('data-max-w','0');h.setAttribute('data-max-d','0');}}()); </script> <div class="orb-nav-pri-container b-r b-g-p"> <div class="orb-nav-section orb-nav-blocks"> <a href="/"> <img  src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/img/bbc-blocks-dark.png" width="84" height="24" alt="BBC" /> </a> </div> <section> <div class="orb-skip-links"> <h2>روابط الدخول</h2> <ul>  <li><a href="#page">إذهب الى المحتوى</a></li>  <li><a id="orb-accessibility-help" href="/accessibility/">Accessibility Help</a></li> </ul> </div> </section>  <div class="orb-nav-section orb-nav-id orb-nav-focus orb-nav-id-default">     <a id="idcta-link" href="https://ssl.bbc.co.uk/id/ar-SA/status?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Farabic%2Fmiddleeast%2F2015%2F01%2F150130_egypt_sinai_attacks"><img id="idcta-image" src="http://static.bbci.co.uk/id/0.25.0/img/bbcid_orb_signin_dark.png" alt="" width="18" height="18" /><span id="idcta-username">BBC iD</span></a>           </div>  <nav role="navigation" class="orb-nav"> <div class="orb-nav-section orb-nav-links orb-nav-focus" id="orb-nav-links"> <h2>تصفح بي بي سي</h2> <ul>    <li  class="orb-nav-news orb-d"  > <a href="/news/">News</a> </li>    <li  class="orb-nav-newsdotcom orb-w"  > <a href="http://www.bbc.com/news/">News</a> </li>    <li  class="orb-nav-sport"  > <a href="/sport/">Sport</a> </li>    <li  class="orb-nav-weather"  > <a href="/weather/">Weather</a> </li>    <li  class="orb-nav-radio"  > <a href="/worldserviceradio/">Radio</a> </li>    <li  class="orb-nav-arts orb-d"  > <a href="/arts/">Arts</a> </li>    <li  class="orb-nav-fullaz orb-d"  > <a href="/a-z/">Full A-Z</a> </li>    <li id="orb-nav-more"><a href="#orb-footer" data-alt="المزيد">قائمة<span class="orb-icon orb-icon-arrow"></span></a></li> </ul> </div> </nav> <div class="orb-nav-section orb-nav-search"> <a href="http://search.bbc.co.uk/search?scope=arabic"> <img  src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/img/orb-search-dark.png" width="18" height="18" alt="بحث في بي بي سي" /> </a> <form class="b-f" id="orb-search-form" role="search" method="get" action="http://search.bbc.co.uk/search" accept-charset="utf-8"> <div>  <input type="hidden" name="uri" value="/arabic/middleeast/2015/01/150130_egypt_sinai_attacks" />   <input type="hidden" name="scope" id="orb-search-scope" value="arabic" />  <label for="orb-search-q">بحث في بي بي سي</label> <input id="orb-search-q" type="text" name="q" placeholder="بحث" /> <input type="image" id="orb-search-button" src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/img/orb-search-dark.png" width="17" height="17" alt="بحث في بي بي سي" /> </div> </form> </div> </div> <div id="orb-panels"  class="orb-ws-panels"  > <script type="text/template" id="orb-panel-template"><![CDATA[ <div id="orb-panel-<%= panelname %>" class="orb-panel" aria-labelledby="orb-nav-<%= panelname %>"> <div class="orb-panel-content b-g-p b-r"> <%= panelcontent %> </div> </div> ]]></script> </div> </div> </header> <!-- Styling hook for shared modules only --> <div id="orb-modules">
+    <div id="site-container">
+
+
+            <div class="site-brand site-brand--height" role="banner">
+            <div class="site-brand-inner site-brand-inner--height">
+                <nav class="navigation navigation--primary">
+                    <a href="/arabic" id="brand">
+    <img class="brand__logo" src="http://static.bbci.co.uk/news/1.57.0145/img/brand/arabic.png" alt="BBC Arabic"/>
+    </a>
+                                                            <a href="#core-navigation" class="navigation__section navigation__section--core" data-event="header" role="navigation" aria-label="Arabic">
+                        أقسام                    </a>
+                                    </nav>
+            </div>
+
+
+<div class="navigation navigation--wide">
+    <ul class="navigation-wide-list" role="navigation" aria-label="Arabic" data-panel-id="js-navigation-panel-primary">
+                    <li>
+                <a href="/arabic" class="navigation-wide-list__link">
+                    <span>الرئيسية</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/tvandradio/2013/05/000000_bbcarabic_livetv" class="navigation-wide-list__link">
+                    <span>تلفزيون</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/tvandradio/2011/01/000000_liveradio" class="navigation-wide-list__link">
+                    <span>راديو</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/topics/video" class="navigation-wide-list__link">
+                    <span>فيديو</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/topics/pic_gal" class="navigation-wide-list__link">
+                    <span>صور</span>
+                </a>
+                            </li>
+                    <li class="selected">
+                <a href="/arabic/middleeast" class="navigation-wide-list__link navigation-arrow--open">
+                    <span>الشرق الأوسط</span>
+                </a>
+                 <span class="off-screen"></span>            </li>
+                    <li>
+                <a href="/arabic/worldnews" class="navigation-wide-list__link">
+                    <span>العالم</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/business" class="navigation-wide-list__link">
+                    <span>اقتصاد</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/artandculture" class="navigation-wide-list__link">
+                    <span>فنون</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/scienceandtech" class="navigation-wide-list__link">
+                    <span>علوم</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/sports" class="navigation-wide-list__link">
+                    <span>رياضة</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/topics/magazine" class="navigation-wide-list__link">
+                    <span>مجلة</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/interactivity" class="navigation-wide-list__link">
+                    <span>شارك برأيك</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/inthepress" class="navigation-wide-list__link">
+                    <span>عرض الصحف</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/topics/trending" class="navigation-wide-list__link">
+                    <span>بي بي سي ترند</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/indepth" class="navigation-wide-list__link">
+                    <span>تقارير خاصة</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/arabic/tvandradio" class="navigation-wide-list__link navigation-wide-list__link--last">
+                    <span>برامجنا</span>
+                </a>
+                            </li>
+            </ul>
+</div>
+
+                    </div>
+
+
+<div class="bbccom_slot "  aria-hidden="true">
+    <div class="bbccom_advert bbccom_display_none">
+        <script type="text/javascript">
+        /*<![CDATA[*/
+        if (window.bbcdotcom && bbcdotcom.slot) {
+            bbcdotcom.slot('leaderboard', [1,2,3,4]);
+        }
+        /*]]>*/
+        </script>
+    </div>
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        if (window.bbcdotcom && bbcdotcom.show) {
+            bbcdotcom.show()
+        }
+        /*]]>*/
+    </script>
+</div>
+
+                        <div class="container-width-only">
+                        </div>
+
+
+         <div id="page" class="configurable story " data-story-id="middleeast/2015/01/150130_egypt_sinai_attacks">      <div id="index-panels" class="container panels"> <div class="index-panel panel panel-1 open"> <div role="main">            <div class="container--primary-and-secondary-columns column-clearfix">                         <div class="column--primary">
+                                                                            <div class="story-body">
+    <h1 class="story-body__h1">السيسي يقطع زيارته إلى إثيوبيا بعد هجمات سيناء</h1>
+
+
+    <div class="story-body__mini-info-list-and-share">
+        <ul class="mini-info-list">
+    <li class="mini-info-list__item">    <div class="date date--v2" data-seconds="1422625341" data-datetime="30 يناير/ كانون الثاني 2015">30 يناير/ كانون الثاني 2015</div>
+</li>
+</ul>
+        <a href="#share-tools" class="share__button">
+	<span>شارك</span>
+</a>
+    </div>
+
+    <div class="story-body__inner">
+        <figure class="media-landscape full-width has-caption lead"><img alt="" src="http://ichef.bbci.co.uk/news/ws/200/amz/worldservice/live/assets/images/2015/01/22/150122113933_sisi_640x360_ap.jpg" width="640" height="360">
+                <figcaption class="media-caption">
+                    <span class="media-caption__text">
+                        شارك الرئيس المصري في القمة الافريقية في اديس ابابا
+                    </span>
+                </figcaption></figure><p class="story-body__introduction">قطع الرئيس المصري عبد الفتاح السيسي زيارته لقمة الاتحاد الافريقي بعد هجمات دامية في سيناء.</p><div class="bbccom_slot mpu-ad" aria-hidden="true">
+    <div class="bbccom_advert bbccom_display_none">
+        <script type="text/javascript">
+        /**/
+        if (window.bbcdotcom && bbcdotcom.slot) {
+            bbcdotcom.slot('mpu', [3]);
+        }
+        /**/
+        </script>
+    </div>
+    <script type="text/javascript">
+        /**/
+        if (window.bbcdotcom && bbcdotcom.show) {
+            bbcdotcom.show()
+        }
+        /**/
+    </script>
+</div><p>وأكدت قيادة القوات المسلحة المصرية أن الجيش سيستمر في "تكثيف أعمال المداهمات والملاحقات لكافة عناصر الإرهاب والتطرف بسيناء وكافة ربوع البلاد بالتعاون مع عناصر الشرطة المدنية وبدعم الشعب".</p><p>وأضاف المجلس الأعلى للقوات المسلحة في بيان له أذاعه التليفزيون الرسمي أنه سيستمر أيضا في "تأمين كافة جهود الدولة لإستكمال خارطة المستقبل لتحقيق الأمن والإستقرار ودفع جهود التنمية".</p><div class="bbccom_slot mpu-ad" aria-hidden="true">
+    <div class="bbccom_advert bbccom_display_none">
+        <script type="text/javascript">
+        /**/
+        if (window.bbcdotcom && bbcdotcom.slot) {
+            bbcdotcom.slot('mpu', [1,2]);
+        }
+        /**/
+        </script>
+    </div>
+    <script type="text/javascript">
+        /**/
+        if (window.bbcdotcom && bbcdotcom.show) {
+            bbcdotcom.show()
+        }
+        /**/
+    </script>
+</div><p>وكان 40 شخصا، معظمهم من الجنود، قد قتلوا في سلسلة من الهجمات التي شنها مسلحون إسلاميون في شبه جزيرة سيناء ليلة امس.</p><p>ووقع معظم الضحايا في مدينة العريش.</p><p>وشدد الرئيس المصري في تصريح ادلى به قبل عودته على أن مصر تحارب "أقوى تنظيم سري في القرنين الماضيين".</p><p>وأردف "كان هناك ثمن أفدح ستدفعه مصر لو استمر الوضع شهرين وإذا استمر الإخوان في الحكم".</p><p>وتوعد السيسي بالثأر للضحايا، وقال "الجيش يضع قواعد وأسس حتى تعيش الدولة، والجيش على استعداد لأن يدفع ثمن ذلك".</p><p>وقال السيسي في تصريحات له بالعاصمة الإثيوبية أديس أبابا "على المصريين الاحتفاظ بمعنوياتهم مرتفعة".</p><p>من جانبه، قال تنظيم ولاية سيناء، الذي غير اسمه من جماعة انصار بيت المقدس بعد اعلان ولاءه لتنظيم الدولة الاسلامية، إنه شن هجمات "موسعة متزامنة".</p><p>وتقول مصادر امنية في سيناء إن ثلاث طائرات حربية غادرت العريش الى القاهرة الجمعة تقل جثامين واشلاء القتلى. وقالوا إن خمسة أشخاص في حالة حرجة وإن عدد القتلى يمكن ان يرتفع.</p><p>وتوفي طفلان، احدهما رضيع عمره ستة اشهر، من الجراح التي اصيبوا بها الخميس بينما كان الجنود يقاتلون المسلحين في قرية قريبة من الشيخ زويد بالقرب من الحدود مع غزة وإسرائيل.</p><figure class="media-landscape full-width no-caption"><img alt="" src="http://ichef.bbci.co.uk/news/ws/200/amz/worldservice/live/assets/images/2015/01/30/150130110206_egypt_sinai_attacks_640x360__nocredit.jpg" width="640" height="360"></figure><p>وتعد هذه الهجمات اشد هجمات ضد الحكومة تشهدها مصر في الشهور الاخيرة، وتوضح مستوى غير مسبوق من التنسيق، حسبما يقول محللون.</p><p>وأدانت الولايات المتحدة الهجمات، قائلة إنها "تلتزم بدعمها للحكومة المصرية في جهودها لمكافحة تهديد الارهاب".</p><p>وشدد المسلحون الاسلاميون هجماتهم منذ الاطاحة بالرئيس الاسلامي محمد مرسي عام 2013.</p><p>وتنفي جماعة الاخوان المسلمين، التي يتبعها مرسي، صلتها بالارهاب لكن الحكومة لا تفرق بين الاخوان والجماعات المسلحة.</p><p>وتزايد التوتر في مصر هذا الاسبوع وسط احتجاجات في الذكرى الرابعة لانتفاضة 2011 التي اطاحت بالرئيس محمد حسني مبارك.</p><p>وقال مسؤولون أمنيون إن صواريخ اطلقت اولا على منشأة تابعة للشرطة وقاعدة عسكرية وفندق عسكري في العريش قبل انفجار سيارة ملغومة في البوابة الخلفية لقاعدة عسكرية. كما استهدفت عدة نقاط تفتيش في المدينة.</p><p>وقالت صحيفة الاهرام إن مكتبها في العريش - الذي يقع قبالة القاعدة والفندق - دمر تماما.</p><p>واصيب أربعة جنود في هجوم في نقطة تفتيش على مشارف العريش وقتل ضابط في الجيش بعد اطلاق النار عليه في نقطة تفتيش في رفح.</p><p>واصيب اكثر من 60 شخصا في هجمات الخميس.</p><p>ووضعت شمال سيناء في حالة الطوارئ وحظر التجول منذ اكتوبر/تشرين الاول، عندما ادى هجوم على نقطة تفتيش الى مقتل عشرات الجنود.</p><p>وشن الجيش عمليات موسعة في محاولة للسيطرة على العنف في المنطقة، ولكنه اخفق حتى الآن.</p><p>وتعد تنظيم ولاية سيناء اكبر تهديد وشن الكثير من الهجمات على اهداف امنية.</p><p>ودعا التنظيم المصريين للتمرد على الرئيس المصري عبد الفتاح السيسي.</p><p>وتنشئ مصر منطقة عازلة على طول الحدود مع غزة في محاولة من تهريب المسلحين للسلاح من المناطق الفلسطينية باستخدام الانفاق.</p><p>وأدى مشروع انشاء المنطقة العازلة الى تشريد اكثر من الف اسرة في رفح والى قطع مصدر هام للدخل لدى الكثير من الفلسطينيين.</p>
+    </div>
+</div>
+                                                                                                                                                                                                                                                                                                                                                                <div class="share share--lightweight  show ghost-column">
+            <a name="share-tools"></a>
+            <h2 class="share__title share__title--lightweight">
+        شارك القصة        <a href="/arabic/institutional/2013/04/000000_about_sharing_mobile">حول&nbsp;المشاركة</a>
+    </h2>
+        <ul class="share__tools share__tools--lightweight">
+                            <li class="share__tool share__tool--email">
+        <a href="mailto:?subject=%D8%B4%D8%A7%D8%B1%D9%83%20%D9%85%D9%86%20%D8%A8%D9%8A%20%D8%A8%D9%8A%20%D8%B3%D9%8A%20Arabic&body=http%3A%2F%2Fwww.bbc.co.uk%2Farabic%2Fmiddleeast%2F2015%2F01%2F150130_egypt_sinai_attacks" >
+            <span>البريد الالكتروني</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--facebook">
+        <a href="http://www.facebook.com/dialog/feed?app_id=58567469885&redirect_uri=http%3A%2F%2Fwww.bbc.co.uk%2Farabic%2Fmiddleeast%2F2015%2F01%2F150130_egypt_sinai_attacks&link=http%3A%2F%2Fwww.bbc.co.uk%2Farabic%2Fmiddleeast%2F2015%2F01%2F150130_egypt_sinai_attacks%3FSThisFB" >
+            <span>Facebook</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--twitter">
+        <a href="https://twitter.com/intent/tweet?text=BBC%20Arabic%20-%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A%20%D9%8A%D9%82%D8%B7%D8%B9%20%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87%20%D8%A5%D9%84%D9%89%20%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7%20%D8%A8%D8%B9%D8%AF%20%D9%87%D8%AC%D9%85%D8%A7%D8%AA%20%D8%B3%D9%8A%D9%86%D8%A7%D8%A1&url=http%3A%2F%2Fwww.bbc.co.uk%2Farabic%2Fmiddleeast%2F2015%2F01%2F150130_egypt_sinai_attacks" class=shortenUrl data-social-url=https://twitter.com/intent/tweet?text=BBC+Arabic+-+%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A+%D9%8A%D9%82%D8%B7%D8%B9+%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87+%D8%A5%D9%84%D9%89+%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7+%D8%A8%D8%B9%D8%AF+%D9%87%D8%AC%D9%85%D8%A7%D8%AA+%D8%B3%D9%8A%D9%86%D8%A7%D8%A1&amp;url= data-target-url=http://www.bbc.co.uk/arabic/middleeast/2015/01/150130_egypt_sinai_attacks>
+            <span>Twitter</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--googleplus">
+        <a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.bbc.co.uk%2Farabic%2Fmiddleeast%2F2015%2F01%2F150130_egypt_sinai_attacks&hl=ar" >
+            <span>Google+</span>
+        </a>
+    </li>
+                            <li class="share__tool share__tool--whatsapp">
+        <a href="whatsapp://send?text=BBC%20Arabic%20%7C%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A%20%D9%8A%D9%82%D8%B7%D8%B9%20%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87%20%D8%A5%D9%84%D9%89%20%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7%20%D8%A8%D8%B9%D8%AF%20%D9%87%D8%AC%D9%85%D8%A7%D8%AA%20%D8%B3%D9%8A%D9%86%D8%A7%D8%A1%20-%20http%3A%2F%2Fwww.bbc.co.uk%2Farabic%2Fmiddleeast%2F2015%2F01%2F150130_egypt_sinai_attacks%3Focid%3Dwsarabic_chatapps_whatsapp_msg_trial_link1" >
+            <span>WhatsApp</span>
+        </a>
+    </li>
+            </ul>
+</div>
+
+                                                                                                <a href="#orb-banner" class="share__back-to-top">
+	<span>العودة إلى أعلى</span>
+</a>
+                                                                                                <div class="story-more">
+          <div class="group story-alsos more-on-this-story"> <div class="group__header"> <h2 class="group__title">المزيد حول هذه القصة</h2> </div> <div class="group__body"> <ul class="units-list ">    <li class="unit unit--regular">  <a href="/arabic/middleeast/2015/01/150125_egypt_sinai_emergency" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">  <span class="cta"> مصر: تمديد حالة الطوارئ في مناطق بشمال سيناء 3 أشهر  </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1422201842" data-datetime="25 يناير/ كانون الثاني 2015">25 يناير/ كانون الثاني 2015</div> </div>  </div> </div> </a>  </li>     <li class="unit unit--regular">  <a href="/arabic/middleeast/2015/01/150126_egypt_clashes_aftermath" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">  <span class="cta"> هدوء حذر في مصر بعد اشتباكات ذكرى ثورة يناير </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1422267557" data-datetime="26 يناير/ كانون الثاني 2015">26 يناير/ كانون الثاني 2015</div> </div>  </div> </div> </a>  </li>     <li class="unit unit--regular">  <a href="/arabic/middleeast/2015/01/150125_egypt_protests_25_jan" class="unit__link-wrapper"> <div class="unit__body"> <div class="unit__header">  <div class="unit__title">  <span class="cta"> ذكرى ثورة يناير: مقتل 18 شخصا وإصابة 52 في مناطق مختلفة من مصر </span> </div>    <div class="unit__meta"> <div class="date date--v1" data-seconds="1422216195" data-datetime="25 يناير/ كانون الثاني 2015">25 يناير/ كانون الثاني 2015</div> </div>  </div> </div> </a>  </li>   </ul> </div> </div>      </div>
+
+                                                                                            <div id="comp-small-promo-group" class="small-promo-group"data-comp-meta={&quot;id&quot;:&quot;comp-more-from-this-index&quot;,&quot;type&quot;:&quot;more-from-this-index&quot;,&quot;handler&quot;:&quot;moreFromThisIndex&quot;,&quot;deviceGroups&quot;:null,&quot;opts&quot;:{&quot;loading_strategy&quot;:&quot;post_load&quot;,&quot;asset_id&quot;:&quot;middleeast&quot;,&quot;exclude_item&quot;:&quot;middleeast\/2015\/01\/150130_egypt_sinai_attacks&quot;}}>
+        <h2 class="group-title">
+            <a href="/arabic/middleeast" class="group-title__link">المزيد من الشرق الأوسط</a>
+
+        </h2>
+    <div class="small-promo-group__body promo-unit-spacer">
+    </div>
+</div>
+                                                                        </div>
+                                     <div class="column--secondary">
+                                                                                                                                                                                                                    <div id=comp-top-stories-promo
+            class="hidden"
+            data-comp-meta={"id":"comp-top-stories-promo","type":"top-stories-promo","handler":"default","deviceGroups":["group3","group4"],"opts":{"loading_strategy":"post_load","device_groups":["group3","group4"],"dedup_id":"\/arabic\/middleeast\/2015\/01\/150130_egypt_sinai_attacks"},"template":"\/component\/top-stories-promo"}>
+        </div>
+<div class="bbccom_slot mpu-ad"  aria-hidden="true">
+    <div class="bbccom_advert bbccom_display_none">
+        <script type="text/javascript">
+        /*<![CDATA[*/
+        if (window.bbcdotcom && bbcdotcom.slot) {
+            bbcdotcom.slot('mpu', [4]);
+        }
+        /*]]>*/
+        </script>
+    </div>
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        if (window.bbcdotcom && bbcdotcom.show) {
+            bbcdotcom.show()
+        }
+        /*]]>*/
+    </script>
+</div>                                                                    <div id=comp-features-and-analysis
+            class="hidden"
+            data-comp-meta={"id":"comp-features-and-analysis","type":"features-and-analysis","handler":"default","deviceGroups":["group3","group4"],"opts":{"device_groups":["group3","group4"],"asset_id":"front_page","loading_strategy":"batch_load","show_summary":false,"dedup_id":"\/arabic\/middleeast\/2015\/01\/150130_egypt_sinai_attacks"},"template":"\/component\/features-and-analysis"}>
+        </div>                                                                                                    <div id=comp-most-popular
+            class="hidden"
+            data-comp-meta={"id":"comp-most-popular","type":"most-popular","handler":"mostPopular","deviceGroups":null,"opts":{"loading_strategy":"batch_load"},"template":"\/component\/most-popular"}>
+        </div>
+<div class="bbccom_slot adsense-ad"  aria-hidden="true">
+    <div class="bbccom_advert bbccom_display_none">
+        <script type="text/javascript">
+        /*<![CDATA[*/
+        if (window.bbcdotcom && bbcdotcom.slot) {
+            bbcdotcom.slot('adsense', [1,2,3,4]);
+        }
+        /*]]>*/
+        </script>
+    </div>
+    <script type="text/javascript">
+        /*<![CDATA[*/
+        if (window.bbcdotcom && bbcdotcom.show) {
+            bbcdotcom.show()
+        }
+        /*]]>*/
+    </script>
+</div>                                        </div>
+             </div>         </div> </div>  <div class="index-panel panel panel-2"> <div role="complementary"> <div id="most-popular-placeholder"></div> </div> </div>  </div> </div>
+
+
+
+
+<div id="core-navigation" class="navigation--footer">
+
+    <nav id="navigation--bottom" class="navigation navigation--bottom " role="navigation" aria-label="Arabic">
+        <ul class="navigation--bottom__toplevel">
+                            <li class="navigation-core-title">أقسام</li>
+                                        <li class="">
+                    <a href="/arabic" class="">
+                        <span>الرئيسية</span>
+                    </a>
+                                                        </li>
+                            <li class=" feature-phone-off-block">
+                    <a href="/arabic/tvandradio/2013/05/000000_bbcarabic_livetv" class="">
+                        <span>تلفزيون</span>
+                    </a>
+                                                        </li>
+                            <li class=" feature-phone-off-block">
+                    <a href="/arabic/tvandradio/2011/01/000000_liveradio" class="">
+                        <span>راديو</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/arabic/topics/video" class="">
+                        <span>فيديو</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/arabic/topics/pic_gal" class="">
+                        <span>صور</span>
+                    </a>
+                                                        </li>
+                            <li class="selected ">
+                    <a href="/arabic/middleeast" class="navigation-arrow--open">
+                        <span>الشرق الأوسط</span>
+                    </a>
+                     <span class="off-screen"></span>                                    </li>
+                            <li class="">
+                    <a href="/arabic/worldnews" class="">
+                        <span>العالم</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/arabic/business" class="">
+                        <span>اقتصاد</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/arabic/artandculture" class="">
+                        <span>فنون</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/arabic/scienceandtech" class="">
+                        <span>علوم</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/arabic/sports" class="">
+                        <span>رياضة</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/arabic/topics/magazine" class="">
+                        <span>مجلة</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/arabic/interactivity" class="">
+                        <span>شارك برأيك</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/arabic/inthepress" class="">
+                        <span>عرض الصحف</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/arabic/topics/trending" class="">
+                        <span>بي بي سي ترند</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/arabic/indepth" class="">
+                        <span>تقارير خاصة</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/arabic/tvandradio" class="">
+                        <span>برامجنا</span>
+                    </a>
+                                                        </li>
+                    </ul>
+    </nav>
+</div>
+   </div><!-- closes #site-container -->      </div> <div id="orb-footer"  dir="rtl" class="orb-footer orb-footer-grey orb-dir-rtl" > <aside role="complementary"> <div id="orb-aside" class="orb-nav-sec b-r b-g-p"> <div class="orb-footer-inner" role="navigation"> <h2 class="orb-footer-lead">تصفح بي بي سي</h2>  <div class="orb-footer-primary-links"> <ul>    <li  class="orb-nav-news orb-d"  > <a href="/news/">News</a> </li>    <li  class="orb-nav-newsdotcom orb-w"  > <a href="http://www.bbc.com/news/">News</a> </li>    <li  class="orb-nav-sport"  > <a href="/sport/">Sport</a> </li>    <li  class="orb-nav-weather"  > <a href="/weather/">Weather</a> </li>    <li  class="orb-nav-radio"  > <a href="/worldserviceradio/">Radio</a> </li>    <li  class="orb-nav-arts orb-d"  > <a href="/arts/">Arts</a> </li>    <li  class="orb-nav-fullaz orb-d"  > <a href="/a-z/">Full A-Z</a> </li>    </ul> </div> </div> </div> </aside> <footer role="contentinfo"> <div id="orb-contentinfo" class="orb-nav-sec b-r b-g-p"> <div class="orb-footer-inner"> <ul>        <li  > <a href="/arabic/institutional/2011/01/000000_mobile_terms">شروط الاستخدام</a> </li>    <li  > <a href="/arabic/institutional/2011/01/000000_aboutus">عن بي بي سي</a> </li>    <li  > <a href="/arabic/institutional/2011/01/000000_privacy">سياسة الخصوصية</a> </li>    <li  > <a href="http://www.bbc.co.uk/privacy/cookies/managing/cookie-settings.html">Cookies</a> </li>    <li  > <a href="/accessibility/">Accessibility Help</a> </li>    <li  > <a href="/guidance/">Parental Guidance</a> </li>    <li  > <a href="/arabic/institutional/2011/01/000000_feedback">اتصل بـ بي بي سي</a> </li>    <li  class=" orb-w"  > <a href="http://www.bbc.co.uk/bbc.com/furtherinformation/">Further Information</a> </li>    </ul> <small> <span class="orb-hilight">Copyright &copy; 2015 بي بي سي.</span> بي بي سي ليست مسؤولة عن محتوى المواقع الخارجية <a href="/help/web/links/" class="orb-hilight">سياستنا بخصوص الروابط الخارجية</a> </small> </div> </div> </footer> </div>  <script type="text/javascript"> document.write('<' + 'script id="orb-js-script" data-assetpath="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/" src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/script' + (( document.cookie.indexOf('ckns_debugorbjs') > -1 )? '-debug' : '') + '/orb.js"><' + '/script>'); </script>   <script type="text/javascript"> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementsByTagName('body')[0] }); istats.track('download', { region: document.getElementsByTagName('body')[0] }); }); } </script>              <script> var isNokiaS40 = navigator.userAgent.match(/Series40; Nokia/); if (!window.cutsTheMustard || isNokiaS40) { img = document.createElement('img'); img.src = 'http://sa.bbc.com/b/ss/bbcwglobalprod,bbcarabic/1/JS-1.2.1/s30946363?gn=ws%3A%3Am%2Farabic%2Fmiddleeast%2F2015%2F01%2F150130_egypt_sinai_attacks&ev=event2&c25=BBC%7CRD%7Cgroup0&c45=arabic&v20=js-e%7Cimg&c6=ws%3A%3Amiddleeast&c5=ws%3A%3ASTORY'; img.className = 'tracking-image-nonctm'; document.body.appendChild(img); } </script> <noscript> <img class="tracking-image-nonjs" src="http://sa.bbc.com/b/ss/bbcwglobalprod,bbcarabic/5/61238070?gn=ws%3A%3Am%2Farabic%2Fmiddleeast%2F2015%2F01%2F150130_egypt_sinai_attacks&ev=event2&c25=BBC%7CRD%7Cgroup0&c45=arabic&v20=js-d%7Cimg&c6=ws%3A%3Amiddleeast&c5=ws%3A%3ASTORY" height="5" width="5" alt=""> </noscript>  </div>  <script> window.old_onload = window.onload; window.onload = function() { if(window.old_onload) { window.old_onload(); } window.loaded = true; }; </script> <!-- Chartbeat Web Analytics code - start -->
+<script type="text/javascript">
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = "50924";
+    _sf_async_config.domain = "arabic.bbc.co.uk";
+    _sf_async_config.sections = "r-news, الشرق-الأوسط";
+    <!-- if page is an index, add the edition to the path -->
+    _sf_async_config.path = "/arabic/middleeast/2015/01/150130_egypt_sinai_attacks";
+    (function() {
+        var noCookies = true;
+        var cookiePrefix = '_chartbeat';
+        if ("object" === typeof bbccookies && typeof bbccookies.readPolicy == 'function') {
+            noCookies = !bbccookies.readPolicy().performance;
+        }
+        if (noCookies && document.cookie.indexOf(cookiePrefix) !== -1) {
+            //Find and remove cookies whose names begin with '_chartbeat'
+            var cookieSplit = document.cookie.split(';');
+            var cookieLength = cookieSplit.length;
+            while (cookieLength--) {
+                var cookie = cookieSplit[cookieLength].replace(/^\s+|\s+$/g, '');
+                var cookieName = cookie.split('=')[0];
+
+                if (cookieName.indexOf(cookiePrefix) === 0) {
+                    document.cookie = cookieName + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/;';
+                }
+            }
+        }
+        _sf_async_config.noCookies = noCookies;
+    }());
+
+    /** CONFIGURATION END **/
+    (function(){
+        function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement("script");
+            e.setAttribute("language", "javascript");
+            e.setAttribute("type", "text/javascript");
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != "function") ?
+            loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    }());
+</script>
+<!-- Chartbeat Web Analytics code - end -->
+  </body> </html>
+
+
+
+
+
+
+
+

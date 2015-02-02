@@ -1,0 +1,2444 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="fi" class="ie ie6"> <![endif]-->
+<!--[if IE 7 ]> <html lang="fi" class="ie ie7"> <![endif]-->
+<!--[if IE 8 ]> <html lang="fi" class="ie ie8"> <![endif]-->
+<!--[if IE 9 ]> <html lang="fi" class="ie ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="fi"><!--<![endif]-->
+<head>
+<title>Uudistus tuo tabletit ja tietokoneet eskariin: pikkulasten mediakasvatus on pian pakollista | Yle Uutiset | yle.fi</title>
+<meta charset="utf-8" />
+<meta name="description" content="Uudessa esiopetuksen opetussuunnitelmassa mainitaan ensimmäistä kertaa, että lasten kanssa pitää tutustua muun muassa laitteisiin ja peleihin. Asiantuntijan mukaan joissakin paikoissa ylpeillään sillä, ettei mediakasvatusta opeteta." />
+<meta property="og:description" content="Uudessa esiopetuksen opetussuunnitelmassa mainitaan ensimmäistä kertaa, että lasten kanssa pitää tutustua muun muassa laitteisiin ja peleihin. Asiantuntijan mukaan joissakin paikoissa ylpeillään sillä, ettei mediakasvatusta opeteta." />
+<meta name="news_keywords" content="Media, Savo, Kotimaa" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Uudistus tuo tabletit ja tietokoneet eskariin: pikkulasten mediakasvatus on pian pakollista" />
+<meta property="og:site_name" content="Yle Uutiset" />
+<meta property="og:url" content="http://yle.fi/uutiset/uudistus_tuo_tabletit_ja_tietokoneet_eskariin_pikkulasten_mediakasvatus_on_pian_pakollista/7765358" />
+<meta property="og:image" content="http://img.yle.fi/uutiset/savo/article6328292.ece/ALTERNATES/w480h270/Tabletti+tietokone+sormitietokone+ipad+lapset+varhaiskasvatus" />
+<meta property="fb:app_id" content="147925155254978" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site:id" content="23502747" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="apple-mobile-web-app-title" content="Yle Uutiset">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="stylesheet" href="http://yle.fi/uutiset/skins/jGXxLmJf9583/uutiset/css/styles.css?version=9583" />
+<link rel="stylesheet" href="http://yle.fi/global/api/load.php?version=5&amp;modules=css/headerfooter,css/wide" />
+<link rel="alternate" type="application/rss+xml" title="Kotimaa" href="http://yle.fi/uutiset/rss/uutiset.rss?osasto=kotimaa" />
+<link rel="alternate" type="application/rss+xml" title="Luetuimmat Kotimaa" href="http://yle.fi/uutiset/rss/luetuimmat.rss?osasto=kotimaa" />
+
+<link rel="publisher" href="https://plus.google.com/102894459181339261226/" />
+<link rel="shortcut icon" href="http://yle.fi/favicon.ico" />
+<link rel="apple-touch-icon" href="http://yle.fi/uutiset/skins/jGXxLmJf9583/uutiset/bg/yle-uutiset-57px.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://yle.fi/uutiset/skins/jGXxLmJf9583/uutiset/bg/yle-uutiset-72px.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://yle.fi/uutiset/skins/jGXxLmJf9583/uutiset/bg/yle-uutiset-114px.png">
+<link rel="apple-touch-icon" sizes="144x144" href="http://yle.fi/uutiset/skins/jGXxLmJf9583/uutiset/bg/yle-uutiset-144px.png">
+<link rel="canonical" href="http://yle.fi/uutiset/uudistus_tuo_tabletit_ja_tietokoneet_eskariin_pikkulasten_mediakasvatus_on_pian_pakollista/7765358" />
+<script src="http://yle.fi/uutiset/resources/jGXxLmJf9583/js/script.head.min.js?version=9583"></script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,t,e){function r(e){if(!t[e]){var o=t[e]={exports:{}};n[e][0].call(o.exports,function(t){var o=n[e][1][t];return r(o?o:t)},o,o.exports)}return t[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({QJf3ax:[function(n,t){function e(n){function t(t,e,a){n&&n(t,e,a),a||(a={});for(var u=c(t),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,e);return s}function a(n,t){f[n]=c(n).concat(t)}function c(n){return f[n]||[]}function u(){return e(t)}var f={};return{on:a,emit:t,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");t.exports=e()},{gos:"7eSDFh"}],ee:[function(n,t){t.exports=n("QJf3ax")},{}],gos:[function(n,t){t.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,t){function e(n,t,e){if(r.call(n,t))return n[t];var o=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,t,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[t]=o,o}var r=Object.prototype.hasOwnProperty;t.exports=e},{}],D5DuLP:[function(n,t){function e(n,t,e){return r.listeners(n).length?r.emit(n,t,e):(o[n]||(o[n]=[]),void o[n].push(t))}var r=n("ee").create(),o={};t.exports=e,e.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,t){t.exports=n("D5DuLP")},{}],XL7HBI:[function(n,t){function e(n){var t=typeof n;return!n||"object"!==t&&"function"!==t?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");t.exports=e},{gos:"7eSDFh"}],id:[function(n,t){t.exports=n("XL7HBI")},{}],loader:[function(n,t){t.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,t){function e(){var n=v.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(d,function(t,e){t in n||(n[t]=e)}),v.proto="https"===l.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var t=f.createElement("script");t.src=v.proto+n.agent,f.body.appendChild(t)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=window,f=u.document,s="addEventListener",p="attachEvent",l=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},v=t.exports={offset:i(),origin:l,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(f[p]("onreadystatechange",r),u[p]("onload",e)),a("mark",["firstbyte",i()])},{1:11,handle:"D5DuLP"}],11:[function(n,t){function e(n,t){var e=[],o="",i=0;for(o in n)r.call(n,o)&&(e[i]=t(o,n[o]),i+=1);return e}var r=Object.prototype.hasOwnProperty;t.exports=e},{}]},{},["G9z0Bl"]);</script></head>
+<body class="article uutiset" data-articleid="7765358">
+<div class="skiplinks">
+<ul>
+<li><a href="#container">Hyppää sisältöön</a></li>
+</ul>
+</div>
+<div id="ylefiheader">
+  <div id="ylefiheader-wrapper">
+
+    <a href="http://yle.fi" title="Yle.fi etusivu"><img id="ylefiheader-logo" src="http://yle.fi/global/api/ylefilogo.png" alt="Yle logo" /></a>
+
+    <span id="ylefiheader-mobiletoggle"></span>
+
+    <div id="ylefiheader-mobilewrapper">
+
+      <ul id="ylefiheader-mainnavi">
+        <li><a href="http://yle.fi/uutiset/">Uutiset</a></li>
+        <li><a href="http://areena.yle.fi/tv">Areena</a></li>
+        <li><a href="http://ohjelmaopas.yle.fi/">TV</a></li>
+        <li><a href="http://areena.yle.fi/radio">Radio</a></li>
+      </ul>
+
+      <form id="ylefiheader-search" action="http://haku.yle.fi/search" method="get" accept-charset="UTF-8">
+        <label for="ylefiheader-search-input">Hae</label>
+        <input type="text" id="ylefiheader-search-input" name="q" placeholder="Hae Yle.fi:st&auml;"/>
+        <button type="submit">Hae</button>
+      </form>
+
+      <p id="ylefiheader-langnavi"><a href="http://svenska.yle.fi">Svenska Yle</a></p>
+
+    </div>
+
+  </div>
+</div>
+<header id="header">
+<div class="wrap">
+<div class="hgroup">
+<h1>
+<a href="http://yle.fi/uutiset/">
+<img src="http://yle.fi/uutiset/skins/jGXxLmJf9583/uutiset/bg/yle-uutiset.png" alt="Yle Uutiset" />
+</a>
+</h1>
+</div>
+<aside class="weather"></aside>
+
+<div class="font-size"></div>
+<div class="label"></div>
+<nav>
+<ul>
+<li class="with-subnav current">
+<a href="http://yle.fi/uutiset/">Uutiset</a>
+<ul>
+<li>
+<span>
+Aiheet
+</span>
+<ul>
+<li>
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/ulkomaat/">Ulkomaat</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/politiikka/">Politiikka</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/talous/">Talous</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/kulttuuri/">Kulttuuri</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/viihde/">Viihde</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/tiede/">Tiede</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/luonto/">Luonto</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/terveys/">Terveys</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/tekniikka/">Tekniikka</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/liikenne/">Liikenne</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/media/">Media</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/internet/">Internet</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/pelit/">Pelit</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/ilmiot/">Ilmiöt</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/Blogi/">Blogit</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/nakokulmat/">Näkökulmat</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/plus/">Plus</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/eurovaalit_2014/">Eurovaalit 2014</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/uutisluokka/">Yle Uutisluokka</a>
+</li>
+</ul>
+<li>
+<span>
+Alueet
+</span>
+<ul>
+<li>
+<a href="http://yle.fi/uutiset/etela-karjala/">Etelä-Karjala</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/etela-savo/">Etelä-Savo</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/helsinki/">Helsinki</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/hame/">Häme</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/kainuu/">Kainuu</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/keski-pohjanmaa/">Keski-Pohjanmaa</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/keski-suomi/">Keski-Suomi</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/kymenlaakso/">Kymenlaakso</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/lahti/">Lahti</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/lappi/">Lappi</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/oulu/">Oulu</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/perameri/">Perämeri</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/pohjanmaa/">Pohjanmaa</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/pohjois-karjala/">Pohjois-Karjala</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/sapmi/saame/">Saame</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/satakunta/">Satakunta</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/savo/">Savo</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/tampere/">Tampere</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/turku/">Turku</a>
+</li>
+</ul>
+<li>
+<span>
+Lisää
+</span>
+<ul>
+<li>
+<a href="http://yle.fi/uutiset/aamu-tv/">Aamu-tv</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/ajankohtainen_kakkonen/">Ajankohtainen kakkonen</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/a-studio/">A-studio</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/media/">Pressiklubi</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/silminnakija/">Silminnäkijä</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/viittomakieliset_uutiset/">Yle Uutiset viittomakielellä</a>
+</li>
+<li>
+<a href="http://yle.fi/selkouutiset/">Yle Uutiset selkosuomeksi</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/news/">News in English</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/novosti/">Novosti Yle</a>
+</li>
+<li>
+<a href="http://svenska.yle.fi/">Svenska Yle</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/sapmi/">Yle Sápmi</a>
+</li>
+<li>
+<a href="http://yle.fi/tekstitv">Teksti-tv</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/rss-syotteet/6075085">RSS-syötteet</a>
+</li>
+</ul>
+</ul>
+</li>
+<li class="with-subnav">
+<a href="http://yle.fi/urheilu/">Urheilu</a>
+<ul>
+<li>
+<span>
+Lajit
+</span>
+<ul>
+<li>
+<a href="http://yle.fi/urheilu/alppilajit/">Alppilajit</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/hiihtolajit/ampumahiihto/">Ampumahiihto</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/ampumaurheilu/">Ampumaurheilu</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/golf/">Golf</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/hiihtolajit/">Hiihtolajit</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/jalkapallo/">Jalkapallo</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/jaakiekko/">Jääkiekko</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/koripallo/">Koripallo</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/lentopallo/">Lentopallo</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/alppilajit/lumilautailu/">Lumilautailu</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/moottoriurheilu/">Moottoriurheilu</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/nyrkkeily/">Nyrkkeily</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/paini/">Paini</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/pesapallo/">Pesäpallo</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/pikaluistelu/">Pikaluistelu</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/purjehdus/">Purjehdus</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/pyoraily/">Pyöräily</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/ratsastus/">Ratsastus</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/ravit/">Ravit</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/salibandy/">Salibandy</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/suunnistus/">Suunnistus</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/taitoluistelu/">Taitoluistelu</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/tennis/">Tennis</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/uinti/">Uinti</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/yleisurheilu/">Yleisurheilu</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/muu_palloilu/">Muu palloilu</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/muut/">Muu urheilu</a>
+</li>
+</ul>
+<li>
+<span>
+Tapahtumat
+</span>
+<ul>
+<li>
+<a href="http://yle.fi/urheilu/suurtapahtumat/talvikisaputki/">Talvikisaputki</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/koripallo/koripallon_mm_2014/">Koripallon MM 2014</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/lentopallo/lentopallon_mm_2014/">Lentopallon MM 2014</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/yleisurheilu/yleisurheilun_em_2014/">Yleisurheilun EM 2014</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/jalkapallo/FIFAn_jalkapallon_MM_2014/">Jalkapallon MM 2014</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/jaakiekko/jaakiekon_mm_2014/">Jääkiekon MM 2014</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/suurtapahtumat/sotshi_2014/paralympialaiset_2014/">Paralympialaiset 2014</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/suurtapahtumat/sotshi_2014/">Sotshi 2014</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/lentopallo/lentopallon_em_2013/">Lentopallon EM 2013</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/koripallo/koripallon_em_2013/">Koripallon EM 2013</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/yleisurheilu/yleisurheilun_mm_2013/">Yleisurheilun MM 2013</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/jalkapallo/jalkapallon_em_2013/">Jalkapallon EM 2013</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/suunnistus/">Suunnistuksen MM</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/jalkapallo/confederations_cup_2013/">Confederations Cup 2013</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/jaakiekko/jaakiekon_mm_2013/">Jääkiekon MM 2013</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/hiihtolajit/mm_hiihdot_2013/">MM-hiihdot 2013</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/alppilajit/mm_alppihiihto_2013/">MM-alppihiihto 2013</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/hiihtolajit/mm_ampumahiihto_2013/">MM-ampumahiihto 2013</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/salibandy/mm_salibandy_2012/">MM-salibandy 2012</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/suurtapahtumat/lontoo_2012/paralympialaiset_2012/">Paralympialaiset 2012</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/suurtapahtumat/lontoo_2012/">Lontoo 2012</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/jalkapallo/euro2012/">EM-jalkapallo 2012</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/yleisurheilu/em_yleisurheilu_2012/">EM-yleisurheilu 2012</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/jaakiekko/mm_jaakiekko_2012/">MM-jääkiekko 2012</a>
+</li>
+<li>
+<a href="http://yle.fi/ralliradio/">Suomen MM-ralli</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/koripallo/koripallon_mm_2014/">Koripallon MM 2014</a>
+</li>
+</ul>
+<li>
+<span>
+Lisää
+</span>
+<ul>
+<li>
+<a href="http://yle.fi/urheilu/tulospalvelu/">Tulospalvelu</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/yle_urheilun_lahetykset_netissa/6074616">Suorat lähetykset netissä</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/kiveenhakatut/">Kiveen hakatut</a>
+</li>
+<li>
+<a href="http://yle.fi/ohjelmat/genret/urheilu">Urheilun tv-lähetykset</a>
+</li>
+<li>
+<a href="http://areena-beta.yle.fi/ng/areena/tv/urheilu">Yle Areena</a>
+</li>
+<li>
+<a href="http://yle.fi/elavaarkisto/haku/#/kategoria/Urheilu">Elävä arkisto</a>
+</li>
+<li>
+<a href="http://yle.fi/tekstitv/html/P201_01.html">Teksti-tv</a>
+</li>
+<li>
+<a href="http://yle.fi/puhe/urheilu/">Yle Puhe</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/kolumnit/">Kolumnit</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/urheilukatu_2/">Urheilukatu 2</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/veikkaus/">Veikkauksen tuloksia</a>
+</li>
+<li>
+<a href="http://yle.fi/urheilu/rss-syotteet/6206837">RSS-syötteet</a>
+</li>
+</ul>
+</ul>
+</li>
+<li >
+<a href="http://yle.fi/uutiset/suora_linja/">Osallistu</a>
+</li>
+<li class="with-subnav">
+<a href="http://yle.fi/saa/">Sää</a>
+<ul>
+<li>
+<span>
+Haetuimmat A-K
+</span>
+<ul>
+<li>
+<a href="http://yle.fi/saa/suomi/espoo/">Espoo</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/hamina/">Hamina</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/helsinki/">Helsinki</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/heinola/">Heinola</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/hyvinkää/">Hyvinkää</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/hämeenlinna/">Hämeenlinna</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/iisalmi/">Iisalmi</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/imatra/">Imatra</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/joensuu/">Joensuu</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/jyväskylä/">Jyväskylä</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/jämsä/">Jämsä</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/järvenpää/">Järvenpää</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/kajaani/">Kajaani</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/kangasala/">Kangasala</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/kemi/">Kemi</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/kerava/">Kerava</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/kirkkonummi/">Kirkkonummi</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/kokkola/">Kokkola</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/kotka/">Kotka</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/kouvola/">Kouvola</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/kuopio/">Kuopio</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/kuusamo/">Kuusamo</a>
+</li>
+</ul>
+<li>
+<span>
+Haetuimmat L-Ö
+</span>
+<ul>
+<li>
+<a href="http://yle.fi/saa/suomi/lahti/">Lahti</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/lappeenranta/">Lappeenranta</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/lohja/">Lohja</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/mikkeli/">Mikkeli</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/naantali/">Naantali</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/nokia/">Nokia</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/oulu/">Oulu</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/pori/">Pori</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/porvoo/">Porvoo</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/raahe/">Raahe</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/rauma/">Rauma</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/riihimäki/">Riihimäki</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/rovaniemi/">Rovaniemi</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/salo/">Salo</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/savonlinna/">Savonlinna</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/seinäjoki/">Seinäjoki</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/tampere/">Tampere</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/tornio/">Tornio</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/turku/">Turku</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/vaasa/">Vaasa</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/vantaa/">Vantaa</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/suomi/varkaus/">Varkaus</a>
+</li>
+</ul>
+<li>
+<span>
+Haetuimmat ulkomailta
+</span>
+<ul>
+<li>
+<a href="http://yle.fi/saa/turkki/alanya/">Alanya</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/alankomaat/amsterdam/">Amsterdam</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/espanja/barcelona/">Barcelona</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/saksa/berliini/">Berliini</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/unkari/budapest/">Budapest</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/espanja/fuengirola/">Fuengirola</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/tanska/kööpenhamina/">Kööpenhamina</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/espanja/las+palmas/">Las Palmas</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/britannia/lontoo/">Lontoo</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/espanja/malaga/">Málaga</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/espanja/palma+de+mallorca/">Mallorca</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/yhdysvallat/new+york/">New York</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/ranska/nizza/">Nizza</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/ranska/pariisi/">Pariisi</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/viro/pärnu/">Pärnu</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/venäjä/pietari/">Pietari</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/tshekki/praha/">Praha</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/espanja/puerto+de+la+cruz/">Puerto de la Cruz</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/kreikka/rodos/">Ródos</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/italia/rooma/">Rooma</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/viro/tallinna/">Tallinna</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/espanja/teneriffa/">Teneriffa</a>
+</li>
+<li>
+<a href="http://yle.fi/saa/ruotsi/tukholma/">Tukholma</a>
+</li>
+</ul>
+</ul>
+</li>
+<li >
+<a href="http://yle.fi/uutiset/tuoreimmat/">Tuoreimmat</a>
+</li>
+</ul>
+</nav>
+
+</div>
+</header>
+<div id="container">
+<nav class="breadcrumb">
+<ul>
+<li class="basic-icon" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://yle.fi/uutiset/" itemprop="url">
+<span itemprop="title">Uutiset</span>
+</a>
+</li>
+<li class="current basic-icon" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://yle.fi/uutiset/kotimaa/" itemprop="url">
+<span itemprop="title">Kotimaa</span>
+</a>
+</li>
+</ul>
+</nav>
+
+<article class="content " itemscope itemtype="http://schema.org/Article"
+>
+<header>
+<div class="hgroup">
+<span class="meta">
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+<time datetime="2015-01-29T11:57:45+02:00">29.1.2015 klo 11:57</time>
+<span class="separator">|</span> <time datetime="2015-01-29T19:51:52+02:00">päivitetty 29.1.2015 klo 19:51</time>
+</span>
+<h1 itemprop="name">Uudistus tuo tabletit ja tietokoneet eskariin: pikkulasten mediakasvatus on pian pakollista</h1>
+<h2>Uudessa esiopetuksen opetussuunnitelmassa mainitaan ensimmäistä kertaa, että lasten kanssa pitää tutustua muun muassa laitteisiin ja peleihin. Asiantuntijan mukaan joissakin paikoissa ylpeillään sillä, ettei mediakasvatusta opeteta.</h2>
+<ul class="some default " >
+<li class="facebook ">
+<div id="fb-root"></div>
+<div class="fb-like"
+data-action="recommend"
+data-href="http://yle.fi/uutiset/7765358"
+data-send="false"
+data-layout="standard"
+data-show-faces="false"
+data-font="arial"
+>
+</div>
+</li>
+</ul>
+</div>
+</header>
+<div class="text">
+<figure
+class="full wRelatedContent vmedia"
+itemtype="http://schema.org/Photograph" itemprop="image" itemscope
+>
+<a href="http://img.yle.fi/uutiset/savo/article6328292.ece/ALTERNATES/w960/Tabletti+tietokone+sormitietokone+ipad+lapset+varhaiskasvatus" title="Kuopiolainen Minja käytti tablettia sujuvasti jo kaksivuotiaana."
+class="openoverlay" >
+<img alt="Lapsi käyttää tablettitietokonetta."
+src="http://img.yle.fi/uutiset/savo/article6328292.ece/ALTERNATES/w580/Tabletti+tietokone+sormitietokone+ipad+lapset+varhaiskasvatus"
+data-imagesource="Kuva: Toni Pitkänen / Yle"
+itemprop="image"
+/>
+</a>
+<figcaption>
+<span class="caption" itemprop="description">Kuopiolainen Minja käytti tablettia sujuvasti jo kaksivuotiaana.</span>
+<span class="source" itemprop="copyrightHolder">
+Kuva: Toni Pitkänen / Yle
+</span>
+</figcaption>
+</figure>
+<aside class="about">
+<h1>
+Mistä on kyse?
+</h1>
+<div class="wrap">
+<ul>
+<li>Uuden esiopetuksen opetussuunnitelman mukaan lapsille pitää opettaa monilukutaitoa ja tieto- ja viestintäteknologista osaamista</li>
+<li>Monissa varhaiskasvatuksen yksiköissä mediakasvatus on kuitenkin huonolla tolalla</li>
+<li>Opetus- ja kulttuuriministeriön kyselyn mukaan monissa varhaiskasvatusyksiköissä mediakasvatusta ei anneta lainkaan</li>
+</ul>
+</div>
+</aside>
+<p>Alle kouluikäisten mediakasvatuksesta tulee pakollista. Uuteen opetussuunnitelmaan on kirjattu, että esiopetuksessa lapsille tulee opettaa monilukutaitoa ja tieto- ja viestintäteknologista osaamista viimeistään vuonna 2016. Opetussuunnitelmaan mukaan lasten kanssa pitää esimerkiksi tutustua erilaisiin laitteisiin, palveluihin ja peleihin.</p><p>Muutoksesta tulee osin iso. Opetus- ja kulttuuriministeriön vuonna 2013 kunnille tekemän kyselyn perusteella mediakasvatus on retuperällä. Enemmistö vastaajista ilmoitti, että heidän kunnassaan vain alle 20 prosenttia varhaiskasvatusyksiköistä antaa tietoisesti mediakasvatusta.</p><p>Kansallisen audiovisuaalisen instituutin mediakasvatuksen erityisasiantuntija Saara Pääjärvi on huolissaan tilanteesta. Hän painottaa, että osassa yksiköitä mediakasvatus on hoidettu hienosti, toisissa paikoissa ei niinkään.</p><p>– Joissakin varhaiskasvatusyksiköissä oikein ylpeillään sillä, että meillä ei ole sitä (mediakasvatusta) lainkaan. Ajatellaan, että ei sitä tarvita, koska lapset käyttävät viihdemediaa niin paljon kotona. Mutta samalla perusteella voitaisiin olla opettamatta lukemaan tai viemättä lapsia ulos leikkimään, koska niitähän tehdään kotonakin, Pääjärvi sanoo.</p><p>Suunnitelmassa lapsille opetetaan monilukutaitoa, johon sisältyy muun muassa kuva- ja medialukutaito. Lapset tutustuvat muun muassa paitsi kirjoitettuihin ja puhuttuihin, myös audiovisuaalisiin ja digitaalisiin teksteihin.</p><h3>Pelit syntipukkina</h3><p>Kysely paljastaa myös, että mitä pienempi kunta sitä vähemmän mediakasvatukseen on kiinnitetty huomiota. Mediakasvatus sisältyi varhaiskasvatussuunnitelmaan vain noin kolmasosassa kyselyyn vastanneista kunnista. Pääjärven mukaan tilanne johtuu osaksi käytännön pulmista, mutta myös peloista, jotka tutkimuksissa ovat osoittautuneet turhiksi.  </p><blockquote>
+<p class="quote basic-icon">
+Samalla perusteella voitaisiin olla opettamatta lukemaan.
+</p>
+<p class="author">
+– Saara Pääjärvi
+</p>
+</blockquote>
+<p></p><p>– Kymmenen vuotta sitten ajateltiin, että pelaaminen aiheuttaa ylivilkkautta, mutta nyt puhutaan istumisen haitoista ja ylipainosta. Vaikka myös lukiessa istutaan, siitä ei olla huolissaan, Pääjärvi kuvailee.</p><p>Pelaaminen saattaa Pääjärven mukaan saada syntipukin leiman silloinkin, kun ongelmat ovat jossakin muualla.</p><p>– Esimerkiksi nuoren liiallinen pelaaminen ja sosiaalisten suhteiden puute voi johtua koulukiusaamisesta tai siitä, että ystäviä ei vain löydy. Pelaaminen ei välttämättä ole syy, vaan oire, Pääjärvi huomauttaa.</p><h3>Materiaalia ja koulutusta tarvitaan lisää</h3><p>Käytännön ongelmana on, että mediakasvatussisällöt on usein laadittu kouluikäisten tarpeeseen. Ne eivät sellaisenaan sovellu varhaiskasvatukseen.</p><p>– Varhaiskasvatukseen räätälöityä mediakasvatusmateriaalia tarvitaan lisää. Sitäkin tosin löytyy jo vaikka kuinka paljon, jos osaa etsiä, Pääjärvi huomauttaa. </p><p>Pääjärven mukaan varhaiskasvatuksen henkilökunnalla ei useinkaan ole mediakasvatuksen osaamista. Opetus- ja kulttuuriministeriön kysely paljasti, että suurimmassa osassa kuntia vain alle puolet varhaiskasvatuksen henkilöstöstä tuntee mediakasvatusta. Enemmistössä alle 10 000 asukkaan kunnista ei ole annettu varhaiskasvatuksen henkilöstölle minkäänlaista mediakasvatuskoulutusta viime vuosina.</p><p>– Myöskään varhaiskasvatuskoulutus yliopistoissa ei tue tarpeeksi mediakasvatusosaamista, Pääjärvi lisää. </p><blockquote>
+<p class="quote basic-icon">
+Älylaitteet ovat tosi hyviä, kun niitä käyttää oikealla tavalla.
+</p>
+<p class="author">
+– Annamari Kurtelius
+</p>
+</blockquote>
+<p></p><h3>Netti ja pelit osa lasten elämää</h3><p>Lasten mediabarometri 2013:n mukaan pienetkin lapset pelaavat digitaalisia pelejä ja surffailevat netissä. Pelaaminen aloitetaan entistä nuorempana, jo 3–4-vuotiaana, ja yli 90 prosenttia lapsista oli käyttänyt nettiä ainakin joskus.</p><p>Lapsista ja mediasta puhuttaessa unohdetaan Pääjärven mukaan usein esimerkiksi pelaamisen myönteiset puolet. Lapsi oppii myös peleistä. Tabletilla voidaan piirtää, kirjoittaa, lukea ja leikkiä, ja pelkällä sormellakin harjoittelu kehittää silmän ja käden yhteistyötä.</p><p>– Unohdetaan se, että lapsi nauttii pelaamisesta. Me kaikki tarvitsemme rentoutumista ja viihtymistä. Miksei hauskuus kelpaa perusteluksi lapsen leikille? Ei kaiken tarvitse olla mahdollisimman kehittävää, Pääjärvi toteaa.</p><p>Iisalmessa älylaitteet ovat jo käytössä esiopetuksessa. Kiertävä erityislastentarhanopettaja Annamari Kurtelius kertoo, että tabletilla harjoitellaan kynäotetta ja oman nimen kirjaimia. Pienempien lasten kanssa tabletilta katsellaan valokuvia leluista ja samoja leluja etsitään sen jälkeen päiväkodin tiloista.</p><p>– Älylaitteet ovat tosi hyviä, kun niitä käyttää oikealla tavalla. Sen huomaa lapsen levottomasta käyttäytymisestä käytön jälkeen, jos niiden parissa kuluu liikaa aikaa. Monipuolinen tekeminen on tärkeää, Kurtelius painottaa.</p><p>Tuoreimman lasten mediabarometrin mukaan uudemmat keksinnöt ole kuitenkaaan syrjäyttäneet kirjoja. Kirjoilla ja lukemisella on vahva asema lasten arjessa: lähes päivittäin kirjoja tai lehtiä lukee 91 prosenttia 0–8-vuotiaista.</p><p><em>Artikkelia täydennetty 29.1.2015 kello 15:34: Artikkelia täydennetty monilukutaidon osalta.</em></p>
+</div>
+<footer>
+<section class="more-on-this-topic wRelatedContent vArticles">
+<h1>Lue myös</h1>
+<div>
+<article>
+<h1>
+<a href="http://yle.fi/uutiset/lastenneurologi_tablettitietokoneen_kaytosta_voi_olla_hyotya_taaperon_kehitykselle/7136880" >
+Lastenneurologi: Tablettitietokoneen käytöstä voi olla hyötyä taaperon kehitykselle
+</a>
+</h1>
+<span class="meta">
+<time datetime="2014-03-17T06:03:41+02:00">
+17.3.2014
+</time>
+</span>
+</article>
+<article>
+<h1>
+<a href="http://yle.fi/uutiset/pienten_lasten_pelaaminen_on_sosiaalisempaa_kuin_huolipuhe_antaa_ymmartaa/7548044" >
+&#034;Pienten lasten pelaaminen on sosiaalisempaa kuin huolipuhe antaa ymmärtää&#034;
+</a>
+</h1>
+<span class="meta">
+<time datetime="2014-11-12T08:51:22+02:00">
+12.11.2014
+</time>
+<span class="comments-count basic-icon">41</span>
+</span>
+</article>
+<article>
+<h1>
+<a href="http://yle.fi/uutiset/pelivalistus_etenee_paivakotiin_ja_neuvolaan__jotta_aikuiset_kasittaisivat/7588404" >
+Pelivalistus etenee päiväkotiin ja neuvolaan – jotta aikuiset käsittäisivät
+</a>
+</h1>
+<span class="meta">
+<time datetime="2014-11-12T08:50:41+02:00">
+12.11.2014
+</time>
+<span class="comments-count basic-icon">41</span>
+</span>
+</article>
+</div>
+</section>
+<ul class="writers">
+<li class="with-image" itemtype="http://schema.org/Person" itemscope itemprop="author">
+<img src="http://img.yle.fi/uutiset/savo/article6529682.ece/ALTERNATES/w60h60/Helmi+Nyk%C3%A4nen" alt="Helmi Nykänen" itemprop="image" />
+<a rel="author" class="author">
+<span itemprop="name">Helmi Nykänen</span>
+</a>
+<span class="twitter">
+<a href="http://twitter.com/HelmeriNyk" target="_blank">
+@HelmeriNyk
+</a>
+</span>
+<span class="organization" itemtype="http://schema.org/Organization" itemscope itemprop="worksFor">
+<span itemprop="name">
+Yle Savo
+</span>
+</span>
+</li>
+</ul>
+<ul class="some default " >
+<li class="facebook with-share-button">
+<a target="_blank" class="lite" href="https://www.facebook.com/sharer/sharer.php?u=http://yle.fi/uutiset/7765358">
+<span class="some-icon">
+Jaa
+</span>
+</a>
+<div id="fb-root"></div>
+<div class="fb-like"
+data-action="recommend"
+data-href="http://yle.fi/uutiset/7765358"
+data-send="false"
+data-layout="button_count"
+data-show-faces="false"
+data-font="arial"
+data-share="true">
+</div>
+</li>
+<li class="google">
+<a class="lite some-icon" href="https://plus.google.com/share?url=http://yle.fi/uutiset/7765358" target="_blank">G+</a>
+<div class="g-plusone" data-size="medium" data-href="http://yle.fi/uutiset/7765358"></div>
+</li>
+<li class="twitter">
+<a class="lite" href="https://twitter.com/intent/tweet?original_referer=http://yle.fi/uutiset/7765358&amp;url=http://yle.fi/uutiset/7765358&amp;text=Uudistus+tuo+tabletit+ja+tietokoneet+eskariin%3A+pikkulasten+mediakasvatus+on+pian+pakollista+%7C+Yle+Uutiset+%7C+yle.fi" target="_blank">
+<span class="some-icon">
+Twiittaa
+</span>
+</a>
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-counturl="http://yle.fi/uutiset/uudistus_tuo_tabletit_ja_tietokoneet_eskariin_pikkulasten_mediakasvatus_on_pian_pakollista/7765358" data-url="http://yle.fi/uutiset/7765358"></a>
+</li>
+</ul>
+</footer>
+<section class="comments teaser">
+<header>
+<h1>
+Keskustele uutisesta
+<span>69 kommenttia</span>
+</h1>
+<p>
+Alle kouluikäisille aletaan opettaa osana esiopetusta erilaisten laitteiden käyttöä. Onko viestintäteknologian käytön opetus pikkulapsille tarpeellista? Minkäikäinen saa pelata digitaalisia pelejä? </p>
+<a href="http://yle.fi/uutiset/ota_kantaa_milloin_lapsi_on_tarpeeksi_vanha_kayttamaan_tablettia/7768083" class="button">
+Siirry keskusteluun
+</a>
+</header>
+</section>
+<section class="leiki-more-on-this-topic" style="display: none" data-leiki-items="5" data-leiki-target="http://yle.fi/uutiset/uudistus_tuo_tabletit_ja_tietokoneet_eskariin_pikkulasten_mediakasvatus_on_pian_pakollista/7765358" data-leiki-wname="yleuutiset1"></section>
+<section class="recents-on-this-topic " data-comscore-area="aiheen_tuoreimmat">
+<h1>
+Tuoreimmat aiheesta:
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+</h1>
+<article>
+<time datetime="2015-01-30T17:05:29+02:00">17:05</time>
+<h1>
+<a href="http://yle.fi/uutiset/vaalikampanjat_karkaamassa_kasista__ratkaiseeko_raha_lapipaasyn/7772320" >
+Vaalikampanjat karkaamassa käsistä – ratkaiseeko raha läpipääsyn?
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2015-01-30T17:01:12+02:00">17:01</time>
+<h1>
+<a href="http://yle.fi/uutiset/keslan_tulos_romahti__voittoa_puolet_vahemman_kuin_edellisvuonna/7771492" >
+Keslan tulos romahti – voittoa puolet vähemmän kuin edellisvuonna
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2015-01-30T16:58:10+02:00">16:58</time>
+<h1>
+<a href="http://yle.fi/uutiset/stubb_neuvottelut_datakeskuksesta_jatkuvat/7772337" >
+Stubb: Neuvottelut datakeskuksesta jatkuvat
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2015-01-30T16:58:03+02:00">16:58</time>
+<h1>
+<a href="http://yle.fi/uutiset/laivan_saarto_jatkuu_kotkassa__miehet_toissa_mutta_he_kieltaytyvat_toista/7771851" >
+Laivan saarto jatkuu Kotkassa – &#034;Miehet töissä, mutta he kieltäytyvät töistä&#034;
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2015-01-30T16:57:43+02:00">16:57</time>
+<h1>
+<a href="http://yle.fi/uutiset/perussuomalaisten_nuorten_avustusmaara_tuplaantui/7772200" >
+Perussuomalaisten Nuorten avustusmäärä tuplaantui
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2015-01-30T16:45:16+02:00">16:45</time>
+<h1>
+<a href="http://yle.fi/uutiset/sahkovikoja_on_saatu_korjattua_meri-lapissa/7772293" >
+Sähkövikoja on saatu korjattua Meri-Lapissa
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2015-01-30T16:38:41+02:00">16:38</time>
+<h1>
+<a href="http://yle.fi/uutiset/vakuutus_ei_korvaa_urheilijat_vailla_tiloja__palloiluhallin_romahdus_sapettaa/7772080" >
+Vakuutus ei korvaa, urheilijat vailla tiloja – palloiluhallin romahdus sapettaa
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2015-01-30T16:35:57+02:00">16:35</time>
+<h1>
+<a href="http://yle.fi/uutiset/ilmaiset_koululaiskyydit_saavat_varovaista_kannatusta/7772203" >
+Ilmaiset koululaiskyydit saavat varovaista kannatusta
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2015-01-30T16:25:14+02:00">16:25</time>
+<h1>
+<a href="http://yle.fi/uutiset/ita-suomen_kouluun_ennatysmaara_hakijoita/7771723" >
+Itä-Suomen kouluun ennätysmäärä hakijoita
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2015-01-30T16:24:27+02:00">16:24</time>
+<h1>
+<a href="http://yle.fi/uutiset/poliisi_varoittaa_synteettisesta_kannabiksesta__vie_kayttajan_sairaalaan/7772189" >
+Poliisi varoittaa synteettisestä kannabiksesta – vie käyttäjän sairaalaan
+</a>
+</h1>
+</article>
+</section>
+
+<!--googleoff: index-->
+<section class="most-popular-on-this-topic " data-comscore-area="aiheen_luetuimmat">
+<h1>
+Uutisten viikon luetuimmat
+</h1>
+<article>
+<p class="most-popular-count">
+1
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+<time datetime="2015-01-29T06:34:49+02:00">
+29.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/lastenpsykiatri_jari_sinkkonen_antaa_piutpaut_kasvatusvinkeille/7764463" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/kotimaa/article7769104.ece/ALTERNATES/w120h68/Jari+Sinkkonen+28.1.2015" alt="Jari Sinkkonen " />
+</figure>
+<h1>
+Lastenpsykiatri Jari Sinkkonen antaa piutpaut kasvatusvinkeille
+</h1>
+<p>
+Opaskirjat ja niksit voi nakata nurkkaan. Jokainen lapsi on ainutkertainen. Se mikä sopii yhdelle, voi olla liikaa toiselle, sanoo lastenpsykiatri.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+2
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+<time datetime="2015-01-28T12:24:54+02:00">
+28.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/koululaiset_saavat_kulkea_bussilla_ilmaiseksi_pieksamaella__toi_kaupungille_yllatyssaastot/7765562" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/etela-savo/article7765554.ece/ALTERNATES/w120h68/paikallisbussi+Pieks%C3%A4m%C3%A4ki" alt="Paikallisbussi Pieksämäellä" />
+</figure>
+<h1>
+Koululaiset saavat kulkea bussilla ilmaiseksi Pieksämäellä – toi kaupungille yllätyssäästöt </h1>
+<p>
+Pieksämäen paikallisliikenteen valtakunnallisesti poikkeuksellinen kokeilu on ollut menestys. Sama olisi mahdollista useissa Suomen pikkukaupungeissa.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+3
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+<time datetime="2015-01-29T06:23:51+02:00">
+29.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/nakokulma_latteaidit_kuriin/7767273" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/a-studio/article7495363.ece/ALTERNATES/w120h68/269_Anne+Moilanen_DSC4180_originaali.JPG" alt="Anne Moilanen." />
+</figure>
+<h1>
+Näkökulma: Latteäidit kuriin
+</h1>
+<p>
+Päivähoito-oikeuden rajoituksella halutaan kurittaa pikkuvauvojen äitejä, jotka eivät poliitikkojen mielestä ilmeisesti ole vielä tarpeeksi kovilla, kirjoittaa A-studion toimittaja Anne Moilanen.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+4
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+<time datetime="2015-01-26T13:25:18+02:00">
+26.1.
+</time>
+<span class="comments-count basic-icon">49</span>
+</span>
+<a href="http://yle.fi/uutiset/professori_tyrmaa_vanhat_opit__liha_kannattaa_heittaa_pannulle_suoraan_jaakaapista/7760717" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/ulkomaat/article7291219.ece/ALTERNATES/w120h68/punainen+liha+pihvi+kauppa+%28Yhdysvaltalaistutkimuksen+mukaan+runsas+lihansy%C3%B6nti+kasvatti+naisten+rintasy%C3%B6p%C3%A4riski%C3%A4%29.jpg" alt="Naudanlihaa kaupan myyntitiskillä." />
+</figure>
+<h1>
+Professori tyrmää vanhat opit – liha kannattaa heittää pannulle suoraan jääkaapista
+</h1>
+<p>
+Elintarvikekehityksen tutkimusprofessori Anu Hopia esittelee blogissaan tutkimustuloksia, joiden mukaan lihaa ei kannata nostaa huoneenlämpöön ennen paistamista. Kylmänä kypsennetty liha koettiin testissä selvästi mehevämpänä kuin huonelämpöisenä kypsennetty.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+5
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/terveys/">Terveys</a>
+<time datetime="2015-01-27T14:00:58+02:00">
+27.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/putkirulla_on_koyhan_miehen_hieroja__kireys_ei_olekaan_lihaksissa_vaan_kehon_kudoksissa/7762717" class="autoplay " >
+<figure class="max-120">
+<span class="media">
+<img src="http://img.yle.fi/uutiset/etela-savo/article7762775.ece/ALTERNATES/w120h68/Liikunnanohjaaja+Saara+Kokko.JPG" alt="Video: Liikunnanohjaaja Saara Kokko näyttää, miten putkirullalla hierotaan kehon lihakset." />
+<span class="play"></span>
+<figcaption>
+<span class="basic-icon">
+05:29
+</span>
+</figcaption>
+</span>
+</figure>
+<h1>
+Putkirulla on köyhän miehen hieroja – kireys ei olekaan lihaksissa vaan kehon kudoksissa
+</h1>
+<p>
+Putkirullat ovat viimeisen vuoden aikana valloittaneet suomalaiset liikuntakeskukset ja kuntosalit. Kovan rullan päällä liukuminen lievittää lihaskalvokireyttä ja parantaa siten lihasten liikkuvuutta. </p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+6
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+<time datetime="2015-01-28T17:11:32+02:00">
+28.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/lehti_mokasi__julkaisi_raikean_kuolinilmoituksen_vainaja_tuskin_haluaisi_tulla_muistetuksi_nain/7766845" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/kymenlaakso/article7766812.ece/ALTERNATES/w120h68/Ankkuri+lehti+kaupunkilehti.jpg" alt="kaupunkilehti Ankkurin kansi" />
+</figure>
+<h1>
+Lehti mokasi – julkaisi räikeän kuolinilmoituksen: &#034;Vainaja tuskin haluaisi tulla muistetuksi näin&#034;
+</h1>
+<p>
+Kotkan seudulla ilmestyvä kaupunkilehti Ankkuri julkaisi uudessa numerossaan kuolinilmoituksen, jonka muistovärssyssä syytetään sairaalaa potilaan kuolemasta.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+7
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+<time datetime="2015-01-25T09:39:51+02:00">
+25.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/koiranomistaja_tama_yksinkertainen_vinkki_helpottaa_lenkkeilya_talvella/7735179" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/lahti/article7756015.ece/ALTERNATES/w120h68/koira+tassu+anturat+lumipaakku" alt="Ihminen poistaa lumipaakkua koiran tassusta. " />
+</figure>
+<h1>
+Koiranomistaja, tämä yksinkertainen vinkki helpottaa lenkkeilyä talvella
+</h1>
+<p>
+Koiran tassunpohjaan kertyvä lumipaakku tekee kipeää ja ärsyttää ihoa. Myös suolaus ja kurakelit rasittavat tassuja. Muutamalla vinkillä teet lemmikkisi talviulkoilusta astetta mukavampaa. </p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+8
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/ulkomaat/">Ulkomaat</a>
+<time datetime="2015-01-26T18:14:45+02:00">
+26.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/andromedan_galaksista_julkaistiin_tarkin_kuva_ikina__kuin_ranta_josta_erottuu_jokainen_hiekanjyva_video/7761967" class="autoplay " >
+<figure class="max-120">
+<span class="media">
+<img src="http://img.yle.fi/uutiset/tiede/article7761938.ece/ALTERNATES/w120h68/Hubble+Andromeda+galaksi+hs-2015-02-a-xlarge_web.jpg" alt="Video: Andromeda galaksi." />
+<span class="play"></span>
+<figcaption>
+<span class="basic-icon">
+00:40
+</span>
+</figcaption>
+</span>
+</figure>
+<h1>
+Andromedan galaksista julkaistiin tarkin kuva ikinä – &#034;Kuin ranta, josta erottuu jokainen hiekanjyvä&#034; (video)
+</h1>
+<p>
+Kuva on koostettu Maan kiertoradalla olevan avaruusteleskooppi Hubblen ottamista kuvista.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+9
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/politiikka/">Politiikka</a>
+<time datetime="2015-01-29T12:00:02+02:00">
+29.1.
+</time>
+<span class="comments-count basic-icon">173</span>
+</span>
+<a href="http://yle.fi/uutiset/kokoomus_romahti_kolmoseksi/7767805" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/politiikka/article7768115.ece/ALTERNATES/w120h68/29_1_ON+Puoluekannatus.png" alt="Puoluekannatusarviot -grafiikka." />
+</figure>
+<h1>
+Kokoomus romahti kolmoseksi
+</h1>
+<p>
+Keskusta jatkaa ylivoimaisena ykkösenä, kun taas kokoomuksen kannatus syöksyy.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+10
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/terveys/">Terveys</a>
+<time datetime="2015-01-21T06:15:58+02:00">
+21.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/luuletko_olevasi_alkoholin_kohtuukayttaja__laakari_romuttaa_yleisen_harhaluulon/7748663" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/pohjois-karjala/article7737090.ece/ALTERNATES/w120h68/Matti+Reinikainen%2C+l%C3%A4%C3%A4k%C3%A4ri%2C+teho-osasto%2C+PKSSK%2C+ylil%C3%A4%C3%A4k%C3%A4ri+140115AR.JPG" alt="Matti Reinikainen." />
+</figure>
+<h1>
+Luuletko olevasi alkoholin kohtuukäyttäjä? – lääkäri romuttaa yleisen harhaluulon
+</h1>
+<p>
+Monet ajattelevat juovansa alkoholia normaalin määrän, kertoo joensuulainen tehohoidon ylilääkäri. Tarkemmin asiaa potilailta kysyttäessä selviää, että viikon aikana voi kulua litroittain alkoholijuomia. Kaikki eivät myöskään tunnu tietävän, että juomisen riskirajat eivät ole turvarajoja.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+11
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+<time datetime="2015-01-27T18:27:55+02:00">
+27.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/venalaislehti_matkailijoilta_vaaditaan_maanantaista_lahtien_yksityiskohtaiset_vierailutiedot/7764437" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/kotimaa/article7718504.ece/ALTERNATES/w120h68/LKS+20150102++ven%C3%A4j%C3%A4+raja+passi+nuijamaa+passi+matkailu.jpg" alt="Venäläisturisti Nuijamaan rajanylityspaikalla perjantaina 11. tammikuuta 2013." />
+</figure>
+<h1>
+Venäläislehti: Matkailijoilta vaaditaan maanantaista lähtien yksityiskohtaiset vierailutiedot
+</h1>
+<p>
+Lehden mukaan määräykset astuisivat voimaan jo ensi maanantaina. Suomen ulkoministeriöllä ei ole virallista tietoa uusista määräyksistä.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+12
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+<time datetime="2015-01-23T07:14:41+02:00">
+23.1.
+</time>
+<span class="comments-count basic-icon">242</span>
+</span>
+<a href="http://yle.fi/uutiset/koulu_tappoi_monelta_liikuntakipinan_loppuiaksi_en_pysty_ryhmaliikuntaan_alkaa_ahdistaa_ja_itkettaa/7753870" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/pohjois-karjala/article5981967.ece/ALTERNATES/w120h68/Koululiikunta+liikuntasali+jumppasali+Karsikko+Joensuu+091209+HH" alt="Koulun tyhjä juhla- ja liikuntasali, jossa kiipeilyköysiä ja ja renkaita." />
+</figure>
+<h1>
+Näin keskusteltiin:
+Koulu tappoi monelta liikuntakipinän loppuiäksi: &#034;En pysty ryhmäliikuntaan, alkaa ahdistaa ja itkettää&#034;
+</h1>
+<p>
+Onko liikunta pakkopulla, elämäntapa vai harrastus -keskusteluun vastanneissa on paljon ilokseen liikkuvia tai hyötyliikunnan puolesta puhujia. Suhteessa suuri osuus kertoo kuitenkin, että into liikkumiseen lyötiin lattian rakoon koulussa tamburiinin säestyksellä.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+13
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/ulkomaat/">Ulkomaat</a>
+<time datetime="2015-01-25T15:36:03+02:00">
+25.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/mariupolin_isku_tallentui_kojelautakameralle__video/7759550" class="autoplay " >
+<figure class="max-120">
+<span class="media">
+<img src="http://img.yle.fi/uutiset/ulkomaat/article7759562.ece/ALTERNATES/w120h68/25_1+Ukraina+Mariupol+isku+kojelautakame.jpg" alt="Video: Kojelautalkamerakuva." />
+<span class="play"></span>
+<figcaption>
+<span class="basic-icon">
+00:21
+</span>
+</figcaption>
+</span>
+</figure>
+<h1>
+Mariupolin isku tallentui kojelautakameralle – video
+</h1>
+<p>
+Mariupolin isku yllätti täysin myös itäukrainalaiskaupungin autoilijat. Iskun taltioineen auton kuljettaja välttyi vain täpärästi rakettitulelta peruuttamalla pois paikalta.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+14
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+<time datetime="2015-01-27T08:18:56+02:00">
+27.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/tuntemattomaan_sotilaaseen_tehtiin_merkittava_muutos__edes_vaino_linna_ei_halunnut_hyvaksya_tata/7748218" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/etela-karjala/article7756156.ece/ALTERNATES/w120h68/Tuntematon+sotilas.JPG" alt="Tuntematon sotilas -teos" />
+</figure>
+<h1>
+Tuntemattomaan sotilaaseen tehtiin merkittävä muutos – edes Väinö Linna ei halunnut hyväksyä tätä
+</h1>
+<p>
+Kielitieteilijöiden mielestä Väinö Linnan Tuntematon sotilas -romaanissa oleva murre ei ollut tarpeeksi puhdasta. Niinpä Tuntemattoman sotilaan murreosuudet muokattiin uusiksi teoksen kymmenenteen painokseen.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+15
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/kulttuuri/">Kulttuuri</a>
+<time datetime="2015-01-24T10:26:26+02:00">
+24.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/edorf__rapparin_taistelu_syopaa_vastaan/7723103" class="autoplay " >
+<figure class="max-120">
+<span class="media">
+<img src="http://img.yle.fi/uutiset/kulttuuri/article7749472.ece/ALTERNATES/w120h68/edorf.jpg" alt="Video: Erik &#034;Eki&#034; Ingebrigtsen" />
+<span class="play"></span>
+<figcaption>
+<span class="basic-icon">
+12:30
+</span>
+</figcaption>
+</span>
+</figure>
+<h1>
+Edorf – räppärin taistelu syöpää vastaan
+</h1>
+<p>
+Muutettuaan Ivalosta Tampereelle Edorf löysi musiikillisen kertojan äänensä ja elämänsä rakkauden. Sitten hän sairastui syöpään. Joulukuussa sairastetun aivoverenvuodon jälkeen selvisi, että miehen aivoissa on useita kasvaimia ja keuhkoissa etäpesäkkeitä. Nyt Edorf taistelee sairautta vastaan ja luo musiikkia – kenties enemmän kuin koskaan.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+16
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/ulkomaat/">Ulkomaat</a>
+<time datetime="2015-01-27T20:11:19+02:00">
+27.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/mormonit_tuomitsevat_homojen_syrjinnan_ja_vaativat_itselleen_oikeutta_syrjia_homoja/7764535" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/ulkomaat/article7764584.ece/ALTERNATES/w120h68/USA+Yhdysvallat+Salt+Lake+City+mormonit+uskonto+uskonnot+EPA+h_02666707.jpg" alt="Ihmisiä kävelee temppelikirkon ympärillä Yhdysvaltain Salt Lake Cityssa 2. huhtikuuta 2011." />
+</figure>
+<h1>
+Mormonit tuomitsevat homojen syrjinnän ja vaativat itselleen oikeutta syrjiä homoja
+</h1>
+<p>
+Yhdysvaltain mormonikirkon johdon mukaan homojen irtisanominen seksuaalisen suuntautumisen perusteella on väärin, mutta samaan aikaan kirkko haluaa pitää itsellään oikeuden irtisanoa työntekijänsä, joka on seksisuhteessa samaa sukupuolta olevan kanssa.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+17
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/ulkomaat/">Ulkomaat</a>
+<time datetime="2015-01-26T01:42:53+02:00">
+26.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/historiallisen_raju_lumimyrsky_iskemassa_yhdysvaltain_itarannikolle/7760152" class="autoplay " >
+<figure class="max-120">
+<span class="media">
+<img src="http://img.yle.fi/uutiset/ulkomaat/article7760544.ece/ALTERNATES/w120h68/26_1_2015+USA+Yhdysvallat+lumimyrsky+lumilapio.jpg" alt="Video: Mies ostamassa lumilapiota supermarketissa." />
+<span class="play"></span>
+<figcaption>
+<span class="basic-icon">
+Video
+</span>
+</figcaption>
+</span>
+</figure>
+<h1>
+&#034;Historiallisen raju lumimyrsky&#034; iskemässä Yhdysvaltain itärannikolle
+</h1>
+<p>
+Yhdysvaltain itärannikkoa uhkaa kovin myrsky sitten mittaushistorian, joka alkaa vuodesta 1872. Rajuimmin myrsky runtelee maan itäisiä ja koillisia alueita aina Kanadan rajalle saakka. </p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+18
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/ulkomaat/">Ulkomaat</a>
+<time datetime="2015-01-27T13:48:13+02:00">
+27.1.
+</time>
+</span>
+<a href="http://yle.fi/uutiset/nopeutettu_video_nayttaa_kuinka_new_yorkin_times_square_peittyi_lumeen/7763422" class="autoplay " >
+<figure class="max-120">
+<span class="media">
+<img src="http://img.yle.fi/uutiset/ulkomaat/article7763427.ece/ALTERNATES/w120h68/USA+lumimyrsky.jpg" alt="Video: Times Square lumisateessa." />
+<span class="play"></span>
+<figcaption>
+<span class="basic-icon">
+01:21
+</span>
+</figcaption>
+</span>
+</figure>
+<h1>
+Nopeutettu video näyttää, kuinka New Yorkin Times Square peittyi lumeen
+</h1>
+<p>
+Uutistoimisto Reutersin välittämä video New Yorkin Times Squarelta näyttää, kuinka Koillis-Yhdysvaltoihin saapuva talvimyrsky verhoaa kadut lumella.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+19
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+<time datetime="2015-01-23T06:15:22+02:00">
+23.1.
+</time>
+<span class="comments-count basic-icon">205</span>
+</span>
+<a href="http://yle.fi/uutiset/omistusasuminen_saattaa_lisata_tyottomyytta__katso_kuinka_paljon_omalla_alueellasi_on_vuokra-asumista/7753330" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/kotimaa/article7423908.ece/ALTERNATES/w120h68/21_8+asuminen+Helsinki+katajanokka+kerrostalo.jpg" alt="kerrostaloasunto." />
+</figure>
+<h1>
+Omistusasuminen saattaa lisätä työttömyyttä – katso kuinka paljon omalla alueellasi on vuokra-asumista
+</h1>
+<p>
+Etlan tutkimusjohtaja Mika Maliranta haluaisi saada suomalaiset asumaan vuokralla, jotta työmarkkinat vilkastuisivat. Tutkimusten mukaan runsas omistusasuminen lisää työttömyyttä. Yle Uutisten laskurista voit katsoa, kuinka paljon asuinalueellasi on omistus- ja vuokra-asumista.
+</p>
+</a>
+</article>
+<article>
+<p class="most-popular-count">
+20
+</p>
+<span class="meta">
+<a href="http://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+<time datetime="2015-01-30T06:39:34+02:00">
+klo 6:39
+</time>
+</span>
+<a href="http://yle.fi/uutiset/kodinkonekorjaaja_lyo_hanskat_tiskiin_yrittajan_euro_on_10_senttia/7768706" >
+<figure class="max-120">
+<img src="http://img.yle.fi/uutiset/perameri/article7768736.ece/ALTERNATES/w120h68/Luukkonen+Arto+lopettaa+yrityksens%C3%A4" alt="Arto Luukkonen on ollut alalla 35 vuotta" />
+</figure>
+<h1>
+Kodinkonekorjaaja lyö hanskat tiskiin: &#034;yrittäjän euro on 10 senttiä&#034;
+</h1>
+<p>
+Nykyaikaisten kodinkoneiden lyhyt käyttöikä ja halpa hinta ovat saaneet monet kodinkoneita korjaavat yritykset ahtaalle. Toisaalta asiakkaita olisi, mutta katetta korjaamisesta ei nykyisellään jää tarpeeksi elämistä varten. Kemi–Tornio-alueella kodinkoneita 35 vuoden ajan korjannut Arto Luukkonen on päättänyt lopettaa yritystoimintansa.
+</p>
+</a>
+</article>
+</section>
+<!--googleon: index-->
+
+</article>
+<!--googleoff: index-->
+<div class="mini-frontpage">
+<section class="liftup-headlines " data-comscore-area="paauutiset">
+<h1>Pääuutiset</h1>
+
+
+<article class="with-image">
+<span class="meta">
+<a href="http://yle.fi/uutiset/talous/">Talous</a>
+<time datetime="2015-01-30T17:57:02+02:00">
+klo 17:57
+</time>
+</span>
+<a href="http://yle.fi/uutiset/hallituspalkkion_kohtuullisuuden_maarittelyn_lyhyt_oppimaara/7772472" >
+<h1>
+Hallituspalkkion kohtuullisuuden määrittelyn lyhyt oppimäärä
+</h1>
+<figure class="max-320">
+<img src="http://img.yle.fi/uutiset/news/article7301578.ece/ALTERNATES/w320h180/10-06-14_p%C3%B6rssi+nasdaq+omx_eng.jpg" alt="Helsinki stock exchange exterior." />
+</figure>
+<p>
+Viime päivien keskustelussa pörssiyhtiöiden hallitusjäsenten palkkioista on kysytty niiden kohtuullisuuden perään. Yle Uutisten taloustoimittaja Aapo Parviainen rakensi mittarin, jossa kohtuullisuudelle saatiin sitä kuvaava K-luku.
+</p>
+</a>
+</article>
+<article >
+<span class="meta">
+<a href="http://yle.fi/uutiset/ulkomaat/">Ulkomaat</a>
+<time datetime="2015-01-30T16:42:41+02:00">
+klo 16:42
+</time>
+</span>
+<a href="http://yle.fi/uutiset/suomen_armeijan_kaynyt_carolus_sotii_ita-ukrainassa__en_voinut_jaada_toimettomaksi/7772288" >
+<h1>
+Suomen armeijan käynyt Carolus sotii Itä-Ukrainassa – &#034;En voinut jäädä toimettomaksi&#034;
+</h1>
+<p>
+Suomen ja Ruotsin kaksoiskansalaisuuden omaava 26-vuotias mies liittyi Ukrainan hallinnon puolella taistelevaan Asovan pataljoonaan elokuussa, kertoo Dagens Nyheter -sanomalehti.
+</p>
+</a>
+</article>
+<article >
+<span class="meta">
+<a href="http://yle.fi/uutiset/talous/">Talous</a>
+<time datetime="2015-01-30T13:13:10+02:00">
+klo 13:13
+</time>
+</span>
+<a href="http://yle.fi/uutiset/teemme_juttua_paljonko_maksat_marginaalia_asuntolainastasi/7770667" >
+<h1>
+Teemme juttua: Paljonko maksat marginaalia asuntolainastasi?
+</h1>
+<p>
+Pankkien myöntämien asuntolainojen marginaalikorot voivat vaihdella paljon asiakkaasta riippuen. Pankit eivät paljasta tarkkoja lukuja marginaaleistaan, Suomen Pankin laskema keskimääräinen asuntolainamarginaali oli loppuvuonna 1,5 prosentin tuntumassa. Yle Uutisten taloustoimitus kysyy marginaalien tasosta nyt suoraan asuntovelallisilta. Vastaa nopeaan kyselyyn, millainen marginaali sinun asuntolainallasi on.
+</p>
+</a>
+</article>
+<article >
+<span class="meta">
+<a href="http://yle.fi/uutiset/politiikka/">Politiikka</a>
+<time datetime="2015-01-30T12:58:25+02:00">
+klo 12:58
+</time>
+</span>
+<a href="http://yle.fi/uutiset/vapaavuori_jos_tulen_valituksi_euroopan_investointipankkiin_en_ole_ehdolla_eduskuntavaaleissa/7771131" >
+<h1>
+Vapaavuori: Jos tulen valituksi Euroopan investointipankkiin, en lähde eduskuntavaaleihin
+</h1>
+<p>
+Elinkeinoministerin mukaan asian ratkaisuun menee vielä ainakin joitakin viikkoja.
+</p>
+</a>
+</article>
+<article >
+<span class="meta">
+<a href="http://yle.fi/saa/artikkelit/">Ajankohtaista säästä</a>
+<time datetime="2015-01-30T17:46:18+02:00">
+klo 17:46
+</time>
+</span>
+<a href="http://yle.fi/saa/viikonloppuna_etelaan_lumipyrya_uutta_lunta_jopa_20_cm/7772529" class="autoplay " >
+<h1>
+Viikonloppuna etelään lumipyryä, uutta lunta jopa 20 cm
+</h1>
+<p>
+Sateiden painopiste vaihtuu. Sää poutaantuu pohjoisessa, etelään leviää runsaita lumi- ja räntäsateita.
+</p>
+</a>
+</article>
+
+</section>
+<section class="liftup-recommends recommends-leiki" data-leiki-target="http://yle.fi/uutiset/uudistus_tuo_tabletit_ja_tietokoneet_eskariin_pikkulasten_mediakasvatus_on_pian_pakollista/7765358" data-leiki-wname="uutiset2"></section>
+</div>
+<div class="permanent">
+<section class="liftup-most-popular"
+data-vr-zone="Luetuimmat">
+<h1>
+Luetuimmat
+</h1>
+<article data-vr-contentbox="">
+<p class="most-popular-count">1</p>
+<h1>
+<a href="http://yle.fi/uutiset/nato_vastaa_venajan_uhkaan_keihaankarkijoukoilla/7771058" >
+Nato vastaa Venäjän uhkaan keihäänkärkijoukoilla
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<p class="most-popular-count">2</p>
+<h1>
+<a href="http://yle.fi/uutiset/kansanedustaja_eero_lehti_ministeri_paatero_ei_ole_tehtaviensa_tasalla/7771681" >
+Kansanedustaja Eero Lehti: &#034;Ministeri Paatero ei ole tehtäviensä tasalla&#034;
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<p class="most-popular-count">3</p>
+<h1>
+<a href="http://yle.fi/uutiset/kodinkonekorjaaja_lyo_hanskat_tiskiin_yrittajan_euro_on_10_senttia/7768706" >
+Kodinkonekorjaaja lyö hanskat tiskiin: &#034;yrittäjän euro on 10 senttiä&#034;
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<p class="most-popular-count">4</p>
+<h1>
+<a href="http://yle.fi/uutiset/lastenpsykiatri_jari_sinkkonen_antaa_piutpaut_kasvatusvinkeille/7764463" >
+Lastenpsykiatri Jari Sinkkonen antaa piutpaut kasvatusvinkeille
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<p class="most-popular-count">5</p>
+<h1>
+<a href="http://yle.fi/uutiset/nakokulma_latteaidit_kuriin/7767273" >
+Näkökulma: Latteäidit kuriin
+</a>
+</h1>
+</article>
+</section>
+
+<section class="liftup-list " data-vr-zone="Tuoreimmat" data-comscore-area="julkaisun_tuoreimmat">
+<h1>
+Tuoreimmat
+</h1>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T18:05:06+02:00">18:05</time>
+<h1>
+<a href="http://yle.fi/uutiset/mitt_romney_ei_pyri_yhdysvaltain_presidentiksi/7772551" >
+Mitt Romney ei pyri Yhdysvaltain presidentiksi
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T17:57:02+02:00">17:57</time>
+<h1>
+<a href="http://yle.fi/uutiset/hallituspalkkion_kohtuullisuuden_maarittelyn_lyhyt_oppimaara/7772472" >
+Hallituspalkkion kohtuullisuuden määrittelyn lyhyt oppimäärä
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T17:56:25+02:00">17:56</time>
+<h1>
+<a href="http://yle.fi/uutiset/kylateatteri_rakensi_lavasteeksi_jattimaisen_paperikoneen/7771371" >
+Kyläteatteri rakensi lavasteeksi jättimäisen paperikoneen
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T17:46:18+02:00">17:46</time>
+<h1>
+<a href="http://yle.fi/saa/viikonloppuna_etelaan_lumipyrya_uutta_lunta_jopa_20_cm/7772529" class="autoplay " >
+Viikonloppuna etelään lumipyryä, uutta lunta jopa 20 cm
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T17:46:04+02:00">17:46</time>
+<h1>
+<a href="http://yle.fi/uutiset/verokarhun_viime_vuoden_saalis_runsas_miljardi_euroa_lisaa_sakkiin/7772459" >
+Verokarhun viime vuoden saalis: Runsas miljardi euroa lisää säkkiin
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T17:24:33+02:00">17:24</time>
+<h1>
+<a href="http://yle.fi/uutiset/johanna_valittiin_ensimmaista_kertaa_tyovaen_nayttamopaivien_lavalle_ajattelin_etta_niilla_on_tullut_joku_virhe/7772020" >
+Johanna valittiin ensimmäistä kertaa Työväen Näyttämöpäivien lavalle: &#034;Ajattelin, että niillä on tullut joku virhe&#034;
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T17:17:40+02:00">17:17</time>
+<h1>
+<a href="http://yle.fi/uutiset/euroryhman_puheenjohtaja_kreikkalaisille_pitakaa_kiinni_sitoumuksistanne/7772428" >
+Euroryhmän puheenjohtaja kreikkalaisille: Pitäkää kiinni sitoumuksistanne
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T17:05:29+02:00">17:05</time>
+<h1>
+<a href="http://yle.fi/uutiset/vaalikampanjat_karkaamassa_kasista__ratkaiseeko_raha_lapipaasyn/7772320" >
+Vaalikampanjat karkaamassa käsistä – ratkaiseeko raha läpipääsyn?
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T17:01:12+02:00">17:01</time>
+<h1>
+<a href="http://yle.fi/uutiset/keslan_tulos_romahti__voittoa_puolet_vahemman_kuin_edellisvuonna/7771492" >
+Keslan tulos romahti – voittoa puolet vähemmän kuin edellisvuonna
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:58:10+02:00">16:58</time>
+<h1>
+<a href="http://yle.fi/uutiset/stubb_neuvottelut_datakeskuksesta_jatkuvat/7772337" >
+Stubb: Neuvottelut datakeskuksesta jatkuvat
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:58:03+02:00">16:58</time>
+<h1>
+<a href="http://yle.fi/uutiset/laivan_saarto_jatkuu_kotkassa__miehet_toissa_mutta_he_kieltaytyvat_toista/7771851" >
+Laivan saarto jatkuu Kotkassa – &#034;Miehet töissä, mutta he kieltäytyvät töistä&#034;
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:57:53+02:00">16:57</time>
+<h1>
+<a href="http://yle.fi/uutiset/deflaatio_syvenee_euroalueella/7772355" >
+Deflaatio syvenee euroalueella
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:57:43+02:00">16:57</time>
+<h1>
+<a href="http://yle.fi/uutiset/perussuomalaisten_nuorten_avustusmaara_tuplaantui/7772200" >
+Perussuomalaisten Nuorten avustusmäärä tuplaantui
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:45:16+02:00">16:45</time>
+<h1>
+<a href="http://yle.fi/uutiset/sahkovikoja_on_saatu_korjattua_meri-lapissa/7772293" >
+Sähkövikoja on saatu korjattua Meri-Lapissa
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:42:41+02:00">16:42</time>
+<h1>
+<a href="http://yle.fi/uutiset/suomen_armeijan_kaynyt_carolus_sotii_ita-ukrainassa__en_voinut_jaada_toimettomaksi/7772288" >
+Suomen armeijan käynyt Carolus sotii Itä-Ukrainassa – &#034;En voinut jäädä toimettomaksi&#034;
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:38:45+02:00">16:38</time>
+<h1>
+<a href="http://yle.fi/uutiset/santas_hotels_-ketjulle_huoneistoja_saanan_kupeeseen/7772281" >
+Santa&#039;s Hotels -ketjulle huoneistoja Saanan kupeeseen
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:38:41+02:00">16:38</time>
+<h1>
+<a href="http://yle.fi/uutiset/vakuutus_ei_korvaa_urheilijat_vailla_tiloja__palloiluhallin_romahdus_sapettaa/7772080" >
+Vakuutus ei korvaa, urheilijat vailla tiloja – palloiluhallin romahdus sapettaa
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:35:57+02:00">16:35</time>
+<h1>
+<a href="http://yle.fi/uutiset/ilmaiset_koululaiskyydit_saavat_varovaista_kannatusta/7772203" >
+Ilmaiset koululaiskyydit saavat varovaista kannatusta
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:25:14+02:00">16:25</time>
+<h1>
+<a href="http://yle.fi/uutiset/ita-suomen_kouluun_ennatysmaara_hakijoita/7771723" >
+Itä-Suomen kouluun ennätysmäärä hakijoita
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:24:27+02:00">16:24</time>
+<h1>
+<a href="http://yle.fi/uutiset/poliisi_varoittaa_synteettisesta_kannabiksesta__vie_kayttajan_sairaalaan/7772189" >
+Poliisi varoittaa synteettisestä kannabiksesta – vie käyttäjän sairaalaan
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:19:50+02:00">16:19</time>
+<h1>
+<a href="http://yle.fi/uutiset/talouslinjauksia_kreikan_uudelta_vallalta_kanadan_kullankaivajat_eivat_tervetulleita/7772163" >
+Talouslinjauksia Kreikan uudelta vallalta: Kanadan kullankaivajat eivät tervetulleita
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:14:35+02:00">16:14</time>
+<h1>
+<a href="http://yle.fi/uutiset/yhdeksankymppiset_sisarukset_parasta_on_saada_asua_kotona/7764172" >
+Yhdeksänkymppiset sisarukset: Parasta on saada asua kotona!
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:10:03+02:00">16:10</time>
+<h1>
+<a href="http://yle.fi/uutiset/mcdonaldsin_suunnitelmat_synnyttivat_kiistan_kiinassa/7771892" >
+McDonald&#039;sin suunnitelmat synnyttivät kiistan Kiinassa
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:07:58+02:00">16:07</time>
+<h1>
+<a href="http://yle.fi/uutiset/kauhavan_lentosotakoulun_alueesta_kehitetaan_suurten_massojen_koulutuskeskusta/7771763" >
+Kauhavan lentosotakoulun alueesta kehitetään suurten massojen koulutuskeskusta
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:04:38+02:00">16:04</time>
+<h1>
+<a href="http://yle.fi/uutiset/pippurisumuteiskun_tekijalle_ehdollista_vankeutta/7771993" >
+Pippurisumuteiskun tekijälle ehdollista vankeutta
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:04:28+02:00">16:04</time>
+<h1>
+<a href="http://yle.fi/uutiset/varattuja_kirjoja_ei_voi_enaa_itse_hakea_hyllysta__asiakas_valitti_henkilotietojensa_kaytosta/7771508" >
+Varattuja kirjoja ei voi enää itse hakea hyllystä – asiakas valitti henkilötietojensa käytöstä
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T16:02:38+02:00">16:02</time>
+<h1>
+<a href="http://yle.fi/uutiset/urpilainen_hylkasi_euroopan_investointipankin_pestin__suomen_taloustilanne_on_haastava/7772028" >
+Urpilainen hylkäsi Euroopan Investointipankin pestin – &#034;Suomen taloustilanne on haastava&#034;
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:59:11+02:00">15:59</time>
+<h1>
+<a href="http://yle.fi/uutiset/taksiliitto_kaikki_kyydit_ovat_yhta_arvokkaita/7771856" >
+Taksiliitto: Kaikki kyydit ovat yhtä arvokkaita
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:51:53+02:00">15:51</time>
+<h1>
+<a href="http://yle.fi/uutiset/isis_hyokkasi_kurdien_hallitsemaan_oljykaupunkiin/7771984" >
+Isis hyökkäsi kurdien hallitsemaan öljykaupunkiin
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:45:57+02:00">15:45</time>
+<h1>
+<a href="http://yle.fi/uutiset/ruotsiin_otettavien_pakolaisten_maarasta_on_alettava_keskustella/7766006" >
+&#034;Ruotsiin otettavien pakolaisten määrästä on alettava keskustella&#034;
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:44:59+02:00">15:44</time>
+<h1>
+<a href="http://yle.fi/uutiset/kuvagalleria_kainosteleva_kurre_ja_keikisteleva_saukko/7767474" >
+Kuvagalleria: Kainosteleva kurre ja keikistelevä saukko
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:43:17+02:00">15:43</time>
+<h1>
+<a href="http://yle.fi/uutiset/ita-ukrainan_rauhanneuvottelut_peruttiin_minskissa/7771852" >
+Itä-Ukrainan rauhanneuvottelut peruttiin Minskissä
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:41:43+02:00">15:41</time>
+<h1>
+<a href="http://yle.fi/uutiset/ely_vanhaa_lunta_ei_ehdita_saada_pois_ennen_uutta__teilla_pian_vaarallista/7771782" >
+Ely: Vanhaa lunta ei ehditä saada pois ennen uutta – teillä pian vaarallista
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:40:51+02:00">15:40</time>
+<h1>
+<a href="http://yle.fi/uutiset/ei_sotilaskaan_halua_sotaa/7771312" >
+Ei sotilaskaan halua sotaa
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:39:47+02:00">15:39</time>
+<h1>
+<a href="http://yle.fi/uutiset/ihmissieppaukset_lahi-idassa_suosittu_ja_tuottoisa_elinkeino/7771475" >
+Ihmissieppaukset Lähi-idässä suosittu ja tuottoisa elinkeino
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:38:37+02:00">15:38</time>
+<h1>
+<a href="http://yle.fi/uutiset/poliisi_epailee_elainsuojelurikosta_juvalla__kuusi_hevosta_jouduttu_lopettamaan/7771862" >
+Poliisi epäilee eläinsuojelurikosta Juvalla – kuusi hevosta jouduttu lopettamaan
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:35:33+02:00">15:35</time>
+<h1>
+<a href="http://yle.fi/uutiset/pekka_ervasti_suihkuun_luxemburgiin/7771835" >
+Pekka Ervasti: Suihkuun Luxemburgiin
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:25:17+02:00">15:25</time>
+<h1>
+<a href="http://yle.fi/uutiset/kansanedustaja_eero_lehti_ministeri_paatero_ei_ole_tehtaviensa_tasalla/7771681" >
+Kansanedustaja Eero Lehti: &#034;Ministeri Paatero ei ole tehtäviensä tasalla&#034;
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:24:38+02:00">15:24</time>
+<h1>
+<a href="http://yle.fi/uutiset/toistasataa_paivakotilasta_evakkoon_sisailmaongelmien_takia_joensuussa/7771766" >
+Toistasataa päiväkotilasta evakkoon sisäilmaongelmien takia Joensuussa </a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:23:47+02:00">15:23</time>
+<h1>
+<a href="http://yle.fi/uutiset/ulvila_aloittaa_yt-neuvottelut__tavoitteena_vahentaa_20_tyontekijaa/7771811" >
+Ulvila aloittaa yt-neuvottelut – tavoitteena vähentää 20 työntekijää
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:19:22+02:00">15:19</time>
+<h1>
+<a href="http://yle.fi/urheilu/strandvall_hallitsee_jamin_sprinttiradan/7771773" >
+Strandvall hallitsee Jämin sprinttiradan
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:18:05+02:00">15:18</time>
+<h1>
+<a href="http://yle.fi/uutiset/maistuisiko_minimuna/7766139" class="autoplay " >
+Maistuisiko minimuna?
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:16:06+02:00">15:16</time>
+<h1>
+<a href="http://yle.fi/uutiset/lintuvaen_salaisuus_paljastui_harvinaista_kuningaskalastajaa_piiloteltiin_raumalla/7771447" >
+Lintuväen salaisuus paljastui: Harvinaista kuningaskalastajaa piiloteltiin Raumalla
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:14:26+02:00">15:14</time>
+<h1>
+<a href="http://yle.fi/uutiset/etelan_isot_kaupungit_eivat_herata_kotiseuturakkautta__moni_on_muuttanut_muualta/7771539" >
+Etelän isot kaupungit eivät herätä kotiseuturakkautta – ”Moni on muuttanut muualta”
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T15:07:53+02:00">15:07</time>
+<h1>
+<a href="http://yle.fi/urheilu/kyllonen_omaa_luokkaansa__toinen_perattainen_sprinttimestaruus/7771714" >
+Kyllönen omaa luokkaansa – toinen perättäinen sprinttimestaruus
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T14:59:09+02:00">14:59</time>
+<h1>
+<a href="http://yle.fi/uutiset/kuntien_toimeentulotukikasittely_valvontaan__suurin_osa_lipsuu/7771627" >
+Kuntien toimeentulotukikäsittely valvontaan – suurin osa lipsuu </a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T14:57:47+02:00">14:57</time>
+<h1>
+<a href="http://yle.fi/uutiset/helsingin_vanhat_talot_saavat_hisseja_nyt_kiihtyvaan_tahtiin/7770434" >
+Helsingin vanhat talot saavat hissejä nyt kiihtyvään tahtiin
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T14:55:51+02:00">14:55</time>
+<h1>
+<a href="http://yle.fi/uutiset/talousrikoksista_syytetty_rockpromoottori_tallaista_tama_yrittajan_arki_on/7771390" >
+Talousrikoksista syytetty rockpromoottori: &#034;Tällaista tämä yrittäjän arki on&#034;
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T14:47:54+02:00">14:47</time>
+<h1>
+<a href="http://yle.fi/uutiset/kaupunkiluonto_voi_olla_monella_tapaa_suojeltua/7770951" >
+Kaupunkiluonto voi olla monella tapaa suojeltua
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T14:38:34+02:00">14:38</time>
+<h1>
+<a href="http://yle.fi/uutiset/influenssan_huippu_nurkan_takana_keski-pohjanmaalla__isot_koulut_ovat_meidan_varuskuntamme/7770938" >
+Influenssan huippu nurkan takana Keski-Pohjanmaalla – &#034;Isot koulut ovat meidän varuskuntamme&#034;
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T14:34:49+02:00">14:34</time>
+<h1>
+<a href="http://yle.fi/uutiset/ambulanssi_tormasi_henkiloautoon_rovaniemella/7771510" >
+Ambulanssi törmäsi henkilöautoon Rovaniemellä
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T14:21:20+02:00">14:21</time>
+<h1>
+<a href="http://yle.fi/uutiset/putaan_koululaiset_lupaavat_valittaa__tempaisivat_vauhdikkaan_esityksen_vanhuksille/7771081" >
+Putaan koululaiset lupaavat välittää – tempaisivat vauhdikkaan esityksen vanhuksille
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T14:16:49+02:00">14:16</time>
+<h1>
+<a href="http://yle.fi/uutiset/puukauppa_jumissa/7771474" >
+Puukauppa jumissa
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T14:15:33+02:00">14:15</time>
+<h1>
+<a href="http://yle.fi/uutiset/piristynyt_sevettijarven_kyla_taantuu_jalleen/7771182" >
+Piristynyt Sevettijärven kylä taantuu jälleen?
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T14:08:19+02:00">14:08</time>
+<h1>
+<a href="http://yle.fi/uutiset/afrikan_unionin_johtajaksi_90-vuotias_itsevaltias/7771437" >
+Afrikan unionin johtajaksi 90-vuotias itsevaltias
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T14:07:29+02:00">14:07</time>
+<h1>
+<a href="http://yle.fi/uutiset/yritysjohtajat_viitostieta_pitaa_pystya_ajamaan_satasta_lusista_iisalmeen_asti/7771262" >
+Yritysjohtajat: Viitostietä pitää pystyä ajamaan satasta Lusista Iisalmeen asti
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T14:03:13+02:00">14:03</time>
+<h1>
+<a href="http://yle.fi/uutiset/tyoelakeyhtio_ilmarinen_huolissaan_suomen_kasvusta__emme_paase_euroopan_vauhtiin/7771291" >
+Työeläkeyhtiö Ilmarinen huolissaan Suomen kasvusta – &#034;Emme pääse Euroopan vauhtiin&#034;
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T14:02:40+02:00">14:02</time>
+<h1>
+<a href="http://yle.fi/uutiset/varastetun_tavaran_vientiyritys_tyssasi_lansisatamaan/7771351" >
+Varastetun tavaran vientiyritys tyssäsi Länsisatamaan
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:56:53+02:00">13:56</time>
+<h1>
+<a href="http://yle.fi/uutiset/sudesta_ei_ole_vaaraa_lapsille__luontotutkija_metsastajat_lietsovat_susipelkoa/7770934" >
+&#034;Sudesta ei ole vaaraa lapsille&#034; – luontotutkija: Metsästäjät lietsovat susipelkoa
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:56:20+02:00">13:56</time>
+<h1>
+<a href="http://yle.fi/uutiset/ita-ukrainan_taisteluissa_kuollut_noin_30_ihmista__tunnusteluja_maara_jatkaa_minskissa/7771246" >
+Itä-Ukrainan taisteluissa kuollut noin 30 ihmistä – tunnusteluja määrä jatkaa Minskissä
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:55:09+02:00">13:55</time>
+<h1>
+<a href="http://yle.fi/uutiset/ensihoitaja_lentaa_potilaan_luo_turun_meripelastushelikopterin_kyydissa/7770907" >
+Ensihoitaja lentää potilaan luo Turun meripelastushelikopterin kyydissä
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:54:22+02:00">13:54</time>
+<h1>
+<a href="http://yle.fi/uutiset/diskon_kuningas_tapani_ripatti_jaa_elakkeelle_minun_on_aina_taytynyt_tuntea_intohimoa_siihen_mita_teen/7766268" >
+Diskon kuningas Tapani Ripatti jää eläkkeelle: &#034;Minun on aina täytynyt tuntea intohimoa siihen mitä teen&#034;
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:50:28+02:00">13:50</time>
+<h1>
+<a href="http://yle.fi/uutiset/yllatys_venajalta_ohjauskorko_vaihteeksi_alas/7771344" >
+Yllätys Venäjältä: Ohjauskorko vaihteeksi alas
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:49:50+02:00">13:49</time>
+<h1>
+<a href="http://yle.fi/uutiset/pyhiinvaeltaja_etsi_keskiajan_suomessa_yhteytta_korkeimpaan__tai_pelkkaa_seikkailua/7769957" >
+Pyhiinvaeltaja etsi keskiajan Suomessa yhteyttä korkeimpaan – tai pelkkää seikkailua
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:47:16+02:00">13:47</time>
+<h1>
+<a href="http://yle.fi/uutiset/sotkamossa_etsitaan_kuumeisesti_naisia__kunnanhallitukseen/7770943" >
+Sotkamossa etsitään kuumeisesti naisia – kunnanhallitukseen
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:45:02+02:00">13:45</time>
+<h1>
+<a href="http://yle.fi/uutiset/pieksamaen_koululaisten_ilmaisista_bussikyydeista_nousi_kohu__matkijoita_luvassa/7771241" >
+Pieksämäen koululaisten ilmaisista bussikyydeistä nousi kohu – matkijoita luvassa
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:37:22+02:00">13:37</time>
+<h1>
+<a href="http://yle.fi/uutiset/john_kerry_sai_sakot__jatti_lumet_kolaamatta_talonsa_edustalta/7771271" >
+John Kerry sai sakot – jätti lumet kolaamatta talonsa edustalta
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:37:13+02:00">13:37</time>
+<h1>
+<a href="http://yle.fi/uutiset/telemark-laskija_valloittaa_vuoren_japanissa__mukaan_lumivyorypiippari_ja_lapio/7770740" >
+Telemark-laskija valloittaa vuoren Japanissa – mukaan lumivyörypiippari ja lapio
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:36:05+02:00">13:36</time>
+<h1>
+<a href="http://yle.fi/uutiset/israel_ilmoitti_uusista_siirtokunnista_lansirannalle/7771299" >
+Israel ilmoitti uusista siirtokunnista Länsirannalle
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:20:13+02:00">13:20</time>
+<h1>
+<a href="http://yle.fi/uutiset/puolueiden_puheenjohtajat_kohtaavat__seuraa_miten_suomalaiset_kommentoivat/7770654" >
+Puolueiden puheenjohtajat kohtaavat – seuraa, miten suomalaiset kommentoivat
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:20:12+02:00">13:20</time>
+<h1>
+<a href="http://yle.fi/uutiset/bbc_hehkuttaa_nokian_tuhkista_nousevia_yrittajia/7771158" >
+BBC hehkuttaa Nokian tuhkista nousevia yrittäjiä
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:18:51+02:00">13:18</time>
+<h1>
+<a href="http://yle.fi/uutiset/ekokem_vahvisti_tanskalaisyhtion_kaupalla_kertaheitolla_asemiaan_myos_norjassa/7771132" >
+Ekokem vahvisti tanskalaisyhtiön kaupalla kertaheitolla asemiaan myös Norjassa
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:17:09+02:00">13:17</time>
+<h1>
+<a href="http://yle.fi/uutiset/politiikan_karkinimet_mittelevat_oulussa__katso_suora_nettilahetys_taalta_1330_alkaen/7770396" >
+Politiikan kärkinimet mittelevät Oulussa – katso suora nettilähetys täältä 13.30 alkaen
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:15:31+02:00">13:15</time>
+<h1>
+<a href="http://yle.fi/uutiset/acdc_keraamassa_kesan_suurimman_konserttiyleison_kantolan_rokkipuistoon/7771201" >
+AC/DC keräämässä kesän suurimman konserttiyleisön Kantolan rokkipuistoon
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2015-01-30T13:13:49+02:00">13:13</time>
+<h1>
+<a href="http://yle.fi/uutiset/jean_sibeliuksen_siteet_turkuun_ovat_monille_mysteeri/7766796" >
+Jean Sibeliuksen siteet Turkuun ovat monille mysteeri
+</a>
+</h1>
+</article>
+</section>
+
+</div>
+<!--googleon: index-->
+</div>
+<footer id="footer">
+<div class="wrap">
+<h1>
+<a href="http://yle.fi/uutiset/">
+<img alt="Yle Uutiset" src="http://yle.fi/uutiset/skins/jGXxLmJf9583/uutiset/bg/yle-uutiset.png" />
+</a>
+</h1>
+<ul>
+<li>
+<a href="http://yle.fi/uutiset/laheta_palautetta/5853878" >
+Lähetä palautetta uutisista
+</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/laheta_juttuvinkki/5077010" >
+Lähetä juttuvinkki
+</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/yhteystiedot_yle_uutiset/5077947" >
+Yhteystiedot
+</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/rss-syotteet/6075085" >
+RSS-syötteet
+</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/uutiset_puhelimeesi/6181257" >
+Uutiset puhelimeesi
+</a>
+</li>
+</ul>
+</div>
+
+</footer>
+
+
+<div id="ylefifooter">
+
+  <div class="ylefifooter-wrapper">
+
+    <h6>Muualla Yle.fi:ssä</h6>
+
+    <div class="ylefifooter-column">
+      <ul>
+        <li><a href="http://yle.fi/uutiset/">Uutiset</a></li>
+        <li><a href="http://yle.fi/urheilu/">Urheilu</a></li>
+        <li><a href="http://yle.fi/tekstitv/html/P100_01.html">Teksti-tv</a></li>
+        <li><a href="http://yle.fi/uutiset/news">News in English</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://blogit.yle.fi">Blogit</a></li>
+        <li><a href="http://yle.fi/keskustelut/">Keskustelut</a></li>
+      </ul>
+    </div>
+
+    <div class="ylefifooter-column">
+      <ul>
+        <li><a href="http://areena.yle.fi/tv">Areena</a></li>
+        <li><a href="http://yle.fi/elavaarkisto/">Elävä arkisto</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://yle.fi/pikkukakkonen/">Pikku Kakkonen</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://abitreenit.yle.fi">Abitreenit</a></li>
+        <li><a href="http://oppiminen.yle.fi/abitreenit/">Oppiminen</a></li>
+        <li><a href="http://vetamix.net">Vetamix</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://olotila.yle.fi/">Olotila</a></li>
+        <li><a href="http://yle.fi/aihe/musiikki/">yle.fi/musiikki</a></li>
+      </ul>
+    </div>
+
+    <div class="ylefifooter-column">
+      <ul>
+        <li><a href="http://ohjelmaopas.yle.fi/tv/opas">TV-ohjelmatiedot</a></li>
+        <li><a href="http://yle.fi/aihe/yle-tv1/">Yle TV1</a></li>
+        <li><a href="http://yle.fi/aihe/yle-tv2/">Yle TV2</a></li>
+        <li><a href="http://yle.fi/aihe/yle-teema/">Yle Teema</a></li>
+        <li><a href="http://svenska.yle.fi/yle-fem">Yle Fem</a></li>
+        <li><a href="http://yle.fi/yleisradio/faq/tv-finland">TV Finland</a></li>
+      </ul>
+    </div>
+
+    <div class="ylefifooter-column">
+      <ul>
+        <li><a href="http://ohjelmaopas.yle.fi/radio/opas">Radio-ohjelmatiedot</a></li>
+        <li><a href="http://yle.fi/radio/radiosuomi/">Yle Radio Suomi</a></li>
+        <li><a href="http://yle.fi/radio/yleradio1/">Yle Radio 1</a></li>
+        <li><a href="http://yle.fi/radio/radiosuomi/">Maakuntaradiot</a></li>
+        <li><a href="http://yle.fi/yleisradio/kanavat-ja-palvelut#ylemondo">Yle Mondo</a></li>
+        <li><a href="http://yle.fi/radio/ylepuhe/">Yle Puhe</a></li>
+        <li><a href="http://yle.fi/uutiset/novosti/">Yle Novosti po-russki</a></li>
+        <li><a href="http://yle.fi/sapmi/">Yle Sámi Radio</a></li>
+        <li><a href="http://yle.fi/radio/yleklassinen/suora/">Yle Klassinen</a></li>
+        <li><a href="http://svenska.yle.fi/radio-vega">Yle Radio Vega</a></li>
+        <li><a href="http://yle.fi/ylex/">YleX</a></li>
+        <li><a href="http://yle.fi/extrem/">Yle X3M</a></li>
+      </ul>
+    </div>
+
+    <div class="ylefifooter-column">
+      <ul>
+        <li><a href="http://yleshop.yle.fi/">Yle Shop</a></li>
+        <li><a href="http://yle.fi/yleisradio/yle-myynti/">Yle Myynti</a></li>
+        <li><a href="http://yle.fi/vintti/">Arkistoidut sivut</a></li>
+      </ul>
+    </div>
+
+    <div class="ylefifooter-column yleui-mobile">
+      <ul>
+        <li><a href="http://yle.fi/yleisradio/loyda-ao">Löydä A-Ö</a></li>
+        <li><a href="http://svenska.yle.fi">Svenska Yle</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="ylefifooter-wrapper yleui-mobile">
+
+    <div class="ylefifooter-links yleui-mobile">
+      <a href="http://yle.fi" title="Yle.fi etusivu"><img id="ylefifooter-logo" src="http://yle.fi/global/api/ylefilogo.png" alt="Yle logo"/></a>
+      <ul>
+        <li class="first-item"><a href="http://yle.fi/yleisradio/">Yle yhtiönä</a></li>
+        <li><a href="http://yle.fi/yleisradio/toimintaperiaatteet/yksityisyyden-suoja">Tietosuojalauseke</a></li>
+        <li><a href="http://yle.fi/yleisradio/ota-yhteytta#anna-palautetta">Palaute</a></li>
+        <li><a href="https://yle.rekrytointi.com/paikat/index.php?o=A_LOJ&list=1">Avoimet työpaikat</a></li>
+        <li><a href="http://yle.fi/yleisradio/organisaatio/vastaavat-toimittajat">Vastaavat toimittajat</a></li>
+        <li><a href="http://yle.fi/yleisradio/ota-yhteytta#ota-yhteytta">Yhteystiedot</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+</div>
+
+<script type="text/javascript" src="http://yle.fi/global/api/load.php?version=5&amp;modules=js/headerfooter"></script>
+<script type="text/javascript" src="http://data.yle.fi/kysely/form/surveys"></script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T3LL7L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T3LL7L');</script>
+<!-- End Google Tag Manager -->
+<script src="http://yle.fi/global/player/embed.js?autoEmbed=false"></script>
+<script src="http://yle.fi/uutiset/resources/jGXxLmJf9583/js/script.tail.min.js?version=9583"></script>
+<script src="http://yle.fi/global/elavaarkisto/embed.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+var clientDT = new Date().getTime();
+document.write('<img style="display:none;" src="http://stat.yle.fi/eae-logger/Logger?rt=1&ctxId=23&pubId=2&cat=&meta=read-article&objId=7765358&type=article&title=Uudistus+tuo+tabletit+ja+tietokoneet+eskariin%3a+pikkulasten+mediakasvatus+on+pian+pakollista&url=http%3a%2f%2fyle.fi%2fuutiset%2fuudistus_tuo_tabletit_ja_tietokoneet_eskariin_pikkulasten_mediakasvatus_on_pian_pakollista%2f7765358&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+//]]>
+</script>
+<noscript>
+<div>
+<img src="http://stat.yle.fi/eae-logger/Logger?rt=1&amp;ctxId=23&amp;pubId=2&amp;cat=&amp;meta=read-article&amp;objId=7765358&amp;type=article&amp;title=Uudistus+tuo+tabletit+ja+tietokoneet+eskariin%3a+pikkulasten+mediakasvatus+on+pian+pakollista&amp;url=http%3a%2f%2fyle.fi%2fuutiset%2fuudistus_tuo_tabletit_ja_tietokoneet_eskariin_pikkulasten_mediakasvatus_on_pian_pakollista%2f7765358" alt="one pixel graphics" width="1" height="1"/>
+</div>
+</noscript>
+<!-- Begin Google Analytics -->
+<script>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-6023262-10']);
+_gaq.push(['_setDomainName', 'yle.fi']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- End Google Analytics -->
+<!-- Begin Digital Analytix -->
+<script type="text/javascript">
+// <![CDATA[
+function sitestat(u){var d=document,l=d.location;ns_pixelUrl=u+"&ns__t="+(new Date().getTime());u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);(d.images)?new Image().src=u:d.write('<'+'p><img src="'+u+'" height="1" width="1" alt="*"><'+'/p>');};
+sitestat("//da.yle.fi/yle/uutiset/s?kotimaa.uudistus_tuo_tabletit_ja_tietokoneet_eskariin_pikkulasten_mediakasvatus_on_pian_pakollista.sivu&amp;yle_mediatype=image&amp;yle_pagetype=newscontent-news&amp;yle_language=fi&amp;yle_update=2015-01-29&amp;yle_dayssincepublish=1&amp;yle_pubweek=2015-05&amp;yle_contenttype=article&amp;yle_artby=nykanhe&amp;yle_pubtime=11-57&amp;yle_pub=2015-01-29&amp;yle_organization=1337-savo&amp;yle_stickytitle=uudistus_tuo_tabletit_ja_tietokoneet_eskariin_pikkulasten_mediakasvatus_on_pian_pakollista&amp;yle_articleid=7765358&amp;yle_uptime=19-51&amp;yle_topic=etusivu%3Bkotimaa%3Bsavo%3Bmedia");
+// ]]>
+</script>
+<noscript><p><img src="//da.yle.fi/yle/uutiset/s?kotimaa.uudistus_tuo_tabletit_ja_tietokoneet_eskariin_pikkulasten_mediakasvatus_on_pian_pakollista.sivu&amp;yle_mediatype=image&amp;yle_pagetype=newscontent-news&amp;yle_language=fi&amp;yle_update=2015-01-29&amp;yle_dayssincepublish=1&amp;yle_pubweek=2015-05&amp;yle_contenttype=article&amp;yle_artby=nykanhe&amp;yle_pubtime=11-57&amp;yle_pub=2015-01-29&amp;yle_organization=1337-savo&amp;yle_stickytitle=uudistus_tuo_tabletit_ja_tietokoneet_eskariin_pikkulasten_mediakasvatus_on_pian_pakollista&amp;yle_articleid=7765358&amp;yle_uptime=19-51&amp;yle_topic=etusivu%3Bkotimaa%3Bsavo%3Bmedia" height="1" width="1" alt="*"/></p></noscript>
+<!-- End Digital Analytix -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"3697329,3697330","applicationTime":571,"beacon":"beacon-4.newrelic.com","queueTime":0,"licenseKey":"dbbc4ddda2","transactionName":"bgFXZUMFXUdXWxdcXVdLf2JhS0dRW0gPVEZcS1ZeXAlcWhhSEEU=","agent":"js-agent.newrelic.com\/nr-515.min.js","errorBeacon":"bam.nr-data.net"}</script></body>
+</html>

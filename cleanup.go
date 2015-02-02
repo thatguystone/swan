@@ -94,7 +94,7 @@ var (
 	emTags          = cascadia.MustCompile("em")
 	imgTags         = cascadia.MustCompile("img")
 	safeTags        = cascadia.MustCompile("body, article")
-	scriptStyleTags = cascadia.MustCompile("script, style")
+	scriptStyleTags = cascadia.MustCompile("script, noscript, style")
 	unwraps         = cascadia.MustCompile("span[class~=dropcap]," +
 		"span[class~=drop_cap]," +
 		"p span")

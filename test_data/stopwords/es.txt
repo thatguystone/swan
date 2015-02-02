@@ -1,0 +1,1395 @@
+
+<!---->    <!DOCTYPE html>
+    <html lang="es" >
+        <head>
+    <!--googleoff: all-->
+<!--meta charset="iso-8859-1"-->
+<meta charset="windows-1252">
+<meta name="google-site-verification" content="4lSmopALJa9tlvX93n-uSAv7pFIvTDlnygREDgNSKXo" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+<link rel="stylesheet" type="text/css" href="/css/default.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/cnn_header.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/css/overlay.css" media="screen" />
+<link rel='alternate' type="application/rss+xml" href="http://feeds2.feedburner.com/cnnmexico/portada" />
+<link rel='icon' href="/favicon.ico" />
+
+<script type="text/javascript" src="/js/mootools-1.3.1.js"></script>
+<script type="text/javascript" src="/js/default.js"></script>
+
+<!-- inicia javascript general de Gigya -->
+<!-- el apiKey corresponde a cnnmexico -->
+<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_DFPY9kjgEqG2hKJod27qJDg0TO9uiajG5HXfIZapBiottF8svFxy26Lp7-fa8Ecc&amp;lang=es">
+    {
+        siteName: 'cnnmexico.com',
+        enabledProviders: 'facebook, twitter, google, yahoo, messenger, linkedin, foursquare',
+        connectWithoutLoginBehavior: 'alwaysLogin',
+        lang: 'es'
+    }
+</script>
+    <base href="http://www.cnnmexico.com/"/>    <meta http-equiv="refresh" content="900" />
+            <script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
+            <script type="text/javascript">
+                var gSeccion = 'nacional';
+                var ord = parseInt(Math.random() * 1000000000);
+                var flagUrchin = 1;
+            </script>
+            <script type="text/javascript" src="js/publicidad.js"></script>
+            <script type="text/javascript" >
+                        var subjG = 0;
+                    var secc = "nacional";
+                    var namegtag = "Nacional";
+                                publicidad(secc + "_resulta", subjG, namegtag + "Resulta");
+                        </script>
+            <!--googleon: all-->
+
+<html itemscope itemtype="http://schema.org/Article" lang="es-MX">
+<title>La explosión en un hospital infantil pone "en pánico" al Distrito Federal - Nacional - CNNMexico.com </title>
+<meta content="CNNMexico.com - Informaci&oacute;n nacional e internacional con perspectiva global" itemprop="genre" />
+<meta content="es" itemprop="inLanguage" />
+<meta content="Nacional" itemprop="articleSection" name="section" />
+<meta content="CNNM&eacute;xico" itemprop="sourceOrganization" name="source" />
+<meta content="2015-01-30T06:25:00Z" itemprop="datePublished" name="pubdate" />
+<meta content="2015-01-30T06:28:38Z" itemprop="dateModified" name="lastmod" />
+<meta name="description" itemprop="description" content="Desde las primeras horas de este jueves, el estallido de una pipa de gas moviliz&oacute; a las autoridades y dej&oacute; tres muertos y m&aacute;s de 70 heridos" />
+ <meta name="keywords" itemprop="keywords" content=" cuajimalpa, explosion, pipa, hospital, df, ciudad, muertos, lesionados, heridos, federal, heridos" />
+ <meta name="url" itemprop="url" content="http://mexico.cnn.com/nacional/2015/01/30/la-explosion-en-un-hospital-infantil-pone-en-panico-al-distrito-federal">
+ <meta name="title" itemprop="headline" content="La explosi&oacute;n en un hospital infantil pone &quot;en p&aacute;nico&quot; al Distrito Federal - Nacional -  CNNMexico.com" />
+ <meta name="date" content="2015-01-30" />
+ <!--googleoff: all--><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@CNNMex">
+ <meta name="twitter:creator" content="@CNNMex">
+ <meta name="twitter:url" content="http://mexico.cnn.com/nacional/2015/01/30/la-explosion-en-un-hospital-infantil-pone-en-panico-al-distrito-federal">
+ <meta name="twitter:domain" content="http://mexico.cnn.com">
+ <meta name="twitter:title" content="La explosi&oacute;n en un hospital infantil pone &quot;en p&aacute;nico&quot; al Distrito Federal - Nacional -  CNNMexico.com" />
+ <meta name="twitter:description" content="Desde las primeras horas de este jueves, el estallido de una pipa de gas moviliz&oacute; a las autoridades y dej&oacute; tres muertos y m&aacute;s de 70 heridos"/><meta name="twitter:image" content="http://mexico.cnn.com/media/2015/01/29/cuajimalpamuerte.jpg"/><fb:share-button class="meta">
+ <meta property="fb:app_id" content="201756753280785" />
+ <meta property="og:type" content="article">
+ <meta property="og:url" content="http://mexico.cnn.com/nacional/2015/01/30/la-explosion-en-un-hospital-infantil-pone-en-panico-al-distrito-federal" />
+ <meta property="og:title" content="La explosi&oacute;n en un hospital infantil pone &quot;en p&aacute;nico&quot; al Distrito Federal - Nacional -  CNNMexico.com" />
+ <meta property="og:description" content="Desde las primeras horas de este jueves, el estallido de una pipa de gas moviliz&oacute; a las autoridades y dej&oacute; tres muertos y m&aacute;s de 70 heridos" />
+<meta property="og:article:published_time" content="2015-01-30T06:25:00Z " /><meta property="og:article:modified_time" content="2015-01-30T06:28:38Z" /><meta name="image" itemprop="image" content="http://mexico.cnn.com/thumb/2015/01/29/cuajimalpamuerte_300x169.jpg" /><meta property="og:image" content="http://mexico.cnn.com/thumb/2015/01/29/cuajimalpamuerte_300x169.jpg" />
+</fb:share-button>
+ <link rel="image_src" itemprop="image" href="http://mexico.cnn.com//media/2015/01/29/cuajimalpamuerte.jpg" /></div><style type="text/css">
+#spHeader{display:none;}
+</style>
+            <link rel="apple-touch-icon" href="/images/ico_mobile.jpg">
+            <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+            <!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/css/cmx2_ieFixes.css" media="screen" /><![endif]-->
+            <meta name="msapplication-starturl" content="/?utm_source=nacional&amp;utm_medium=web&amp;utm_campaign=pinnedmode"/>
+            <!-- inicia google analytics -->
+            <script type="text/javascript">
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-1420780-15']);
+                _gaq.push(['_setAllowLinker', true]);
+                _gaq.push(['_setAllowHash', false]);
+
+
+                _gaq.push(['_trackEvent']);
+                _gaq.push(['_trackPageview']);
+
+                (function() {
+                    var gagig = document.createElement('script');
+                    gagig.type = 'text/javascript';
+                    gagig.async = true;
+                    gagig.src = ('https:' == document.location.protocol ? 'https://cdns' : 'http://cdn') + '.gigya.com/js/gigyaGAIntegration.js';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(gagig, s);
+                    var ga = document.createElement('script');
+                    ga.type = 'text/javascript';
+                    ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(ga, s);
+                })();
+
+            </script>
+            <script>
+                (function(i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function() {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o),
+                            m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-46626801-1', 'cnnmexico.com');
+                ga('send', 'pageview');
+            </script>
+            <!-- termina google analytics -->
+            <!--DISCOVERABILITY-->
+    		<script type='text/javascript' src='https://crenon.exp.mx/init.async.js'></script>
+        </head>
+        <body>
+    <div id="cnn_hdr" class="oculto">
+	<div id="cnn_hdr-prompt">
+		<div class="hdr-wrap" id="cnn_hdr-promptcntnt">
+			<span id="hdr-prompt-text">
+				Please select your default edition:
+				<b><input type="radio" name="cnn_edselect" value="edition">&nbsp;International</b>
+				<b><input type="radio" name="cnn_edselect" value="www">&nbsp;U.S.</b>
+				<b><input type="radio" name="cnn_edselect" value="mexico">&nbsp;M&eacute;xico</b>
+			</span>
+			<img id="cnn_hdr-arrow" src="http://i.cdn.turner.com/cnn/.element/img/3.0/1px.gif" width="1" height="1" class="hdr-arrow-us2 cnn_dynone" alt="turner" />
+			<a href="javascript:void(0);" id="hdr-prompt-close">Close&nbsp;
+				<img src="http://i.cdn.turner.com/cnn/.element/img/3.0/1px.gif" width="7" height="7" class="cnn_hdr-cbttn" alt="turner"/>
+			</a>
+		</div>
+	</div>
+</div>
+            <header>
+                <div id="header">
+                    <div id="portal-corporate">
+                        <b>EDICI&Oacute;N:</b>&nbsp;&nbsp;<a class="urchin" id="link_ext_inter" title="CNN INTERNACIONAL" href="http://edition.cnn.com/?cnn_shwEDDH=1">INTERNATIONAL</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="urchin" id="link_ext_US" title="CNN US" href="http://us.cnn.com/?cnn_shwEDDH=1">U.S.</a><br>
+                        <b>TV:</b>&nbsp;<a class="urchin" id="link_ext_tvinter" href="http://edition.cnn.com/CNNI/">CNNi</a>&nbsp;|&nbsp;<a class="urchin" id="link_ext_tvesp" href="http://edition.cnn.com/espanol/">CNN en Espa&ntilde;ol</a>
+                        <div class="cambio">Elige tu edici&oacute;n de CNN</div>
+                    </div>
+                    <div id="cmx2_header">
+    <a href="/" title="CNNM&eacute;xico.com"><img src="/images/logo.gif" alt="CNNM&eacute;xico.com"/><br/></a></div>
+                    <div id="portal-searchbox" style="width:280px;">
+                        <style type="text/css">
+                            .container{width:24px;height:30px;overflow:hidden;float:right;}
+                            #caja_busqueda{width:140px!important;margin-right:10px!important;margin-left:147px;}
+                            #cajatexto{width:0px;height:30px;float:left;overflow:hidden;}
+                            .imgdespliega{width:22px;height:21px;float:right;}
+                            .imgescondete{width:22px;height:21px;float:right!important;display:none;}
+                            .imgbuscador{width:22px;height:21px;float:right!important;display:none;}
+                            #pagina_inicio {width:200px;height:30px;float:right;margin-top:-30px;}
+                            .loginHandlerGigya {font-family:Arial; font-size:10px/12px; font-weight:bold;color:#FFFFFF;float:right;}
+                            .loginHandlerGigya a:hover{font-family:Arial; font-size:10px/12px; font-weight:bold;color:#FFBBBA;}
+                            #linktofb{width:20px;height:20px;overflow:hidden;background:url("images/sprite_FB.png") no-repeat 0 0;float:right;margin:0 10px 0 0;}
+                            #linktofb:hover{background:url("images/sprite_FB.png") no-repeat 0 -20px;}
+                            #linktotw{width:20px;height:20px;overflow:hidden;background:url("images/sprite_TW.png") no-repeat 0 0;float:right;margin:0 10px 0 0;}
+                            #linktotw:hover{background:url("images/sprite_TW.png") no-repeat 0 -20px;}
+                        </style>
+                        <br />
+                        <script type='text/javascript'>
+                            var aparecete = function() {
+                                $$('.imgescondete').setStyle('display', 'inline');
+                                $$('.imgdespliega').setStyle('display', 'none');
+                                $$('#caja_busqueda').morph({'margin-left': [147, 0], duration: 'long'});
+                                $$('#cajatexto').morph({'width': [0, 147], duration: 'long'});
+                                $$('.container').morph({'width': [24, 178], duration: 'long'});
+                            };
+                            var habilitame = function() {
+                                $$('.imgescondete').setStyle('display', 'none');
+                                $$('.imgdespliega').setStyle('display', 'none');
+                                $$('.imgbuscador').setStyle('display', 'inline');
+                                document.getElementById("buscacnnmex").submit();
+                            };
+                            var busca = function() {
+                                if ($$('#caja_busqueda').get('value') == '') {
+                                    $$('.imgescondete').setStyle('display', 'none');
+                                    $$('.imgdespliega').setStyle('display', 'inline');
+                                    $$('#caja_busqueda').morph({'margin-left': [0, 147], duration: 'long'});
+                                    $$('#cajatexto').morph({'width': [147, 0], duration: 'long'});
+                                    $$('.container').morph({'width': [178, 24], duration: 'long'});
+                                } else {
+                                    document.gs.p_q.value = escape(document.gs.user_input.value);
+                                    document.getElementById("buscacnnmex").submit();
+                                }
+                            }
+                        </script>
+                            <div class="container">
+                            <form id="buscacnnmex" name="gs" method="GET" action="/cmx2_buscar.php" target="_parent" onsubmit="busca();">
+                                    <div id="cajatexto">
+                                        <input type="text" name="user_input" class="text urchin" id="caja_busqueda" autocomplete="off" value=''  onfocus="(function() {
+                              this.value = '';
+                          })()" onblur="(function() {
+                                      if (this.value == '') {
+                                          this.value = 'Introduce tu b\u00FAsqueda';
+                                      }
+                                  })()"  />
+                                    </div>
+                                <div class="imgdespliega">
+                                    <a id="nacional_nacional_resulta_despliega_buscador" class="urchin" href="javascript:void(0);" onClick="aparecete();">
+                                        <img src="images/lupa.png" alt="buscar"/>
+                                    </a>
+                                </div>
+                                <a id="nacional_nacional_resulta_esconde_buscador" class="img imgescondete urchin" href="javascript:void(0);" onClick="busca();">
+                                    <img src="images/lupa.png" alt="buscar"/>
+                                </a>
+                                <input type="image" name="btnG" src="images/lupa.png" alt="buscar" id="nacional_nacional_resulta_buscador" class="img imgbuscador urchin"/>
+                                <input type="hidden" name="p_q" value="" />
+                            </form>
+                        </div>
+
+                        <a id="nacional_nacional_resulta_boton_twitter" class="urchin" href="https://twitter.com/CNNMex"><div id="linktotw"></div></a>
+                        <a id="nacional_nacional_resulta_boton_facebook" class="urchin" href="https://www.facebook.com/CNNMexico"><div id="linktofb"></div></a>
+                    </div>
+                </div>
+
+                <nav id="nav">
+                    <ul id="nav_menu">
+                        <li><a id="nacional_nacional_resulta_canalera_home" class="destacado urchin" href="/">Inicio</a></li>
+                        <li><a id="nacional_nacional_resulta_canalera_video" class="destacado urchin" href="/videos">Video</a></li>
+                        <li><a id="nacional_nacional_resulta_canalera_nacional" class="selected urchin"  href="/nacional">Nacional</a></li>
+                        <li><a id="nacional_nacional_resulta_canalera_adnpolitico" class="urchin" href="/adnpolitico">ADNPol&iacute;tico</a></li>
+                        <li><a id="nacional_nacional_resulta_canalera_mundo" class="urchin" href="/mundo">Mundo</a></li>
+                        <li><a id="nacional_nacional_resulta_canalera_tecnologia" class="urchin" href="/tecnologia">Tecnolog&iacute;a</a></li>
+                        <li><a id="nacional_nacional_resulta_canalera_entretenimiento" class="urchin" href="/entretenimiento">Entretenimiento</a></li>
+                        <li><a id="nacional_nacional_resulta_canalera_deportes" class="urchin" href="/deportes">Deportes</a></li>
+                        <li><a id="nacional_nacional_resulta_canalera_salud" class="urchin" href="/salud">Vida y Salud</a></li>
+                        <li><a id="nacional_nacional_resulta_canalera_viajes" class="urchin nuv" href="/viajes">Viajes</a></li>
+                        <li><a id="nacional_nacional_resulta_canalera_planetacnn" class="urchin nuv" href="/planetacnn">Planeta CNN</a></li>
+                        <li><a id="nacional_nacional_resulta_canalera_opinion" class="urchin" href="/blog_y_opinion" >Opini&oacute;n</a></li>
+                        <li><a id="nacional_nacional_resulta_canalera_economia" class="urchin" href="http://www.cnnexpansion.com/" target="_blank">Econom&iacute;a&nbsp;<img src="/images/portal-globalnav_icon.gif" alt="Econom&iacute;a" /></a></li>
+                    </ul>
+                </nav>
+                <div id='out_of_page' style='width: 100%;'>
+                    <script type='text/javascript'>
+                        googletag.display('out_of_page');
+                    </script>
+                </div>
+            </header>
+            <div id='out_banner' style='width: 1px; height: 1px;'>
+                <script type='text/javascript'>
+                    googletag.display('out_banner');
+                </script>
+            </div>
+                <section id="alerta" class="master-row">
+                <!--?php include('html/cmx2_viewlet_alertas.html'); ?-->
+
+            </section>
+            <section class="master-row"><!-- begin ad tag (tile=12) -->
+<!-- begin ad tag (tile=12) -->
+
+<!-- script type="text/javascript">if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/gee.mexico/nacional;tile=4;sz=988x90;ord=' + ord + '?" type="text/javascript"><\/script>');</script>
+
+<noscript>
+
+<a href="http://ad.doubleclick.net/jump/gee.mexico/nacional;tile=4;sz=988x90;ord=123456789?" target="_blank">
+
+<img src="http://ad.doubleclick.net/ad/gee.mexico/nacional;tile=4;sz=988x90;ord=123456789?" width="988" height="90" alt=""/>
+
+</a>
+
+</noscript -->
+
+<div id='cintillo_banner'>
+    <script type='text/javascript'>
+        googletag.display('cintillo_banner');
+    </script>
+</div>
+<!-- End ad tag -->
+</section>
+                    <section class="master-row">
+        <div id="portlet_banner_full" class="portlet_banner banner_full">
+	<!-- begin ad tag (tile=1) -->
+    <div id='banner_full'>
+        <script type='text/javascript'>
+            googletag.display('banner_full');
+        </script>
+    </div>
+	<!-- End ad tag -->
+</div>
+                </section>
+                    <section id="spHeader" class="master-row">
+                <script language="JavaScript">
+                    if (typeof (headerEspecialesImg) == "string")
+                    {
+                        document.write(headerEspecialesImg);
+                        $('spHeader').setStyle('display', 'block');
+                    }
+                </script>
+                </section>
+    <!--========================SCROLL BAR GIGYA==========================-->
+<script type="text/javascript" language="javascript">
+if ((screen.width>=1024)) {
+	document.write('<link rel="stylesheet" type="text/css" href="/css/cmx2_scroll_gigya.css"/>');
+	document.write('<script type="text/javascript" language="javascript" src="/js/cmx2_scroll_gigya.js"><'+'/script>');
+	document.write('<div id="div-fijo" class="abs"><a id="nacional_resulta_scroll_arriba" class="urchin" href="javascript:inicio_btn();"><div id="top_set">Arriba</div></a><div id="social_set"></div>');
+	document.write('<script type="text/javascript" language="javascript" src="/js/cmx2_share_bar_gigya_scroll.js"><'+'/script>');
+	document.write('<a id="nacional_resulta_scroll_email" class="urchin" href="javascript:void(0)" onClick="email_btn();"><div id="email_set">Email</div></a><a id="nacional_resulta_scroll_imprimir" class="urchin" href="javascript:void(0)" onClick="print_btn();"><div id="print_set">Imprimir</div></a><a id="nacional_resulta_scroll_comentarios" class="urchin" href="javascript:void(0)" onClick="comments_btn();"><div id="comment_set">Comentarios</div></a></div>');
+}
+</script>
+
+<!--=================================================================-->
+
+    <section class="master-row">
+        <style>#cmx1_resulta_fotogalerias .elementoCarrusel .toLeft{margin-left:-624px;} #cmx1_resulta_fotogalerias .elementoCarrusel .toShow{margin-left:0px;} #cmx1_resulta_fotogalerias .elementoCarrusel .toRight{margin-left:624px;} #cmx1_resulta_fotogalerias .elementoCarrusel .toBack{z-index:1;margin-left:0px;top:0;left:0;} #cmx1_resulta_fotogalerias .elementoCarrusel .toHide{z-index:0;width:0px;margin-left:0;} #cmx1_resulta_fotogalerias .elementoCarrusel .toPrepare{z-index:2;width:624px;} #cmx1_resulta_fotogalerias .contenedorTextoElemento .toShow{-moz-opacity: 1.0 !important; -webkit-opacity: 1.0!important; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)" !important; filter: alpha(opacity=100) !important; opacity: 1.0 !important;} #cmx1_resulta_fotogalerias .contenedorTextoElemento .toHide{-moz-opacity: 0 !important; -webkit-opacity: 0!important; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)" !important; filter: alpha(opacity=0) !important; opacity: 0 !important;} #cmx1_resulta_fotogalerias {width:624px;background-color:#000000; color :#ffffff; margin:12px 0px 0px;position:relative;z-index:0!important;} #cmx1_resulta_fotogalerias .elementoCarrusel {float:left; width:624px; height:350px!important; border:0px; overflow:hidden; position:relative!important; } #cmx1_resulta_fotogalerias .contenedorImagen {cursor:pointer;} #cmx1_resulta_fotogalerias .elementoCarrusel img{width:624px; height:350px;} #cmx1_resulta_fotogalerias .contenedorVideo {cursor:pointer; position:relative; float:left; position:absolute; top:0px} #cmx1_resulta_fotogalerias .divLink{width:20px; background-color:#252525; height:0px; width:73px; float:right; text-align:center; cursor:pointer; overflow:hidden; } #cmx1_resulta_fotogalerias .divLinkTexto{color:black; display:inline; text-align:center;} #cmx1_resulta_fotogalerias .contenedorTextoElemento {padding:12px;width:276px;bottom:0px;right:0px;position:absolute;z-index:1;} #cmx1_resulta_fotogalerias .video { top:5px; position:absolute; right:5px; visibility:hidden;} #cmx1_resulta_fotogalerias #miplayer {width:300px; height:220px; } #cmx1_resulta_fotogalerias .titular1 a{ color:#FFFFFF; display:block; font-size:180%; line-height:26px; height:26px; padding:12px 0 0 12px; cursor:pointer; overflow:hidden;} #cmx1_resulta_fotogalerias .descripcionElemento{color:#fff;font-size:12px;line-height:19px;overflow:hidden;font-weight:bold;} #cmx1_resulta_fotogalerias #contenedorCarrusel { width:624px; height:350px; border:0px; overflow:hidden; position:relative; text-align:left;} #cmx1_resulta_fotogalerias #contenidoCarrusel { height:350px; border:0px; margin:0px; position:relative; z-index:1; width:1250px;} #cmx1_resulta_fotogalerias .divContenedorImagen { width:104px; height:64px; overflow:hidden; position:relative; } #cmx1_resulta_fotogalerias .negro60T {background:#000;bottom:0;left:0;right:0;top:0;filter:alpha(opacity=70);opacity:0.7;position: absolute;z-index:-1;*width:300px;*height:250px;} #cmx1_resulta_fotogalerias #contenedorControlesDescripciones{padding:4px;text-align:right;color:#f00;font-weight:bold;} #cmx1_resulta_fotogalerias #contenedorControlesDescripciones span{color:#fff;font-size:10px;cursor:pointer;} #cmx1_resulta_fotogalerias #contenedorControles { height:25px; background-color:#252525; width:624px; font-family:Arial,Helvetica,sans-serif; overflow:hidden;} #cmx1_resulta_fotogalerias .numeroNormal { line-height:25px; width:24px; border-right:1px solid #3B3B3B; color:#8F8F8F; float:left; text-align:center; cursor:pointer; } #cmx1_resulta_fotogalerias .numeroSeleccionado { background-color:#4A4A4A; line-height:25px; width:24px; border-right:1px solid #3B3B3B; color:#ffffff; float:left; text-align:center; cursor:pointer; } #cmx1_resulta_fotogalerias .anterior { line-height:25px; width:73px; border-right:1px solid #3B3B3B; color:#8F8F8F; float:left; text-align:center; cursor:pointer; background:transparent url(/images/BackNextBtns.gif) 323px 0px; width:78px; height:24px;} #cmx1_resulta_fotogalerias .siguiente { line-height:25px; width:73px; border-left:1px solid #3B3B3B; color:#8F8F8F; float:right; text-align:center; cursor:pointer; background:transparent url(/images/BackNextBtns.gif) 240px 0px; width:78px; height:24px;} #cmx1_resulta_fotogalerias .linkVideo{float:right;line-height:25px;padding:0 5px;border-left:1px solid #3B3B3B;} #cmx1_resulta_fotogalerias .linkVideo a{color:#fff;} #cmx1_resulta_fotogalerias #viewlet_carrusel_controles{width:466px;height:24px;overflow:hidden;float:left;} #cmx1_resulta_fotogalerias #viewlet_carrusel_slideControles{overflow:hidden;}</style><div class="master-column-one">        <link rel="stylesheet" type="text/css" href="/css/cmx2_resulta.css"/>
+                <link rel="stylesheet" type="text/css" media="print" href="/css/print.css"/>
+        <script type="text/javascript" language="javascript" src="/js/injectHTML.class.js"></script>
+        <script type="text/javascript" language="javascript" src="/js/cmx2_resulta_video.js?v=1"></script>
+        <script type="text/javascript" language="JavaScript" src="/js/enableCarrusel.class.js"></script>
+		<script type="text/javascript" language="JavaScript"> var cid = "nacional-noticia"; </script>
+		<style>
+			.gig-share-bar-container #comentarios {background-image:url(/images/btnComentarios2.png); background-repeat:no-repeat; background-position-y: 7px!important; width:93px; height:63px;  padding-right:13px; text-align:right; background-position:0 1px;background-position-y: 42px;}
+			#socialnetwork{margin:0px 0px 15px 12px;height:61px;z-index:100;}
+
+			<!--
+			.gig-button-container-facebook-like{width:82px!important;z-index:100;position:relative;}
+			-->
+			.gig-button-container-facebook{width:82px!important;z-index:100;position:relative;}
+			.gig-button-container-facebook .gig-counter-text-top{left:0px;top:0px;}
+			.gig-button-container-facebook .gig-share-counter{margin:10px 10px 0 10px;}
+
+			.gig-button-container-twitter-tweet{width:82px!important;}
+			.gig-button-container-google-plusone{width:62px!important;}
+			.gig-button-container-pinterest{width:82px!important;}
+			.gig-button-container-linkedin{width:82px!important;}
+			.gig-button-container-share{width:82px!important;}
+			.gig-button-container-share tr{padding-bottom:4px;}
+			.gig-button-container-email{width:82px!important;padding-top:33px!important;background:url(/images/btnMail.png);background-repeat: no-repeat;background-position-x: 6px;}
+		</style>
+					<script type="text/javascript">
+				//var redes = "facebook-like,Twitter-Tweet,google-plusone,linkedin,Share,Email";
+				var redes = "facebook,Twitter-Tweet,google-plusone,linkedin,Share,Email";
+			</script>
+
+	<script type="text/javascript" languaje="javascript" src="/js/cmx2_share_bar_gigya_notas.js"></script>
+        <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+            {lang: 'es-419'}
+        </script>
+
+        <article id="mainContent"><!-- sin cache --><input type="hidden" id="tiny_url" value="http://cnn.mx/n002DIZ" />    <script>
+    //Funcion para hacer resize del iframe==================================
+		function resizeIframe(newHeight){
+			$$('#iframeGal').setStyle('height', newHeight + 'px');
+		}
+//======================================================================
+   		window.addEvent('domready', function (){
+            $$('.img-video').each(function(el){
+                if($(el).get('src') == null || $(el).get('src') == ""){
+                    var cmd = "command=";
+                    var vid = "video_id=";
+                    var tkn = "token=";
+
+                    var tmp_id =  $(el).get('id');
+                    tmp_id = tmp_id.split("_");
+                    tmp_id = tmp_id[1];
+
+                    cmd = cmd + "find_video_by_id";
+                    vid = vid + tmp_id;
+                    tkn = tkn + "mICdJJKMk3gcHenFZix4CeHOQNECj4hNxQOkpRCnaAqN6AbAHYYiEw..";
+
+                    var myRequest = new Request.JSONP({
+                        url: "http://api.brightcove.com/services/library",
+                        data: cmd+"&"+vid+"&"+tkn,
+                        onComplete: function(data){
+                            if(typeof(data.thumbnailURL) != "undefined"){
+                                $(el).set("src",data.thumbnailURL);
+                            }else{
+                                $(el).set("src","/images/swfprev.jpg");
+                            }
+                        }
+                    }).send();
+                }
+            });
+        });
+//Para jalar la galeria=================================================
+		var muestra_galeria = function(url){
+			document.getElementById("galeriaLink").innerHTML='<iframe id="iframeGal" src="/muestra_galerias.php?url='+url+'" scrolling="no"  frameborder="0"></iframe>';
+
+			$$('#iframeGal').setStyle('background-color','transparent');
+			$$('#iframeGal').setStyle('position','absolute');
+			$$('#iframeGal').setStyle('top',window.getScroll().y+60);
+			$$('#iframeGal').setStyle('width','1161px');
+			$$('#iframeGal').setStyle('z-index','999');
+			$$('#iframeGal').setStyle('filter','alpha(opacity=100)');
+			$$('#iframeGal').setStyle('-moz-opacity','1');
+			$$('#iframeGal').setStyle('opacity','1');
+			$$('#iframeGal').setStyle('margin-left','-107px');
+			$$('#galeria').setStyle('position','absolute');
+			$$('#galeria').setStyle('top','0px');
+			$$('#galeria').setStyle('left','0px');
+			$$('#galeria').setStyle('width','100%');
+			$$('#galeria').setStyle('height',$$('body').getStyle('height'));
+			$$('#galeria').setStyle('background-color','#000');
+			$$('#galeria').setStyle('z-index','998');
+			$$('#galeria').setStyle('-moz-opacity','0.8');
+			$$('#galeria').setStyle('opacity','0.8');
+			$$('#galeria').setStyle('filter','alpha(opacity=80)');
+			$$('#galeria').setStyle('display','inline-block');
+			$$('.xclose').setStyle('display','inline-block');
+
+			$$('#div-fijo').setStyle('width','0px');
+			$$('#div-fijo').setStyle('height','0px');
+			$$('#div-fijo').setStyle('border','none');
+			$$('#div-fijo').setStyle('overflow','hidden');
+		}
+
+		var hide = function(){
+			$$('#galeria').setStyle('display','none');
+			$$('#iframeGal').setStyle('display','none');
+			$$('#iframeGal').setStyle('position','relative');
+			$$('#iframeGal').setStyle('top','0px');
+
+			$$('#div-fijo').setStyle('width','100px');
+			$$('#div-fijo').setStyle('height','340px');
+			$$('#div-fijo').setStyle('border','solid 1px #CCC');
+			$$('#div-fijo').setStyle('overflow','');
+		}
+//======================================================================
+    </script>
+<!--Estilos para galeria relacionada izq=============================-->
+<style>
+.galeriaX{
+	background-color: black;
+	overflow:hidden;
+}
+.frontImage{
+	height: 32px;
+	position: absolute;
+	width: 100px;
+	z-index: 2;
+	background: url("/images/thumb_photo_small.png") no-repeat scroll 0 0 transparent;
+}
+.frontImage:hover{
+	height: 32px;
+	position: absolute;
+	width: 100px;
+	z-index: 2;
+	background: url("/images/thumb_photo_small.png") no-repeat scroll 0 -32px transparent;
+}
+</style>
+<!--=================================================================-->
+
+<div id="contenido">
+<!--googleon: all-->
+<div class="titulares">
+	<h1 class="titulo">La explosión en un hospital infantil pone "en pánico" al Distrito Federal</h1>
+	<p class="subtitulo">Desde las primeras horas de este jueves, el estallido de una pipa de gas movilizó a las autoridades y dejó tres muertos y más de 70 heridos</p>
+</div>
+<div class="fontmini">
+			Por <a>Melva Navarro</a><br/>
+
+		    	Viernes, 30 de enero de 2015 a las 06:25
+        </div>
+<!--googleoff: all-->
+<div id="mediaprincipal">
+  			<div class="galeriaBig" id="galleryX"></div>
+
+		<script>
+		window.addEvent('domready', function (){
+			var inject = new injectHTML({method:'get', url:'/resulta_galerias.php', data:'url=fotogalerias/2015/01/29/una-pipa-de-gas-explota-en-un-hospital-infantil-de-cuajimalpa-df&noporteria=1&rel=1', lugar:'top', inputControl:'galleryX'});
+		})
+		</script>
+
+
+		<style>
+		.galeriaBig {
+                    margin-bottom:0px !important;
+                }
+		</style>
+
+	</div>
+			<div class="leftElements">
+		<div id="share_" style="display:inline-block;text-align:left;height:auto;width:152px;overflow:hidden;margin-top: 18px;padding-bottom:12px;"></div>
+							<div class="moduloRel">Lo m&aacute;s importante</div>
+				<ul>
+											<li>Una pipa de gas explotó este jueves en un hospital infantil del DF</li>
+											<li>La explosión movilizó a las autoridades federales y locales desde las primeras horas del jueves</li>
+											<li>El siniestro ha dejado al menos tres muertos y más de 70 heridos</li>
+
+				</ul>
+										<div class="moduloRel">Temas relacionados</div>
+				<ul>
+											<li><a id="nacional_resulta_nota_rel_tfotogaleriap_titulo_1" class="urchin" href="http://mexico.cnn.com/nacional/2015/01/29/asi-ocurrio-la-explosion-en-el-hospital-de-maternidad-de-cuajimalpa">
+							Explosión en Cuajimalpa: reconstrucción de hechos
+						</a></li>
+											<li><a id="nacional_resulta_nota_rel_tfotogaleriap_titulo_2" class="urchin" href="http://mexico.cnn.com/nacional/2015/01/29/tiene-26-anos-es-camillero-y-la-explosion-lo-dejo-gravemente-herido">
+							El camillero atrapado por la explosión de Cuajimalpa
+						</a></li>
+											<li><a id="nacional_resulta_nota_rel_tfotogaleriap_titulo_3" class="urchin" href="http://mexico.cnn.com/nacional/2015/01/29/le-dije-que-gracias-a-dios-estaba-viva-que-aun-no-le-tocaba-morir">
+							"Empezó a oler a gas y se les cayó el techo"
+						</a></li>
+											<li><a id="nacional_resulta_nota_rel_tfotogaleriap_titulo_4" class="urchin" href="http://mexico.cnn.com/nacional/2015/01/29/recemos-por-las-victimas-de-la-explosion-en-el-hospital-de-cuajimalpa">
+							"Recemos por las víctimas de la explosión"
+						</a></li>
+											<li><a id="nacional_resulta_nota_rel_tfotogaleriap_titulo_5" class="urchin" href="http://mexico.cnn.com/nacional/2015/01/29/autoridades-rescatan-a-un-bebe-de-escombros-del-hospital-de-cuajimalpa">
+							Autoridades rescatan a bebé en Cuajimalpa
+						</a></li>
+											<li><a id="nacional_resulta_nota_rel_tfotogaleriap_titulo_6" class="urchin" href="http://mexico.cnn.com/nacional/2015/01/29/un-pipa-de-gas-explota-frente-a-un-hospital-infantil-del-poniente-del-df">
+							Explosión de pipa colapsa 70% de un hospital del DF
+						</a></li>
+									</ul>
+								</div>
+				<table class="cita" width="620"><tr>
+			<td valign="top"><img alt="cita" src="/images/cmx1_resulta_lquot.gif" /></td>
+			<td colspan="2">
+				Sólo vi cómo el material y el humo salían del centro del hospital, quedé en pánico, ya no pude más, no quise regresar, todo se volvió un caos
+			</td></tr><tr><td></td>
+			<td align="right"><span>Ana Ayala, habitante de Cuajimalpa</span></td>
+			<td valign="bottom" align="right"><img alt="cita" src="/images/cmx1_resulta_rquot.gif" /></td>
+		</tr></table>
+				<div class="miniLeftImgs" id="divimg1">
+			<div class="imagen">
+				<a id="nacional_resulta_nota_rel_tfotogaleriap_img" class="urchin" href="javascript: expimg(1);"><img border="0" onfocus="this.blur()" id="img1" src="/media/2015/01/29/cuajimalpamuerte.jpg" alt="Hospital materno infantil de Cuajimalpa en el DF (Cuartoscuro)." width="100%" height="80" /><br/></a>
+				<span>Hospital materno infantil de Cuajimalpa en el DF (Cuartoscuro).</span>
+			</div>
+		</div>
+			  								<div align="right" class="videoTit videoTit1" id="videoTit1">
+				<a href="javascript:closeVideo();" class="closeVideo" id ="a1"><img alt="close" src="/images/cmx1_video_close.gif"></a>
+				<div class="videoX" id="videoDisplay1">
+					<a id="nacional_resulta_nota_rel_tfotogaleriap_video" class="urchin" href="javascript:addVideo(1, 'videos/2015/01/29/explosion-en-el-hospital-infantil-de-cuajimalpa', 'http://cf.c.ooyala.com/VsOWgyczpAOL99OVmQ3w-dtzqJfkgpEv/DLOokYc8UKM-fB9H4xMDoxOjBrO-I4W8', 0);">
+                                            <img width="100%" height="100%" alt="Explosión en el hospital infantil de Cuajimalpa" class="img-video" src="http://cf.c.ooyala.com/VsOWgyczpAOL99OVmQ3w-dtzqJfkgpEv/DLOokYc8UKM-fB9H4xMDoxOjBrO-I4W8" id="img_" />
+                                            <img src="/images/cmx1_video_play.gif" alt="reproducir" class="btnPlay" />
+					</a>
+				</div>
+				<span>Explosión en el hospital infantil de Cuajimalpa</span>
+			</div>
+			<script>totalVideos++;</script>
+					<div align="right" class="videoTit videoTit2" id="videoTit2">
+				<a href="javascript:closeVideo();" class="closeVideo" id ="a2"><img alt="close" src="/images/cmx1_video_close.gif"></a>
+				<div class="videoX" id="videoDisplay2">
+					<a id="nacional_resulta_nota_rel_tfotogaleriap_video" class="urchin" href="javascript:addVideo(2, 'videos/2015/01/29/una-pipa-de-gas-explota-en-un-hospital-infantil', 'http://cf.c.ooyala.com/1kcGQyczqMfPg1Tys8PnrZsklJaraHnL/promo246823499', 0);">
+                                            <img width="100%" height="100%" alt="Una pipa de gas explota en un hospital infantil" class="img-video" src="http://cf.c.ooyala.com/1kcGQyczqMfPg1Tys8PnrZsklJaraHnL/promo246823499" id="img_" />
+                                            <img src="/images/cmx1_video_play.gif" alt="reproducir" class="btnPlay" />
+					</a>
+				</div>
+				<span>Una pipa de gas explota en un hospital infantil</span>
+			</div>
+			<script>totalVideos++;</script>
+					        	<!--googleon: all-->
+	<div id="cambiarFuente">
+		<p><b class=fuente>CIUDAD DE MÉXICO (CNNMéxico) &mdash; </b>Sorpresa, miedo, preocupaci&oacute;n.&nbsp;</p>
+<p>Habitantes del Distrito Federal recuerdan con esas palabras la explosi&oacute;n de una pipa de gas que ocurri&oacute; la ma&ntilde;ana de este jueves en el Hospital Materno Infantil de Cuajimalpa, en el poniente de la capital, que desde temprano moviliz&oacute; a las autoridades federales y locales y, hasta el momento, ha dejado tres muertos y m&aacute;s de 70 heridos.&nbsp;</p>
+<p>"Pens&eacute; que estaba temblando, los vidrios de mi casa se rompieron, pero cuando sal&iacute; hab&iacute;a humo, hab&iacute;a explotado el hospital", dijo una vecina de la calle 16 de Septiembre, la misma donde se ubica el centro m&eacute;dico siniestrado.&nbsp;</p>
+<p>Momentos antes del estallido, Ana Ayala se encontraba en su papeler&iacute;a y escuch&oacute; a polic&iacute;as del m&oacute;dulo de seguridad de la zona gritar que la vialidad deb&iacute;a ser evacuada.&nbsp;</p>
+<p>El motivo era que una pipa de gas, propiedad de la empresa Gas Express Nieto, la cual abastec&iacute;a la cocina del hospital, hab&iacute;a sufrido una fuga en una manguera.&nbsp;</p>
+<p>Junto con otras personas, Ayala ayud&oacute; a sacar a los ni&ntilde;os de las escuelas cercanas y a guiarlos fuera de la calle. Seg&uacute;n la mujer, lograron llegar a la esquina antes de ocurriera la explosi&oacute;n.</p>
+<p>"S&oacute;lo vi c&oacute;mo el material y el humo sal&iacute;an del centro del hospital, qued&eacute; en p&aacute;nico, ya no pude m&aacute;s, no quise regresar, todo se volvi&oacute; un caos", dijo.&nbsp;</p>
+<p>A partir de ese momento, polic&iacute;as y bomberos comenzaron a laborar, mientras autoridades suspendieron labores en las escuelas aleda&ntilde;as, enviaron a los ni&ntilde;os a sus casas y comenzaron a utilizar los planteles como puntos de reuni&oacute;n para m&eacute;dicos y familiares de heridos.</p>
+<p>En la calle empezaron a mezclarse polic&iacute;as, funcionarios de Protecci&oacute;n Civil, militares y ciudadanos que miraban hacia la zona acordonada y ped&iacute;an informaci&oacute;n.&nbsp;</p>
+<p>"Hay que tener calma", dijo entonces un polic&iacute;a capitalino a una de las personas que lo cuestionaban.&nbsp;</p>
+<p>A un costado, Estela Casta&ntilde;eda lloraba y reclamaba: "No me han dicho nada, mi hermana es enfermera, le toc&oacute; trabajar y sal&iacute;a en la ma&ntilde;ana".&nbsp;</p>
+<p>Jos&eacute; Manr&iacute;quez, un joven de 22 a&ntilde;os, compart&iacute;a la preocupaci&oacute;n. Su esposa, Edith Castella&ntilde;os, hab&iacute;a dado a luz horas antes y se qued&oacute; en el hospital mientras &eacute;l fue a casa a descansar y por cosas para su beb&eacute;. Pa&ntilde;alera en brazos, Manr&iacute;quez caminaba y dec&iacute;a: "No me voy a ir hasta que me digan algo".&nbsp;</p>
+<p>Horas despu&eacute;s, personal de Protecci&oacute;n Civil comenz&oacute; a acercarse a los familiares para reunirlos en una escuela, mientras el servicio Locatel public&oacute; una lista de los heridos y los centros m&eacute;dicos a los que hab&iacute;an sido enviados.&nbsp;</p>
+<p>De manera similar, trabajadores del hospital que apenas estaban por empezar su turno hac&iacute;an listados y preguntaban por sus compa&ntilde;eros que estaban dentro al momento del siniestro.&nbsp;</p>
+<p>"Me siento triste porque varios al parecer resultaron quemados y hay otros a los que todav&iacute;a no encuentran", dijo Diana Morgan, una enfermera que buscaba a sus colegas. "M&oacute;nica, Ana Lilia...", fueron los primeros nombres que llegaron a su mente.&nbsp;</p>
+<p>Luego de que cerca de 70% del edificio quedara colapsado, polic&iacute;as locales y federales, bomberos, elementos de la Cruz Roja y soldados montaron un cerco en la calle para permitir el inicio de las tareas de b&uacute;squeda y rescate de personas atrapadas entre los escombros, encabezadas por binomios caninos.&nbsp;</p>
+<p>Asimismo, los vecinos empezaron a organizarse para apoyar en esas labores.&nbsp;</p>
+<p>"Yo tengo dos garrafones, si quieren pueden usarlos", dijo una vecina a los rescatistas.&nbsp;</p>
+<p>Por su parte, la familia de Ayala comenz&oacute; a preparar comida. "Hay que ayudar de alguna forma", coment&oacute; la mujer.&nbsp;</p>
+<p>Hacia las 17:00 horas segu&iacute;an los trabajos de b&uacute;squeda y rescate, apoyados por una excavadora para remover los escombros.&nbsp;</p>
+<p>Mientras tanto, seg&uacute;n las autoridades capitalinas, los tres operadores de la pipa siniestrada estaban detenidos, los familiares de los heridos se manten&iacute;an en hospitales esperando noticias de sus allegados y el jefe de gobierno del DF, Miguel &Aacute;ngel Mancera, aseguraba que buscar&aacute; que la empresa se haga responsable de los hechos.&nbsp;</p>
+<p>"Vamos a trabajar para que, con todo el peso de la ley, a la compa&ntilde;&iacute;a de gas se le haga responsable de todos y cada uno de los da&ntilde;os", dijo el funcionario a medios.</p>
+
+	</div>
+	<!--googleoff: all-->
+	<br class="limpia" />
+	<div id="keywords">Encuentra este art&iacute;culo con: cuajimalpa, explosion, pipa, hospital, df, ciudad, muertos, lesionados, heridos, federal, heridos</div>
+</div>
+<!--16.607ms--><!-- Se meten medidas para youtube================================== -->
+<script type="text/javascript" language="javascript">
+window.addEvent('domready', function(){
+	$$('.youtube_iframe').setStyle('width','462px');
+	$$('.youtube_iframe').setStyle('height','260px');
+});
+</script>
+<!--=================================================================-->
+</article>
+            <!--<scr    ipt type="text/javascript" language="javascript" src="/js/enviarAmigo.js"></script>-->
+<script src="/js/cmx2_viewlet_contenido_peronalizado_save_relacionados.js" type="text/javascript"></script>
+<div id="resulta_toolbar">
+    <div id="tool-container">
+        <div id="text-social">
+            Hazte fan de CNNM&eacute;xico en <a target="_blank" id="general_resulta_haztefan_Facebook" class="urchin" href="http://www.facebook.com/CNNMexico">Facebook</a> y s&iacute;guenos en <a id="general_resulta_haztefan_twitter" class="urchin" target="_blank" href="http://twitter.com/cnnmex">Twitter</a> para estar actualizado de lo m&aacute;s relevante en M&eacute;xico y el mundo.
+        </div>
+        <ul id="toolBal">
+            <!--li><a href="javascript:void(0);" id="guardar" class="btn guardar urchin">&nbsp;</a></li-->
+            <li><a href="javascript:void(0);" id="guardar">&nbsp;</a></li>
+            <li><a href="/imprimir.php?url=<?=$permanent_link?>" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow" id="imprimir_nota" class="btn imprimir urchin">&nbsp;</a></li>
+        </ul>
+    </div>
+    <style type="text/css">
+        #resulta_toolbar li{
+            background:none;
+            list-style-type: none;
+            float:left;
+            padding:0px;
+            margin: 0px 6px 0px 0px;
+            text-align: left;
+        }
+        #resulta_toolbar li a:hover{
+            text-decoration: none !important;
+        }
+        #resulta_toolbar #tool-container{
+            background-color: #F0F0F0;
+            border: 1px solid #E2E2E2;
+            margin: 6px 6px 6px 165px;
+            min-height: 105px;
+        }
+
+        #text-social{
+            color: #464646;
+            font: 13px/20px Arial;
+            height: 40px;
+            margin: 20px 18px 12px !important;
+        }
+        #text-social a{
+            font-weight: bold;
+            color: #005588;
+        }
+        #toolBal{
+            margin-left: 18px;
+        }
+
+
+        /*#at16pt{
+            background-color: #CA0002 !important;
+        }
+        #at16pf{
+            background-color: #CA0002 !important;
+        }
+        #at16pt h4,a {
+            color: #FFFFFF !important;
+        }*/
+    </style>
+</div>
+<style>
+#contbrain{width:624px;height:100%;position: relative;display: inline-block;}
+#contbrain .ob_what{display: none;}
+</style>
+<div id="contbrain">
+        <div class="OUTBRAIN" data-src="http://www.cnnmexico.com/nacional/2015/01/30/la-explosion-en-un-hospital-infantil-pone-en-panico-al-distrito-federal" data-widget-id="AR_2" data-ob-template="cnnmexico" ></div>
+        <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+        <div class="OUTBRAIN" data-src="http://www.cnnmexico.com/nacional/2015/01/30/la-explosion-en-un-hospital-infantil-pone-en-panico-al-distrito-federal" data-widget-id="AR_3" data-ob-template="cnnmexico" ></div>
+        <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+			<div id="show_tiny"></div>
+			<div id="iniComentarios"></div>
+ 			<div id='commentsDiv' style="padding-left:12px;">
+		{
+  "comments": "\r\n\r\n<!-- CSS -->\r\n<style>\r\n    .gig-commentsPlugin\r\n    {\r\n        font-family: arial;\r\n        font-size: 12px;\r\n        width: 500px;\r\n    }\r\n    .gig-textReset, .gig-commentsPlugin table, .gig-commentsPlugin td\r\n    {\r\n        font-family: arial;\r\n        font-size: 12px;\r\n    }\r\n    .gig-comments\r\n    {\r\n    }\r\n    .gig-addComment\r\n    {\r\n    }\r\n    .gig-userInfo\r\n    {\r\n        padding-bottom: 5px;\r\n    }\r\n    .gig-comment\r\n    {\r\n        background-color: #FFFFFF;\r\n        padding-top: 15px;\r\n    }\r\n    .gig-comment-child\r\n    {\r\n        background-color: #F3F3F3;\r\n        margin-top: 5px;\r\n        padding: 12px 10px 10px;\r\n    }\r\n    .gig-comment-body\r\n    {\r\n        padding-bottom: 5px;\r\n        padding-top: 5px;\r\n    }\r\n    .gig-comment-text\r\n    {\r\n        color: red;\r\n    }\r\n    .gig-comment-children\r\n    {\r\n    }\r\n    .gig-comment-photo\r\n    {\r\n        padding-right: 5px;\r\n        vertical-align: top;\r\n        width: 32px;\r\n    }\r\n    .gig-comment-photoImage32\r\n    {\r\n        height: 32px;\r\n        width: 32px;\r\n    }\r\n    .gig-comment-photoImage48\r\n    {\r\n        height: 48px;\r\n        width: 48px;\r\n    }\r\n    .gig-comment-username\r\n    {\r\n        color: #2181CA;\r\n        font-size: 12px;\r\n        font-weight: bold;\r\n        vertical-align: top;\r\n    }\r\n    .gig-comment-time\r\n    {\r\n        color: #919191;\r\n        font-size: 11px;\r\n        font-weight: bold;\r\n        padding-left: 10px;\r\n        text-align: left;\r\n        vertical-align: bottom;\r\n    }\r\n    .gig-commentbox-textarea\r\n    {\r\n        height: 88px;\r\n        margin: 0;\r\n        padding: 0;\r\n        width: 100%;\r\n    }\r\n    .gig-postNewComment\r\n    {\r\n        color: #4D4D4D;\r\n    }\r\n    .gig-logoutLink\r\n    {\r\n        color: #2181CA;\r\n        cursor: pointer;\r\n        font-size: 11px;\r\n    }\r\n    .gig-login-or-guest\r\n    {\r\n        color: #4D4D4D;\r\n        cursor: pointer;\r\n        font-size: 13px;\r\n        font-weight: bold;\r\n        position: relative;\r\n        z-index: 5;\r\n    }\r\n    .gig-dropdown-left\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/button_left.png');\r\n        background-repeat: no-repeat;\r\n        height: 29px;\r\n        width: 7px;\r\n    }\r\n    .gig-dropdown-mid\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/button_mid.png');\r\n        height: 29px;\r\n    }\r\n    .gig-dropdown-text-guest\r\n    {\r\n        font-size: 13px;\r\n        font-weight: bold;\r\n        padding-left: 5px;\r\n        padding-right: 25px;\r\n    }\r\n    .gig-dropdown-text-siteLogin\r\n    {\r\n        font-size: 13px;\r\n        font-weight: bold;\r\n        padding-left: 5px;\r\n        padding-right: 35px;\r\n    }\r\n    .gig-dropdown-text-login\r\n    {\r\n        font-size: 13px;\r\n        font-weight: bold;\r\n        padding-left: 5px;\r\n        padding-right: 10px;\r\n    }\r\n    .gig-dropdown-right-networks\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/ButtonLogin.png');\r\n        height: 29px;\r\n        width: 92px;\r\n    }\r\n    .gig-dropdown-right-networks-pressed\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/ButtonLogin_pressed.png');\r\n        height: 29px;\r\n        width: 92px;\r\n    }\r\n    .gig-dropdown-right\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/Button_combo.png');\r\n        background-repeat: no-repeat;\r\n        height: 29px;\r\n        width: 25px;\r\n    }\r\n    .gig-dropdown-right-pressed\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/Button_combo_pressed.png');\r\n        background-repeat: no-repeat;\r\n        height: 29px;\r\n        width: 25px;\r\n    }\r\n    .gig-dropdown-right-arrow\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/Button_goArrow.png');\r\n        background-repeat: no-repeat;\r\n        height: 29px;\r\n        width: 17px;\r\n    }\r\n    .gig-button-left\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/button_left.png');\r\n        background-repeat: no-repeat;\r\n        height: 29px;\r\n        width: 7px;\r\n    }\r\n    .gig-button-mid\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/button_mid.png');\r\n        background-repeat: repeat-x;\r\n        height: 29px;\r\n    }\r\n    .gig-button-right\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/Button_right.png');\r\n        background-repeat: no-repeat;\r\n        height: 29px;\r\n        width: 7px;\r\n    }\r\n    .gig-button-left-disabled\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/buttonDis_left.png');\r\n        background-repeat: no-repeat;\r\n        height: 29px;\r\n        width: 7px;\r\n    }\r\n    .gig-button-mid-disabled\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/buttonDis_mid.png');\r\n        background-repeat: repeat-x;\r\n        height: 29px;\r\n    }\r\n    .gig-button-right-disabled\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/buttonDis_right.png');\r\n        background-repeat: no-repeat;\r\n        height: 29px;\r\n        width: 7px;\r\n    }\r\n    .gig-OKButton-left\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/OKbutton_left.png');\r\n        background-repeat: no-repeat;\r\n        height: 20px;\r\n        width: 4px;\r\n    }\r\n    .gig-OKButton-mid\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/OKButton_mid.png');\r\n        background-repeat: repeat-x;\r\n        height: 20px;\r\n    }\r\n    .gig-OKButton-right\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/OKButton_right.png');\r\n        background-repeat: no-repeat;\r\n        height: 20px;\r\n        width: 4px;\r\n    }\r\n    .gig-replyButton-left\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/replybutton_left.png');\r\n        background-repeat: no-repeat;\r\n        height: 20px;\r\n        width: 4px;\r\n    }\r\n    .gig-replyButton-mid\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/replyButton_mid.png');\r\n        background-repeat: repeat-x;\r\n        height: 20px;\r\n    }\r\n    .gig-replyButton-right\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/replyButton_right.png');\r\n        background-repeat: no-repeat;\r\n        height: 20px;\r\n        width: 4px;\r\n    }\r\n    .gig-replyButton-left-disabled\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/replybutton_Dis_left.png');\r\n        background-repeat: no-repeat;\r\n        height: 20px;\r\n        width: 4px;\r\n    }\r\n    .gig-replyButton-mid-disabled\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/replyButton_Dis_mid.png');\r\n        background-repeat: repeat-x;\r\n        height: 20px;\r\n    }\r\n    .gig-replyButton-right-disabled\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/replyButton_Dis_right.png');\r\n        background-repeat: no-repeat;\r\n        height: 20px;\r\n        width: 4px;\r\n    }\r\n    .gig-button-text\r\n    {\r\n        padding-left: 5px;\r\n        padding-right: 5px;\r\n    }\r\n    .gig-addComment-textarea\r\n    {\r\n        margin: 0;\r\n        padding-bottom: 10px;\r\n        padding-top: 10px;\r\n    }\r\n    .gig-button\r\n    {\r\n        color: #4D4D4D;\r\n        cursor: pointer;\r\n        font-weight: bold;\r\n    }\r\n    .gig-button-disabled\r\n    {\r\n        color: #B4B4B4;\r\n        cursor: default;\r\n        font-weight: bold;\r\n    }\r\n    .gig-button-ok\r\n    {\r\n        font-size: 12px;\r\n    }\r\n    .gig-button-post\r\n    {\r\n        font-size: 13px;\r\n    }\r\n    .gig-button-reply\r\n    {\r\n        font-size: 11px;\r\n        font-weight: normal;\r\n    }\r\n    .gig-checkboxImage\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/checkbox.gif');\r\n        background-repeat: no-repeat;\r\n        height: 11px;\r\n        padding-right: 5px;\r\n        width: 11px;\r\n    }\r\n    .gig-checkbox\r\n    {\r\n        cursor: pointer;\r\n        float: left;\r\n    }\r\n    .gig-checkboxImage-checked\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/checkbox_Checked.gif');\r\n        background-repeat: no-repeat;\r\n        height: 11px;\r\n        padding-right: 5px;\r\n        width: 11px;\r\n    }\r\n    .gig-loginDropdown\r\n    {\r\n    }\r\n    .gig-loginUI\r\n    {\r\n        z-index: 4;\r\n    }\r\n    .gig-guestDropdown\r\n    {\r\n        color: #919191;\r\n        font-family: arial;\r\n        font-size: 10px;\r\n        padding: 10px;\r\n    }\r\n    .gig-textbox\r\n    {\r\n        color: #919191;\r\n        font-size: 12px;\r\n        height: 20px;\r\n        width: 150px;\r\n    }\r\n    .gig-textbox-nickname\r\n    {\r\n    }\r\n    .gig-error-text\r\n    {\r\n        color: red;\r\n        font-weight: bold;\r\n    }\r\n    .gig-shareCommentOn\r\n    {\r\n        padding-right: 5px;\r\n    }\r\n    .gig-addReply\r\n    {\r\n        background-color: #F3F3F3;\r\n        margin-top: 5px;\r\n        padding: 12px 10px 10px;\r\n    }\r\n    .gig-close-icon\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/close_icon.png');\r\n        background-repeat: no-repeat;\r\n        cursor: pointer;\r\n        height: 15px;\r\n        width: 15px;\r\n    }\r\n    .gig-awaiting-moderation-text\r\n    {\r\n        color: #4D4D4D;\r\n        font-size: 11px;\r\n        font-style: italic;\r\n        font-weight: bold;\r\n    }\r\n    .gig-comments-header\r\n    {\r\n        color: #4D4D4D;\r\n        font-size: 16px;\r\n        font-weight: bold;\r\n        padding-top: 25px;\r\n    }\r\n    .gig-rss-icon\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/icon_RSS.gif');\r\n        background-repeat: no-repeat;\r\n        cursor: pointer;\r\n        height: 14px;\r\n        margin-left: 10px;\r\n        width: 14px;\r\n    }\r\n    .gig-dottedLine\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/SepLine.gif');\r\n        background-repeat: repeat-x;\r\n        height: 1px;\r\n        margin-top: 5px;\r\n    }\r\n    .gig-expand-arrow\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/icon_ExpandReply.png');\r\n        background-repeat: no-repeat;\r\n        height: 10px;\r\n        margin-left: 10px;\r\n        width: 10px;\r\n    }\r\n    .gig-collapse-arrow\r\n    {\r\n        background-image: url('http://cdn.gigya.com/gs/i/comments/icon_CollapsReply.png');\r\n        background-repeat: no-repeat;\r\n        height: 10px;\r\n        margin-left: 10px;\r\n        width: 10px;\r\n    }\r\n    .gig-replies-length-text\r\n    {\r\n        color: #2181CA;\r\n        cursor: pointer;\r\n        font-family: arial;\r\n        font-size: 11px;\r\n        text-decoration: underline;\r\n    }\r\n    .gig-button-reply\r\n    {\r\n        display: none;\r\n    }\r\n</style>\r\n<!-- HTML -->\r\n\r\n<div class='gig-commentsPlugin'>\r\n\r\n\r\n</div>\r\n",
+  "commentCount": 0,
+  "next": "0",
+  "nextTS": 0,
+  "hasMore": false,
+  "statusCode": 200,
+  "errorCode": 0,
+  "statusReason": "OK",
+  "callId": "3e1b999222b7401f8e091230aad5a3d6"
+}			</div>
+        	<script type='text/javascript'>
+                        window.addEvent('domready',function(){
+                                var uac = new gigya.socialize.UserAction();
+                                uac.setActionName("ha comentado");
+                                var uac_title = $$('h1.titulo')[0].get('text');
+                                uac_title = uac_title.replace(/"/g,"'");
+                                uac.setTitle(uac_title);
+
+                                var tiny = "Comparte esta liga: " + $('tiny_url').value;
+
+                                $('show_tiny').set('text', tiny);
+                                $('show_tiny').setStyles({
+                                        'height': '24px',
+                                        'float': 'right',
+                                        'line-height': '24px',
+                                        'color': '#464646',
+                                        'font-size': '11px',
+                                        'font-weight': 400
+                                });
+
+                                var paramsc ={
+                                        categoryID: 'Elecciones',
+                                        streamID: 'nacional/2015/01/30/la-explosion-en-un-hospital-infantil-pone-en-panico-al-distrito-federal',
+                                        userAction:uac,
+                                        streamURL: 'http://mexico.cnn.com/nacional/2015/01/30/la-explosion-en-un-hospital-infantil-pone-en-panico-al-distrito-federal',
+                                        containerID: 'commentsDiv',
+                                        cid:cid,
+                                        width:600,
+                                        privacy: 'public',
+                                        scope: 'both',
+                                        shortURLs: 'never',
+                                        enabledShareProviders: 'facebook, twitter, google, yahoo, messenger, linkedin, foursquare',
+                                        onLoad: function(){
+                                        //var pinterest = $$("div .gig-share-bar-container")[0].getElement("table").getElementsByTagName("td")[17];
+                                        var pinterest = $$("div .gig-share-bar-container")[1].getElement("table").getElementsByTagName("td")[16];
+                                                if(pinterest){
+                                                        var comentarios = new Element('td');
+                                                        comentarios.id="comentarios";
+                                                        comentarios.inject(pinterest,"before");
+                                                        if( $( 'comentarios' ) )
+                                                        {
+                                                                var referencia = new Element('a');
+                                                                referencia.id="referencia";
+                                                                referencia.href=document.location.href+"#iniComentarios";
+                                                                referencia.inject(comentarios);
+                                                                var numtotal = new Element('span');
+                                                                numtotal.id='numtotal';
+                                                                var total = $$('.gig-comments-commentList-header')[0].get('text').match(/[0-9]+/)[0].toInt();
+                                                                numtotal.inject("referencia","after");
+                                                                $( 'numtotal' ).set( 'html', total  );
+                                                        }
+                                                }
+                                        }
+                                }
+                                gigya.socialize.showCommentsUI(paramsc);
+                         });
+        	</script>
+    </div>
+        </div><div class="master-column-two"><link rel="stylesheet" type="text/css" href="/css/cmx2_sidebar.css" />
+<aside id="cmx2_sidebar">
+    <div id="cmx2_banner_box1" class="viewlet externo banner" style="min-height:270px; max-height:625px;">
+                    <div id='box_banner_1' style='margin-bottom: 25px;'>
+                        <script type='text/javascript'>
+                    googletag.display('box_banner_1');
+                </script>
+            </div>
+	<!-- End ad tag -->
+</div>
+<!--<script src="//ajax.googleapis.com/ajax/libs/mootools/1.4.5/mootools-yui-compressed.js"></script>-->
+<script type="text/javascript" src="/js/cmx2_portlet_multivideo.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/cmx2_portlet_multivideo_canales.css"/>
+<style>
+.contenido{width:500px;margin-right:0px;margin-left:0px;}
+</style>
+
+<div id="separador"></div>
+<div id="caja">
+	<div id="title_box">
+		<div id="title_text">Video</div>
+	</div>
+	<div class="principal_multimedia">
+		<div class="videoDisplay">
+			<iframe class="iframe">
+			</iframe>
+		</div>
+		<div class="imagenDisplay">
+			<a id="nacional_nacional_resulta_multivideo_canales_principal" class="urchin" onclick="muestravideo('videos/2015/01/29/mancera-describe-la-explosion-en-cuajimalpa')">
+				<img class="celdaImagenPrincipal" src="http://cf.c.ooyala.com/M4YXIyczpb8_fwplvTQqe6TDeA1qutze/QCdjB5HwFOTaWQ8X4xMDoxOjBrO-I4W8" alt="cnnmexico">
+				<div class=" frontImage video_top">
+                    <div class="expandible">&nbsp;</div>
+				</div>
+			</a>
+		</div>
+	</div>
+
+	<div class="top_title">Mancera describe la explosión en Cuajimalpa</div>
+	<div class="celda_title"></div>
+
+	<div class="izq urchin" id="nacional_nacional_resulta_multivideo_canales_flecha_izq"></div>
+	<div class="carrusel_secundarias_multimedia">
+		<div class="contenido">
+			<div class="videoSpace">
+				<div class="celda_secundarias">
+					<div class='multimedia_arriba'>							<div class="small">
+								<a class="urchin" id="nacional_nacional_resulta_multivideo_canales_1_imagen" onclick="muestravideo('videos/2015/01/29/es-una-situacion-lamentable-osorio-chong'); showVideo('Es una situación lamentable: Osorio Chong');">
+									<!--<div class="video_mini cont_"></div>-->
+									<div class="imageContainer2">
+									<div class="frontImage2 video_mini"></div>
+								<img alt='cnnmexico' class='celdaImagen' src='http://cf.c.ooyala.com/9oa2syczqP592QuRKcdo2Qb54OGr2jwp/3Gduepif0T1UGY8H4xMDoxOjBrO-I4W8'/>									</div>
+									<div class="celdaTitulo">Es una situación lamentable: Osorio Chong</div>
+								</a>
+							</div>
+													<div class="small">
+								<a class="urchin" id="nacional_nacional_resulta_multivideo_canales_2_imagen" onclick="muestravideo('videos/2015/01/29/el-gobierno-nos-investiga-madre-de-normalista'); showVideo('El gobierno nos investiga: madre de normalista');">
+									<!--<div class="video_mini cont_"></div>-->
+									<div class="imageContainer2">
+									<div class="frontImage2 video_mini"></div>
+								<img alt='cnnmexico' class='celdaImagen' src='http://cf.c.ooyala.com/JvcjgyczosY0Acn-4yh4gcTJdlkoDUJS/promo246807333'/>									</div>
+									<div class="celdaTitulo">El gobierno nos investiga: madre de normalista</div>
+								</a>
+							</div>
+													<div class="small">
+								<a class="urchin" id="nacional_nacional_resulta_multivideo_canales_5_imagen" onclick="muestravideo('videos/2015/01/29/una-pipa-de-gas-explota-en-un-hospital-infantil'); showVideo('Una pipa de gas explota en un hospital infantil');">
+									<!--<div class="video_mini cont_"></div>-->
+									<div class="imageContainer2">
+									<div class="frontImage2 video_mini"></div>
+								<img alt='cnnmexico' class='celdaImagen' src='http://cf.c.ooyala.com/1kcGQyczqMfPg1Tys8PnrZsklJaraHnL/promo246823499'/>									</div>
+									<div class="celdaTitulo">Una pipa de gas explota en un hospital infantil</div>
+								</a>
+							</div>
+													<div class="small">
+								<a class="urchin" id="nacional_nacional_resulta_multivideo_canales_6_imagen" onclick="muestravideo('videos/2015/01/28/estado-debe-cambiar-actitud-tras-caso-iguala-cndh'); showVideo('Estado debe cambiar actitud tras caso Iguala: CNDH');">
+									<!--<div class="video_mini cont_"></div>-->
+									<div class="imageContainer2">
+									<div class="frontImage2 video_mini"></div>
+								<img alt='cnnmexico' class='celdaImagen' src='http://cf.c.ooyala.com/RwaHUxczrlmMd5FliHBmFBvbQX5ZmM31/3Gduepif0T1UGY8H4xMDoxOjBrO-I4W8'/>									</div>
+									<div class="celdaTitulo">Estado debe cambiar actitud tras caso Iguala: CNDH</div>
+								</a>
+							</div>
+						</div><div class='multimedia_abajo'>							<div class="small">
+								<a class="urchin" id="nacional_nacional_resulta_multivideo_canales_3_imagen" onclick="muestravideo('videos/2015/01/29/testigos-relatan-la-explosion-del-hospital'); showVideo('Testigos relatan la explosión del hospital ');">
+									<!--<div class="video_mini cont_"></div>-->
+									<div class="imageContainer2">
+									<div class="frontImage2 video_mini"></div>
+								<img alt='cnnmexico' class='celdaImagen' src='http://cf.c.ooyala.com/42MGgyczpRIzYBMEF--ajmkgMnWFD1o-/rQqFhpGihXXoLKSn4xMDoxOjA4MTsiGN'/>									</div>
+									<div class="celdaTitulo">Testigos relatan la explosión del hospital </div>
+								</a>
+							</div>
+													<div class="small">
+								<a class="urchin" id="nacional_nacional_resulta_multivideo_canales_4_imagen" onclick="muestravideo('videos/2015/01/29/explosion-en-el-hospital-infantil-de-cuajimalpa'); showVideo('Explosión en el hospital infantil de Cuajimalpa');">
+									<!--<div class="video_mini cont_"></div>-->
+									<div class="imageContainer2">
+									<div class="frontImage2 video_mini"></div>
+								<img alt='cnnmexico' class='celdaImagen' src='http://cf.c.ooyala.com/VsOWgyczpAOL99OVmQ3w-dtzqJfkgpEv/DLOokYc8UKM-fB9H4xMDoxOjBrO-I4W8'/>									</div>
+									<div class="celdaTitulo">Explosión en el hospital infantil de Cuajimalpa</div>
+								</a>
+							</div>
+													<div class="small">
+								<a class="urchin" id="nacional_nacional_resulta_multivideo_canales_7_imagen" onclick="muestravideo('videos/2015/01/28/hay-prisa-por-cerrar-el-caso-iguala-solalinde'); showVideo('Hay prisa por cerrar el caso Iguala: Solalinde');">
+									<!--<div class="video_mini cont_"></div>-->
+									<div class="imageContainer2">
+									<div class="frontImage2 video_mini"></div>
+								<img alt='cnnmexico' class='celdaImagen' src='http://cf.c.ooyala.com/pnZW0xczp3L50sEXVvLFxlBRp5nb5IcD/DLOokYc8UKM-fB9H4xMDoxOjBrO-I4W8'/>									</div>
+									<div class="celdaTitulo">Hay prisa por cerrar el caso Iguala: Solalinde</div>
+								</a>
+							</div>
+													<div class="small">
+								<a class="urchin" id="nacional_nacional_resulta_multivideo_canales_8_imagen" onclick="muestravideo('videos/2015/01/28/padres-de-normalistas-rechazan-version-de-pgr'); showVideo('Padres de normalistas rechazan versión de PGR');">
+									<!--<div class="video_mini cont_"></div>-->
+									<div class="imageContainer2">
+									<div class="frontImage2 video_mini"></div>
+								<img alt='cnnmexico' class='celdaImagen' src='http://cf.c.ooyala.com/43MWUxczqrm5m-FD2MGtA6mul3B8OX73/3Gduepif0T1UGY8H4yMDoxOjBrO0ctNr'/>									</div>
+									<div class="celdaTitulo">Padres de normalistas rechazan versión de PGR</div>
+								</a>
+							</div>
+						</div>				</div>
+			</div>
+		</div>
+	</div>
+	<div class="der urchin" id="nacional_nacional_resulta_multivideo_canales_flecha_der"></div>
+</div>
+	<!--style>
+	#cmx2_half_banner{
+		background-image:url(/images/publicidad.png);
+		background-position:right bottom;
+		background-repeat:no-repeat;
+		border-bottom:1px solid #e2e2e2 !important;
+		height:619px;
+	}
+	</style-->
+	<div id="cmx2_half_banner" class="viewlet">
+		<!-- Begin ad tag CnnMexico/...Resulta/300x600 -->
+		<div id='half_banner'>
+			<script type='text/javascript'>
+				googletag.display('half_banner');
+			</script>
+		</div>
+		<!-- End ad tag -->
+	</div>
+<div id="separador"></div><div id="cmx2_viewlet_externo" class="externo viewlet">
+		<a id="portlet_externo_Aristegui" class="urchin" href="http://blogs.cnnmexico.com/aristegui/" target=""><img src="/media/especiales/2013/10/15/especiales_sidebararistegui.jpg" border="0" alt="" /><br /></a>
+	</div>
+<div id="portlet_maspopular" class="viewlet" style="float:left;">
+	<script src="/js/manageTabs.class.js" type="text/javascript"></script>
+	<script src="/js/cmx2_portlet_maspopular.js" type="text/javascript"></script>
+	<link href="/css/cmx2_portlet_maspopular.css" rel="stylesheet" type="text/css" media="screen" />
+        <div class="header_patrocinio">
+	<h3>Lo m&aacute;s popular </h3>
+<div>
+
+<!-- begin ad tag-->
+
+	<div id='boton_popular' style='width:88px; height:31px;'>
+		<script type='text/javascript'>
+			googletag.display('boton_popular');
+		</script>
+	</div>
+
+
+
+<!-- End ad tag -->
+
+</div>
+
+        </div>
+<br style="display:block;"/>
+	<div class="menu" style="width:100%;">
+		<div class="maspopular urchin selected mp_Compartido_tab" id="nacional_nacional_resulta_mp_Compartido_tab">&nbsp;</div><div class="maspopular urchin normal mp_Leido_tab" id="nacional_nacional_resulta_mp_Leido_tab">&nbsp;</div><div class="maspopular urchin normal mp_Video_tab" id="nacional_nacional_resulta_mp_Video_tab">&nbsp;</div><div class="maspopular urchin normal mp_Fotogalerias_tab" id="nacional_nacional_resulta_mp_Fotogalerias_tab">&nbsp;</div>	</div>
+		<div class="urchin maspopular" id="nacional_nacional_resulta_mp_Compartido_contenido">
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_1">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/nacional/2015/01/29/la-historia-del-rescate-de-una-bebe-en-cuajimalpa-tiene-un-final-triste" id="nacional_nacional_resulta_maspopular_Compartido_1" class="urchin">Rescate de bebé en Cuajimalpa, con un final triste</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_2">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/nacional/2015/01/29/tiene-26-anos-es-camillero-y-la-explosion-lo-dejo-gravemente-herido" id="nacional_nacional_resulta_maspopular_Compartido_2" class="urchin">El camillero atrapado por la explosión de Cuajimalpa</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_3">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/entretenimiento/2015/01/29/shakira-y-gerard-pique-dan-la-bienvenida-a-su-segundo-hijo" id="nacional_nacional_resulta_maspopular_Compartido_3" class="urchin">Nace el segundo hijo de Shakira y Piqué</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_4">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/nacional/2015/01/29/le-dije-que-gracias-a-dios-estaba-viva-que-aun-no-le-tocaba-morir" id="nacional_nacional_resulta_maspopular_Compartido_4" class="urchin">"Empezó a oler a gas y se les cayó el techo"</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_5">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/nacional/2015/01/29/asi-ocurrio-la-explosion-en-el-hospital-de-maternidad-de-cuajimalpa" id="nacional_nacional_resulta_maspopular_Compartido_5" class="urchin">Explosión en Cuajimalpa: reconstrucción de hechos</a>
+			</div>
+		</div>
+			</div>
+		<div class="urchin maspopular oculto" id="nacional_nacional_resulta_mp_Leido_contenido">
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_1">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/nacional/2015/01/29/la-historia-del-rescate-de-una-bebe-en-cuajimalpa-tiene-un-final-triste" id="nacional_nacional_resulta_maspopular_Leido_1" class="urchin">Rescate de bebé en Cuajimalpa, con un final triste</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_2">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/salud/2015/01/30/una-joven-graba-video-porno-en-la-biblioteca-de-su-universidad" id="nacional_nacional_resulta_maspopular_Leido_2" class="urchin">Mujer de 19 años graba video 'porno' en biblioteca</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_3">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/nacional/2015/01/29/tiene-26-anos-es-camillero-y-la-explosion-lo-dejo-gravemente-herido" id="nacional_nacional_resulta_maspopular_Leido_3" class="urchin">El camillero atrapado por la explosión de Cuajimalpa</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_4">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/nacional/2015/01/29/asi-ocurrio-la-explosion-en-el-hospital-de-maternidad-de-cuajimalpa" id="nacional_nacional_resulta_maspopular_Leido_4" class="urchin">Explosión en Cuajimalpa: reconstrucción de hechos</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_5">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/nacional/2015/01/30/la-explosion-en-un-hospital-infantil-pone-en-panico-al-distrito-federal" id="nacional_nacional_resulta_maspopular_Leido_5" class="urchin">La explosión en un hospital pone "en pánico" al DF</a>
+			</div>
+		</div>
+			</div>
+		<div class="urchin maspopular oculto" id="nacional_nacional_resulta_mp_Video_contenido">
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_1">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="/videos/2015/01/29/testigos-relatan-la-explosion-del-hospital" id="nacional_nacional_resulta_maspopular_Video_1" class="urchin">Testigos relatan la explosión del hospital </a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_2">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="/videos/2015/01/29/explosion-en-el-hospital-infantil-de-cuajimalpa" id="nacional_nacional_resulta_maspopular_Video_2" class="urchin">Explosión en el hospital infantil de Cuajimalpa</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_3">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="/videos/2015/01/28/que-hace-un-oso-en-las-calles-de-londres" id="nacional_nacional_resulta_maspopular_Video_3" class="urchin">¿Qué hace un ‘oso’ en las calles de Londres?</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_4">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="/videos/2015/01/29/la-explosion-en-cuajimalpa-por-omision-o-falla" id="nacional_nacional_resulta_maspopular_Video_4" class="urchin">La explosión en Cuajimalpa, ¿por omisión o falla?</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_5">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="/videos/2015/01/27/el-caso-ayotzinapa-paso-a-paso" id="nacional_nacional_resulta_maspopular_Video_5" class="urchin">El caso Ayotzinapa, paso a paso</a>
+			</div>
+		</div>
+			</div>
+		<div class="urchin maspopular oculto" id="nacional_nacional_resulta_mp_Fotogalerias_contenido">
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_1">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/fotogalerias/2015/01/29/una-pipa-de-gas-explota-en-un-hospital-infantil-de-cuajimalpa-df" id="nacional_nacional_resulta_maspopular_Fotogalerias_1" class="urchin">Explosión en hospital infantil del DF</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_2">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/fotogalerias/2015/01/29/tragedias-por-explosiones-de-gas-que-han-enlutado-a-mexico" id="nacional_nacional_resulta_maspopular_Fotogalerias_2" class="urchin">Explosiones que han enlutado a México</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_3">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/fotogalerias/2015/01/27/sobrevivientes-regresan-a-auschwitz-70-anos-despues-de-la-liberacion" id="nacional_nacional_resulta_maspopular_Fotogalerias_3" class="urchin">Auschwitz 70 años después</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_4">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/fotogalerias/2015/01/21/entre-crisis-en-rusia-es-buen-momento-para-viajar-a-este-destino" id="nacional_nacional_resulta_maspopular_Fotogalerias_4" class="urchin">¿Es buen momento para viajar a Rusia?</a>
+			</div>
+		</div>
+				<div class="mp_contenedor_elemento">
+			<div class="mp_imagen mp_imagen_5">&nbsp;</div>
+			<div class="mp_contenedor_texto">
+				<a href="http://mexico.cnn.com/fotogalerias/2015/01/24/la-politica-el-nuevo-escenario-de-artistas-y-futbolistas" id="nacional_nacional_resulta_maspopular_Fotogalerias_5" class="urchin">Celebridades que 'saltan' a la política</a>
+			</div>
+		</div>
+			</div>
+	</div>
+<!--script src="//ajax.googleapis.com/ajax/libs/mootools/1.4.5/mootools-yui-compressed.js"></script-->
+<script language="JavaScript" type="text/javascript" src="/js/enableCarruselNew.class.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/cmx2_portlet_galerias.css" />
+<script language="JavaScript" type="text/javascript" src="/js/cmx2_portlet_galerias.js"></script>
+
+<div id="portlet_galerias" class="viewlet" style="height: 320px!important;">
+	<div class="titulares title">
+		<h3>Fotogaler&iacute;as <b>&raquo;</b></h3>
+		<div id="btnVerMas"><a href="/fotogalerias" id="nacional_nacional_resulta_btn_concentrador_fotogalerias" class="urchin"><img alt="canal_galerias" src="/images/btn_FG.jpg" /></a></div>
+	</div>
+
+	<div id="carouselBox">
+
+                <div id="controls" style="display:none;">
+                        <div id="nacional_nacional_portlet_galeria_anterior" class="urchin galleryBack"></div>
+                        <div id="portlet_galeria_controles">
+                                <div id="portlet_galeria_slideControles">
+                                                                                                <div id="nacional_nacional_portlet_carrusel_galeria_posicion_0" class="urchin galleryNumber normalitoNumber"><img style="width:49px;height:49px;" alt="Explosiones que han enlutado a México"/></div>
+                                                                                                <div id="nacional_nacional_portlet_carrusel_galeria_posicion_1" class="urchin galleryNumber selectionNumber"><img style="width:49px;height:49px;" alt="Explosión en hospital infantil del DF"/></div>
+                                                                                                <div id="nacional_nacional_portlet_carrusel_galeria_posicion_2" class="urchin galleryNumber normalitoNumber"><img style="width:49px;height:49px;" alt="Iguala, tras desaparición de normalistas"/></div>
+                                                                                                <div id="nacional_nacional_portlet_carrusel_galeria_posicion_3" class="urchin galleryNumber normalitoNumber"><img style="width:49px;height:49px;" alt="Un poste caído desquicia poniente del DF"/></div>
+                                                                                                <div id="nacional_nacional_portlet_carrusel_galeria_posicion_4" class="urchin galleryNumber normalitoNumber"><img style="width:49px;height:49px;" alt="Se quitan los pantalones en el Metro"/></div>
+                                                                        </div>
+                        </div>
+                        <div id="nacional_nacional_portlet_galeria_siguiente" class="urchin galleryNext"></div>
+                </div>
+
+		<div id="nacional_nacional_resulta_multigaleria_x_canal_flecha_back" class="antes urchin">
+			<a href="javascript:void(0)" onClick="botonant();">
+				<img alt="btnIzq_galeria" src="/images/flechaIzq_negro.jpg"/>
+			</a>
+		</div>
+
+		<div id="containerGallery">
+			<div id="contentGallery">
+
+									<div id="elementGallery1" class="elementGallery">
+					<script>
+						var num = 1;
+						var blockhide = function(){
+							if(num != 1){
+								$$('#elementGallery1').addClass('oculto');
+							}
+						};
+						blockhide();
+					</script>
+						<div id="contentImage" class="contentImage">
+							<a href="fotogalerias/2015/01/29/tragedias-por-explosiones-de-gas-que-han-enlutado-a-mexico" id="nacional_nacional_resulta_portlet_galeria_img_1" class="urchin">
+								<img id="elementGallery_img_1" class="elementGallery_img" alt="Explosiones que han enlutado a México" src="/thumb/2015/01/29/cuajimalpa-explosin-hospital-materno-2_300x169.jpg"/>
+								<script>$$('#elementGallery_img_1').addClass('horizontal');</script>							</a>
+						</div>
+						<div class="galleryTitle"><a href="fotogalerias/2015/01/29/tragedias-por-explosiones-de-gas-que-han-enlutado-a-mexico" id="nacional_nacional_resulta_portlet_galeria_tit_1" class="urchin">Explosiones que han enlutado a México</a></div>
+					</div>
+									<div id="elementGallery2" class="elementGallery">
+					<script>
+						var num = 2;
+						var blockhide = function(){
+							if(num != 1){
+								$$('#elementGallery2').addClass('oculto');
+							}
+						};
+						blockhide();
+					</script>
+						<div id="contentImage" class="contentImage">
+							<a href="fotogalerias/2015/01/29/una-pipa-de-gas-explota-en-un-hospital-infantil-de-cuajimalpa-df" id="nacional_nacional_resulta_portlet_galeria_img_2" class="urchin">
+								<img id="elementGallery_img_2" class="elementGallery_img" alt="Explosión en hospital infantil del DF" src="/thumb/2015/01/29/explosion-hospital-infantil_300x169.jpg"/>
+								<script>$$('#elementGallery_img_2').addClass('horizontal');</script>							</a>
+						</div>
+						<div class="galleryTitle"><a href="fotogalerias/2015/01/29/una-pipa-de-gas-explota-en-un-hospital-infantil-de-cuajimalpa-df" id="nacional_nacional_resulta_portlet_galeria_tit_2" class="urchin">Explosión en hospital infantil del DF</a></div>
+					</div>
+									<div id="elementGallery3" class="elementGallery">
+					<script>
+						var num = 3;
+						var blockhide = function(){
+							if(num != 1){
+								$$('#elementGallery3').addClass('oculto');
+							}
+						};
+						blockhide();
+					</script>
+						<div id="contentImage" class="contentImage">
+							<a href="fotogalerias/2015/01/25/iguala-tras-la-desaparicion-de-los-normalistas-de-ayotzinapa" id="nacional_nacional_resulta_portlet_galeria_img_3" class="urchin">
+								<img id="elementGallery_img_3" class="elementGallery_img" alt="Iguala, tras desaparición de normalistas" src="/thumb/2015/01/25/iguala1_300x169.jpg"/>
+								<script>$$('#elementGallery_img_3').addClass('horizontal');</script>							</a>
+						</div>
+						<div class="galleryTitle"><a href="fotogalerias/2015/01/25/iguala-tras-la-desaparicion-de-los-normalistas-de-ayotzinapa" id="nacional_nacional_resulta_portlet_galeria_tit_3" class="urchin">Iguala, tras desaparición de normalistas</a></div>
+					</div>
+									<div id="elementGallery4" class="elementGallery">
+					<script>
+						var num = 4;
+						var blockhide = function(){
+							if(num != 1){
+								$$('#elementGallery4').addClass('oculto');
+							}
+						};
+						blockhide();
+					</script>
+						<div id="contentImage" class="contentImage">
+							<a href="fotogalerias/2015/01/16/un-poste-caido-desquicia-al-poniente-del-df" id="nacional_nacional_resulta_portlet_galeria_img_4" class="urchin">
+								<img id="elementGallery_img_4" class="elementGallery_img" alt="Un poste caído desquicia poniente del DF" src="/thumb/2015/01/16/constituyentes-accidente-2_300x169.jpg"/>
+								<script>$$('#elementGallery_img_4').addClass('horizontal');</script>							</a>
+						</div>
+						<div class="galleryTitle"><a href="fotogalerias/2015/01/16/un-poste-caido-desquicia-al-poniente-del-df" id="nacional_nacional_resulta_portlet_galeria_tit_4" class="urchin">Un poste caído desquicia poniente del DF</a></div>
+					</div>
+									<div id="elementGallery5" class="elementGallery">
+					<script>
+						var num = 5;
+						var blockhide = function(){
+							if(num != 1){
+								$$('#elementGallery5').addClass('oculto');
+							}
+						};
+						blockhide();
+					</script>
+						<div id="contentImage" class="contentImage">
+							<a href="fotogalerias/2015/01/11/usuarios-del-metro-se-quitan-los-pantalones-por-quinto-ano-consecutivo" id="nacional_nacional_resulta_portlet_galeria_img_5" class="urchin">
+								<img id="elementGallery_img_5" class="elementGallery_img" alt="Se quitan los pantalones en el Metro" src="/thumb/2015/01/11/disfrutar-de-un-helado-sin-pantalones-pero-con-mucha-actitud_300x169.jpg"/>
+								<script>$$('#elementGallery_img_5').addClass('horizontal');</script>							</a>
+						</div>
+						<div class="galleryTitle"><a href="fotogalerias/2015/01/11/usuarios-del-metro-se-quitan-los-pantalones-por-quinto-ano-consecutivo" id="nacional_nacional_resulta_portlet_galeria_tit_5" class="urchin">Se quitan los pantalones en el Metro</a></div>
+					</div>
+							</div>
+		</div>
+		<div id="nacional_nacional_multigaleria_x_canal_flecha_next" class="despues urchin">
+			<a href="javascript:void(0)" onClick="botonsig();">
+				<img alt="btnDer_galeria" src="/images/flechaDer_negro.jpg"/>
+			</a>
+		</div>
+	</div>
+	<div class="celda0">
+<!--Nuevo tag========================================================-->
+		<div id='boton_fotogaleria' style='width:300px; height:100px;'>
+			<script type='text/javascript'>
+				googletag.display('boton_fotogaleria');
+			</script>
+		</div>
+<!--=================================================================-->
+	</div>
+</div>
+<div id="viewlet_seccion viewlet_nacional" class="viewlet_seccion viewlet">
+
+<div class="header_patrocinio">
+    <h3><a href="" target="" id="nacional_nacional_resulta_ultimas_noticias_general" class="urchin">Últimas noticias en CNN México</a> <b>&raquo;</b></h3>
+    <div>
+        <!-- begin ad tag-->
+        <div id='bin_ultimas_noticias' style='width:88px; height:31px;'>
+            <script type='text/javascript'>
+                googletag.display('bin_ultimas_noticias');
+            </script>
+        </div>
+        <!-- End ad tag -->
+    </div>
+</div>
+
+
+        <ul><li><a href="http://www.cnnmexico.com/salud/2015/01/30/el-virus-del-ebola-esta-mutando-podria-haber-contagios-aereos"  id="nacional_nacional_resulta_ultimas_noticias_0" class="urchin" >
+
+
+                El virus del Ébola está en proceso de mutación                        </a></li></ul>
+
+
+        <ul><li><a href="http://www.cnnmexico.com/mundo/2015/01/30/un-hombre-armado-irrumpe-en-un-canal-de-television-holandes"  id="nacional_nacional_resulta_ultimas_noticias_1" class="urchin" >
+
+
+                Un hombre armado irrumpe en la televisión holandesa                        </a></li></ul>
+
+
+        <ul><li><a href="http://www.cnnmexico.com/tecnologia/2015/01/30/el-mayor-arrepentimiento-de-bill-gates-en-su-vida"  id="nacional_nacional_resulta_ultimas_noticias_2" class="urchin" >
+
+
+                ¿De qué se arrepiente Bill Gates en su vida?                        </a></li></ul>
+
+
+        <ul><li><a href="http://www.cnnmexico.com/planetacnn/2015/01/30/un-perro-robado-hace-18-meses-se-reencuentra-con-su-dueno-por-internet"  id="nacional_nacional_resulta_ultimas_noticias_3" class="urchin" >
+
+
+                El 'milagroso' reencuentro de un hombre y su perro                        </a></li></ul>
+
+
+        <ul><li><a href="http://www.cnnmexico.com/mundo/2015/01/30/el-destino-de-dos-rehenes-de-isis-en-vilo-tras-cumplirse-la-fecha-limite"  id="nacional_nacional_resulta_ultimas_noticias_4" class="urchin" >
+
+
+                Destino en vilo: termina tiempo para rehenes de ISIS                        </a></li></ul>
+
+
+        <ul><li><a href="http://www.cnnmexico.com/salud/2015/01/30/una-joven-graba-video-porno-en-la-biblioteca-de-su-universidad"  id="nacional_nacional_resulta_ultimas_noticias_5" class="urchin" >
+
+
+                Mujer de 19 años graba video 'porno' en biblioteca                        </a></li></ul>
+
+
+        <ul><li><a href="http://www.cnnmexico.com/nacional/2015/01/30/la-explosion-en-un-hospital-infantil-pone-en-panico-al-distrito-federal"  id="nacional_nacional_resulta_ultimas_noticias_6" class="urchin" >
+
+
+                La explosión en un hospital pone "en pánico" al DF        <img src="/images/media_foto.jpg" alt="Fotogaler&iacute;a" border="0"/>                </a></li></ul>
+
+
+        <ul><li><a href="http://www.cnnmexico.com/adnpolitico/2015/01/29/madero-y-lozano-inician-operacion-cicatriz-en-el-pan-con-un-abrazo"  id="nacional_nacional_resulta_ultimas_noticias_7" class="urchin" >
+
+
+                Madero y Lozano inician operación cicatriz en el PAN                        </a></li></ul>
+
+
+        <ul><li><a href="http://www.cnnmexico.com/entretenimiento/2015/01/29/shakira-y-gerard-pique-dan-la-bienvenida-a-su-segundo-hijo"  id="nacional_nacional_resulta_ultimas_noticias_8" class="urchin" >
+
+
+                Nace el segundo hijo de Shakira y Piqué                        </a></li></ul>
+
+
+        <ul><li><a href="http://www.cnnmexico.com/nacional/2015/01/29/la-historia-del-rescate-de-una-bebe-en-cuajimalpa-tiene-un-final-triste"  id="nacional_nacional_resulta_ultimas_noticias_9" class="urchin" >
+
+
+                Rescate de bebé en Cuajimalpa, con un final triste                        </a></li></ul>
+
+ <p ><a href="/cmx2_listado_vermas.php?canal=nacional" class="btn_mas_info urchin" id="btn_mas_noticiasnacional"><br/></a></p>
+</div>
+<link rel="stylesheet" type="text/css" href="/css/cmx2_portlet_twittface.css" />
+<div id="portlet_twittface" class="viewlet">
+    <h3>S&iacute;guenos en <b>&raquo;</b></h3>
+    <a id="portlet_btn_twitter" class="btntwitter urchin" target="_blank" href="http://twitter.com/cnnmex">&nbsp;</a>
+    <a id="portlet_btn_facebook" class="btnface urchin" target="_blank"  href="http://www.facebook.com/CNNMexico">&nbsp;</a>
+</div>
+<div id='box_banner_4' style='padding-top:12px;float:left;'><script type='text/javascript'>googletag.display('box_banner_4');</script></div><!-- begin ad tag (tile=3) -->
+<div id="cmx2_banner_box2" class="viewlet externo banner" style="float:left;">
+<div class="bann">
+<!-- script type="text/javascript">
+if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+document.write('<script src="http://ad.doubleclick.net/adj/gee.mexico/nacional;pos=2;tile=2;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
+</script><noscript><a href="http://ad.doubleclick.net/jump/gee.mexico/nacional;pos=2;tile=2;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/gee.mexico/nacional;pos=2;tile=2;sz=300x250;ord=123456789?" width="300" height="250" alt=""/></a></noscript -->
+
+<!-- End ad tag -->
+
+    <!--div id='box_banner_2' style='width:300px; height:250px;'-->
+    <div id='box_banner_2' style='width:300px;max-height:600px;float:left;'>
+        <script type='text/javascript'>
+            googletag.display('box_banner_2');
+        </script>
+    </div>
+
+</div>
+</div>
+<!-- seccion:nacional--><!-- liga:nacional/2015/01/30/la-explosion-en-un-hospital-infantil-pone-en-panico-al-distrito-federal--></aside>
+</div>
+    </section>
+      </article>
+ </section>
+ </section>
+ <footer>
+  <nav id="portal-footer-toolbar">
+	<a id="footer_btn_rss" class="urchin btnrss" href="http://www.cnnmexico.com/sindicacion" ></a>
+        <a id="footer_btn_facebook" rel="external" href="http://www.facebook.com/CNNMexico" target="_blank" class="urchin btnfb"></a>
+	<a id="footer_btn_twitter" rel="external" href="http://twitter.com/cnnmex" target="_blank" class="urchin btntwitter"></a>
+        <a id="footer_btn_google" href="https://plus.google.com/+CNNMexico" rel="publisher" target="_blank" class="urchin btngoogle"></a>
+	<a id="footer_btn_widget_codigo" href="http://mexico.cnn.com/embed" class="urchin btncelular"></a>
+	<a id="footer_btn_newsletter" href="http://mexico.cnn.com/newsletter" class="btnnews urchin"></a>
+  </nav>
+  <div id="footer">
+  <div class="separador ">
+   <p>Otros sitios de <a id="footer_otrositios_grupoexp" class="urchin" href="http://www.grupoexpansion.mx/" target="_blank">Grupo Expansi&oacute;n</a></p>
+   <ul>
+    <li><a id="footer_otrositios_cnnexp" class="urchin" rel="external" href="http://www.cnnexpansion.com" target="_blank">CNNExpansi&oacute;n</a></li>
+    <li><a id="footer_otrositios_chilango" class="urchin" rel="external" href="http://www.chilango.com" target="_blank">Chilango</a></li>
+    <li><a id="footer_otrositios_quien" class="urchin" rel="external" href="http://www.quien.com" target="_blank">Qui&eacute;n</a></li>
+    <li><a id="footer_otrositios_mediotiempo" class="urchin" rel="external" href="http://www.mediotiempo.com" target="_blank">Medio Tiempo</a></li>
+    <li><a id="footer_otrositios_obras" class="urchin" rel="external" href="http://www.obrasweb.mx" target="_blank">Obras</a></li>
+    <li><a id="footer_otrositios_m3" class="urchin" rel="external" href="http://www.metroscubicos.com" target="_blank">Metros C&uacute;bicos</a></li>
+
+   </ul>
+  </div>
+  <div class="separador col2">
+   <p>Otros sitios de <a id="footer_otrositios_grupoexp" class="urchin" href="http://www.grupoexpansion.mx/" target="_blank">Grupo Expansi&oacute;n</a></p>
+   <ul>
+    <li><a id="footer_otrositios_manufactura" class="urchin" rel="external" href="http://www.cnnexpansion.com/manufactura" target="_blank">Manufactura</a></li>
+    <li><a id="footer_otrositios_idc" class="urchin" rel="external" href="http://www.idconline.com.mx" target="_blank">IDC OnLine</a></li>
+    <li><a id="footer_otrositios_quo" class="urchin" rel="external" href="http://www.quo.mx" target="_blank">Quo</a></li>
+    <li><a id="footer_otrositios_lifeystyle" class="urchin" rel="external" href="http://www.lifeandstyle.mx" target="_blank">Life & Style</a></li>
+   </ul>
+  </div>
+  <div class="separador ">
+   <p>CNNM&eacute;xico</p>
+   <ul>
+    <!--li><a id="footer_servicios_registrate" class="urchin" href="/register.php">Reg&iacute;strate</a></li>
+    <li><a id="footer_servicios_login" class="urchin" href="/login.php">Ingresa con tu clave</a></li-->
+    <li><a id="footer_servicios_contactanos" class="urchin"  href="/contact-info">Cont&aacute;ctanos</a></li>
+    <li><a id="footer_servicios_anunaciate" class="urchin" target="_blank" href="http://mediakit.grupoexpansion.mx/marca/cnnmexicocom">An&uacute;nciate con nosotros</a></li>
+    <li><a id="footer_servicios_terminos" class="urchin" rel="license" href="/privacy">T&eacute;rminos&nbsp;y&nbsp;condiciones</a></li>
+    <li><a id="footer_servicios_integrate" class="urchin" rel="external" target="_blank" href="http://grupoexpansion.mx/empleos.html">Int&eacute;grate&nbsp;a&nbsp;nuestro&nbsp;equipo</a></li>
+    <li><a id="footer_servicios_privacidad" class="urchin" rel="license" href="/privacidad-datos" target="_blank">Privacidad de Datos Personales</a></li>
+    <li><a id="footer_servicios_llevanos_atu_sitio" class="urchin" rel="Widget" href="/embed" target="_blank">Lleva CNNM&eacute;xico a tu sitio</a></li>
+    <li><a id="footer_servicios_ayuda" class="urchin" rel="help" href="/ayuda" target="_blank">Preguntas frecuentes</a></li>
+   </ul>
+  </div>
+  <div class="dotLine"></div>
+  <nav class="cnn">
+   <a id="footer_otrositios_cnn_us" class="urchin" rel="external" href="http://us.cnn.com/" target="_blank">CNN&nbsp;U.S.</a>&nbsp;|&nbsp;<a id="footer_otrositios_cnn_int" class="urchin" rel="external" href="http://edition.cnn.com/" target="_blank">CNN&nbsp;INTERNACIONAL</a>&nbsp;|&nbsp;<a id="footer_otrositios_cnn_es" class="urchin" rel="external" href="http://edition.cnn.com/espanol/" target="_blank">CNN&nbsp;en&nbsp;ESPA&Ntilde;OL</a>&nbsp;|&nbsp;<a id="footer_otrositios_cnn_chile" class="urchin" rel="external" href="http://www.cnnchile.com/" target="_blank">CNN&nbsp;CHILE</a>&nbsp;|&nbsp;<a id="footer_otrositios_cnnexp2" class="urchin" rel="external" href="http://www.cnnexpansion.com/" target="_blank">CNN&nbsp;EXPANSI&Oacute;N</a>
+  </nav>
+  <div class="dotLine"></div>
+  <div id="portal-colophon">
+   <img src="/images/Logo_Footer.jpg" style="border: 0px;" alt="CNNM&eacute;xico.com"/><br/>
+   &copy; 2010 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.<br/>
+   &copy; 2006 Derechos Reservados Expansi&oacute;n, S.A. DE C.V.<br/>
+  </div>
+ </div>
+ <br style="display:block;"/>
+
+<script type="text/javascript">
+    var _gexa = _gexa || [];
+    _gexa.push(['tag', 'prod.cnnmex.web']);
+    (function() {
+        var t = document.createElement('script'); t.type = 'text/javascript'; t.async = true;
+        t.src = 'https://crenon.exp.mx/util.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(t, s);
+    })();
+</script>
+
+</footer>
+<div style="visibility: hidden; display: none;">
+<script type="text/javascript">
+var _sf_async_config={uid:2665,domain:"cnnmexico.com",sections:"nacional",authors:'Melva Navarro'};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+       'js/chartbeat.js');
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+
+<!-- Begin comScore UDM code 1.1104.26 -->
+
+<script type="text/javascript" src="http://b.scorecardresearch.com/c2/6906551/ct.js"></script>
+
+<script type="text/javascript">
+// <![CDATA[
+function comScore(t){var b="comScore",o=document,f=o.location,a="",e="undefined",g=2048,s,k,p,h,r="characterSet",n="defaultCharset",m=(typeof encodeURIComponent!=e?encodeURIComponent:escape);if(o.cookie.indexOf(b+"=")!=-1){p=o.cookie.split(";");for(h=0,f=p.length;h<f;h++){var q=p[h].indexOf(b+"=");if(q!=-1){a="&"+unescape(p[h].substring(q+b.length+1))}}}t=t+"&ns__t="+(new Date().getTime());t=t+"&ns_c="+(o[r]?o[r]:(o[n]?o[n]:""))+"&c8="+m(o.title)+a+"&c7="+m(f&&f.href?f.href:o.URL)+"&c9="+m(o.referrer);if(t.length>g&&t.indexOf("&")>0){s=t.substr(0,g-8).lastIndexOf("&");t=(t.substring(0,s)+"&ns_cut="+m(t.substring(s+1))).substr(0,g)}if(o.images){k=new Image();if(typeof ns_p==e){ns_p=k}k.src=t}else{o.write('<p><'+'img src="'+t+'" height="1" width="1"alt="*"></p>')}};comScore('http'+(document.location.href.charAt(4)=='s'?'s://sb':'://b')+'.scorecardresearch.com/p?c1=2&c2=6906551&ns_site=cnnmexico&name=cnnmexico.nacional.la explosion en un hospital infantil pone en panico al distrito federal');
+// ]]>
+</script>
+<noscript><p><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6906551&amp;ns_site=cnnmexico&amp;name=cnnmexico.nacional.la explosion en un hospital infantil pone en panico al distrito federal" height="1" width="1" alt="*" /></p></noscript>
+<!-- End comScore UDM code -->
+
+<script language="javascript" type="text/javascript">
+window.addEvent('domready', function(){
+	if ( $(gSeccion) != null )
+	{
+		$(gSeccion).className = 'selected';
+	}
+});
+</script>
+
+</div>
+<!--script type='text/javascript' src='http://www.buildmypinnedsite.com/script/v1.0/634896312530075238.js'></script-->
+<!--script type='text/javascript' src='js/mypinnedsite.js'></script-->
+
+
+<!--DISCOVERABILITY-->
+<!--DISCOVERABILITY-->
+<!--Nuevo taggeo user timing analytics -->
+<!--script type="text/javascript" src="js/ga_track_js.js"></script-->
+</body>
+</html>

@@ -1,0 +1,1927 @@
+
+<!DOCTYPE html>
+<html lang="pl" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Epidemia gorączki krwotocznej Ebola w Afryce Zachodniej – Wikipedia, wolna encyklopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf14" />
+<link rel="alternate" href="android-app://org.wikipedia/http/pl.m.wikipedia.org/wiki/Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej" />
+<link rel="alternate" type="application/x-wiki" title="Edytuj" href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit" />
+<link rel="edit" title="Edytuj" href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (pl)" />
+<link rel="EditURI" type="application/rsd+xml" href="//pl.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Kanał Atom Wikipedii" href="/w/index.php?title=Specjalna:Ostatnie_zmiany&amp;feed=atom" />
+<link rel="canonical" href="http://pl.wikipedia.org/wiki/Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej" />
+<link rel="stylesheet" href="//bits.wikimedia.org/pl.wikipedia.org/load.php?debug=false&amp;lang=pl&amp;modules=ext.flaggedRevs.basic%7Cext.gadget.ReferenceTooltips%2Cedit-buttons%2Cedit-first-section%2Cedit-summaries%2Cedit-summary-warning%2Cenhanced-upload%2Cheading-icons%2Cmain-page%2Cmap-toggler%2Cmaps%2Cmy-sandbox%2CnuxTBKeys%2CrefToolbar%2Csmall-references%2Cwikibugs%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/pl.wikipedia.org/load.php?debug=false&amp;lang=pl&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: plwiki:resourceloader:filter:minify-css:7:5d62dabc21961e39c199020e06fd9577 */</style>
+<script src="//bits.wikimedia.org/pl.wikipedia.org/load.php?debug=false&amp;lang=pl&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Epidemia_gorączki_krwotocznej_Ebola_w_Afryce_Zachodniej","wgTitle":"Epidemia gorączki krwotocznej Ebola w Afryce Zachodniej","wgCurRevisionId":41592228,"wgRevisionId":41592228,"wgArticleId":3148700,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Aktualne","Szablony lokalizacyjne - brak współrzędnych - Katastrofa infobox","Epidemie","2014 w Afryce","Historia Gwinei","Historia Sierra Leone","Historia Liberii","Historia Nigerii","Historia Senegalu"],"wgBreakFrames":false,"wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgMonthNamesShort":["","sty","lut","mar","kwi","maj","cze","lip","sie","wrz","paź","lis","gru"],"wgRelevantPageName":"Epidemia_gorączki_krwotocznej_Ebola_w_Afryce_Zachodniej","wgRelevantArticleId":3148700,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"pl","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"14":1,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"15":true,"9":true,"10":true,"11":true,"12":true,"13":true,"16":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"828":true,"829":true}},"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["pl","en-us","en"],"wgULSCurrentAutonym":"polski","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":41592228,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q15989108"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"pl"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: plwiki:resourceloader:filter:minify-js:7:be4ca842acfb9aaf3eac068c26df467a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.gadget.main-page","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf14/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Epidemia_gorączki_krwotocznej_Ebola_w_Afryce_Zachodniej skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --><script>document.write("\u003Cdiv id=\"localNotice\" lang=\"pl\" dir=\"ltr\"\u003E\u003Cdiv\u003E\u003C/div\u003E\n\u003C/div\u003E");</script></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="pl"><span dir="auto">Epidemia gorączki krwotocznej Ebola w Afryce Zachodniej</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Z Wikipedii, wolnej encyklopedii</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Skocz do:					<a href="#mw-head">nawigacja</a>, 					<a href="#p-search">szukaj</a>
+				</div>
+				<div id="mw-content-text" lang="pl" dir="ltr" class="mw-content-ltr"><table style="" class="metadata plainlinks ambox ambox-notice">
+<tr>
+<td class="ambox-image">
+<div style="width:52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gnome_globe_current_event.svg/35px-Gnome_globe_current_event.svg.png" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gnome_globe_current_event.svg/53px-Gnome_globe_current_event.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gnome_globe_current_event.svg/70px-Gnome_globe_current_event.svg.png 2x" data-file-width="600" data-file-height="600" /></div>
+</td>
+<td class="ambox-text"><b>Ten artykuł dotyczy <a href="/wiki/Pomoc:Ponadczasowo%C5%9B%C4%87" title="Pomoc:Ponadczasowość">niedawnego lub trwającego wydarzenia</a>.</b> Informacje w nim zamieszczone mogą się zmienić lub zdezaktualizować.<br /></td>
+</tr>
+</table>
+<table class="infobox" cellpadding="4">
+<tr style="text-align:center; background-color:#c1c1c1; font-size:120%; font-weight:bold; border-bottom:1px solid #aaa;">
+<td colspan="2">Epidemia gorączki krwotocznej Ebola w Afryce Zachodniej</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; font-size:90%; background-color:white; border-bottom: 1px solid #aaa;"><a href="/wiki/Plik:Ebola_Outbreak_Map_(ongoing).png" class="image" title="Globalny zasięg gorączki krwotocznej Ebola"><img alt="Globalny zasięg gorączki krwotocznej Ebola" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ebola_Outbreak_Map_%28ongoing%29.png/240px-Ebola_Outbreak_Map_%28ongoing%29.png" width="240" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ebola_Outbreak_Map_%28ongoing%29.png/360px-Ebola_Outbreak_Map_%28ongoing%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ebola_Outbreak_Map_%28ongoing%29.png/480px-Ebola_Outbreak_Map_%28ongoing%29.png 2x" data-file-width="2454" data-file-height="1502" /></a><br />
+Globalny zasięg gorączki krwotocznej Ebola</td>
+</tr>
+<tr>
+<td style="background: #eeeeee; vertical-align: top;"><a href="/wiki/Pa%C5%84stwo" title="Państwo">Państwo</a></td>
+<td><a href="/wiki/Gwinea" title="Gwinea">Gwinea</a>, <a href="/wiki/Liberia" title="Liberia">Liberia</a>, <a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a></td>
+</tr>
+<tr>
+<td style="background: #eeeeee; vertical-align: top;">Miejsce</td>
+<td><a href="/wiki/Afryka_Zachodnia" title="Afryka Zachodnia">Afryka Zachodnia</a></td>
+</tr>
+<tr>
+<td style="background: #eeeeee; vertical-align: top;">Rodzaj katastrofy</td>
+<td>epidemia <a href="/wiki/Gor%C4%85czka_krwotoczna_Ebola" title="Gorączka krwotoczna Ebola">gorączki krwotocznej Ebola</a></td>
+</tr>
+<tr>
+<td style="background: #eeeeee; vertical-align: top;">Data</td>
+<td>od marca 2014<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> (od grudnia 2013)</td>
+</tr>
+<tr>
+<td style="background: #eeeeee; vertical-align: top;">Ofiary śmiertelne</td>
+<td>8641 na 21 724 przypadków zakażenia (do 18 stycznia 2015 włącznie)<sup id="cite_ref-who2101i5_2-0" class="reference"><a href="#cite_note-who2101i5-2">[2]</a></sup></td>
+</tr>
+<tr style="text-align:center; display:none;">
+<td colspan="2"><i>brak współrzędnych</i></td>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#FFFFFF; text-align:center; border-top:1px solid #aaa; font-size:x-small;"><a href="//commons.wikimedia.org/wiki/Category:2014_West_Africa_Ebola_outbreak" title="Commons"><img alt="Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" width="20" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> <a href="//commons.wikimedia.org/wiki/Category:2014_West_Africa_Ebola_outbreak" class="extiw" title="commons:Category:2014 West Africa Ebola outbreak">Multimedia w Wikimedia Commons</a></td>
+</tr>
+</table>
+<p>W Afryce Zachodniej trwa epidemia <a href="/wiki/Gor%C4%85czka_krwotoczna_Ebola" title="Gorączka krwotoczna Ebola">gorączki krwotocznej Ebola</a>, która wybuchła w <a href="/wiki/Gwinea" title="Gwinea">Gwinei</a> i rozprzestrzeniła się na kolejne kraje. <a href="/wiki/%C5%9Awiatowa_Organizacja_Zdrowia" title="Światowa Organizacja Zdrowia">Światowa Organizacja Zdrowia</a> podzieliła kraje, w których - w trakcie trwania obecnej epidemii - wystąpiły przypadki choroby na 2 kategorie: te w których zachorowania szerzą się w rozmiarach epidemicznych (<a href="/wiki/Gwinea" title="Gwinea">Gwinea</a>, <a href="/wiki/Liberia" title="Liberia">Liberia</a> i <a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a>) oraz te w których odnotowano pierwsze przypadki zachorowań lub zasięg epidemii jest ograniczony (<a href="/wiki/Mali" title="Mali">Mali</a>, <a href="/wiki/Nigeria" title="Nigeria">Nigeria</a>, <a href="/wiki/Senegal" title="Senegal">Senegal</a>, <a href="/wiki/Hiszpania" title="Hiszpania">Hiszpania</a>, <a href="/wiki/Stany_Zjednoczone" title="Stany Zjednoczone">Stany Zjednoczone</a> i <a href="/wiki/Wielka_Brytania" title="Wielka Brytania">Wielka Brytania</a>)<sup id="cite_ref-who0701i5_3-0" class="reference"><a href="#cite_note-who0701i5-3">[3]</a></sup>.</p>
+<p>Do 18 stycznia 2015 włącznie odnotowano przynajmniej 21 724 przypadków zakażenia, z których 13 610 zostało potwierdzonych laboratoryjnie. 8641 chorych zmarło<sup id="cite_ref-who2101i5_2-1" class="reference"><a href="#cite_note-who2101i5-2">[2]</a></sup>. Wiele organizacji, w tym <a href="/wiki/Centers_for_Disease_Control_and_Prevention" title="Centers for Disease Control and Prevention">Centers for Disease Control and Prevention</a>, <a href="/wiki/Komisja_Europejska" title="Komisja Europejska">Komisja Europejska</a> i <a href="/wiki/Wsp%C3%B3lnota_Gospodarcza_Pa%C5%84stw_Afryki_Zachodniej" title="Wspólnota Gospodarcza Państw Afryki Zachodniej">Wspólnota Gospodarcza Państw Afryki Zachodniej</a>, przekazało wsparcie finansowe i medyczne, aby zapobiec rozprzestrzenianiu się epidemii. Na terenach objętych epidemią niosą pomoc członkowie organizacji humanitarnych takich jak <a href="/wiki/Lekarze_bez_Granic" title="Lekarze bez Granic">Lekarze bez Granic</a>, <a href="/wiki/Mi%C4%99dzynarodowy_Komitet_Czerwonego_Krzy%C5%BCa" title="Międzynarodowy Komitet Czerwonego Krzyża">Czerwony Krzyż</a> i <a href="/w/index.php?title=Samaritan%27s_Purse&amp;action=edit&amp;redlink=1" class="new" title="Samaritan's Purse (strona nie istnieje)">Samaritan's Purse</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>. Jest to największa do tej pory epidemia gorączki krwotocznej Ebola zarówno pod względem liczby zachorowań, jak i liczby przypadków śmiertelnych<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-abcnews_6-0" class="reference"><a href="#cite_note-abcnews-6">[6]</a></sup><sup id="cite_ref-Time_7-0" class="reference"><a href="#cite_note-Time-7">[7]</a></sup>.</p>
+<p>8 sierpnia 2014 Dyrektor Generalny Światowej Organizacji Zdrowia ogłosił, że epidemia stanowi sytuację zagrożenia zdrowia publicznego o zasięgu międzynarodowym (<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski">ang.</a>&#160;<i><span lang="en" xml:lang="en">Public Health Emergency of International Concern</span></i>, PHEIC)<sup id="cite_ref-whoPHEIC_8-0" class="reference"><a href="#cite_note-whoPHEIC-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>.</p>
+<p>26 sierpnia 2014 WHO zostało oficjalnie zawiadomione przez ministerstwo zdrowia <a href="/wiki/Demokratyczna_Republika_Konga" title="Demokratyczna Republika Konga">Demokratycznej Republiki Konga</a> o wybuchu epidemii gorączki krwotocznej Ebola w tym państwie<sup id="cite_ref-who278iAS_10-0" class="reference"><a href="#cite_note-who278iAS-10">[10]</a></sup>. Łącznie zostało zidenfikowanych 66 przypadków choroby; 49 chorych zmarło<sup id="cite_ref-who1911i_11-0" class="reference"><a href="#cite_note-who1911i-11">[11]</a></sup>. 21 listopada 2014 WHO ogłosiło, że epidemia w tym kraju wygasła<sup id="cite_ref-who2111iAS_12-0" class="reference"><a href="#cite_note-who2111iAS-12">[12]</a></sup>. Wybuch epidemii w Demokratycznej Republice Konga nie był powiązany z epidemią w Afryce Zachodniej<sup id="cite_ref-who2210i_13-0" class="reference"><a href="#cite_note-who2210i-13">[13]</a></sup><sup id="cite_ref-who2111i_14-0" class="reference"><a href="#cite_note-who2111i-14">[14]</a></sup>.</p>
+<p>30 września 2014 WHO otrzymało potwierdzenie, że odnotowano pierwszy przypadek zakażenia wirusem w Stanach Zjednoczonych<sup id="cite_ref-1ebolaUSA_15-0" class="reference"><a href="#cite_note-1ebolaUSA-15">[15]</a></sup>, a 6 października 2014 w Europie (w Hiszpanii)<sup id="cite_ref-1ebolaEurope_16-0" class="reference"><a href="#cite_note-1ebolaEurope-16">[16]</a></sup>. 17 października WHO wydała oświadczenie o wygaśnięciu epidemii w Senegalu, 20 października w Nigerii<sup id="cite_ref-who1710Senegal_17-0" class="reference"><a href="#cite_note-who1710Senegal-17">[17]</a></sup><sup id="cite_ref-who2010Nigeria_18-0" class="reference"><a href="#cite_note-who2010Nigeria-18">[18]</a></sup> i 2 grudnia w Hiszpanii<sup id="cite_ref-who0212Hiszpania_19-0" class="reference"><a href="#cite_note-who0212Hiszpania-19">[19]</a></sup>. 23 października odnotowano pierwszy przypadek choroby w Mali<sup id="cite_ref-who2910i_20-0" class="reference"><a href="#cite_note-who2910i-20">[20]</a></sup> i 29 grudnia 2014 w Wielkiej Brytanii<sup id="cite_ref-who3112i_21-0" class="reference"><a href="#cite_note-who3112i-21">[21]</a></sup>. 21 grudnia 2014 wygasła epidemia w Stanach Zjednoczonych<sup id="cite_ref-who1712i_22-0" class="reference"><a href="#cite_note-who1712i-22">[22]</a></sup><sup id="cite_ref-who3112i_21-1" class="reference"><a href="#cite_note-who3112i-21">[21]</a></sup> i 18 stycznia 2015 w Mali<sup id="cite_ref-who2101i5_2-2" class="reference"><a href="#cite_note-who2101i5-2">[2]</a></sup>. 23 listopada 2014 łączna liczba potwierdzonych laboratoryjnie przypadków zakażenia wirusem przekroczyła 10 tysięcy<sup id="cite_ref-who2611i_23-0" class="reference"><a href="#cite_note-who2611i-23">[23]</a></sup>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Spis treści</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Przebieg_epidemii"><span class="tocnumber">1</span> <span class="toctext">Przebieg epidemii</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Pocz.C4.85tek_epidemii_w_Gwinei"><span class="tocnumber">1.1</span> <span class="toctext">Początek epidemii w Gwinei</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Konakry.2C_Gwinea"><span class="tocnumber">1.2</span> <span class="toctext">Konakry, Gwinea</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Rozprzestrzenianie_si.C4.99_epidemii_w_Gwinei_i_s.C4.85siednich_krajach"><span class="tocnumber">1.3</span> <span class="toctext">Rozprzestrzenianie się epidemii w Gwinei i sąsiednich krajach</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Epidemia_w_Demokratycznej_Republice_Konga"><span class="tocnumber">2</span> <span class="toctext">Epidemia w Demokratycznej Republice Konga</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Reakcje"><span class="tocnumber">3</span> <span class="toctext">Reakcje</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Kraje_dotkni.C4.99te_epidemi.C4.85"><span class="tocnumber">3.1</span> <span class="toctext">Kraje dotknięte epidemią</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Gwinea_i_Liberia"><span class="tocnumber">3.1.1</span> <span class="toctext">Gwinea i Liberia</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Nigeria"><span class="tocnumber">3.1.2</span> <span class="toctext">Nigeria</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Sierra_Leone"><span class="tocnumber">3.1.3</span> <span class="toctext">Sierra Leone</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Unia_Europejska"><span class="tocnumber">3.2</span> <span class="toctext">Unia Europejska</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Stany_Zjednoczone"><span class="tocnumber">3.3</span> <span class="toctext">Stany Zjednoczone</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Pozosta.C5.82e_kraje"><span class="tocnumber">3.4</span> <span class="toctext">Pozostałe kraje</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Media"><span class="tocnumber">3.5</span> <span class="toctext">Media</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Czynniki_utrudniaj.C4.85ce_zwalczanie_epidemii"><span class="tocnumber">4</span> <span class="toctext">Czynniki utrudniające zwalczanie epidemii</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Badania"><span class="tocnumber">5</span> <span class="toctext">Badania</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Skutki_gospodarcze_i_inne"><span class="tocnumber">6</span> <span class="toctext">Skutki gospodarcze i inne</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Rozw.C3.B3j_epidemii"><span class="tocnumber">7</span> <span class="toctext">Rozwój epidemii</span></a></li>
+<li class="toclevel-1"><a href="#Przypisy"><span class="tocnumber">8</span> <span class="toctext">Przypisy</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Linki_zewn.C4.99trzne"><span class="tocnumber">9</span> <span class="toctext">Linki zewnętrzne</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Przebieg_epidemii">Przebieg epidemii</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=1" title="Edytuj sekcję: Przebieg epidemii" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=1" title="Edytuj sekcję: Przebieg epidemii">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pocz.C4.85tek_epidemii_w_Gwinei">Początek epidemii w Gwinei</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=2" title="Edytuj sekcję: Początek epidemii w Gwinei" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=2" title="Edytuj sekcję: Początek epidemii w Gwinei">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Naukowcy sądzą, że pierwszą osobą, która zachorowała na gorączkę krwotoczną Ebola w Gwinei („pacjent zero”) i zapoczątkowała obecną epidemię, był dwuletni chłopiec z wioski Meliandou w <a href="/wiki/Gu%C3%A9ck%C3%A9dou_(prefektura)" title="Guéckédou (prefektura)">prefekturze Guéckédou</a>, który zmarł 6 grudnia 2013<sup id="cite_ref-PacjentzeroNYT_24-0" class="reference"><a href="#cite_note-PacjentzeroNYT-24">[24]</a></sup><sup id="cite_ref-Baize2014_25-0" class="reference"><a href="#cite_note-Baize2014-25">[25]</a></sup>. Następnie zmarły jego matka, trzyletnia siostra i babka<sup id="cite_ref-PacjentzeroNYT_24-1" class="reference"><a href="#cite_note-PacjentzeroNYT-24">[24]</a></sup><sup id="cite_ref-Baize2014_25-1" class="reference"><a href="#cite_note-Baize2014-25">[25]</a></sup>. 25 stycznia 2014 położna z Meliandou została przyjęta do szpitala w <a href="/wiki/Gu%C3%A9ck%C3%A9dou" title="Guéckédou">Guéckédou</a>, gdzie zmarła 2 lutego<sup id="cite_ref-Baize2014_25-2" class="reference"><a href="#cite_note-Baize2014-25">[25]</a></sup>. Z kolei zachorował pracownik szpitala w Guéckédou (zmarły 10 lutego w szpitalu w <a href="/wiki/Macenta" title="Macenta">Macenta</a>), a 24 lutego zmarł opiekujący się nim lekarz<sup id="cite_ref-PacjentzeroNYT_24-2" class="reference"><a href="#cite_note-PacjentzeroNYT-24">[24]</a></sup><sup id="cite_ref-Baize2014_25-3" class="reference"><a href="#cite_note-Baize2014-25">[25]</a></sup>. Następnie ulegli zakażeniu członkowie rodziny lekarza pochodzący z <a href="/wiki/Kissidougou" title="Kissidougou">Kissidougou</a> i <a href="/wiki/Nz%C3%A9r%C3%A9kor%C3%A9" title="Nzérékoré">Nzérékoré</a><sup id="cite_ref-Baize2014_25-4" class="reference"><a href="#cite_note-Baize2014-25">[25]</a></sup>. 10 marca ministerstwo zdrowia Gwinei uzyskało informacje z Guéckédou i Macenta o przypadkach tajemniczej choroby charakteryzującej się gorączką, silną biegunką, wymiotami i wysoką śmiertelnością<sup id="cite_ref-Baize2014_25-5" class="reference"><a href="#cite_note-Baize2014-25">[25]</a></sup>. 23 marca poinformowało ono oficjalnie <a href="/wiki/%C5%9Awiatowa_Organizacja_Zdrowia" title="Światowa Organizacja Zdrowia">Światową Organizację Zdrowia</a> o wybuchu epidemii gorączki krwotocznej Ebola w czterech południowo-wschodnich prefekturach kraju: Guéckédou, <a href="/wiki/Macenta_(prefektura)" title="Macenta (prefektura)">Macenta</a>, <a href="/wiki/Nz%C3%A9r%C3%A9kor%C3%A9_(prefektura)" title="Nzérékoré (prefektura)">Nzérékoré</a> i <a href="/wiki/Kissidougou_(prefektura)" title="Kissidougou (prefektura)">Kissidougou</a> oraz w stolicy kraju - <a href="/wiki/Konakry" title="Konakry">Konakry</a><sup id="cite_ref-who233_26-0" class="reference"><a href="#cite_note-who233-26">[26]</a></sup>. Do 22 marca włącznie odnotowano 49 zachorowań; 29 chorych zmarło<sup id="cite_ref-who233_26-1" class="reference"><a href="#cite_note-who233-26">[26]</a></sup>. Po analizie przesłanych próbek, laboratorium w <a href="/wiki/Lyon" title="Lyon">Lyonie</a> (Francja) potwierdziło, że zachorowania zostały wywołane przez <a href="/wiki/Wirus_ebola" title="Wirus ebola" class="mw-redirect">wirusa Ebola</a> z <a href="/wiki/Gatunek_(biologia)" title="Gatunek (biologia)">gatunku</a> <i>Zaire ebolavirus</i><sup id="cite_ref-cdc.gov.recent_27-0" class="reference"><a href="#cite_note-cdc.gov.recent-27">[27]</a></sup>. Wstępny raport sugerował, że jest to nowy szczep wirusa Ebola<sup id="cite_ref-Baize2014_25-6" class="reference"><a href="#cite_note-Baize2014-25">[25]</a></sup>, jednak dalsze badania potwierdziły, że wirus należy jednak do gatunku <i>Zaire ebolavirus</i> i wywodzi się z Afryki Środkowej<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>. Do 31 marca włącznie liczba zachorowań w Gwinei wzrosła do 122, a 80 osób zmarło; 24 przypadki potwierdzono laboratoryjnie<sup id="cite_ref-who014_29-0" class="reference"><a href="#cite_note-who014-29">[29]</a></sup>. Zachorowania odnotowano w Konakry (11 przypadków) oraz w prefekturach: Guéckédou (77 przypadków), Macenta (23), Kissidougou (8) oraz 3 przypadki łącznie z <a href="/wiki/Dabola_(prefektura)" title="Dabola (prefektura)">Dabola</a> i <a href="/wiki/Dinguiraye_(prefektura)" title="Dinguiraye (prefektura)">Dinguiraye</a><sup id="cite_ref-who014_29-1" class="reference"><a href="#cite_note-who014-29">[29]</a></sup>. 31 marca amerykańskie <i>Centers for Disease Control and Prevention</i> wysłało pięcioosobowy zespół „aby pomóc ministerstwu zdrowia Gwinei i Światowej Organizacji Zdrowia koordynować międzynarodową pomoc w zwalczaniu epidemii”<sup id="cite_ref-cdc.gov.recent_27-1" class="reference"><a href="#cite_note-cdc.gov.recent-27">[27]</a></sup><sup id="cite_ref-Salon_30-0" class="reference"><a href="#cite_note-Salon-30">[30]</a></sup>.</p>
+<h3><span class="mw-headline" id="Konakry.2C_Gwinea">Konakry, Gwinea</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=3" title="Edytuj sekcję: Konakry, Gwinea" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=3" title="Edytuj sekcję: Konakry, Gwinea">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Pod koniec marca epidemia rozprzestrzeniła się na stolicę Gwinei, Konakry<sup id="cite_ref-cdc.gov.recent_27-2" class="reference"><a href="#cite_note-cdc.gov.recent-27">[27]</a></sup>, miasto liczące około dwa miliony mieszkańców i stała się poważnym problemem; według Ibrahima Touré, dyrektora krajowego biura międzynarodowej organizacji humanitarnej Plan: „Trudne warunki życiowe oraz brak bieżącej wody i kanalizacji w większości dzielnic Konakry stwarzają poważne zagrożenie, że epidemia będzie się nasilać. Ludzie nie myślą o tym żeby myć ręce, kiedy nie mają wystarczającej ilości wody do picia.”<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>.</p>
+<h3><span class="mw-headline" id="Rozprzestrzenianie_si.C4.99_epidemii_w_Gwinei_i_s.C4.85siednich_krajach">Rozprzestrzenianie się epidemii w Gwinei i sąsiednich krajach</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=4" title="Edytuj sekcję: Rozprzestrzenianie się epidemii w Gwinei i sąsiednich krajach" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=4" title="Edytuj sekcję: Rozprzestrzenianie się epidemii w Gwinei i sąsiednich krajach">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd>
+<div class="noprint relarticle mainarticle"><span><a href="/wiki/Plik:Information_icon.svg" class="image"><img alt="Information icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/15px-Information_icon.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/23px-Information_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/30px-Information_icon.svg.png 2x" data-file-width="620" data-file-height="620" /></a>&#160;<span><i>Zobacz też: <a href="/wiki/Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Mali_(2014)" title="Epidemia gorączki krwotocznej Ebola w Mali (2014)">Epidemia gorączki krwotocznej Ebola w Mali (2014)</a>.</i></span></span></div>
+</dd>
+</dl>
+<p>W <a href="/wiki/Liberia" title="Liberia">Liberii</a> odnotowano pierwsze przypadki zachorowań pod koniec marca w hrabstwach <a href="/wiki/Hrabstwo_Lofa" title="Hrabstwo Lofa">Lofa</a> i <a href="/wiki/Hrabstwo_Nimba" title="Hrabstwo Nimba">Nimba</a><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>. W połowie kwietnia liberyjskie ministerstwo zdrowia i opieki społecznej (<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski">ang.</a> Ministry of Health and Social Welfare (MOHSW)) poinformowało o możliwych przypadkach zachorowań w czterech kolejnych hrabstwach: <a href="/wiki/Hrabstwo_Bong" title="Hrabstwo Bong">Bong</a>, <a href="/wiki/Hrabstwo_Grand_Cape_Mount" title="Hrabstwo Grand Cape Mount">Grand Cape Mount</a>, <a href="/wiki/Hrabstwo_Margibi" title="Hrabstwo Margibi">Margibi</a> i <a href="/wiki/Hrabstwo_Montserrado" title="Hrabstwo Montserrado">Montserrado</a> (w którym znajduje się stolica kraju <a href="/wiki/Monrovia" title="Monrovia">Monrovia</a>)<sup id="cite_ref-mohsw_33-0" class="reference"><a href="#cite_note-mohsw-33">[33]</a></sup>.</p>
+<p>Początkowo w <a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a>, <a href="/wiki/Mali" title="Mali">Mali</a> i <a href="/wiki/Ghana" title="Ghana">Ghanie</a> zidentyfikowano osoby, u którym podejrzewano zakażenie wirusem Ebola, jednak badania laboratoryjne wykluczyły zakażenie tym wirusem<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>. Sytuacja w Gwinei uległa poprawie w maju 2014. Przez kilka kolejnych dni nie było doniesień o nowych zachorowaniach z Liberii i z pięciu z sześciu dotychczas dotkniętych epidemią prefektur Gwinei. Doniesienia o nowych przypadkach zakażeń nadchodziły jedynie z prefektury Guéckédou.</p>
+<p>Jednak pomiędzy 23 a 27 maja 2014 nadeszły informacje o nowych stwierdzonych przypadkach klinicznych gorączki krwotocznej Ebola z trzech spośród wcześniej dotkniętych nią prefektur (Guéckédou, Macenta i Konakry), z czterech kolejnych prefektur (<a href="/wiki/Boffa_(prefektura)" title="Boffa (prefektura)">Boffa</a>, <a href="/wiki/T%C3%A9lim%C3%A9l%C3%A9_(prefektura)" title="Télimélé (prefektura)">Télimélé</a>, <a href="/wiki/Bok%C3%A9_(prefektura)" title="Boké (prefektura)">Boke</a> i <a href="/wiki/Dubr%C3%A9ka_(prefektura)" title="Dubréka (prefektura)">Dubréka</a>) oraz z <a href="/wiki/Sierra_Leone" title="Sierra Leone">Sierra Leone</a><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>. 4 czerwca 2014 Światowa Organizacja Zdrowia ogłosiła, że „pomiędzy 29 maja a 1 czerwca w Gwinei, przynajmniej 21 osób zmarło i odnotowano 37 przypadków zachorowań spowodowanych przypuszczalnie zakażeniem wirusem Ebola. Nowe dane zwiększyły liczbę zachorowań w Afryce Zachodniej, co do których istniało podejrzenie zakażenia wirusem Ebola, do 328, z których 193 zostało potwierdzonych testami laboratoryjnymi”<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>.</p>
+<p>17 czerwca 2014 ogłoszono, że w stolicy Liberii <a href="/wiki/Monrovia" title="Monrovia">Monrovii</a> na gorączkę krwotoczną Ebola zmarło siedem osób<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>. 26 czerwca „liberyjska naczelna lekarz kraju, dr Bernice Dahn, ostrzegła krajowe Kościoły, żeby natychmiast zaniechały przyjmowania osób zakażonych wirusem Ebola.” „Ujawniła, że trzy osoby, u których podejrzewano zakażenie wirusem Ebola w New Kru Town, zmarły w kościele, dokąd poszły się modlić.”<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>. 27 czerwca UN News poinformowały, że „w Liberii odnotowano 63 przypadki zachorowań, w tym 41 chorych zmarło”<sup id="cite_ref-unnews27june_39-0" class="reference"><a href="#cite_note-unnews27june-39">[39]</a></sup>.</p>
+<p>27 czerwca 2014 Światowa Organizacja Zdrowia ogłosiła, że „W Gwinei, odnotowano do tej pory 386 przypadków zachorowań, z których 280 zakończyło się zgonem zakażonych”<sup id="cite_ref-unnews27june_39-1" class="reference"><a href="#cite_note-unnews27june-39">[39]</a></sup>. „W Sierra Leone wśród 176 zakażonych odnotowano 78 przypadków śmierci”<sup id="cite_ref-unnews27june_39-2" class="reference"><a href="#cite_note-unnews27june-39">[39]</a></sup>.</p>
+<p>Gwałtowny wzrost zachorowań nastąpił w Sierra Leone. Pierwsze przypadki zachorowań odnotowano 25 maja w <a href="/wiki/Dystrykt_Kailahun" title="Dystrykt Kailahun">dystrykcie Kailahun</a>, graniczącym z prefekturą Guéckédou w Gwinei<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup>. Do 20 czerwca włącznie odnotowano 158 przypadków zachorowań, z których 147 zostało potwierdzonych laboratoryjnie, głównie w dystryktach Kailahun i sąsiadującym z nim <a href="/wiki/Dystrykt_Kenema" title="Dystrykt Kenema">Kenema</a>, a także w dystryktach <a href="/wiki/Dystrykt_Kambia" title="Dystrykt Kambia">Kambia</a>, <a href="/wiki/Dystrykt_Port_Loko" title="Dystrykt Port Loko">Port Loko</a> i <a href="/wiki/Dystrykt_Wiejski_Obszaru_Zachodniego" title="Dystrykt Wiejski Obszaru Zachodniego">Wiejskim Obszaru Zachodniego</a><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup>. Do 17 lipca włącznie odnotowano 442 przypadki zachorowań, z których 368 potwierdzono laboratoryjnie, co oznaczało, że liczba zachorowań w tym kraju była największa spośród trzech państw dotkniętych epidemią<sup id="cite_ref-WHO_18_July_2014_42-0" class="reference"><a href="#cite_note-WHO_18_July_2014-42">[42]</a></sup>. Do 20 lipca przypadki zachorowań odnotowano także w <a href="/wiki/Dystrykt_Bo" title="Dystrykt Bo">dystrykcie Bo</a><sup id="cite_ref-cdc.gov.recent_27-3" class="reference"><a href="#cite_note-cdc.gov.recent-27">[27]</a></sup>; pierwszy przypadek zachorowania w stolicy kraju, <a href="/wiki/Freetown" title="Freetown">Freetown</a>, zarejestrowano pod koniec lipca<sup id="cite_ref-BBC_Freetown_43-0" class="reference"><a href="#cite_note-BBC_Freetown-43">[43]</a></sup><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup>.</p>
+<p>25 lipca 2014 WHO ogłosiła, że został stwierdzony pierwszy przypadek zachorowania na gorączkę krwotoczną Ebola w <a href="/wiki/Nigeria" title="Nigeria">Nigerii</a>; Liberyjczyk, który przyleciał 20 lipca do <a href="/wiki/Lagos" title="Lagos">Lagos</a> został hospitalizowany i zmarł w tym mieście<sup id="cite_ref-WHO_25_July_2014_45-0" class="reference"><a href="#cite_note-WHO_25_July_2014-45">[45]</a></sup><sup id="cite_ref-BBC_Freetown_43-1" class="reference"><a href="#cite_note-BBC_Freetown-43">[43]</a></sup>. Mężczyzna, który zakaził się wirusem w Liberii, podróżował drogą lotniczą do Lagos, przez <a href="/wiki/Lom%C3%A9" title="Lomé">Lomé</a> w <a href="/wiki/Togo" title="Togo">Togo</a> i <a href="/wiki/Akra" title="Akra">Akrę</a> w <a href="/wiki/Ghana" title="Ghana">Ghanie</a>. Podczas lotu wystąpiły u niego objawy choroby, które nasiliły się po przybyciu na lotnisko w Lagos<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup>. Szpital w którym przebywał - po ewakuowaniu z niego pacjentów - został zamknięty na tydzień, a pracownicy szpitala, którzy mogli zakazić się wirusem, zostali poddani kwarantannie<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup>. Łącznie w wyniku epidemii odnotowano 20 przypadków choroby, a 8 chorych zmarło<sup id="cite_ref-who1710i_48-0" class="reference"><a href="#cite_note-who1710i-48">[48]</a></sup>. 20 października WHO ogłosiła wygaśnięcie epidemii w Nigerii<sup id="cite_ref-who2010Nigeria_18-1" class="reference"><a href="#cite_note-who2010Nigeria-18">[18]</a></sup>. Nastąpiło to po upłynięciu 42 dni od momentu, kiedy ostatnia osoba w Nigerii miała kontakt z osobą chorą na gorączkę krwotoczną Ebola i nie wykryto żadnego nowego przypadku zachorowania w tym kraju<sup id="cite_ref-who2010Nigeria_18-2" class="reference"><a href="#cite_note-who2010Nigeria-18">[18]</a></sup>.</p>
+<p>29 sierpnia senegalskie ministerstwo zdrowia ogłosiło, że w tym kraju stwierdzono 1 przypadek zachorowania na gorączkę krwotoczną Ebola. Chorym był 21-letni mężczyzna, pochodzący z Gwinei, który 20 sierpnia przyjechał do rodziny w Dakarze<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup>. 5 września testy na obecność wirusa Ebola dały wynik negatywny, co oznaczało, że pacjent wyzdrowiał<sup id="cite_ref-who1710Senegal_17-1" class="reference"><a href="#cite_note-who1710Senegal-17">[17]</a></sup>. 18 września powrócił on do Gwinei<sup id="cite_ref-who1710Senegal_17-2" class="reference"><a href="#cite_note-who1710Senegal-17">[17]</a></sup>. 17 października WHO ogłosiła wygaśnięcie epidemii w Senegalu<sup id="cite_ref-who1710Senegal_17-3" class="reference"><a href="#cite_note-who1710Senegal-17">[17]</a></sup>.</p>
+<h2><span class="mw-headline" id="Epidemia_w_Demokratycznej_Republice_Konga">Epidemia w Demokratycznej Republice Konga</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=5" title="Edytuj sekcję: Epidemia w Demokratycznej Republice Konga" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=5" title="Edytuj sekcję: Epidemia w Demokratycznej Republice Konga">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>26 sierpnia 2014 WHO zostało oficjalnie zawiadomione przez ministerstwo zdrowia <a href="/wiki/Demokratyczna_Republika_Konga" title="Demokratyczna Republika Konga">Demokratycznej Republiki Konga</a> o wybuchu epidemii gorączki krwotocznej Ebola w tym państwie<sup id="cite_ref-who278iAS_10-1" class="reference"><a href="#cite_note-who278iAS-10">[10]</a></sup>. Pomiędzy 28 lipca a 18 sierpnia zostały zidenfikowane 24 przypadki choroby, 13 chorych zmarło<sup id="cite_ref-who278iAS_10-2" class="reference"><a href="#cite_note-who278iAS-10">[10]</a></sup>. Łącznie zostało zidenfikowanych 66 przypadków choroby; 49 chorych zmarło<sup id="cite_ref-who1911i_11-1" class="reference"><a href="#cite_note-who1911i-11">[11]</a></sup>. 21 listopada 2014 WHO ogłosiło, że 20 listopada upłynęły 42 dni od dnia, kiedy powtórne badanie na obecność wirusa Ebola ostatniego zakażonego dało wynik negatywny i chory opuścił szpital, co zgodnie z rekomendacjami WHO oznacza, że epidemia w tym kraju wygasła<sup id="cite_ref-who2111iAS_12-1" class="reference"><a href="#cite_note-who2111iAS-12">[12]</a></sup>. Była to siódma epidemia gorączki krwotocznej Ebola w tym kraju od odkrycia wirusa w 1976<sup id="cite_ref-who2111iAS_12-2" class="reference"><a href="#cite_note-who2111iAS-12">[12]</a></sup>. Wybuch epidemii w Demokratycznej Republice Konga nie był powiązany z epidemią w Afryce Zachodniej<sup id="cite_ref-who2210i_13-1" class="reference"><a href="#cite_note-who2210i-13">[13]</a></sup><sup id="cite_ref-who2111i_14-1" class="reference"><a href="#cite_note-who2111i-14">[14]</a></sup>.</p>
+<h2><span class="mw-headline" id="Reakcje">Reakcje</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=6" title="Edytuj sekcję: Reakcje" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=6" title="Edytuj sekcję: Reakcje">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Kraje_dotkni.C4.99te_epidemi.C4.85">Kraje dotknięte epidemią</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=7" title="Edytuj sekcję: Kraje dotknięte epidemią" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=7" title="Edytuj sekcję: Kraje dotknięte epidemią">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>W marcu władze Gwinei, Sierra Leone i Liberii uruchomiły krajowe komitety kryzysowe, przygotowały plany zwalczania epidemii gorączki krwotocznej Ebola i oszacowały potrzebne do tego środki<sup id="cite_ref-autogenerated1_50-0" class="reference"><a href="#cite_note-autogenerated1-50">[50]</a></sup>.</p>
+<p>Luis Sambo, dyrektor biura regionalnego dla Afryki <a href="/wiki/%C5%9Awiatowa_Organizacja_Zdrowia" title="Światowa Organizacja Zdrowia">Światowej Organizacji Zdrowia</a> (WHO), w dniach 21-25 lipca odwiedził kraje dotknięte epidemią, gdzie spotkał się z przywódcami politycznymi, ministrami zdrowia, przedstawicielami agencji rządowych i organizacji pozarządowych<sup id="cite_ref-WHO_25_July_2014_45-1" class="reference"><a href="#cite_note-WHO_25_July_2014-45">[45]</a></sup>. Podkreślił konieczność „promowania zmiany zachowań, przy poszanowaniu praktyk kulturowych”<sup id="cite_ref-WHO_25_July_2014_45-2" class="reference"><a href="#cite_note-WHO_25_July_2014-45">[45]</a></sup>.</p>
+<h4><span class="mw-headline" id="Gwinea_i_Liberia">Gwinea i Liberia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=8" title="Edytuj sekcję: Gwinea i Liberia" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=8" title="Edytuj sekcję: Gwinea i Liberia">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Przejścia graniczne pomiędzy Gwineą i Liberią pozostawały otwarte w kwietniu, zgodnie z przekonaniem rządów, że podjęte działania zwalczające chorobę będą skuteczniejsze niż zamknięcie granic<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup>.</p>
+<p>Zgodnie z ustaleniami spotkania ministrów zdrowia krajów Afryki Zachodniej w Akrze w dniach 2-3 lipca, pod koniec lipca ministerstwo zdrowia Liberii rozpoczęło wdrażanie planu strategicznego w celu przyspieszenia i bardziej skutecznej reakcji na zagrożenia spowodowane wybuchem epidemii<sup id="cite_ref-WHO_23_July_2014_52-0" class="reference"><a href="#cite_note-WHO_23_July_2014-52">[52]</a></sup>.</p>
+<p>27 lipca <a href="/wiki/Ellen_Johnson-Sirleaf" title="Ellen Johnson-Sirleaf">Ellen Johnson-Sirleaf</a>, <a href="/wiki/Prezydenci_Liberii" title="Prezydenci Liberii">prezydent Liberii</a>, ogłosiła, że większość przejść granicznych zostanie zamkniętych, z wyjątkiem kilku głównych (takich jak w <a href="/wiki/Port_lotniczy_Monrovia-Roberts" title="Port lotniczy Monrovia-Roberts">głównym krajowym porcie lotniczym w Monrovii</a>), gdzie będą prowadzone <a href="/wiki/Badanie_przesiewowe" title="Badanie przesiewowe">badanie przesiewowe</a>; obszary kraju najbardziej dotknięte epidemią zostaną objęte <a href="/wiki/Kwarantanna_(medycyna)" title="Kwarantanna (medycyna)">kwarantanną</a><sup id="cite_ref-BBC_28_July_2014_53-0" class="reference"><a href="#cite_note-BBC_28_July_2014-53">[53]</a></sup>. Zostały zawieszone wszystkie rozgrywki piłkarskie, ze względu na to, że charakter meczów piłkarskich zwiększa ryzyko rozprzestrzeniania się epidemii<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup>. 30 lipca ogłoszono zamknięcie szkół w Liberii i poddanie kwarantannie niektórych obszarów. Wszyscy pracownicy rządowi, za wyjątkiem niezbędnych do funkcjonowania kraju, zostali wysłani na 30-dniowe przymusowe urlopy<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup>.</p>
+<h4><span class="mw-headline" id="Nigeria">Nigeria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=9" title="Edytuj sekcję: Nigeria" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=9" title="Edytuj sekcję: Nigeria">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Do 27 lipca odnotowano tylko jeden prawdopodobny przypadek zachorowania i śmierci w Nigerii<sup id="cite_ref-who297_56-0" class="reference"><a href="#cite_note-who297-56">[56]</a></sup>. Dotyczył on Liberyjczyka, który przyleciał do Lagos poprzez Lome i Akrę<sup id="cite_ref-who297_56-1" class="reference"><a href="#cite_note-who297-56">[56]</a></sup>. Pobrane próbki zostały dostarczone do zbadania przez Instytut Pasteura w Dakarze z opóźnieniem, ze względu na problemy z zapewnieniem transportu i tym samym przypadek zachorowania nie został potwierdzony laboratoryjnie 10 sierpnia<sup id="cite_ref-who297_56-2" class="reference"><a href="#cite_note-who297-56">[56]</a></sup><sup id="cite_ref-who138_57-0" class="reference"><a href="#cite_note-who138-57">[57]</a></sup>. Spośród 55 osób, z którymi na pewno miał kontakt chory, do 29 lipca żadna nie miała objawów choroby<sup id="cite_ref-who297_56-3" class="reference"><a href="#cite_note-who297-56">[56]</a></sup>. Po przeprowadzonych badaniach pobranych próbek 13 sierpnia WHO ogłosiła, że do 11 sierpnia włącznie stwierdzono w Nigerii 12 zachorowań, z czego 10 zostało potwierdzonych laboratoryjnie<sup id="cite_ref-who138_57-1" class="reference"><a href="#cite_note-who138-57">[57]</a></sup>. 25 lipca Nigeria wzmocniła nadzór medyczny na wszystkich przejściach granicznych<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup>. Największa nigeryjska linia lotnicza <a href="/wiki/Arik_Air" title="Arik Air">Arik Air</a> zawiesiła loty do Liberii i Sierra Leone<sup id="cite_ref-BBC_28_July_2014_53-1" class="reference"><a href="#cite_note-BBC_28_July_2014-53">[53]</a></sup>. 19 października 2014 minęło 42 dni od negatywnego wyniku powtórzonego testu na obecność wirusa u ostatniego wyleczonego pacjenta (lub śmierci ostatniego chorego na gorączkę krwotoczną Ebola)<sup id="cite_ref-who2010Nigeria_18-3" class="reference"><a href="#cite_note-who2010Nigeria-18">[18]</a></sup><sup id="cite_ref-who2910i_20-1" class="reference"><a href="#cite_note-who2910i-20">[20]</a></sup>. W związku z tym 20 października WHO wydała oświadczenie o wygaśnięciu epidemii w Nigerii<sup id="cite_ref-who2010Nigeria_18-4" class="reference"><a href="#cite_note-who2010Nigeria-18">[18]</a></sup>.</p>
+<h4><span class="mw-headline" id="Sierra_Leone">Sierra Leone</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=10" title="Edytuj sekcję: Sierra Leone" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=10" title="Edytuj sekcję: Sierra Leone">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>W kwietniu Sierra Leone podjęło odpowiednie działania, obejmujące między innymi reaktywację <i>Active Surveillance Protocol</i>, na podstawie którego wszyscy podróżni przybywający z Gwinei i Liberii podlegali ocenie ich stanu zdrowia<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup>. 29 lipca zmarł sierraleoński lekarz <a href="/wiki/Sheik_Humarr_Khan" title="Sheik Humarr Khan">Sheik Humarr Khan</a> – szef programu poświęconego badaniom nad <a href="/wiki/Gor%C4%85czka_Lassa" title="Gorączka Lassa">gorączką Lassa</a> w szpitalu rządowym<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup>. 30 lipca rząd Sierra Leone ogłosił stan wyjątkowy i wysłał wojsko aby zapewnić kwarantannę ognisk epidemii<sup id="cite_ref-Reuters318_61-0" class="reference"><a href="#cite_note-Reuters318-61">[61]</a></sup>.</p>
+<h3><span class="mw-headline" id="Unia_Europejska">Unia Europejska</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=11" title="Edytuj sekcję: Unia Europejska" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=11" title="Edytuj sekcję: Unia Europejska">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>W marcu <a href="/wiki/Komisja_Europejska" title="Komisja Europejska">Komisja Europejska</a> przekazała 500 tysięcy EUR na pomoc w walce z rozprzestrzenianiem się epidemii w Gwinei i w krajach z nią sąsiadujących. Wysłała także eksperta, aby zaznajomił się na miejscu z sytuacją i przeprowadził konsultacje z miejscowymi władzami. <a href="/wiki/Kristalina_Georgiewa" title="Kristalina Georgiewa">Kristalina Georgiewa</a>, <a href="/wiki/Europejski_Komisarz_ds._Rozwoju_i_Pomocy_Humanitarnej" title="Europejski Komisarz ds. Rozwoju i Pomocy Humanitarnej">Europejski Komisarz ds. Rozwoju i Pomocy Humanitarnej</a>, oświadczyła: „Jesteśmy głęboko zaniepokojeni rozprzestrzenianiem się tej choroby i nasze wsparcie pomoże zapewnić natychmiastową pomoc medyczną dla osób nią dotkniętych. Jest istotne, że działamy szybko, aby zapobiec rozprzestrzenianiu się epidemii na sąsiednie kraje”<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[62]</a></sup>.</p>
+<p>W kwietniu 2014 z Europy zostało wysłane do Gwinei mobilne laboratorium, w którym można przeprowadzać <a href="/wiki/Biologia_molekularna" title="Biologia molekularna">diagnostykę molekularną</a> <a href="/wiki/Patogen" title="Patogen">patogenów</a>. Do tej pory próbki były analizowane w Jean Mérieux BSL-4 Laboratory w Lyonie<sup id="cite_ref-Inserm_63-0" class="reference"><a href="#cite_note-Inserm-63">[63]</a></sup>.</p>
+<p>30 lipca Komisja Europejska ogłosiła, że przekaże dodatkowe 2 miliony EUR na zwalczanie epidemii. Tym samym łączna pomoc na ten cel zwiększyła się do 3,9 miliona EUR<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[64]</a></sup>.</p>
+<p>Od 31 lipca <a href="/wiki/Ausw%C3%A4rtiges_Amt" title="Auswärtiges Amt">Ministerstwo Spraw Zagranicznych Niemiec</a> odradza podróże do Gwinei, Liberii i Sierra Leone<sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[65]</a></sup>.</p>
+<h3><span class="mw-headline" id="Stany_Zjednoczone">Stany Zjednoczone</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=12" title="Edytuj sekcję: Stany Zjednoczone" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=12" title="Edytuj sekcję: Stany Zjednoczone">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>30 lipca <a href="/wiki/Korpus_Pokoju" title="Korpus Pokoju">Korpus Pokoju</a> ogłosił, że czasowo wycofuje wolontariuszy z Gwinei, Liberii i Sierra Leone, ze względu na wzrost zagrożenia epidemią w tych krajach<sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[66]</a></sup>.</p>
+<p>31 lipca amerykańskie Centers for Disease Control and Prevention wydało ostrzeżenie odradzając podróże do Gwinei, Liberii i Sierra Leone<sup id="cite_ref-67" class="reference"><a href="#cite_note-67">[67]</a></sup>.</p>
+<p>1 sierpnia organizacja pomocowa Samaritan's Purse ogłosiła, że do Stanów Zjednoczonych zostanie ewakuowanych dwoje chorych na gorączkę krwotoczną Ebola pracowników tej organizacji, a także 60-osobowy zespół pracujący do tej pory w Liberii<sup id="cite_ref-68" class="reference"><a href="#cite_note-68">[68]</a></sup>.</p>
+<h3><span class="mw-headline" id="Pozosta.C5.82e_kraje">Pozostałe kraje</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=13" title="Edytuj sekcję: Pozostałe kraje" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=13" title="Edytuj sekcję: Pozostałe kraje">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>28 marca <a href="/wiki/Wsp%C3%B3lnota_Gospodarcza_Pa%C5%84stw_Afryki_Zachodniej" title="Wspólnota Gospodarcza Państw Afryki Zachodniej">Wspólnota Gospodarcza Państw Afryki Zachodniej</a> (ECOWAS) wydała oświadczenie, w którym wezwała społeczność międzynarodową do wsparcia w walce z epidemią<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[69]</a></sup>. 30 marca 2014, podczas 44. szczytu szefów państw i rządów krajów Afryki Zachodniej, ECOWAS przeznaczyła 250 tysięcy USD na walkę z epidemią<sup id="cite_ref-disburse_70-0" class="reference"><a href="#cite_note-disburse-70">[70]</a></sup>.</p>
+<p>29 marca 2014 <a href="/wiki/Senegal" title="Senegal">senegalska</a> państwowa agencja prasowa wydała oświadczenie, że ministerstwo spraw wewnętrznych wstrzymało do odwołania ruch graniczny z Gwineą, aby zapobiec rozprzestrzenianiu się epidemii<sup id="cite_ref-71" class="reference"><a href="#cite_note-71">[71]</a></sup>. Od 26 marca 2014 <a href="/wiki/Mauretania" title="Mauretania">Mauretania</a> zamknęła wszystkie przejścia graniczne wzdłuż <a href="/wiki/Senegal_(rzeka)" title="Senegal (rzeka)">rzeki Senegal</a>, naturalnej granicy Senegalu i Mauretanii, z wyjątkiem przejść granicznych w <a href="/wiki/Rosso" title="Rosso">Rosso</a> i <a href="/w/index.php?title=Diama&amp;action=edit&amp;redlink=1" class="new" title="Diama (strona nie istnieje)">Diama</a><sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[72]</a></sup>.</p>
+<p>Od 1 kwietnia 2014 Arabia Saudyjska zaprzestała wydawania wiz dla mieszkańców Gwinei i Liberii, co dotknęło muzułmanów z tych krajów chcących udać się na <a href="/wiki/Pielgrzymki_w_islamie" title="Pielgrzymki w islamie">pielgrzymkę do Mekki</a><sup id="cite_ref-73" class="reference"><a href="#cite_note-73">[73]</a></sup>. <a href="/wiki/Maroko" title="Maroko">Maroko</a> wzmocniło nadzór medyczny w <a href="/wiki/Port_lotniczy_Casablanca" title="Port lotniczy Casablanca">porcie lotniczym Casablanca</a>, regionalnym <a href="/wiki/W%C4%99ze%C5%82_lotniczy" title="Węzeł lotniczy" class="mw-redirect">porcie przesiadkowym</a> dla lotów z i do Afryki Zachodniej<sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[74]</a></sup>.</p>
+<p>Międzynarodowa organizacja humanitarna <a href="/wiki/Lekarze_bez_Granic" title="Lekarze bez Granic">Lekarze bez Granic</a>, która utworzyła centra mające udzielać specjalistycznej pomocy medycznej zakażonym, utrzymywała w czerwcu 2014 300-osobowy zespół w Gwinei, Sierra Leone i Liberii oraz wysłała do końca czerwca ponad 40 ton sprzętu i zaopatrzenia<sup id="cite_ref-75" class="reference"><a href="#cite_note-75">[75]</a></sup>.</p>
+<p>W dniach 2-3 lipca WHO zorganizowało w <a href="/wiki/Akra" title="Akra">Akrze</a> nadzwyczajne spotkanie poświęcone epidemii, w którym uczestniczyli ministrowie zdrowia 11 krajów: <a href="/wiki/Demokratyczna_Republika_Konga" title="Demokratyczna Republika Konga">Demokratycznej Republiki Konga</a>, <a href="/wiki/Gambia" title="Gambia">Gambii</a>, <a href="/wiki/Ghana" title="Ghana">Ghany</a>, Gwinei, <a href="/wiki/Gwinea_Bissau" title="Gwinea Bissau">Gwinei Bissau</a>, Liberii, <a href="/wiki/Mali" title="Mali">Mali</a>, <a href="/wiki/Senegal" title="Senegal">Senegalu</a>, Sierra Leone, <a href="/wiki/Uganda" title="Uganda">Ugandy</a> i <a href="/wiki/Wybrze%C5%BCe_Ko%C5%9Bci_S%C5%82oniowej" title="Wybrzeże Kości Słoniowej">Wybrzeża Kości Słoniowej</a> oraz przedstawicieli organizacji zaangażowanych w jej zwalczanie: <a href="/wiki/Organizacje_wyspecjalizowane_ONZ" title="Organizacje wyspecjalizowane ONZ">agencji ONZ</a>, <a href="/wiki/Centers_for_Disease_Control_and_Prevention" title="Centers for Disease Control and Prevention">Centers for Disease Control and Prevention</a>, <a href="/w/index.php?title=Department_for_International_Development&amp;action=edit&amp;redlink=1" class="new" title="Department for International Development (strona nie istnieje)">Department for International Development</a>, <a href="/wiki/Unia_Europejska" title="Unia Europejska">Unii Europejskiej</a>, <a href="/wiki/ECHO_(biuro)" title="ECHO (biuro)">Biura Pomocy Humanitarnej Wspólnoty Europejskiej</a>, <a href="/wiki/Instytut_Pasteura" title="Instytut Pasteura">Instytutu Pasteura</a>, <a href="/wiki/Mi%C4%99dzynarodowy_Ruch_Czerwonego_Krzy%C5%BCa_i_Czerwonego_P%C3%B3%C5%82ksi%C4%99%C5%BCyca" title="Międzynarodowy Ruch Czerwonego Krzyża i Czerwonego Półksiężyca">Czerwonego Krzyża</a>, <a href="/wiki/Lekarze_bez_Granic" title="Lekarze bez Granic">Lekarzy bez Granic</a>, <a href="/w/index.php?title=USAID&amp;action=edit&amp;redlink=1" class="new" title="USAID (strona nie istnieje)">USAID</a> i WHO<sup id="cite_ref-76" class="reference"><a href="#cite_note-76">[76]</a></sup>.</p>
+<p>3 lipca 2014 na konferencji prasowej uczestnicy spotkania ogłosili zacieśnienie współpracy w zwalczaniu epidemii i utworzenie subregionalnego centrum WHO w Gwinei „koordynującego wsparcie techniczne”<sup id="cite_ref-bbcjuly3_77-0" class="reference"><a href="#cite_note-bbcjuly3-77">[77]</a></sup>; 24 lipca centrum (SEOCC) zostało otwarte w <a href="/wiki/Konakry" title="Konakry">Konakry</a><sup id="cite_ref-78" class="reference"><a href="#cite_note-78">[78]</a></sup>.</p>
+<p>30 lipca władze Hongkongu wzmocniły nadzór medyczny po tym, jak zachorowała kobieta, która powróciła z Kenii; testy na obecność wirusa Ebola dały wynik negatywny<sup id="cite_ref-79" class="reference"><a href="#cite_note-79">[79]</a></sup>.</p>
+<h3><span class="mw-headline" id="Media">Media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=14" title="Edytuj sekcję: Media" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=14" title="Edytuj sekcję: Media">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>„Ebola in Town”, utwór taneczny nagrany przez zachodnioafrykańskich wykonawców, przestrzega przed niebezpieczeństwem zakażenia wirusem Ebola i wyjaśnia jak go uniknąć<sup id="cite_ref-80" class="reference"><a href="#cite_note-80">[80]</a></sup><sup id="cite_ref-81" class="reference"><a href="#cite_note-81">[81]</a></sup>.</p>
+<h2><span class="mw-headline" id="Czynniki_utrudniaj.C4.85ce_zwalczanie_epidemii">Czynniki utrudniające zwalczanie epidemii</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=15" title="Edytuj sekcję: Czynniki utrudniające zwalczanie epidemii" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=15" title="Edytuj sekcję: Czynniki utrudniające zwalczanie epidemii">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>W czerwcu 2014 organizacja <i>Lekarze bez granic</i> ogłosiła, że epidemia „całkowicie wymknęła się spod kontroli”<sup id="cite_ref-Control_82-0" class="reference"><a href="#cite_note-Control-82">[82]</a></sup>. Czynnikami utrudniającymi opanowanie epidemii są: powstawanie ognisk epidemicznych w różnych krajach<sup id="cite_ref-Control_82-1" class="reference"><a href="#cite_note-Control-82">[82]</a></sup>, nieadekwatne środki ostrożności podejmowane przez personel medyczny<sup id="cite_ref-83" class="reference"><a href="#cite_note-83">[83]</a></sup>, zwyczaje pogrzebowe<sup id="cite_ref-84" class="reference"><a href="#cite_note-84">[84]</a></sup> i opór społeczności lokalnych, w tym „uwalnianie” osób podejrzewanych o zakażenie, które były izolowane od otoczenia<sup id="cite_ref-85" class="reference"><a href="#cite_note-85">[85]</a></sup> oraz podejrzenia, że choroba została wywołana czarami lub że lekarze zabijają zakażonych<sup id="cite_ref-86" class="reference"><a href="#cite_note-86">[86]</a></sup>. Odnotowano także atak na pracowników organizacji pomocowych, w celu „uwolnienia” z ich rąk pacjentów, których w pośpiechu zabrali, nie tłumacząc kim są<sup id="cite_ref-87" class="reference"><a href="#cite_note-87">[87]</a></sup>.</p>
+<h2><span class="mw-headline" id="Badania">Badania</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=16" title="Edytuj sekcję: Badania" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=16" title="Edytuj sekcję: Badania">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Naukowcy przeprowadzili pełne <a href="/wiki/Sekwencjonowanie" title="Sekwencjonowanie">sekwencjonowanie</a> <a href="/wiki/Genom" title="Genom">genomu</a> i analizę <a href="/wiki/Filogeneza" title="Filogeneza">pochodzenia i rozwoju</a> wirusa na podstawie próbek pobranych od 20 pacjentów. Wyniki sugerują, że szczep <a href="/wiki/Wirus_Ebola" title="Wirus Ebola">wirus Ebola</a> Ebola-Zaire z Gwinei należy do innego <a href="/wiki/Szczep_(mikrobiologia)" title="Szczep (mikrobiologia)">szczepu</a> niż szczepy wirusa, które spowodowały epidemie w <a href="/wiki/Kongo" title="Kongo">Kongo</a> i <a href="/wiki/Gabon" title="Gabon">Gabonie</a><sup id="cite_ref-Baize2014_25-7" class="reference"><a href="#cite_note-Baize2014-25">[25]</a></sup>. Dwa kolejne raporty zakwestionowały te wstępne ustalenia.</p>
+<h2><span class="mw-headline" id="Skutki_gospodarcze_i_inne">Skutki gospodarcze i inne</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=17" title="Edytuj sekcję: Skutki gospodarcze i inne" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=17" title="Edytuj sekcję: Skutki gospodarcze i inne">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Poza zachorowaniami i śmiercią zakażonych osób, epidemia wpływa również na gospodarkę. Palm Camayenne Hotel w Konakry, popularny wśród biznesmenów i polityków, ma mniej niż jedną trzecią zwykłej liczby gości<sup id="cite_ref-Mali_suspects_first_Ebola_cases_as_regional_death_toll_tops_90_88-0" class="reference"><a href="#cite_note-Mali_suspects_first_Ebola_cases_as_regional_death_toll_tops_90-88">[88]</a></sup>. Belgijskie linie lotnicze <a href="/wiki/Brussels_Airlines" title="Brussels Airlines">Brussels Airlines</a> donosiły, że na trasie Bruksela-Konakry, zmniejszyła się liczba osób lecących do Konakry, a zwiększyła liczba pasażerów lecących w przeciwnym kierunku<sup id="cite_ref-Mali_suspects_first_Ebola_cases_as_regional_death_toll_tops_90_88-1" class="reference"><a href="#cite_note-Mali_suspects_first_Ebola_cases_as_regional_death_toll_tops_90-88">[88]</a></sup>. Regionalne linie lotnicze <i>Gambia Bird</i> odwołały uruchomienie połączenia do Konakry, ze względu na zamknięcie granic z Gwineą przez Senegal<sup id="cite_ref-Mali_suspects_first_Ebola_cases_as_regional_death_toll_tops_90_88-2" class="reference"><a href="#cite_note-Mali_suspects_first_Ebola_cases_as_regional_death_toll_tops_90-88">[88]</a></sup>.</p>
+<p>Brytyjska firma górnicza <i>London Mining</i> w czerwcu odesłała z Sierra Leone pracowników, którzy nie są niezbędni do funkcjonowania kopalni rud żelaza w tym kraju<sup id="cite_ref-89" class="reference"><a href="#cite_note-89">[89]</a></sup>.</p>
+<p>W listopadzie 2014 państwo <a href="/wiki/Maroko" title="Maroko">Maroko</a> zrezygnowało z organizacji w roli gospodarza <a href="/wiki/Puchar_Narod%C3%B3w_Afryki_2015" title="Puchar Narodów Afryki 2015">Pucharu Narodów Afryki w piłce nożnej</a>, zaplanowanego na przełom stycznia i lutego 2015, z uwagi na zagrożenie epidemią gorączki krwotocznej Ebola<sup id="cite_ref-90" class="reference"><a href="#cite_note-90">[90]</a></sup><sup id="cite_ref-91" class="reference"><a href="#cite_note-91">[91]</a></sup>.</p>
+<h2><span class="mw-headline" id="Rozw.C3.B3j_epidemii">Rozwój epidemii</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=18" title="Edytuj sekcję: Rozwój epidemii" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=18" title="Edytuj sekcję: Rozwój epidemii">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Rozwój epidemii na podstawie danych publikowanych przez <a href="/wiki/Centers_for_Disease_Control_and_Prevention" title="Centers for Disease Control and Prevention">Centers for Disease Control and Prevention</a> i <a href="/wiki/%C5%9Awiatowa_Organizacja_Zdrowia" title="Światowa Organizacja Zdrowia">Światową Organizację Zdrowia</a> (data publikacji raportu, dane pokazują stan na kilka dni przed publikacją raportu)<sup id="cite_ref-cdc.gov.recent_27-4" class="reference"><a href="#cite_note-cdc.gov.recent-27">[27]</a></sup>. Ponieważ dane obejmują zarówno osoby u których rozpoznano objawy choroby (bez badania laboratoryjnego pobranych próbek na obecność wirusa) jak i przypadki potwierdzone laboratoryjnie, liczba zachorowań może ulegać weryfikacji (patrz np. liczba zachorowań w Nigerii 12 i 13 sierpnia, liczba zachorowań ogółem 25 i 29 października). Gwałtowny wzrost łącznej liczby zachorowań odnotowany w raporcie z 29 października w porównaniu do poprzedniego raportu, wynika z przeprowadzonej weryfikacji dostępnych danych. Dotyczy on całego okresu epidemii, a nie okresu od publikacji poprzedniego raportu<sup id="cite_ref-who2910i_20-2" class="reference"><a href="#cite_note-who2910i-20">[20]</a></sup>.</p>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 298.66666666667px">
+<div style="width: 298.66666666667px">
+<div class="thumb" style="width: 296.66666666667px;">
+<div style="margin:0px auto;"><a href="/wiki/Plik:Diseased_Ebola_2014.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Diseased_Ebola_2014.png/445px-Diseased_Ebola_2014.png" width="297" height="200" data-file-width="1028" data-file-height="694" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Rozwój epidemii w 2014 – liczba zakażeń i zgonów ogółem, narastająco <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 288.66666666667px">
+<div style="width: 288.66666666667px">
+<div class="thumb" style="width: 286.66666666667px;">
+<div style="margin:0px auto;"><a href="/wiki/Plik:Deceased_per_day_Ebola_2014.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Deceased_per_day_Ebola_2014.png/430px-Deceased_per_day_Ebola_2014.png" width="287" height="200" data-file-width="1028" data-file-height="718" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Rozwój epidemii w 2014 – liczba odnotowanych zakażeń i zgonów dziennie <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 312px">
+<div style="width: 312px">
+<div class="thumb" style="width: 310px;">
+<div style="margin:0px auto;"><a href="/wiki/Plik:West_Africa_Ebola_2014_5_cum_case_by_country_lin.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/West_Africa_Ebola_2014_5_cum_case_by_country_lin.png/465px-West_Africa_Ebola_2014_5_cum_case_by_country_lin.png" width="310" height="200" data-file-width="1539" data-file-height="994" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Liczba zakażeń w poszczególnych krajach, narastająco <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span></p>
+</div>
+</div>
+</li>
+</ul>
+<table class="wikitable" style="text-align:center;" width="1000px">
+<caption>Rozwój epidemii od października 2014</caption>
+<tr>
+<th rowspan="2">Data raportu</th>
+<th colspan="2">Ogółem</th>
+<th colspan="2">Gwinea</th>
+<th colspan="2">Liberia</th>
+<th colspan="2">Sierra Leone</th>
+<th colspan="2">Nigeria</th>
+<th colspan="2">Senegal</th>
+<th colspan="2">USA</th>
+<th colspan="2">Hiszpania</th>
+<th colspan="2">Mali</th>
+<th colspan="2">Wielka Brytania</th>
+</tr>
+<tr>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+</tr>
+<tr>
+<td>21-01-2015<sup id="cite_ref-who2101i5_2-3" class="reference"><a href="#cite_note-who2101i5-2">[2]</a></sup></td>
+<td>21 724</td>
+<td>8641</td>
+<td>2871</td>
+<td>1876</td>
+<td>8478</td>
+<td>3605</td>
+<td>10 340</td>
+<td>3145</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>8</td>
+<td>6</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>14-01-2015<sup id="cite_ref-who1501i5_92-0" class="reference"><a href="#cite_note-who1501i5-92">[92]</a></sup></td>
+<td>21 296</td>
+<td>8429</td>
+<td>2806</td>
+<td>1814</td>
+<td>8331</td>
+<td>3538</td>
+<td>10 124</td>
+<td>3062</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>8</td>
+<td>6</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>07-01-2015<sup id="cite_ref-who0701i5_3-1" class="reference"><a href="#cite_note-who0701i5-3">[3]</a></sup></td>
+<td>20 747</td>
+<td>8235</td>
+<td>2775</td>
+<td>1781</td>
+<td>8157</td>
+<td>3496</td>
+<td>9780</td>
+<td>2943</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>8</td>
+<td>6</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>31-12-2014<sup id="cite_ref-who3112i_21-2" class="reference"><a href="#cite_note-who3112i-21">[21]</a></sup></td>
+<td>20 206</td>
+<td>7905</td>
+<td>2707</td>
+<td>1709</td>
+<td>8018</td>
+<td>3423</td>
+<td>9446</td>
+<td>2758</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>8</td>
+<td>6</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>24-12-2014<sup id="cite_ref-who2412i_93-0" class="reference"><a href="#cite_note-who2412i-93">[93]</a></sup></td>
+<td>19 497</td>
+<td>7588</td>
+<td>2597</td>
+<td>1607</td>
+<td>7862</td>
+<td>3384</td>
+<td>9004</td>
+<td>2582</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>8</td>
+<td>6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17-12-2014<sup id="cite_ref-who1712i_22-1" class="reference"><a href="#cite_note-who1712i-22">[22]</a></sup></td>
+<td>18 603</td>
+<td>6915</td>
+<td>2416</td>
+<td>1525</td>
+<td>7797</td>
+<td>3290</td>
+<td>8356</td>
+<td>2085</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>8</td>
+<td>6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10-12-2014<sup id="cite_ref-who1012i_94-0" class="reference"><a href="#cite_note-who1012i-94">[94]</a></sup></td>
+<td>17 942</td>
+<td>6388</td>
+<td>2292</td>
+<td>1428</td>
+<td>7719</td>
+<td>3177</td>
+<td>7897</td>
+<td>1768</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>8</td>
+<td>6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>03-12-2014<sup id="cite_ref-who0312i_95-0" class="reference"><a href="#cite_note-who0312i-95">[95]</a></sup></td>
+<td>17 145</td>
+<td>6070</td>
+<td>2164</td>
+<td>1327</td>
+<td>7635</td>
+<td>3145</td>
+<td>7312</td>
+<td>1583</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>8</td>
+<td>6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>26-11-2014<sup id="cite_ref-who2611i_23-1" class="reference"><a href="#cite_note-who2611i-23">[23]</a></sup></td>
+<td>15 935</td>
+<td>5689</td>
+<td>2134</td>
+<td>1260</td>
+<td>7168</td>
+<td>3016</td>
+<td>6599</td>
+<td>1398</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>8</td>
+<td>6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21-11-2014<sup id="cite_ref-who2111i_14-2" class="reference"><a href="#cite_note-who2111i-14">[14]</a></sup></td>
+<td>15 351</td>
+<td>5459</td>
+<td>2047</td>
+<td>1214</td>
+<td>7082</td>
+<td>2963</td>
+<td>6190</td>
+<td>1267</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>6</td>
+<td>6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19-11-2014<sup id="cite_ref-who1911i_11-2" class="reference"><a href="#cite_note-who1911i-11">[11]</a></sup></td>
+<td>15 145</td>
+<td>5420</td>
+<td>1971</td>
+<td>1192</td>
+<td>7069</td>
+<td>2964</td>
+<td>6073</td>
+<td>1250</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>6</td>
+<td>5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14-11-2014<sup id="cite_ref-who1411i_96-0" class="reference"><a href="#cite_note-who1411i-96">[96]</a></sup></td>
+<td>14 413</td>
+<td>5177</td>
+<td>1919</td>
+<td>1166</td>
+<td>6878</td>
+<td>2812</td>
+<td>5586</td>
+<td>1187</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>3</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12-11-2014<sup id="cite_ref-who1211i_97-0" class="reference"><a href="#cite_note-who1211i-97">[97]</a></sup></td>
+<td>14 098</td>
+<td>5160</td>
+<td>1878</td>
+<td>1142</td>
+<td>6822</td>
+<td>2836</td>
+<td>5368</td>
+<td>1169</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>4</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>07-11-2014<sup id="cite_ref-who0711i_98-0" class="reference"><a href="#cite_note-who0711i-98">[98]</a></sup></td>
+<td>13 268</td>
+<td>4960</td>
+<td>1760</td>
+<td>1054</td>
+<td>6619</td>
+<td>2766</td>
+<td>4862</td>
+<td>1130</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>05-11-2014<sup id="cite_ref-who0211i_99-0" class="reference"><a href="#cite_note-who0211i-99">[99]</a></sup></td>
+<td>13 042</td>
+<td>4818</td>
+<td>1731</td>
+<td>1041</td>
+<td>6525</td>
+<td>2697</td>
+<td>4759</td>
+<td>1070</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>31-10-2014<sup id="cite_ref-who3110i_100-0" class="reference"><a href="#cite_note-who3110i-100">[100]</a></sup></td>
+<td>13 567</td>
+<td>4951</td>
+<td>1667</td>
+<td>1018</td>
+<td>6535</td>
+<td>2413</td>
+<td>5338</td>
+<td>1510</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>29-10-2014<sup id="cite_ref-who2910i_20-3" class="reference"><a href="#cite_note-who2910i-20">[20]</a></sup></td>
+<td>13 703</td>
+<td>4920</td>
+<td>1906</td>
+<td>997</td>
+<td>6535</td>
+<td>2413</td>
+<td>5235</td>
+<td>1500</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>25-10-2014<sup id="cite_ref-who2510i_101-0" class="reference"><a href="#cite_note-who2510i-101">[101]</a></sup></td>
+<td>10 141</td>
+<td>4922</td>
+<td>1553</td>
+<td>926</td>
+<td>4665</td>
+<td>2705</td>
+<td>3896</td>
+<td>1281</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22-10-2014<sup id="cite_ref-who2210i_13-2" class="reference"><a href="#cite_note-who2210i-13">[13]</a></sup></td>
+<td>9936</td>
+<td>4877</td>
+<td>1540</td>
+<td>904</td>
+<td>4665</td>
+<td>2705</td>
+<td>3706</td>
+<td>1259</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17-10-2014<sup id="cite_ref-who1710i_48-1" class="reference"><a href="#cite_note-who1710i-48">[48]</a></sup></td>
+<td>9216</td>
+<td>4555</td>
+<td>1519</td>
+<td>862</td>
+<td>4262</td>
+<td>2484</td>
+<td>3410</td>
+<td>1200</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15-10-2014<sup id="cite_ref-who1510i_102-0" class="reference"><a href="#cite_note-who1510i-102">[102]</a></sup></td>
+<td>8997</td>
+<td>4493</td>
+<td>1472</td>
+<td>843</td>
+<td>4249</td>
+<td>2458</td>
+<td>3252</td>
+<td>1183</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10-10-2014<sup id="cite_ref-who1010i_103-0" class="reference"><a href="#cite_note-who1010i-103">[103]</a></sup></td>
+<td>8399</td>
+<td>4033</td>
+<td>1350</td>
+<td>778</td>
+<td>4076</td>
+<td>2316</td>
+<td>2950</td>
+<td>930</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>03-10-2014<sup id="cite_ref-who0310i_104-0" class="reference"><a href="#cite_note-who0310i-104">[104]</a></sup></td>
+<td>7492</td>
+<td>3439</td>
+<td>1199</td>
+<td>739</td>
+<td>3834</td>
+<td>2069</td>
+<td>2437</td>
+<td>623</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+<table class="wikitable collapsible collapsed" style="text-align:center;" width="1000px">
+<caption>Rozwój epidemii do końca września 2014</caption>
+<tr>
+<th rowspan="2">Data raportu</th>
+<th colspan="2">Ogółem</th>
+<th colspan="2">Gwinea</th>
+<th colspan="2">Liberia</th>
+<th colspan="2">Sierra Leone</th>
+<th colspan="2">Nigeria</th>
+<th colspan="2">Senegal</th>
+</tr>
+<tr>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+<th>zak.</th>
+<th>zg.</th>
+</tr>
+<tr>
+<td>1 października 2014<sup id="cite_ref-who0110i_105-0" class="reference"><a href="#cite_note-who0110i-105">[105]</a></sup></td>
+<td>7178</td>
+<td>3338</td>
+<td>1157</td>
+<td>710</td>
+<td>3696</td>
+<td>1998</td>
+<td>2304</td>
+<td>622</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>26 września 2014<sup id="cite_ref-who269i_106-0" class="reference"><a href="#cite_note-who269i-106">[106]</a></sup></td>
+<td>6574</td>
+<td>3091</td>
+<td>1074</td>
+<td>648</td>
+<td>3458</td>
+<td>1830</td>
+<td>2021</td>
+<td>605</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>24 września 2014<sup id="cite_ref-who249i_107-0" class="reference"><a href="#cite_note-who249i-107">[107]</a></sup></td>
+<td>6263</td>
+<td>2917</td>
+<td>1022</td>
+<td>635</td>
+<td>3280</td>
+<td>1677</td>
+<td>1940</td>
+<td>597</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>22 września 2014<sup id="cite_ref-who229i_108-0" class="reference"><a href="#cite_note-who229i-108">[108]</a></sup></td>
+<td>5864</td>
+<td>2811</td>
+<td>1008</td>
+<td>632</td>
+<td>3022</td>
+<td>1578</td>
+<td>1813</td>
+<td>593</td>
+<td>20</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>18 września 2014<sup id="cite_ref-who189i_109-0" class="reference"><a href="#cite_note-who189i-109">[109]</a></sup></td>
+<td>5357</td>
+<td>2630</td>
+<td>942</td>
+<td>601</td>
+<td>2720</td>
+<td>1459</td>
+<td>1673</td>
+<td>562</td>
+<td>21</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>16 września 2014<sup id="cite_ref-who169i_110-0" class="reference"><a href="#cite_note-who169i-110">[110]</a></sup></td>
+<td>4985</td>
+<td>2461</td>
+<td>936</td>
+<td>595</td>
+<td>2407</td>
+<td>1296</td>
+<td>1620</td>
+<td>562</td>
+<td>21</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>12 września 2014<sup id="cite_ref-who129i_111-0" class="reference"><a href="#cite_note-who129i-111">[111]</a></sup></td>
+<td>4390</td>
+<td>2226</td>
+<td>861</td>
+<td>557</td>
+<td>2081</td>
+<td>1137</td>
+<td>1424</td>
+<td>524</td>
+<td>21</td>
+<td>8</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8 września 2014<sup id="cite_ref-who089i_112-0" class="reference"><a href="#cite_note-who089i-112">[112]</a></sup></td>
+<td>4293</td>
+<td>2296</td>
+<td>862</td>
+<td>555</td>
+<td>2046</td>
+<td>1224</td>
+<td>1361</td>
+<td>509</td>
+<td>21</td>
+<td>8</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4 września 2014</td>
+<td>3707</td>
+<td>1848</td>
+<td>771</td>
+<td>494</td>
+<td>1698</td>
+<td>871</td>
+<td>1216</td>
+<td>476</td>
+<td>21</td>
+<td>7</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>28 sierpnia 2014</td>
+<td>3069</td>
+<td>1552</td>
+<td>648</td>
+<td>430</td>
+<td>1378</td>
+<td>694</td>
+<td>1026</td>
+<td>422</td>
+<td>17</td>
+<td>6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22 sierpnia 2014</td>
+<td>2615</td>
+<td>1427</td>
+<td>607</td>
+<td>406</td>
+<td>1082</td>
+<td>624</td>
+<td>910</td>
+<td>392</td>
+<td>16</td>
+<td>5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21 sierpnia 2014</td>
+<td>2473</td>
+<td>1350</td>
+<td>579</td>
+<td>396</td>
+<td>972</td>
+<td>576</td>
+<td>907</td>
+<td>374</td>
+<td>15</td>
+<td>4</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19 sierpnia 2014</td>
+<td>2240</td>
+<td>1229</td>
+<td>543</td>
+<td>394</td>
+<td>834</td>
+<td>466</td>
+<td>848</td>
+<td>365</td>
+<td>15</td>
+<td>4</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15 sierpnia 2014</td>
+<td>2127</td>
+<td>1145</td>
+<td>519</td>
+<td>380</td>
+<td>786</td>
+<td>413</td>
+<td>810</td>
+<td>348</td>
+<td>12</td>
+<td>4</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13 sierpnia 2014</td>
+<td>1975</td>
+<td>1069</td>
+<td>510</td>
+<td>377</td>
+<td>670</td>
+<td>355</td>
+<td>783</td>
+<td>334</td>
+<td>12</td>
+<td>3</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12 sierpnia 2014</td>
+<td>1848</td>
+<td>1013</td>
+<td>506</td>
+<td>373</td>
+<td>599</td>
+<td>323</td>
+<td>730</td>
+<td>315</td>
+<td>13</td>
+<td>2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8 sierpnia 2014</td>
+<td>1779</td>
+<td>961</td>
+<td>495</td>
+<td>367</td>
+<td>554</td>
+<td>294</td>
+<td>717</td>
+<td>298</td>
+<td>13</td>
+<td>2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6 sierpnia 2014</td>
+<td>1711</td>
+<td>932</td>
+<td>495</td>
+<td>363</td>
+<td>516</td>
+<td>282</td>
+<td>691</td>
+<td>286</td>
+<td>9</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4 sierpnia 2014</td>
+<td>1603</td>
+<td>887</td>
+<td>485</td>
+<td>358</td>
+<td>468</td>
+<td>255</td>
+<td>646</td>
+<td>273</td>
+<td>4</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3 sierpnia 2014</td>
+<td>1440</td>
+<td>826</td>
+<td>472</td>
+<td>346</td>
+<td>391</td>
+<td>227</td>
+<td>574</td>
+<td>252</td>
+<td>3</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>31 lipca 2014</td>
+<td>1323</td>
+<td>729</td>
+<td>460</td>
+<td>339</td>
+<td>329</td>
+<td>156</td>
+<td>533</td>
+<td>233</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>28 lipca 2014</td>
+<td>1201</td>
+<td>672</td>
+<td>427</td>
+<td>319</td>
+<td>249</td>
+<td>129</td>
+<td>525</td>
+<td>224</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21 lipca 2014</td>
+<td>1048</td>
+<td>632</td>
+<td>410</td>
+<td>310</td>
+<td>196</td>
+<td>116</td>
+<td>442</td>
+<td>206</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16 lipca 2014</td>
+<td>964</td>
+<td>603</td>
+<td>406</td>
+<td>304</td>
+<td>172</td>
+<td>105</td>
+<td>386</td>
+<td>194</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14 lipca 2014</td>
+<td>888</td>
+<td>539</td>
+<td>409</td>
+<td>309</td>
+<td>142</td>
+<td>88</td>
+<td>337</td>
+<td>142</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8 lipca 2014</td>
+<td>844</td>
+<td>518</td>
+<td>408</td>
+<td>307</td>
+<td>131</td>
+<td>84</td>
+<td>305</td>
+<td>127</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2 lipca 2014</td>
+<td>759</td>
+<td>467</td>
+<td>413</td>
+<td>303</td>
+<td>107</td>
+<td>65</td>
+<td>239</td>
+<td>99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>24 czerwca 2014</td>
+<td>599</td>
+<td>362</td>
+<td>390</td>
+<td>270</td>
+<td>51</td>
+<td>34</td>
+<td>158</td>
+<td>34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17 czerwca 2014</td>
+<td>528</td>
+<td>337</td>
+<td>398</td>
+<td>264</td>
+<td>33</td>
+<td>24</td>
+<td>97</td>
+<td>49</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10 czerwca 2014</td>
+<td>474</td>
+<td>252</td>
+<td>372</td>
+<td>236</td>
+<td>13</td>
+<td>9</td>
+<td>89</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5 czerwca 2014</td>
+<td>438</td>
+<td>231</td>
+<td>344</td>
+<td>215</td>
+<td>13</td>
+<td>9</td>
+<td>81</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2 czerwca 2014</td>
+<td>354</td>
+<td>208</td>
+<td>291</td>
+<td>193</td>
+<td>13</td>
+<td>9</td>
+<td>50</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>27 maja 2014</td>
+<td>309</td>
+<td>200</td>
+<td>281</td>
+<td>186</td>
+<td>12</td>
+<td>9</td>
+<td>16</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>23 maja 2014</td>
+<td>270</td>
+<td>183</td>
+<td>258</td>
+<td>174</td>
+<td>12</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14 maja 2014</td>
+<td>245</td>
+<td>166</td>
+<td>233</td>
+<td>157</td>
+<td>12</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5 maja 2014</td>
+<td>243</td>
+<td>164</td>
+<td>231</td>
+<td>155</td>
+<td>12</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>30 kwietnia 2014</td>
+<td>233</td>
+<td>155</td>
+<td>221</td>
+<td>146</td>
+<td>12</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>23 kwietnia 2014</td>
+<td>220</td>
+<td>145</td>
+<td>208</td>
+<td>136</td>
+<td>12</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21 kwietnia 2014</td>
+<td>215</td>
+<td>138</td>
+<td>203</td>
+<td>129</td>
+<td>12</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17 kwietnia 2014</td>
+<td>209</td>
+<td>131</td>
+<td>197</td>
+<td>122</td>
+<td>12</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10 kwietnia 2014</td>
+<td>169</td>
+<td>110</td>
+<td>157</td>
+<td>101</td>
+<td>12</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7 kwietnia 2014</td>
+<td>163</td>
+<td>102</td>
+<td>151</td>
+<td>95</td>
+<td>12</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2 kwietnia 2014</td>
+<td>135</td>
+<td>88</td>
+<td>127</td>
+<td>83</td>
+<td>8</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1 kwietnia 2014</td>
+<td>130</td>
+<td>82</td>
+<td>122</td>
+<td>80</td>
+<td>8</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>31 marca 2014</td>
+<td>114</td>
+<td>70</td>
+<td>112</td>
+<td>70</td>
+<td>2</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>27 marca 2014</td>
+<td>103</td>
+<td>66</td>
+<td>103</td>
+<td>66</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>26 marca 2014</td>
+<td>86</td>
+<td>60</td>
+<td>86</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>25 marca 2014</td>
+<td>86</td>
+<td>59</td>
+<td>86</td>
+<td>59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Przypisy">Przypisy</span></h2>
+<div class="do-not-make-smaller refsection references-column-count references-2column">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.cdc.gov/vhf/ebola/resources/outbreak-table.html">Outbreaks Chronology: Ebola Hemorrhagic Fever</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Centers for Disease Control and Prevention. [dostęp 2014-08-21].</span></span></li>
+<li id="cite_note-who2101i5-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who2101i5_2-0">2,0</a></sup> <sup><a href="#cite_ref-who2101i5_2-1">2,1</a></sup> <sup><a href="#cite_ref-who2101i5_2-2">2,2</a></sup> <sup><a href="#cite_ref-who2101i5_2-3">2,3</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/149314/1/roadmapsitrep_21Jan2015_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report. 21 January 2015</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2015-01-21. [dostęp 2015-01-22].</span></span></li>
+<li id="cite_note-who0701i5-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who0701i5_3-0">3,0</a></sup> <sup><a href="#cite_ref-who0701i5_3-1">3,1</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/147112/1/roadmapsitrep_7Jan2015_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report. 7 January 2015</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2015-01-07. [dostęp 2015-01-10].</span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation">Adam Nossiter: <a rel="nofollow" class="external text" href="http://www.nytimes.com/2014/07/28/world/africa/ebola-epidemic-west-africa-guinea.html">Fear of Ebola Breeds a Terror of Physicians</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. 2014-07-27. [dostęp 2014-07-31].</span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.cdc.gov/vhf/ebola/resources/outbreak-table.html">Chronology of Ebola Hemorrhagic Fever Outbreaks</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Centers for Disease Control and Prevention, 24 czerwca 2014. [dostęp 25 czerwca 2014].</span></span></li>
+<li id="cite_note-abcnews-6"><span class="mw-cite-backlink"><a href="#cite_ref-abcnews_6-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://abcnews.go.com/Health/stories-front-lines-ebola-outbreak/story?id=24354445">http://abcnews.go.com/Health/stories-front-lines-ebola-outbreak/story?id=24354445</a></span></li>
+<li id="cite_note-Time-7"><span class="mw-cite-backlink"><a href="#cite_ref-Time_7-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://time.com/2933963/ebola-outbreak-worst/">http://time.com/2933963/ebola-outbreak-worst/</a></span></li>
+<li id="cite_note-whoPHEIC-8"><span class="mw-cite-backlink"><a href="#cite_ref-whoPHEIC_8-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.who.int/mediacentre/news/statements/2014/ebola-20140808/en/">WHO Statement on the Meeting of the International Health Regulations Emergency Committee Regarding the 2014 Ebola Outbreak in West Africa</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization., 2014-08-08. [dostęp 2014-08-18].</span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.who.un.org.pl/common/files_download.php?fid=36">Międzynarodowe Przepisy Zdrowotne 2005</a>. World Health Organization. [dostęp 2014-08-18].</span></span></li>
+<li id="cite_note-who278iAS-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who278iAS_10-0">10,0</a></sup> <sup><a href="#cite_ref-who278iAS_10-1">10,1</a></sup> <sup><a href="#cite_ref-who278iAS_10-2">10,2</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://who.int/csr/don/2014_08_27_ebola/en/">Ebola virus disease – Democratic Republic of Congo</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-08-27. [dostęp 2014-08-28].</span></span></li>
+<li id="cite_note-who1911i-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who1911i_11-0">11,0</a></sup> <sup><a href="#cite_ref-who1911i_11-1">11,1</a></sup> <sup><a href="#cite_ref-who1911i_11-2">11,2</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/144032/1/roadmapsitrep_19Nov14_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report. 19 November 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-11-19. [dostęp 2014-11-20].</span></span></li>
+<li id="cite_note-who2111iAS-12"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who2111iAS_12-0">12,0</a></sup> <sup><a href="#cite_ref-who2111iAS_12-1">12,1</a></sup> <sup><a href="#cite_ref-who2111iAS_12-2">12,2</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.who.int/mediacentre/news/statements/2014/drc-ends-ebola/en/">WHO declares end of Ebola outbreak in the Democratic Republic of Congo. Statement. 21 November 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-21. [dostęp 2014-10-21].</span></span></li>
+<li id="cite_note-who2210i-13"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who2210i_13-0">13,0</a></sup> <sup><a href="#cite_ref-who2210i_13-1">13,1</a></sup> <sup><a href="#cite_ref-who2210i_13-2">13,2</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/137091/1/roadmapsitrep22Oct2014_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report. 22 October 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-22. [dostęp 2014-10-22].</span></span></li>
+<li id="cite_note-who2111i-14"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who2111i_14-0">14,0</a></sup> <sup><a href="#cite_ref-who2111i_14-1">14,1</a></sup> <sup><a href="#cite_ref-who2111i_14-2">14,2</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.who.int/iris/bitstream/10665/144117/1/roadmapsitrep_21Nov2014_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report Update. 21 November 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-11-21. [dostęp 2014-11-21].</span></span></li>
+<li id="cite_note-1ebolaUSA-15"><span class="mw-cite-backlink"><a href="#cite_ref-1ebolaUSA_15-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.who.int/csr/don/01-october-2014-ebola/en/">Ebola virus disease – United States of America. Disease outbreak news. 1 October 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-01. [dostęp 2014-10-10].</span></span></li>
+<li id="cite_note-1ebolaEurope-16"><span class="mw-cite-backlink"><a href="#cite_ref-1ebolaEurope_16-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.who.int/csr/don/09-october-2014-ebola/en/">Ebola virus disease – Europe. Disease outbreak news. 9 October 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-09. [dostęp 2014-10-10].</span></span></li>
+<li id="cite_note-who1710Senegal-17"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who1710Senegal_17-0">17,0</a></sup> <sup><a href="#cite_ref-who1710Senegal_17-1">17,1</a></sup> <sup><a href="#cite_ref-who1710Senegal_17-2">17,2</a></sup> <sup><a href="#cite_ref-who1710Senegal_17-3">17,3</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.who.int/mediacentre/news/statements/2014/senegal-ends-ebola/en/">WHO congratulates Senegal on ending Ebola transmission. Statement. 20 October 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-17. [dostęp 2014-10-21].</span></span></li>
+<li id="cite_note-who2010Nigeria-18"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who2010Nigeria_18-0">18,0</a></sup> <sup><a href="#cite_ref-who2010Nigeria_18-1">18,1</a></sup> <sup><a href="#cite_ref-who2010Nigeria_18-2">18,2</a></sup> <sup><a href="#cite_ref-who2010Nigeria_18-3">18,3</a></sup> <sup><a href="#cite_ref-who2010Nigeria_18-4">18,4</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.who.int/mediacentre/news/statements/2014/nigeria-ends-ebola/en/">WHO declares end of Ebola outbreak in Nigeria. Statement. 20 October 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-20. [dostęp 2014-10-21].</span></span></li>
+<li id="cite_note-who0212Hiszpania-19"><span class="mw-cite-backlink"><a href="#cite_ref-who0212Hiszpania_19-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.who.int/mediacentre/news/statements/2014/spain-ends-ebola/en/">WHO congratulates Spain on ending Ebola transmission. Statement. 2 December 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-12-02. [dostęp 2014-12-03].</span></span></li>
+<li id="cite_note-who2910i-20"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who2910i_20-0">20,0</a></sup> <sup><a href="#cite_ref-who2910i_20-1">20,1</a></sup> <sup><a href="#cite_ref-who2910i_20-2">20,2</a></sup> <sup><a href="#cite_ref-who2910i_20-3">20,3</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/137376/1/roadmapsitrep_29Oct2014_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report. 29 October 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-29. [dostęp 2014-10-29].</span></span></li>
+<li id="cite_note-who3112i-21"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who3112i_21-0">21,0</a></sup> <sup><a href="#cite_ref-who3112i_21-1">21,1</a></sup> <sup><a href="#cite_ref-who3112i_21-2">21,2</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/ebolaweb/sitreps/20141231/20141231.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report. 31 December 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-12-31. [dostęp 2015-01-01].</span></span></li>
+<li id="cite_note-who1712i-22"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who1712i_22-0">22,0</a></sup> <sup><a href="#cite_ref-who1712i_22-1">22,1</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/145679/1/roadmapsitrep_17Dec2014_eng.pdf?ua=1&amp;ua=1">WHO: Ebola Response Roadmap. Situation Report. 17 December 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-12-17. [dostęp 2014-12-20].</span></span></li>
+<li id="cite_note-who2611i-23"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who2611i_23-0">23,0</a></sup> <sup><a href="#cite_ref-who2611i_23-1">23,1</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/144498/1/roadmapsitrep_26Nov2014_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report Update. 26 November 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-11-26. [dostęp 2014-11-28].</span></span></li>
+<li id="cite_note-PacjentzeroNYT-24"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-PacjentzeroNYT_24-0">24,0</a></sup> <sup><a href="#cite_ref-PacjentzeroNYT_24-1">24,1</a></sup> <sup><a href="#cite_ref-PacjentzeroNYT_24-2">24,2</a></sup></span> <span class="reference-text"><span class="citation">Denise Grady, Sheri Fink: <a rel="nofollow" class="external text" href="http://www.nytimes.com/2014/08/10/world/africa/tracing-ebolas-breakout-to-an-african-2-year-old.html">Tracing Ebola’s Breakout to an African 2-Year-Old</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>The New York Times</i> [on-line]. 2014-08-09. [dostęp 2014-08-21].</span></span></li>
+<li id="cite_note-Baize2014-25"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Baize2014_25-0">25,0</a></sup> <sup><a href="#cite_ref-Baize2014_25-1">25,1</a></sup> <sup><a href="#cite_ref-Baize2014_25-2">25,2</a></sup> <sup><a href="#cite_ref-Baize2014_25-3">25,3</a></sup> <sup><a href="#cite_ref-Baize2014_25-4">25,4</a></sup> <sup><a href="#cite_ref-Baize2014_25-5">25,5</a></sup> <sup><a href="#cite_ref-Baize2014_25-6">25,6</a></sup> <sup><a href="#cite_ref-Baize2014_25-7">25,7</a></sup></span> <span class="reference-text"><span class="citation">Baize S, <i>et al</i>. <em>Emergence of Zaire Ebola Virus Disease in Guinea</em>. „<a href="/wiki/New_England_Journal_of_Medicine" title="New England Journal of Medicine" class="mw-redirect">New England Journal of Medicine</a>”. 371 (15), s. 1418–25, 2014. <a href="/wiki/DOI_(identyfikator_cyfrowy)" title="DOI (identyfikator cyfrowy)">DOI</a>: <a rel="nofollow" class="external text" href="http://dx.doi.org/10.1056/NEJMoa1404505">10.1056/NEJMoa1404505</a>. <a href="/wiki/PMID" title="PMID">PMID</a>: <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/pubmed/24738640">24738640</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Emergence+of+Zaire+Ebola+Virus+Disease+in+Guinea&amp;rft.jtitle=%5B%5BNew+England+Journal+of+Medicine%5D%5D&amp;rft.date=2014&amp;rft.volume=371&amp;rft.issue=%7B%7B%7Bnumer%7D%7D%7D&amp;rft.au=Baize+S%2C+%27%27et+al%27%27&amp;rft.pages=1418%E2%80%9325&amp;rft_id=info:pmid/24738640&amp;rft_id=info:doi/10.1056%2FNEJMoa1404505"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-who233-26"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who233_26-0">26,0</a></sup> <sup><a href="#cite_ref-who233_26-1">26,1</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4063-ebola-virus-disease-in-guinea.html">Ebola virus disease in Guinea</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization. Regional Office for Africa, 2014-03-23. [dostęp 2014-09-07].</span></span></li>
+<li id="cite_note-cdc.gov.recent-27"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-cdc.gov.recent_27-0">27,0</a></sup> <sup><a href="#cite_ref-cdc.gov.recent_27-1">27,1</a></sup> <sup><a href="#cite_ref-cdc.gov.recent_27-2">27,2</a></sup> <sup><a href="#cite_ref-cdc.gov.recent_27-3">27,3</a></sup> <sup><a href="#cite_ref-cdc.gov.recent_27-4">27,4</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.cdc.gov/vhf/ebola/outbreaks/guinea/recent_updates.html">Previous Updates: 2014 West Africa Outbreak</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>Centers for Disease Control and Prevention</i> [on-line].</span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><span class="citation">Gytis Dudas: <a rel="nofollow" class="external text" href="http://epidemic.bio.ed.ac.uk/ebolavirus_phylogeny">Guinea ebola outbreak sequences</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Epidemic: Molecular Epidemiology and Evolution of Viral Pathogens, 2014-04-17. [dostęp 2014-07-31].</span></span></li>
+<li id="cite_note-who014-29"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who014_29-0">29,0</a></sup> <sup><a href="#cite_ref-who014_29-1">29,1</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4073-ebola-virus-disease-west-africa-1-april-2014.html">Ebola virus disease, West Africa (Situation as of 1 April 2014)</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization. Regional Office for Africa, 2014-04-01. [dostęp 2014-09-07].</span></span></li>
+<li id="cite_note-Salon-30"><span class="mw-cite-backlink"><a href="#cite_ref-Salon_30-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.salon.com/2014/06/27%7Cdrastic_action_needed_worst_ever_ebola_outbreak_continues_to_wreak_havoc_in_west_africa/">http://www.salon.com/2014/06/27%7Cdrastic_action_needed_worst_ever_ebola_outbreak_continues_to_wreak_havoc_in_west_africa/</a></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><span class="citation">Boubacar Diallo: <a rel="nofollow" class="external text" href="http://www.africaguinee.com/articles/2014/03/30/ebola-en-guinee-l-ong-plan-guinee-craint-une-aggravation-de-l-epidemie">Ebola en Guinée: l’ONG Plan-Guinée craint une aggravation de l’épidémie...</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_francuski" title="Język francuski"><span style="color:#005" title="Treść w języku francuskim (français)">fr.</span></a>)</span>. Africaguinee.com, 29-03-2014. [dostęp 03-07-2014].</span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.liberianobserver.com/security-health/2-5-test-positive-ebola-liberia">2 of 5 Test Positive for Ebola in Liberia</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. 2014-03-31. [dostęp 2014-07-31].</span></span></li>
+<li id="cite_note-mohsw-33"><span class="mw-cite-backlink"><a href="#cite_ref-mohsw_33-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.mohsw.gov.lr/documents/13aprilEbola%20Virus%20Disease%20Epidemic%20in%20Liberia.%20Sitrep%20No.11(1).pdf">Ebola Virus Disease Epidemic in Liberia: Situation Report 11</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. 2014-04-13. [dostęp 2014-07-31].</span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4100-ebola-virus-disease-west-africa-16-april-2014.html">Ebola Haemorrhagic Fever, West Africa (Situation as of 16 April 2014)</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Afro.who.int, 2014-04-16. [dostęp 2014-04-16].</span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4150-ebola-virus-disease-west-africa-27-may-2014.html">Ebola Haemorrhagic Fever, West Africa (Situation as of 27 May 2014)</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Afro.who.int, 2014-05-27. [dostęp 2014-05-27].</span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text"><span class="citation">Anne Look: <a rel="nofollow" class="external text" href="http://allafrica.com/stories/201406050257.html">Guinea: Doctors Without Borders Worried About Spread of Ebola Outbreak</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>VOA - allAfrica.com</i> [on-line]. 2014-06-04. [dostęp 2014-06-30].</span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.bbc.com/news/world-africa-27888363">Seven die in Monrovia Ebola outbreak</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>BBC News</i> [on-line]. 17 czerwca 2014. [dostęp 18 czerwca 2014].</span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text"><span class="citation">Emmanuel Weedee-Conway: <a rel="nofollow" class="external text" href="http://allafrica.com/stories/201406270789.html">Liberia: Churches Are Not Hospital for Curing Ebola - Chief Medical Officer Warns</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>allAfrica.com</i> [on-line]. 2014-06-27. [dostęp 2014-06-30].</span></span></li>
+<li id="cite_note-unnews27june-39"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-unnews27june_39-0">39,0</a></sup> <sup><a href="#cite_ref-unnews27june_39-1">39,1</a></sup> <sup><a href="#cite_ref-unnews27june_39-2">39,2</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://allafrica.com/stories/201406280012.html">West Africa: Ebola Outbreak 'Not Out of Hand', UN Health Agency Says Readying Response</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>UN News Service - allAfrica.com</i> [on-line]. 2014-06-27. [dostęp 2014-06-30].</span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4143-ebola-virus-disease-west-africa-26-may-2014.html">Ebola virus disease, West Africa (Update of 26 May 2014)</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>WHO: Outbreak news</i> [on-line]. 2014-05-26. [dostęp 2014-07-31].</span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4172-ebola-virus-disease-west-africa-23-june-2014.html">Ebola virus disease, West Africa – update 23 June 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>WHO: Outbreak news</i> [on-line]. 2014-06-23. [dostęp 2014-07-28].</span></span></li>
+<li id="cite_note-WHO_18_July_2014-42"><span class="mw-cite-backlink"><a href="#cite_ref-WHO_18_July_2014_42-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4225-ebola-virus-disease-west-africa-18-july-2014.html">Ebola virus disease, West Africa – update 18 July 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>WHO: Outbreak news</i> [on-line]. 2014-07-18. [dostęp 2014-07-31].</span></span></li>
+<li id="cite_note-BBC_Freetown-43"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-BBC_Freetown_43-0">43,0</a></sup> <sup><a href="#cite_ref-BBC_Freetown_43-1">43,1</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/world-africa-28485041">Sierra Leone hunts Ebola patient kidnapped in Freetown</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>BBC News</i> [on-line]. 2014-07-25. [dostęp 2014-07-31].</span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><a href="#cite_ref-44">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/world-africa-28505061">Ebola outbreak: Sierra Leone escaped patient dies</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>BBC News</i> [on-line]. 2014-07-27. [dostęp 2014-07-31].</span></span></li>
+<li id="cite_note-WHO_25_July_2014-45"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-WHO_25_July_2014_45-0">45,0</a></sup> <sup><a href="#cite_ref-WHO_25_July_2014_45-1">45,1</a></sup> <sup><a href="#cite_ref-WHO_25_July_2014_45-2">45,2</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4233-ebola-virus-disease-west-africa-25-july-2014.html">Ebola virus disease, West Africa – update 25 July 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>WHO: Outbreak news</i> [on-line]. 2014-07-25. [dostęp 2014-07-31].</span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><a href="#cite_ref-46">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4236-ebola-virus-disease-west-africa-29-july-2014.html">Ebola virus disease, West Africa – update 29 July 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>WHO: Outbreak news</i> [on-line]. 2014-07-29. [dostęp 2014-07-31].</span></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><a href="#cite_ref-47">↑</a></span> <span class="reference-text"><span class="citation">Tim Cocks: <a rel="nofollow" class="external text" href="http://www.reuters.com/article/2014/07/28/us-health-ebola-nigeria-idUSKBN0FX15420140728">Nigeria isolates Lagos hospital where Ebola victim died</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>Reuters</i> [on-line]. 2014-07-28. [dostęp 2014-07-31].</span></span></li>
+<li id="cite_note-who1710i-48"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who1710i_48-0">48,0</a></sup> <sup><a href="#cite_ref-who1710i_48-1">48,1</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/136645/1/roadmapupdate17Oct14_eng.pdf?ua=1">WHO: Ebola Response Roadmap Update. 17 October 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-17. [dostęp 2014-10-17].</span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><a href="#cite_ref-49">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.who.int/csr/don/2014_08_30_ebola/en/">Ebola virus disease update - Senegal. Disease outbreak news. 30 August 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-08-30. [dostęp 2014-09-04].</span></span></li>
+<li id="cite_note-autogenerated1-50"><span class="mw-cite-backlink"><a href="#cite_ref-autogenerated1_50-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4071-ebola-haemorrhagic-fever-guinea-30-march-2014.html">Ebola Haemorrhagic Fever, Guinea (Situation as of 30 March 2014)</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Afro.who.int. [dostęp 31 marca 2014].</span></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><a href="#cite_ref-51">↑</a></span> <span class="reference-text"><span class="citation">C.Y. Kwanue: <a rel="nofollow" class="external text" href="http://www.liberianobserver.com/news/guinean-gov%E2%80%99t-provides-ebola-updates">Guinean Gov’t Provides Ebola Updates Guinean Gov’t Provides Ebola Updates: Embassy Prefers ‘Preventive Measures’ to Border Closure</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Liberian Observer, 7 kwietnia 2014. [dostęp 2014-07-01].</span></span></li>
+<li id="cite_note-WHO_23_July_2014-52"><span class="mw-cite-backlink"><a href="#cite_ref-WHO_23_July_2014_52-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4230-ebola-virus-disease-west-africa-23-july-2014.html">Ebola virus disease, West Africa – update 23 July 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>WHO: Outbreak news</i> [on-line]. 2014-07-23. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-BBC_28_July_2014-53"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-BBC_28_July_2014_53-0">53,0</a></sup> <sup><a href="#cite_ref-BBC_28_July_2014_53-1">53,1</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/world-africa-28522824">Ebola outbreak: Liberia shuts most border points</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>BBC News</i> [on-line]. 2014-07-28. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><a href="#cite_ref-54">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.bbc.com/news/world-africa-28550906">Ebola outbreak: Asky bans flights in West Africa</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. BBC News, 2014-07-29. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><a href="#cite_ref-55">↑</a></span> <span class="reference-text"><span class="citation">David Lewis, Emma Farge: <a rel="nofollow" class="external text" href="http://www.reuters.com/article/2014/07/30/health-ebola-africa-idUSL6N0Q56DX20140730">Liberia shuts schools, quarantines communities in bid to halt Ebola</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Reuters, 2014-07-30. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-who297-56"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who297_56-0">56,0</a></sup> <sup><a href="#cite_ref-who297_56-1">56,1</a></sup> <sup><a href="#cite_ref-who297_56-2">56,2</a></sup> <sup><a href="#cite_ref-who297_56-3">56,3</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4236-ebola-virus-disease-west-africa-29-july-2014.html">Ebola virus disease, West Africa – update 29 July 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization. Regional office for Africa, 2014-07-29. [dostęp 2014-07-31].</span></span></li>
+<li id="cite_note-who138-57"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-who138_57-0">57,0</a></sup> <sup><a href="#cite_ref-who138_57-1">57,1</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news/4254-ebola-virus-disease-west-africa-13-august-2014.html">Ebola virus disease, West Africa – update 13 August 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization. Regional office for Africa, 2014-08-13. [dostęp 2014-09-23].</span></span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><a href="#cite_ref-58">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/world-africa-28498665">Nigeria 'on red alert' over Ebola death in Lagos</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>BBC News</i> [on-line]. 2014-07-26. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><a href="#cite_ref-59">↑</a></span> <span class="reference-text"><span class="citation">Kemo Cham: <a rel="nofollow" class="external text" href="http://www.africareview.com/News/Sierra-Leone-restricts-movement-across-borders-over-Ebola-fears/-/979180/2265738/-/yo7wu0/-/index.html">Sierra Leone restricts movement across borders over Ebola fears</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Africa Review, 1 kwietnia 2014. [dostęp 1 kwietnia 2014].</span></span></li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><a href="#cite_ref-60">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.rp.pl/artykul/11,1129614-Zmarl-doktor-Sheik-Humarr-Khan--bohater-walki-z-wirusem-Ebola.html">Zmarł bohater walki z wirusem ebola</a>. rp.pl. [dostęp 2014-07-31].</span></span></li>
+<li id="cite_note-Reuters318-61"><span class="mw-cite-backlink"><a href="#cite_ref-Reuters318_61-0">↑</a></span> <span class="reference-text"><span class="citation">Umaru Fofana, Kwasi Kpodo: <a rel="nofollow" class="external text" href="http://in.reuters.com/article/2014/07/31/health-ebola-leone-idINKBN0G00PM20140731">Sierra Leone declares state of emergency over Ebola</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Reuters, 2014-07-31. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><a href="#cite_ref-62">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://europa.eu/rapid/press-release_IP-14-345_en.htm">Ebola in West Africa: European Union joins effort to stop spread of disease and releases €500,000 in immediate funding</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Europa.eu, 28-03-2014. [dostęp 03-07-2014].</span></span></li>
+<li id="cite_note-Inserm-63"><span class="mw-cite-backlink"><a href="#cite_ref-Inserm_63-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://presse-inserm.fr/en/inserm-and-the-institut-pasteur-identify-a-new-variant-of-ebola-virus-in-guinea/12302/">Inserm and the Institut Pasteur identify a new variant of Ebola virus in Guinea</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. 18 kwietnia 2014. [dostęp 24 kwietnia 2014].</span></span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><a href="#cite_ref-64">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://europa.eu/rapid/press-release_IP-14-891_en.htm">EU scales up funding in response to Ebola outbreak in West Africa</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. European Commission. Press Release, 2014-07-30. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><a href="#cite_ref-65">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.auswaertiges-amt.de/DE/Laenderinformationen/SicherheitshinweiseA-Z-Laenderauswahlseite_node.html">Reise- und Sicherheitshinweise</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_niemiecki" title="Język niemiecki"><span style="color:#005" title="Treść w języku niemieckim (Deutsch)">niem.</span></a>)</span>. Federal Foreign Office, 2014-07-31. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><a href="#cite_ref-66">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.peacecorps.gov/resources/faf/fafhealth/ebola/?from=hps">Ebola Update</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. peacecorps.gov, 2014-07-31. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><a href="#cite_ref-67">↑</a></span> <span class="reference-text"><span class="citation">Alexandra Sifferlin: <a rel="nofollow" class="external text" href="http://time.com/3065176/ebola-outbreak-cdc/">The CDC Says You Shouldn’t Fly To Countries Hardest Hit By Ebola Outbreak</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. TIME, 31 lipca 2014. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><a href="#cite_ref-68">↑</a></span> <span class="reference-text"><span class="citation">Julie Steenhuysen, Colleen Jenkins: <a rel="nofollow" class="external text" href="http://news.msn.com/us/ebola-patient-coming-to-us-as-aid-workers-health-worsens?ocid=ansnews11">Ebola patient coming to U.S. as aid workers' health worsens</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. 2014-08-01. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><a href="#cite_ref-69">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://news.abidjan.net/h/493830.html">L’Afrique de l’ouest demande l’appui de la communauté internationale pour lutter contre le virus Ebola</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_francuski" title="Język francuski"><span style="color:#005" title="Treść w języku francuskim (français)">fr.</span></a>)</span>. abidjan.net, 28-03-2014. [dostęp 03-07-2014].</span></span></li>
+<li id="cite_note-disburse-70"><span class="mw-cite-backlink"><a href="#cite_ref-disburse_70-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://news.abidjan.net/h/493946.html">La CEDEAO décaisse 250 000 dollars pour faire face à la fièvre Ebola</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_francuski" title="Język francuski"><span style="color:#005" title="Treść w języku francuskim (français)">fr.</span></a>)</span>. abidjan.net, 30 marca 2014. [dostęp 31 marca 2014].</span></span></li>
+<li id="cite_note-71"><span class="mw-cite-backlink"><a href="#cite_ref-71">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.bloomberg.com/news/2014-03-29/ebola-virus-death-toll-in-guinea-outbreak-rises-to-70-people.html">Ebola Death Toll in Guinea Rises to 70 as Senegal Closes Border</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Bloomberg News, 29 marca 2014. [dostęp 31 marca 2014].</span></span></li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><a href="#cite_ref-72">↑</a></span> <span class="reference-text"><span class="citation">Pape Moctar Ndiaye: <a rel="nofollow" class="external text" href="http://www.sudonline.sn/le-fleuve-senegal-infranchissable-depuis-mardi-dernier-----_a_18201.html">Le fleuve Sénégal infranchissable depuis mardi dernier</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_francuski" title="Język francuski"><span style="color:#005" title="Treść w języku francuskim (français)">fr.</span></a>)</span>. Sud Quotidien, 29-03-2014. [dostęp 03-07-2014].</span></span></li>
+<li id="cite_note-73"><span class="mw-cite-backlink"><a href="#cite_ref-73">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.20min.ch/ro/news/monde/story/Visas-refus-s-aux-p-lerins-de-Guin-e-et-du-Lib-ria-18553872">Visas refusés aux pèlerins de Guinée et du Libéria</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_francuski" title="Język francuski"><span style="color:#005" title="Treść w języku francuskim (français)">fr.</span></a>)</span>. 20min.ch, 01-04-2014. [dostęp 01-04-2014].</span></span></li>
+<li id="cite_note-74"><span class="mw-cite-backlink"><a href="#cite_ref-74">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://tempsreel.nouvelobs.com/monde/20140401.OBS2147/fievre-ebola-controle-sanitaire-renforce-au-maroc.html">Fièvre Ebola&#160;: contrôle sanitaire renforcé au Maroc</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_francuski" title="Język francuski"><span style="color:#005" title="Treść w języku francuskim (français)">fr.</span></a>)</span>. Nouvelobs, 01-04-2014. [dostęp 01-04-2014].</span></span></li>
+<li id="cite_note-75"><span class="mw-cite-backlink"><a href="#cite_ref-75">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.msf.org.uk/node/25511">Ebola in West Africa: “The epidemic is out of control”</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. 25 czerwca 2014. [dostęp 2 Jul 2014].</span></span></li>
+<li id="cite_note-76"><span class="mw-cite-backlink"><a href="#cite_ref-76">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/media-centre/media-advisory/item/6672-who-calls-emergency-sub-regional-ministerial-meeting-in-accra-ghana-to-tackle-the-on-going-ebola-virus-in-west-africa.html">WHO calls emergency sub-regional Ministerial meeting in Accra, Ghana to tackle the on-going Ebola virus in West Africa</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. 2014-07-02. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-bbcjuly3-77"><span class="mw-cite-backlink"><a href="#cite_ref-bbcjuly3_77-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.bbc.com/news/world-africa-28156263">Ebola outbreak: West African states agree strategy</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>BBC News</i> [on-line]. 2014-07-03. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-78"><span class="mw-cite-backlink"><a href="#cite_ref-78">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/media-centre/pressreleases/item/6756-sub-regional-ebola-coordination-centre-officially-opened.html">Sub-regional Ebola Coordination Centre officially opened by the Prime Minister of Guinea in the presence of the WHO Regional Director for Africa</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>WHO: Regional Office for Africa</i> [on-line]. 2014-07-24. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-79"><span class="mw-cite-backlink"><a href="#cite_ref-79">↑</a></span> <span class="reference-text"><span class="citation">Emily Tsang: <a rel="nofollow" class="external text" href="http://www.scmp.com/news/hong-kong/article/1562707/hospitalised-hong-kong-woman-tests-negative-deadly-ebola-virus">High alert for Ebola needed in Hong Kong, health minister says High alert for Ebola needed in Hong Kong, health minister says after emergency meeting</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. W: <i>South China Morning Post</i> [on-line]. 2014-07-31. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-80"><span class="mw-cite-backlink"><a href="#cite_ref-80">↑</a></span> <span class="reference-text"><span class="citation">Monica Mark: <a rel="nofollow" class="external text" href="http://www.theguardian.com/world/2014/may/27/ebola-virus-outbreak-infectious-dance-tune">Ebola virus causes outbreak of infectious dance tune</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. The Guardian, 2014-05-27. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-81"><span class="mw-cite-backlink"><a href="#cite_ref-81">↑</a></span> <span class="reference-text"><span class="citation">Mike Pflanz: <a rel="nofollow" class="external text" href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/liberia/10860045/Ebola-rap-warns-West-Africans-of-viruss-dangers.html">Ebola rap warns West Africans of virus's dangers</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Daily Telegraph, 2014-05-28. [dostęp 2014-08-01].</span></span></li>
+<li id="cite_note-Control-82"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Control_82-0">82,0</a></sup> <sup><a href="#cite_ref-Control_82-1">82,1</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.ctvnews.ca/health/west-africa-s-ebola-outbreak-is-totally-out-of-control-1.1878133">Doctors Without Borders: West Africa's Ebola Outbreak is Totally Out of Control</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. CTVNews, 20 czerwca 2014. [dostęp 21 czerwca 2014].</span></span></li>
+<li id="cite_note-83"><span class="mw-cite-backlink"><a href="#cite_ref-83">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://allafrica.com/stories/201406190779.html">Liberia: Unheralded Fear - Ebola Pose Risks for Liberia Health Workers</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. AllAfica.com za <i>FrontPage Africa</i>, 19 czerwca 2014. [dostęp 21 czerwca 2014].</span></span></li>
+<li id="cite_note-84"><span class="mw-cite-backlink"><a href="#cite_ref-84">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.today.com/health/growing-ebola-outbreak-threatens-overwhelm-volunteers-2D79775266">Growing Ebola Outbreak Threatens to Overwhelm Volunteers</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Today Health, 8 czerwca 2014. [dostęp 21 czerwca 2014].</span></span></li>
+<li id="cite_note-85"><span class="mw-cite-backlink"><a href="#cite_ref-85">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.globalpost.com/dispatch/news/xinhua-news-agency/140527/8-ebola-suspects-freed-relatives-sierra-leone">8 ebola suspects freed by relatives in Sierra Leone</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Global Post, 28 maja 2014. [dostęp 21 czerwca 2014].</span></span></li>
+<li id="cite_note-86"><span class="mw-cite-backlink"><a href="#cite_ref-86">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.ifrc.org/en/news-and-media/news-stories/africa/sierra-leone/ebola-snakes-and-witchcraft-stopping-the-deadly-disease-in-its-tracks-in-west-africa-66215">Ebola, snakes and witchcraft: Stopping the deadly disease in its tracks in West Africa</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. International Federation of Red Cross and Red Crescent Societies, 24 czerwca 2014. [dostęp 28 czerwca 2014].</span></span></li>
+<li id="cite_note-87"><span class="mw-cite-backlink"><a href="#cite_ref-87">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://webcache.googleusercontent.com/search?q=cache:http://www.chicagotribune.com/news/sns-wp-blm-news-bc-ebola28-20140528,0,52817.story">Villagers stone ebola trackers in Sierra Leone as cases rise</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Chicago Tribune, 28 maja 2014. [dostęp 2 lipca 2014]. [zarchiwizowane z <a rel="nofollow" class="external text" href="http://www.chicagotribune.com/news/sns-wp-blm-news-bc-ebola28-20140528,0,52817.story">tego adresu</a> (2 lipca 2014)].</span></span></li>
+<li id="cite_note-Mali_suspects_first_Ebola_cases_as_regional_death_toll_tops_90-88"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Mali_suspects_first_Ebola_cases_as_regional_death_toll_tops_90_88-0">88,0</a></sup> <sup><a href="#cite_ref-Mali_suspects_first_Ebola_cases_as_regional_death_toll_tops_90_88-1">88,1</a></sup> <sup><a href="#cite_ref-Mali_suspects_first_Ebola_cases_as_regional_death_toll_tops_90_88-2">88,2</a></sup></span> <span class="reference-text"><span class="citation">Adama Diarra and Misha Hussain: <a rel="nofollow" class="external text" href="http://www.reuters.com/article/2014/04/04/us-guinea-ebola-mali-idUSBREA3310M20140404">Mali suspects first Ebola cases as regional death toll tops 90</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. Reuters, 4 kwietnia 2014. [dostęp 4 kwietnia 2014].</span></span></li>
+<li id="cite_note-89"><span class="mw-cite-backlink"><a href="#cite_ref-89">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/uk-27675747">UK employees leave Sierra Leone over Ebola threat</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. BBC News, 3 czerwca 2014. [dostęp 4 czerwca 2014].</span></span></li>
+<li id="cite_note-90"><span class="mw-cite-backlink"><a href="#cite_ref-90">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.cafonline.com/en-US/NewsCenter/News/NewsDetails?id=7Q1Us%2bTZ%2bi03aalfg76fmw%3d%3d">CAF acknowledges Marocco's refusal to host Orange AfCoN 2015 from January 17 to February 8</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. cafonline.com, 1 stycznia 2015. [dostęp 22 stycznia 2015].</span></span></li>
+<li id="cite_note-91"><span class="mw-cite-backlink"><a href="#cite_ref-91">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.eurofutbol.pl/news/800060-PNA-2015-oficjalnie-poza-Marokiem/">PNA 2015 oficjalnie poza Marokiem</a>. eurofutbol.pl, 1 stycznia 2015. [dostęp 22 stycznia 2015].</span></span></li>
+<li id="cite_note-who1501i5-92"><span class="mw-cite-backlink"><a href="#cite_ref-who1501i5_92-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/148237/2/roadmapsitrep_14Jan2015_eng.pdf?ua=1&amp;ua=1">WHO: Ebola Response Roadmap. Situation Report. 14 January 2015</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2015-01-14. [dostęp 2015-01-18].</span></span></li>
+<li id="cite_note-who2412i-93"><span class="mw-cite-backlink"><a href="#cite_ref-who2412i_93-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/ebolaweb/sitreps/20141224/20141224.pdf">WHO: Ebola Response Roadmap. Situation Report. 24 December 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-12-24. [dostęp 2014-12-27].</span></span></li>
+<li id="cite_note-who1012i-94"><span class="mw-cite-backlink"><a href="#cite_ref-who1012i_94-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/145198/1/roadmapsitrep_10Dec2014_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report. 10 December 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-12-10. [dostęp 2014-12-11].</span></span></li>
+<li id="cite_note-who0312i-95"><span class="mw-cite-backlink"><a href="#cite_ref-who0312i_95-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/144806/1/roadmapsitrep_3Dec2014_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report. 3 December 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-12-03. [dostęp 2014-12-03].</span></span></li>
+<li id="cite_note-who1411i-96"><span class="mw-cite-backlink"><a href="#cite_ref-who1411i_96-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/143216/1/roadmapsitrep_14Nov2014_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report Update. 14 November 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-11-14. [dostęp 2014-11-15].</span></span></li>
+<li id="cite_note-who1211i-97"><span class="mw-cite-backlink"><a href="#cite_ref-who1211i_97-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/141468/1/roadmapsitrep_12Nov2014_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report. 12 November 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-11-12. [dostęp 2014-11-13].</span></span></li>
+<li id="cite_note-who0711i-98"><span class="mw-cite-backlink"><a href="#cite_ref-who0711i_98-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/137592/1/roadmapsitrep_7Nov2014_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report Update. 7 November 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-11-07. [dostęp 2014-11-08].</span></span></li>
+<li id="cite_note-who0211i-99"><span class="mw-cite-backlink"><a href="#cite_ref-who0211i_99-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/137510/1/roadmapsitrep_5Nov14_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report. 5 November 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-11-05. [dostęp 2014-11-05].</span></span></li>
+<li id="cite_note-who3110i-100"><span class="mw-cite-backlink"><a href="#cite_ref-who3110i_100-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/137424/1/roadmapsitrep_31Oct2014_eng.pdf">WHO: Ebola Response Roadmap. Situation Report. 31 October 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-31. [dostęp 2014-10-31].</span></span></li>
+<li id="cite_note-who2510i-101"><span class="mw-cite-backlink"><a href="#cite_ref-who2510i_101-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/137185/1/roadmapupdate25Oct14_eng.pdf?ua=1">WHO: Ebola Response Roadmap. Situation Report. Update. 25 October 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-25. [dostęp 2014-10-26].</span></span></li>
+<li id="cite_note-who1510i-102"><span class="mw-cite-backlink"><a href="#cite_ref-who1510i_102-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/136508/1/roadmapsitrep15Oct2014.pdf?ua=1">WHO: Ebola Response Roadmap Situation Report. 15 October 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-15. [dostęp 2014-10-15].</span></span></li>
+<li id="cite_note-who1010i-103"><span class="mw-cite-backlink"><a href="#cite_ref-who1010i_103-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/136161/1/roadmapupdate10Oct14_eng.pdf?ua=1">WHO: Ebola Response Roadmap Update. 10 October 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-10. [dostęp 2014-10-10].</span></span></li>
+<li id="cite_note-who0310i-104"><span class="mw-cite-backlink"><a href="#cite_ref-who0310i_104-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/135765/1/roadmapupdate3oct14_eng.pdf?ua=1">WHO: Ebola Response Roadmap Update. 3 October 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-03. [dostęp 2014-10-06].</span></span></li>
+<li id="cite_note-who0110i-105"><span class="mw-cite-backlink"><a href="#cite_ref-who0110i_105-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/135600/1/roadmapsitrep_1Oct2014_eng.pdf?ua=1">WHO: Ebola Response Roadmap Situation Report. 1 October 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-10-01. [dostęp 2014-10-01].</span></span></li>
+<li id="cite_note-who269i-106"><span class="mw-cite-backlink"><a href="#cite_ref-who269i_106-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/135029/1/roadmapupdate26sept14_eng.pdf?ua=1">WHO: Ebola Response roadmap update. 26 September 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-09-26. [dostęp 2014-09-26].</span></span></li>
+<li id="cite_note-who249i-107"><span class="mw-cite-backlink"><a href="#cite_ref-who249i_107-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/134771/1/roadmapsitrep_24Sept2014_eng.pdf?ua=1">WHO: Ebola Response Roadmap Situation Report. 24 September 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-09-24. [dostęp 2014-09-26].</span></span></li>
+<li id="cite_note-who229i-108"><span class="mw-cite-backlink"><a href="#cite_ref-who229i_108-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/134449/1/roadmapupdate22sept14_eng.pdf?ua=1">WHO: Ebola Response Roadmap update. 22 September 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-09-22. [dostęp 2014-09-22].</span></span></li>
+<li id="cite_note-who189i-109"><span class="mw-cite-backlink"><a href="#cite_ref-who189i_109-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/133833/1/roadmapsitrep4_eng.pdf?ua=1">WHO: Ebola Response Roadmap Situation Report. 18 September 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-09-18. [dostęp 2014-09-20].</span></span></li>
+<li id="cite_note-who169i-110"><span class="mw-cite-backlink"><a href="#cite_ref-who169i_110-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/133546/1/roadmapupdate16sept14_eng.pdf?ua=1">WHO: Ebola Response Roadmap Situation Report. 16 September 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-09-16. [dostęp 2014-09-16].</span></span></li>
+<li id="cite_note-who129i-111"><span class="mw-cite-backlink"><a href="#cite_ref-who129i_111-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.who.int/iris/bitstream/10665/133073/1/roadmapsitrep3_eng.pdf?ua=1">WHO: Ebola Response Roadmap Situation Report 3. 12 September 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-09-12. [dostęp 2014-09-12].</span></span></li>
+<li id="cite_note-who089i-112"><span class="mw-cite-backlink"><a href="#cite_ref-who089i_112-0">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://apps.who.int/iris/bitstream/10665/132834/1/roadmapupdate8sept14_eng.pdf?ua=1">Situation reports. Ebola response roadmap. Situation report update - 8 September 2014</a> <span style="color:#009">(<a href="/wiki/J%C4%99zyk_angielski" title="Język angielski"><span style="color:#005" title="Treść w języku angielskim (English)">ang.</span></a>)</span>. World Health Organization, 2014-09-08. [dostęp 2014-09-09].</span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Linki_zewn.C4.99trzne">Linki zewnętrzne</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit&amp;vesection=19" title="Edytuj sekcję: Linki zewnętrzne" class="mw-editsection-visualeditor">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit&amp;section=19" title="Edytuj sekcję: Linki zewnętrzne">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external free" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news.html">http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news.html</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.afro.who.int/en/clusters-a-programmes/dpc/epidemic-a-pandemic-alert-and-response/outbreak-news.html">World Health Organization Outbreak Updates</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hnkcnews.com/2014/03/28/ebola-spreads-to-guinea-capital/">Ebola Spreads to Guinea Capital</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hnkcnews.com/2014/04/04/mali-on-alert-over-ebola/">Mali on Alert over Ebola</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.doctorswithoutborders.org/article/ebola-massive-deployment-needed-fight-epidemic-west-africa">Doctors Without Borders: Massive Deployment Needed to Fight Epidemic in West Africa</a></li>
+</ul>
+
+
+<!--
+NewPP limit report
+Parsed by mw1174
+CPU time usage: 0.744 seconds
+Real time usage: 0.800 seconds
+Preprocessor visited node count: 14468/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 202136/2097152 bytes
+Template argument size: 50698/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.128/10.000 seconds
+Lua memory usage: 3.21 MB/50 MB
+-->
+
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  673.908      1 - -total
+ 59.30%  399.627      1 - Szablon:Przypisy
+ 35.81%  241.359    108 - Szablon:Cytuj_stronę
+ 18.70%  126.016    109 - Szablon:Lang
+ 13.97%   94.175      1 - Szablon:Katastrofa_infobox
+ 10.00%   67.424      1 - Szablon:Infobox_mapa_lokalizacyjna
+  3.00%   20.195      1 - Szablon:Ang.
+  2.72%   18.332      1 - Szablon:W_języku
+  1.74%   11.702      1 - Szablon:Aktualne
+  1.57%   10.562      1 - Szablon:Cytuj_pismo
+-->
+
+<!-- Saved in parser cache with key plwiki:stable-pcache:idhash:3148700-0!*!0!!pl!4!* and timestamp 20150127062330 and revision id 41592228
+ -->
+<noscript><img src="//pl.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Źródło: „<a dir="ltr" href="http://pl.wikipedia.org/w/index.php?title=Epidemia_gorączki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;oldid=41592228">http://pl.wikipedia.org/w/index.php?title=Epidemia_gorączki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;oldid=41592228</a>”					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Specjalna:Kategorie" title="Specjalna:Kategorie">Kategorie</a>: <ul><li><a href="/wiki/Kategoria:Aktualne" title="Kategoria:Aktualne">Aktualne</a></li><li><a href="/wiki/Kategoria:Epidemie" title="Kategoria:Epidemie">Epidemie</a></li><li><a href="/wiki/Kategoria:2014_w_Afryce" title="Kategoria:2014 w Afryce">2014 w Afryce</a></li><li><a href="/wiki/Kategoria:Historia_Gwinei" title="Kategoria:Historia Gwinei">Historia Gwinei</a></li><li><a href="/wiki/Kategoria:Historia_Sierra_Leone" title="Kategoria:Historia Sierra Leone">Historia Sierra Leone</a></li><li><a href="/wiki/Kategoria:Historia_Liberii" title="Kategoria:Historia Liberii">Historia Liberii</a></li><li><a href="/wiki/Kategoria:Historia_Nigerii" title="Kategoria:Historia Nigerii">Historia Nigerii</a></li><li><a href="/wiki/Kategoria:Historia_Senegalu" title="Kategoria:Historia Senegalu">Historia Senegalu</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Ukryta kategoria: <ul><li><a href="/wiki/Kategoria:Szablony_lokalizacyjne_-_brak_wsp%C3%B3%C5%82rz%C4%99dnych_-_Katastrofa_infobox" title="Kategoria:Szablony lokalizacyjne - brak współrzędnych - Katastrofa infobox">Szablony lokalizacyjne - brak współrzędnych - Katastrofa infobox</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu nawigacyjne</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Osobiste</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=Epidemia+gor%C4%85czki+krwotocznej+Ebola+w+Afryce+Zachodniej&amp;type=signup" title="Zachęcamy do stworzenia konta i zalogowania, ale nie jest to konieczne.">Utwórz konto</a></li><li id="pt-login"><a href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=Epidemia+gor%C4%85czki+krwotocznej+Ebola+w+Afryce+Zachodniej" title="Zachęcamy do zalogowania się, choć nie jest to obowiązkowe. [o]" accesskey="o">Zaloguj się</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Przestrzenie nazw</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej"  title="Zobacz stronę treści [c]" accesskey="c">Artykuł</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Dyskusja:Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej"  title="Dyskusja o zawartości tej strony [t]" accesskey="t">Dyskusja</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Warianty</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Wyświetleń</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej" >Czytaj</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;veaction=edit"  title="Edytuj tę stronę wykorzystując VisualEditor [v]" accesskey="v">Edytuj</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=edit"  title="Możesz edytować tę stronę. Przed zapisaniem zmian użyj przycisku podgląd. [e]" accesskey="e">Edytuj kod źródłowy</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=history"  title="Starsze wersje tej strony. [h]" accesskey="h">Historia i autorzy</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Więcej</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Szukaj</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Szukaj" title="Przeszukaj Wikipedię [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Specjalna:Szukaj" name="title" /><input type="submit" name="fulltext" value="Szukaj" title="Szukaj wprowadzonego tekstu w treści stron" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Przejdź" title="Przejdź do strony o dokładnie takim tytule, o ile istnieje" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna"  title="Strona główna"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Nawigacja</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Przejdź na stronę główną [z]" accesskey="z">Strona główna</a></li>
+													<li id="n-randompage"><a href="/wiki/Specjalna:Losowa_strona" title="Pokaż stronę wybraną losowo [x]" accesskey="x">Losuj artykuł</a></li>
+													<li id="n-Kategorie"><a href="/wiki/Portal:Kategorie_G%C5%82%C3%B3wne">Kategorie artykułów</a></li>
+													<li id="n-Featured-articles"><a href="/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii">Najlepsze artykuły</a></li>
+													<li id="n-bug_in_article"><a href="/wiki/Wikipedia:Zg%C5%82o%C5%9B_b%C5%82%C4%85d_w_artykule">Zgłoś błąd</a></li>
+													<li id="n-bad-image"><a href="/wiki/Wikipedia:Zg%C5%82oszone_grafiki">Zgłoś błąd w pliku</a></li>
+													<li id="n-FAQ"><a href="/wiki/Pomoc:FAQ">Częste pytania (FAQ)</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-zmiany' aria-labelledby='p-zmiany-label'>
+			<h3 id='p-zmiany-label'>Dla czytelników</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-wyszukaj"><a href="/wiki/Pomoc:Wyszukiwarka">Wyszukaj informacje</a></li>
+													<li id="n-re-use"><a href="/wiki/Pomoc:Kopiowanie_poza_Wikipedi%C4%99">Użyj informacji</a></li>
+													<li id="n-czytelnicy"><a href="/wiki/Wikipedia:O_Wikipedii">O Wikipedii</a></li>
+													<li id="n-contact"><a href="/wiki/Wikipedia:Kontakt_z_wikipedystami">Kontakt</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_pl.wikipedia.org&amp;uselang=pl" title="Pomóż nam">Wspomóż Wikipedię</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-edytorzy' aria-labelledby='p-edytorzy-label'>
+			<h3 id='p-edytorzy-label'>Dla wikipedystów</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-pierwsze-kroki"><a href="/wiki/Pomoc:Pierwsze_kroki">Pierwsze kroki</a></li>
+													<li id="n-helppage-name"><a href="/wiki/Pomoc:Spis_tre%C5%9Bci">Centrum pomocy</a></li>
+													<li id="n-Guidelines"><a href="/wiki/Wikipedia:Zasady">Zasady edytowania</a></li>
+													<li id="n-bar"><a href="/wiki/Wikipedia:Kawiarenka_pod_Weso%C5%82ym_Encyklopedyst%C4%85">Kawiarenka</a></li>
+													<li id="n-Noticeboard"><a href="/wiki/Wikipedia:Tablica_og%C5%82osze%C5%84">Ogłoszenia</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Specjalna:Ostatnie_zmiany" title="Lista ostatnich zmian na Wikipedii. [r]" accesskey="r">Ostatnie zmiany</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Narzędzia</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Specjalna:Linkuj%C4%85ce/Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej" title="Pokaż listę wszystkich stron linkujących do tej strony [j]" accesskey="j">Linkujące</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Specjalna:Zmiany_w_linkowanych/Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej" title="Ostatnie zmiany w stronach, do których ta strona linkuje [k]" accesskey="k">Zmiany w linkowanych</a></li>
+													<li id="t-upload"><a href="//pl.wikipedia.org/wiki/Wikipedia:Prześlij_plik" title="Prześlij plik [u]" accesskey="u">Prześlij plik</a></li>
+													<li id="t-specialpages"><a href="/wiki/Specjalna:Strony_specjalne" title="Lista wszystkich specjalnych stron [q]" accesskey="q">Strony specjalne</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;oldid=41592228" title="Stały link do tej wersji strony">Link do tej wersji</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;action=info" title="Więcej informacji na temat tej strony">Informacje o tej stronie</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q15989108" title="Link do powiązanego elementu w repozytorium danych [g]" accesskey="g">Element Wikidanych</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Specjalna:Cytuj&amp;page=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;id=41592228" title="Informacja o tym jak należy cytować tę stronę">Cytowanie tego artykułu</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Drukuj lub eksportuj</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&amp;bookcmd=book_creator&amp;referer=Epidemia+gor%C4%85czki+krwotocznej+Ebola+w+Afryce+Zachodniej">Utwórz książkę</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&amp;bookcmd=render_article&amp;arttitle=Epidemia+gor%C4%85czki+krwotocznej+Ebola+w+Afryce+Zachodniej&amp;oldid=41592228&amp;writer=rdf2latex">Pobierz jako PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;printable=yes" title="Wersja do wydruku [p]" accesskey="p">Wersja do druku</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>W innych językach</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%88%D8%A8%D8%A7%D8%A1_%D8%A5%D9%8A%D8%A8%D9%88%D9%84%D8%A7_%D9%81%D9%8A_%D8%BA%D8%B1%D8%A8_%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7_2014" title="وباء إيبولا في غرب أفريقيا 2014 – arabski" lang="ar" hreflang="ar">العربية</a></li>
+													<li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Ebola_virusunun_yay%C4%B1lmas%C4%B1_(2014)" title="Ebola virusunun yayılması (2014) – azerski" lang="az" hreflang="az">Azərbaycanca</a></li>
+													<li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%AD%D0%BF%D1%96%D0%B4%D1%8D%D0%BC%D1%96%D1%8F_%D0%BB%D1%96%D1%85%D0%B0%D0%BC%D0%B0%D0%BD%D0%BA%D1%96_%D0%AD%D0%B1%D0%BE%D0%BB%D0%B0_%D1%9E_%D0%97%D0%B0%D1%85%D0%BE%D0%B4%D0%BD%D1%8F%D0%B9_%D0%90%D1%84%D1%80%D1%8B%D1%86%D1%8B" title="Эпідэмія ліхаманкі Эбола ў Заходняй Афрыцы – białoruski" lang="be" hreflang="be">Беларуская</a></li>
+													<li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%AD%D0%BF%D1%96%D0%B4%D1%8D%D0%BC%D1%96%D1%8F_%D0%BB%D1%96%D1%85%D0%B0%D0%BC%D0%B0%D0%BD%D0%BA%D1%96_%D0%AD%D0%B1%D0%BE%D0%BB%D0%B0_%D1%9E_%D0%97%D0%B0%D1%85%D0%BE%D0%B4%D0%BD%D1%8F%D0%B9_%D0%90%D1%84%D1%80%D1%8B%D1%86%D1%8B" title="Эпідэмія ліхаманкі Эбола ў Заходняй Афрыцы – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Brot_d%27Ebola_a_l%27%C3%80frica_de_l%27oest_de_2014" title="Brot d&#039;Ebola a l&#039;Àfrica de l&#039;oest de 2014 – kataloński" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Epidemie_eboly_v_z%C3%A1padn%C3%AD_Africe_(2014)" title="Epidemie eboly v západní Africe (2014) – czeski" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-cy"><a href="//cy.wikipedia.org/wiki/Epidemig_Ebola_Gorllewin_Affrica,_2014" title="Epidemig Ebola Gorllewin Affrica, 2014 – walijski" lang="cy" hreflang="cy">Cymraeg</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Ebola-udbruddet_i_Vestafrika_2014" title="Ebola-udbruddet i Vestafrika 2014 – duński" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Ebolafieber-Epidemie_2014" title="Ebolafieber-Epidemie 2014 – niemiecki" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/2014._aasta_Ebola_viirushaiguse_epideemia" title="2014. aasta Ebola viirushaiguse epideemia – estoński" lang="et" hreflang="et">Eesti</a></li>
+													<li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%88%CE%BE%CE%B1%CF%81%CF%83%CE%B7_%CF%84%CE%BF%CF%85_%CE%B9%CE%BF%CF%8D_%CE%88%CE%BC%CF%80%CE%BF%CE%BB%CE%B1_2014" title="Έξαρση του ιού Έμπολα 2014 – grecki" lang="el" hreflang="el">Ελληνικά</a></li>
+													<li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa" title="Ebola virus epidemic in West Africa – angielski" lang="en" hreflang="en">English</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Epidemia_de_%C3%A9bola_de_2014-2015" title="Epidemia de ébola de 2014-2015 – hiszpański" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Ebola_epidemio_en_Okcidentafriko_(2014)" title="Ebola epidemio en Okcidentafriko (2014) – esperanto" lang="eo" hreflang="eo">Esperanto</a></li>
+													<li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Mendebaldeko_Afrikako_ebola_agerraldia_(2014)" title="Mendebaldeko Afrikako ebola agerraldia (2014) – baskijski" lang="eu" hreflang="eu">Euskara</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%87%D9%85%D9%87%E2%80%8C%DA%AF%DB%8C%D8%B1%DB%8C_%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C_%D9%88%DB%8C%D8%B1%D9%88%D8%B3%DB%8C_%D8%A7%D8%A8%D9%88%D9%84%D8%A7_%D8%AF%D8%B1_%D8%BA%D8%B1%D8%A8_%D8%A2%D9%81%D8%B1%DB%8C%D9%82%D8%A7_%D8%AF%D8%B1_%D8%B3%D8%A7%D9%84_%DB%B2%DB%B0%DB%B1%DB%B4" title="همه‌گیری بیماری ویروسی ابولا در غرب آفریقا در سال ۲۰۱۴ – perski" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/%C3%89pid%C3%A9mie_de_maladie_%C3%A0_virus_Ebola_en_Afrique_de_l%27Ouest" title="Épidémie de maladie à virus Ebola en Afrique de l&#039;Ouest – francuski" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%84%9C%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4_%EC%97%90%EB%B3%BC%EB%9D%BC_%EC%9C%A0%ED%96%89" title="서아프리카 에볼라 유행 – koreański" lang="ko" hreflang="ko">한국어</a></li>
+													<li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Epidemija_ebole_u_Zapadnoj_Africi_2014." title="Epidemija ebole u Zapadnoj Africi 2014. – chorwacki" lang="hr" hreflang="hr">Hrvatski</a></li>
+													<li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Wabah_virus_Ebola_di_Afrika_Barat" title="Wabah virus Ebola di Afrika Barat – indonezyjski" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Epidemia_di_febbre_emorragica_di_Ebola_in_Africa_Occidentale_del_2014" title="Epidemia di febbre emorragica di Ebola in Africa Occidentale del 2014 – włoski" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%94%D7%AA%D7%A4%D7%A8%D7%A6%D7%95%D7%AA_%D7%94%D7%90%D7%91%D7%95%D7%9C%D7%94_%D7%91%D7%9E%D7%A2%D7%A8%D7%91_%D7%90%D7%A4%D7%A8%D7%99%D7%A7%D7%94_(2015-2014)" title="התפרצות האבולה במערב אפריקה (2015-2014) – hebrajski" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Eruptio_ebolae_in_Africa_occidentali" title="Eruptio ebolae in Africa occidentali – łaciński" lang="la" hreflang="la">Latina</a></li>
+													<li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/2014._gada_Rietum%C4%81frikas_Ebolas_uzliesmojums" title="2014. gada Rietumāfrikas Ebolas uzliesmojums – łotewski" lang="lv" hreflang="lv">Latviešu</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Nyugat-afrikai_Ebola-j%C3%A1rv%C3%A1ny" title="Nyugat-afrikai Ebola-járvány – węgierski" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Wabak_Ebola_Afrika_Barat_2014" title="Wabak Ebola Afrika Barat 2014 – malajski" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Ebola-uitbraak_in_West-Afrika_in_2014" title="Ebola-uitbraak in West-Afrika in 2014 – niderlandzki" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/2014%E5%B9%B4%E3%81%AE%E8%A5%BF%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%82%A8%E3%83%9C%E3%83%A9%E5%87%BA%E8%A1%80%E7%86%B1%E6%B5%81%E8%A1%8C" title="2014年の西アフリカエボラ出血熱流行 – japoński" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Ebolaepidemien_i_Vestafrika" title="Ebolaepidemien i Vestafrika – norweski" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-uz"><a href="//uz.wikipedia.org/wiki/G%CA%BBarbiy_Afrikadagi_Ebola_epidemiyasi" title="Gʻarbiy Afrikadagi Ebola epidemiyasi – uzbecki" lang="uz" hreflang="uz">Oʻzbekcha</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Surto_de_%C3%A9bola_na_%C3%81frica_Ocidental_de_2014" title="Surto de ébola na África Ocidental de 2014 – portugalski" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Epidemia_de_Ebola_din_Africa_de_Vest_(2014)" title="Epidemia de Ebola din Africa de Vest (2014) – rumuński" lang="ro" hreflang="ro">Română</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%AD%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%BB%D0%B8%D1%85%D0%BE%D1%80%D0%B0%D0%B4%D0%BA%D0%B8_%D0%AD%D0%B1%D0%BE%D0%BB%D0%B0_%D0%B2_%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B9_%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B5" title="Эпидемия лихорадки Эбола в Западной Африке – rosyjski" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-sco"><a href="//sco.wikipedia.org/wiki/2014_Wast_Africae_Ebola_virus_ootbreak" title="2014 Wast Africae Ebola virus ootbreak – szkocki" lang="sco" hreflang="sco">Scots</a></li>
+													<li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Epid%C3%A9mia_eboly_v_z%C3%A1padnej_Afrike_v_roku_2014" title="Epidémia eboly v západnej Afrike v roku 2014 – słowacki" lang="sk" hreflang="sk">Slovenčina</a></li>
+													<li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Zahodnoafri%C5%A1ka_epidemija_ebole_2014" title="Zahodnoafriška epidemija ebole 2014 – słoweński" lang="sl" hreflang="sl">Slovenščina</a></li>
+													<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%95%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D1%98%D0%B0_%D0%B5%D0%B1%D0%BE%D0%BB%D0%B5_%D1%83_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D1%98_%D0%90%D1%84%D1%80%D0%B8%D1%86%D0%B8_2014." title="Епидемија еболе у западној Африци 2014. – serbski" lang="sr" hreflang="sr">Српски / srpski</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/L%C3%A4nsi-Afrikan_ebolaepidemia_2014" title="Länsi-Afrikan ebolaepidemia 2014 – fiński" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Ebolautbrottet_i_V%C3%A4stafrika_2014" title="Ebolautbrottet i Västafrika 2014 – szwedzki" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%87%E0%AE%B1%E0%AF%8D%E0%AE%95%E0%AF%81_%E0%AE%86%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%B5%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%8E%E0%AE%AA%E0%AF%8B%E0%AE%B2%E0%AE%BE_%E0%AE%A8%E0%AF%8B%E0%AE%AF%E0%AF%8D%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AE%B0%E0%AE%B5%E0%AE%B2%E0%AF%8D,_2014" title="மேற்கு ஆபிரிக்காவில் எபோலா நோய்ப் பரவல், 2014 – tamilski" lang="ta" hreflang="ta">தமிழ்</a></li>
+													<li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%94%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B5%E0%B9%82%E0%B8%9A%E0%B8%A5%E0%B8%B2%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%AD%E0%B8%9F%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%81_%E0%B8%9E.%E0%B8%A8._2557" title="การระบาดของอีโบลาในแอฟริกาตะวันตก พ.ศ. 2557 – tajski" lang="th" hreflang="th">ไทย</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/2014_Bat%C4%B1_Afrika_Ebola_salg%C4%B1n%C4%B1" title="2014 Batı Afrika Ebola salgını – turecki" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%95%D0%BF%D1%96%D0%B4%D0%B5%D0%BC%D1%96%D1%8F_%D0%B3%D0%B0%D1%80%D1%8F%D1%87%D0%BA%D0%B8_%D0%95%D0%B1%D0%BE%D0%BB%D0%B0_%D0%B2_%D0%97%D0%B0%D1%85%D1%96%D0%B4%D0%BD%D1%96%D0%B9_%D0%90%D1%84%D1%80%D0%B8%D1%86%D1%96_(2014)" title="Епідемія гарячки Ебола в Західній Африці (2014) – ukraiński" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/D%E1%BB%8Bch_b%E1%BB%87nh_Ebola_t%E1%BA%A1i_ch%C3%A2u_Phi_n%C4%83m_2014" title="Dịch bệnh Ebola tại châu Phi năm 2014 – wietnamski" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%A5%BF%E9%9D%9E%E4%BC%8A%E6%B3%A2%E6%8B%89%E7%97%85%E6%AF%92%E7%96%AB%E7%97%87" title="西非伊波拉病毒疫症 – chiński" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q15989108#sitelinks-wikipedia" text="Edytuj linki" title="Edytuj linki wersji językowych" class="wbc-editpage">Edytuj linki</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Tę stronę ostatnio zmodyfikowano o 00:45, 23 sty 2015.</li>
+											<li id="footer-info-copyright">Tekst udostępniany na <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl">licencji Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o <a href="https://wikimediafoundation.org/wiki/Warunki_korzystania">warunkach korzystania</a>.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Zasady_zachowania_poufno%C5%9Bci" title="wikimedia:Zasady zachowania poufności">Zasady zachowania poufności</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:O_Wikipedii" title="Wikipedia:O Wikipedii">O Wikipedii</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Korzystasz_z_Wikipedii_tylko_na_w%C5%82asn%C4%85_odpowiedzialno%C5%9B%C4%87" title="Wikipedia:Korzystasz z Wikipedii tylko na własną odpowiedzialność">Korzystasz z Wikipedii tylko na własną odpowiedzialność</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Dla deweloperów</a></li>
+											<li id="footer-places-mobileview"><a href="//pl.m.wikipedia.org/w/index.php?title=Epidemia_gor%C4%85czki_krwotocznej_Ebola_w_Afryce_Zachodniej&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Wersja dla urządzeń mobilnych</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf14/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.page.gallery","mediawiki.toc","ext.scribunto","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.maps","ext.gadget.heading-icons","ext.gadget.refToolbar","ext.gadget.edit-buttons","ext.gadget.edit-summaries","ext.gadget.my-sandbox","ext.gadget.edit-first-section","ext.gadget.edit-summary-warning","ext.gadget.wikibugs","ext.gadget.nuxTBKeys","ext.gadget.enhanced-upload","ext.gadget.small-references","ext.gadget.map-toggler","ext.gadget.ReferenceTooltips","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/pl.wikipedia.org/load.php?debug=false\u0026amp;lang=pl\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1253"});
+}</script>
+	</body>
+</html>

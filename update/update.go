@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	out := bytes.NewBufferString("package swan\n\nvar(stopwords = map[string][]string{\n")
+	out := bytes.NewBufferString("package swan\n\nvar(stopwords = map[string]map[string]bool{\n")
 
 	files, err := filepath.Glob("python-goose/goose/resources/text/stopwords*")
 	if err != nil {
@@ -22,6 +22,7 @@ func main() {
 		lang := f
 		lang = lang[:len(lang)-4]
 		lang = lang[len(lang)-2:]
+		seen := make(map[string]bool)
 
 		c, err := ioutil.ReadFile(f)
 		if err != nil {
@@ -32,10 +33,14 @@ func main() {
 		ws := string(c)
 		ws = strings.Trim(ws, "\ufeff")
 
-		out.WriteString(fmt.Sprintf("`%s`: []string{\n", lang))
+		out.WriteString(fmt.Sprintf("`%s`: map[string]bool{\n", lang))
 		for _, w := range strings.Split(ws, "\n") {
+			w = strings.TrimSpace(w)
 			if !strings.HasPrefix(w, "#") && len(w) > 0 {
-				out.WriteString(fmt.Sprintf("`%s`,", strings.TrimSpace(w)))
+				if _, ok := seen[w]; !ok {
+					fmt.Fprintf(out, "`%s`: true,\n", w)
+					seen[w] = true
+				}
 			}
 		}
 		out.WriteString("},\n")
@@ -43,5 +48,5 @@ func main() {
 
 	out.WriteString("})\n")
 
-	ioutil.WriteFile("../stopwords.go", out.Bytes(), 0644)
+	ioutil.WriteFile("../stopwords_list.go", out.Bytes(), 0644)
 }

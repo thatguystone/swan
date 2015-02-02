@@ -1,0 +1,1434 @@
+
+
+<!DOCTYPE html>
+
+<html lang="it">
+<!-- Methode uuid: "edee3bf2-a875-11e4-8394-ee38b68e1f6d" -->
+<head>
+<title>Elezione del presidente della repubblica - Quirinale, il secondo giorno di votazioni | italia | Il Secolo XIX</title>
+<meta name="eomportal-instanceid" content="106"/>
+<meta name="eomportal-id" content="318138"/>
+<meta name="eomportal-loid" content="17.0.2928780302"/>
+<meta name="eomportal-uuid" content="edee3bf2-a875-11e4-8394-ee38b68e1f6d"/>
+<meta name="eomportal-lastUpdate" content="Fri Jan 30 17:02:26 CET 2015"/>
+<link rel="shortcut icon" href="/r/SysConfig/WebPortal/ilsecoloxix/images/banner/favicon.ico"/>
+<link rel="icon" href="/r/SysConfig/WebPortal/ilsecoloxix/images/banner/favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" type="text/css" href="/r/SysConfig/WebPortal/ilsecoloxix/css/general.css?v=52"/>
+<link rel="stylesheet" type="text/css" href="/r/SysConfig/WebPortal/ilsecoloxix/css/articolo.css?v=8def"/>
+<script type="text/javascript">
+
+
+	var IS = window.IS || {};
+
+	IS.WebConfig = {
+		lang : "IT",
+		page : "article",
+		category : "italia",
+		stream : "b04a37e6-a876-11e4-93d9-bdc2eff94638"
+	};
+
+
+</script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/ilsecoloxix/mobile.js?v=35"></script>
+<script type="text/javascript" src="http://cdn.gigya.com/js/gigya.js?apiKey=3_Qb7y5yBkkaqS2ut_39JHPMm3eMXiXSdreOcTgzAAfV38BrwCLA3hBkzQVvEt5RJu&amp;lang=it"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/waypoints.min.js"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/jquery.all.js?v=5packed"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/jquery.simple-cookie-notice.js"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/portal.js?v=old1"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/highlight.js"></script>
+<script type="text/javascript">
+
+
+	var IS = window.IS || {};
+
+	IS.WebConfig = {
+		lang : "IT",
+		page : "article",
+		category : "italia",
+		stream : "b04a37e6-a876-11e4-93d9-bdc2eff94638"
+	};
+
+
+</script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/ilsecoloxix/ilsecoloxix-lib.js?v=67"></script>
+<script type="text/javascript">
+
+$(document).ready(function() {if(isMobile.any()&&readCookie("noMobileCookie").length>0){$.fn.simpleCookieNotice({setImpDate:"August 02, 2012",setURL:/http:\/\/www\.ilsecoloxix\.it/,cookiePageURL:"/cookies/",selector:"cookieMobile",fadeInTime:1500,showTime:1e4,fadeOutTime:2500,cookieText:"Passa alla versione mobile",onlyMessage:true});$("#cookieMobile").click(function(){eraseCookie("noMobileCookie");window.location.href="http://m.ilsecoloxix.it"+window.location.pathname})}});
+
+</script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/ilsecoloxix/device.min.js"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/adv_rcs/bt.js"></script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/adv_rcs/adv_italia.js"></script>
+<script type="text/javascript">
+
+
+if (device.tablet()) {
+	OAS_listpos = OAS_listpos.replace("Top,", "");
+}
+
+if (IS.WebConfig.page == "section") {
+	OAS_listpos = OAS_listpos.replace("Middle,", "");
+}
+
+if (IS.WebConfig.page == "multimedia") {
+	OAS_listpos = OAS_listpos.replace(",x01", "");
+}
+
+
+</script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/adv_rcs/mjx.js"></script>
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-260590-5']);
+_gaq.push(['_trackPageview']);
+
+</script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/swfobject.js"></script>
+<script type="text/javascript">
+
+	$(document).ready(function(){
+		$(".zoom-foto").colorbox({rel:'zoom-foto'});
+		$(".zoom-foto-info").colorbox({rel:'zoom-foto-info'});
+		$(".zoom-webpage").colorbox({iframe:true, width:"80%", height:"80%"});
+	});
+
+</script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/audiojs/audio.min.js"></script>
+<script type="text/javascript">
+
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+
+</script>
+<script type="text/javascript" src="/r/SysConfig/WebPortal/ilsecoloxix/js/resize-font.js"></script>
+<script type="text/javascript">
+
+	PortalHighlight.context = '';
+	PortalHighlight.contentElement = 'articolo_artcontent';
+	PortalHighlight.init(true);
+
+</script>
+<script type="text/javascript">
+
+$(function() {
+	$('#ultimora').slimscroll({  height: '250px', width: '300px' });
+	//$('#ultimora-liguria').slimscroll({  height: '200px', width: '300px' });
+});
+
+</script>
+<!--[if lte IE 9]>
+<link href="/rw/SysConfig/WebPortal/ilsecoloxix/css/ie.css?v=3new" rel="stylesheet" type="text/css" />
+<![endif]-->
+<meta charset="utf-8">
+
+<link rel="apple-touch-icon" href="http://www.ilsecoloxix.it/r/SysConfig/WebPortal2014/ilsecoloxix/images/template/57x57.png" sizes="57x57">
+<link rel="apple-touch-icon" href="http://www.ilsecoloxix.it/r/SysConfig/WebPortal2014/ilsecoloxix/images/template/60x60.png" sizes="60x60">
+<link rel="apple-touch-icon" href="http://www.ilsecoloxix.it/r/SysConfig/WebPortal2014/ilsecoloxix/images/template/72x72.png" sizes="72x72">
+<link rel="apple-touch-icon" href="http://www.ilsecoloxix.it/r/SysConfig/WebPortal2014/ilsecoloxix/images/template/76x76.png" sizes="76x76">
+<link rel="apple-touch-icon" href="http://www.ilsecoloxix.it/r/SysConfig/WebPortal2014/ilsecoloxix/images/template/114x114.png" sizes="114x114">
+<link rel="apple-touch-icon" href="http://www.ilsecoloxix.it/r/SysConfig/WebPortal2014/ilsecoloxix/images/template/120x120.png" sizes="120x120">
+<link rel="apple-touch-icon" href="http://www.ilsecoloxix.it/r/SysConfig/WebPortal2014/ilsecoloxix/images/template/144x144.png" sizes="144x144">
+<link rel="apple-touch-icon" href="http://www.ilsecoloxix.it/r/SysConfig/WebPortal2014/ilsecoloxix/images/template/152x152.png" sizes="152x152">
+<link rel="apple-touch-icon" href="http://www.ilsecoloxix.it/r/SysConfig/WebPortal2014/ilsecoloxix/images/template/180x180.png" sizes="180x180">
+
+<meta name="application-name" content="IlSecoloXIX.it" />
+<meta name="msapplication-tooltip" content="IlSecoloXIX.it - Prima pagina del quotidiano online" />
+<meta name="msapplication-starturl" content="http://www.ilsecoloxix.it/" />
+<meta name="msapplication-window" content="width=1024;height=768" />
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="http://www.ilsecoloxix.it/r/SysConfig/WebPortal2014/ilsecoloxix/images/template/144x144.png">
+
+<link rel="alternate" type="application/rss+xml" title="IlSecoloXIX.it" href="http://www.ilsecoloxix.it/homepage/rss/homepage.xml" />
+<link rel="alternate" media="handheld" href="http://m.ilsecoloxix.it/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@ilsecoloxix"/>
+<meta name="twitter:domain" content="ilsecoloxix.it"/>
+<meta property="og:type" content="article" />
+
+<meta property="og:description" content="Roma - Dopo quella di giovedì, una seconda fumata nera alla Camera questa mattina per l’elezione del presidente della Repubblica. Non si riesce a raggiungere il quorum di 673 voti. ..." />
+<meta name="description" content="Roma - Dopo quella di giovedì, una seconda fumata nera alla Camera questa mattina per l’elezione del presidente della Repubblica. Non si riesce a raggiungere il quorum di 673 voti. ..." />
+<meta name="twitter:description" content="Roma - Dopo quella di giovedì, una seconda fumata nera alla Camera questa mattina per l’elezione del presidente della Repubblica. Non si riesce a raggiungere il quorum di 673 voti. ..."/>
+<meta itemprop="description" content="Roma - Dopo quella di giovedì, una seconda fumata nera alla Camera questa mattina per l’elezione del presidente della Repubblica. Non si riesce a raggiungere il quorum di 673 voti. ..."/>
+<meta itemprop="name" content="Elezione del presidente della repubblica - Quirinale, il secondo giorno di votazioni"/>
+	<meta name="twitter:title" content="Elezione del presidente della repubblica - Quirinale, il secondo giorno di votazioni"/>
+	<meta property="og:title" content="Elezione del presidente della repubblica - Quirinale, il secondo giorno di votazioni" />
+<meta name="EdDateTime" content="2015/01/30">
+
+		<meta name="EdBlankInTitle" content="| Italia | Il Secolo XIX">
+
+			<script type="text/javascript" Language="JavaScript" src="http://edintorni.net/related/service/plugin/jscript/?ac=ilsecoloxix_rel&im=1&ch=1"></script>
+
+	<meta name="EdImage" content="http://www.ilsecoloxix.it/rw/IlSecoloXIXWEB/multimedia/YouTube/foto/2015/01/Y5h-KfwC4aI.jpg"/>
+<meta property="og:image" content="http://www.ilsecoloxix.it/rw/IlSecoloXIXWEB/multimedia/YouTube/foto/2015/01/Y5h-KfwC4aI.jpg" />
+</head>
+<body><script type="text/javascript">
+<!--
+if (!device.mobile()) {
+	OAS_AD('Position1');
+}
+//-->
+</script>
+<script type="text/javascript">
+<!--
+if (!device.tablet()) {
+	OAS_AD('Top');
+}
+//-->
+</script>
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<![endif]-->
+
+<!-- adv_rcs c: italia -->
+<!-- adv_rcs o:  -->
+
+<div id="wrapper" style="margin: 0 auto; ">
+
+<header id="header" role="banner">
+
+<div id="general-header">
+
+<div id="satellite-header">
+<ul class="satellite">
+<li><a target="_blank" href="/radio/radio-19/diretta/" class="radio">Radio</a></li>
+<li><a href="/affari/" class="affari">Affari</a></li>
+<li><a href="http://case.ilsecoloxix.it/" class="case">Case</a></li>
+<li><a target="_blank" href="http://asteappalti.ilsecoloxix.it" class="aste">Aste e Appalti</a></li>
+<li><a target="_blank" href="http://lavoro.ilsecoloxix.it/" class="lavoro">Lavoro</a></li>
+<li><a href="/meteo_2011/" class="meteo">Meteo</a></li>
+<li><a href="http://avvisi.ilsecoloxix.it/" class="necrologie">Necrologie</a></li>
+</ul>
+<ul class="social-satellite">
+
+	<li id="user-loading">
+		<a href="javascript:void(0)">
+			<img src="/rw/SysConfig/WebPortal/ilsecoloxix/images/template/loader-mini.gif" />
+		</a>
+	</li>
+
+	<li id="register">
+		<a href="javascript:void(0)">Registrati</a>
+	</li>
+
+	<li id="login">
+		<a href="javascript:void(0)">Accedi</a>
+	</li>
+
+	<li id="profile">
+		<a href="javascript:void(0)"></a>
+	</li>
+
+	<li id="connections">
+		<span>oppure collegati con</span>
+		<div id="connections-container"></div>
+	</li>
+
+	<li id="logout">
+		<a href="javascript:void(0)">Esci</a>
+	</li>
+
+</ul>
+</div><div id="left-header">
+<img src="/rw/SysConfig/WebPortal/ilsecoloxix/images/template/composit.png" alt="" />
+<p>
+	<a target="_blank" rel="nofollow" href="http://edicoladigitale.ilsecoloxix.it/secoloxix/">Leggi</a>
+	<a target="_blank" href="http://www.ilsecoloxix.it/abbonati">Abbonati</a>
+	<a target="_blank" href="http://www.ilsecoloxix.it/regala-un-abbonamento">Regala</a>
+</p>
+</div>
+<div id="main-header">
+
+<a class="sez-italia" href="/italia">Italia</a><a href="/" class="logo-small">
+		<img src="/rw/SysConfig/WebPortal/ilsecoloxix/images/template/logo-small.png" alt="IL SECOLO XIX" />
+	</a>
+</div>
+
+<div id="right-header">
+
+<ul id="social">
+	<li><a href="https://www.facebook.com/IlSecoloXIX" target="_blank" rel="nofollow">Facebook</a></li>
+	<li><a href="https://twitter.com/ilsecoloxix" target="_blank" rel="nofollow">Twitter</a></li>
+	<li><a href="https://plus.google.com/+ilsecoloxix" target="_blank" rel="nofollow">Google</a></li>
+	<li><a href="https://pinterest.com/ilsecoloxix/" target="_blank" rel="nofollow">Pinterest</a></li>
+	<li><a href="http://www.youtube.com/user/ilsecoloxix" target="_blank" rel="nofollow">Youtube</a></li>
+	<li><a href="http://www.ilsecoloxix.it/Rss" target="_blank" rel="nofollow">RSS</a></li>
+</ul>
+
+<div id="meteo">
+
+	<!-- <img src="/rw/SysConfig/WebPortal/ilsecoloxix/images/template/velato.png" />
+	<span class="gradi">+22&deg; C</span>
+
+	<ul id="dropdown">
+	<li>
+		<a href="#">Genova &#9660;</a>
+		<ul>
+			<li><a href="#">Genova</a></li>
+			<li><a href="#">Imperia</a></li>
+			<li><a href="#">La Spezia</a></li>
+			<li><a href="#">Savona</a></li>
+		</ul>
+	</li>
+	</ul> -->
+
+</div>
+
+<div id="search-header">
+  <form onsubmit="cleanSearchForm(this)" method="post" id="search_form_general" name="search_form_general" action="/search">
+    <input type="text" name="qText" class="search_input" value="Cerca..." id="header-s" onfocus="if (this.value == 'Cerca...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Cerca...';}">
+    <input type="submit" id="searchsubmit-general" value="Search">
+  </form>
+</div>
+
+</div>
+<nav id="menu-header" role="navigation">
+	<ul>
+		<li >
+			<a href="/" class="home">Home</a>
+		</li>
+		<li >
+			<a href="/genova/" class="genova">Genova</a>
+		</li>
+		<li >
+			<a href="/levante/" class="levante">Levante</a>
+		</li>
+		<li >
+			<a href="/savona/" class="savona">Savona</a>
+		</li>
+		<li >
+			<a href="/imperia/" class="imperia">Imperia</a>
+		</li>
+		<li >
+			<a href="/la_spezia/" class="laspezia">La Spezia</a>
+		</li>
+		<li >
+			<a href="/basso_piemonte/" class="bassopiemonte">Basso Piemonte</a>
+		</li>
+		<li class="attivo">
+			<a href="/italia/" class="italia">Italia</a>
+		</li>
+		<li >
+			<a  href="/mondo/" class="mondo">Mondo</a>
+		</li>
+	</ul>
+</nav>
+<div id="submenu-header">
+  <ul>
+	<li><a  href="/sport/" class="sport">Sport</a></li>
+	<li><a  href="/economia/" class="economia">Economia</a></li>
+	<li><a  href="/lavoro/" class="lavoro">Lavoro</a></li>
+	<li><a  href="/cultura/" class="cultura">Cultura&amp;Spettacoli</a></li>
+	<li><a  href="/magazine/high_tech" class="tech">Tech</a></li>
+	<li><a  href="/magazine/gossip" class="gossip">Gossip</a></li>
+	<li><a  href="/magazine/salute_benessere" class="salute">Salute</a></li>
+	<li><a  href="/multimedia/fotogallery/italia/" class="foto">Foto</a></li>
+	<li><a  href="/multimedia/xixtv/genova/" class="video">Video</a></li>
+	<li><a href="http://www.themeditelegraph.com/it/" class="meditelegraph" rel="nofollow" target="_blank">TheMediTelegraph</a></li>
+  </ul>
+</div>
+</div>
+</header>
+<section id="container" role="main">
+
+<div id="general-container">
+
+<div class="oas" id="oas_topLeft">
+<script type="text/javascript">
+<!--
+OAS_AD('TopLeft');
+//-->
+</script>
+</div>
+<!-- Methode uuid: "b04a37e6-a876-11e4-93d9-bdc2eff94638"-->
+<!--  Methode filePath: "/IlSecoloXIXWEB/italia/documenti/2015/01/30/QUIRINALE_nuovo30genMETAGIORNATA.xml"  -->
+<!-- SectionId: "/italia"-->
+<!-- Methode filePath: "/IlSecoloXIXWEB/italia/documenti/2015/01/30/QUIRINALE_nuovo30genMETAGIORNATA.xml" uuid: "edee3bf2-a875-11e4-8394-ee38b68e1f6d" -->
+
+<!-- /IlSecoloXIXWEB/WebPages/speciali/2015/elezione-presidente/speciali.dwp -->
+			<!-- /IlSecoloXIXWEB/WebPages/speciali/2015/elezione-presidente/articoli.dwp -->
+			<article id="left-articolo">
+	<div id="menu-speciale" class="elezione-presidente">
+	<a href="/elezione-presidente/" class="home-speciale">elezione-presidente</a>
+	<h5><a href="/elezione-presidente/">L'elezione del presidente della Repubblica</a>
+		</h5>
+	<ul>
+		<li>
+						<a href="/elezione-presidente/articoli/" class="speciale-attivo">Articoli</a>
+					</li>
+				<li>
+						<a href="/elezione-presidente/video/">Video</a>
+					</li>
+				<li>
+								<a href="/elezione-presidente/fotogallery/" class="noborder">Fotogallery</a>
+							</li>
+						</ul>
+	</div>
+
+<div id="data-articolo">
+		<p>
+			<span class="luogo-articolo">
+					<a>
+								Elezione del presidente della repubblica</a>
+						</span>
+			30 gennaio 2015</p>
+	</div>
+
+	<div id="tag-articolo" style="display:none">
+			</div>
+
+	<!-- <EdIndex> -->
+	<h1>
+		Quirinale, il secondo giorno di votazioni</h1>
+	<!-- </EdIndex> -->
+	<p class="firma-articolo">
+			</p>
+
+	<div class="oas box" id="oas_middle">
+<script type="text/javascript">
+<!--
+OAS_AD('Middle');
+//-->
+</script>
+</div>
+<!-- INIZIO TOOLS ARTICOLO -->
+    <div id="tools-articolo">
+
+	<div class="container-tools">
+
+		<div class="box-tools operations">
+
+			<p class="commenti-tools">
+				<a href="javascript:void(0)" id="comment-count" title="Commenta la notizia">Commenti</a>
+			</p>
+
+			<ul class="ul2">
+				<li>
+					<a href="javascript:pop_up('/Facet/print/Uuid/b04a37e6-a876-11e4-93d9-bdc2eff94638/Quirinale_il_secondo_giorno_di_votazioni_QUIRINALE_nuovo30genMETAGIORNATA.xml');" class="print-article" title="Stampa l'articolo"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/images/layout/ico_stampa.png"/></a>
+				</li>
+				<li>
+					<a title="Riduci la dimensione del testo" rel="nofollow" class="a1 decreaseFont" href="javascript:void(0)">A-</a>
+				</li>
+				<li>
+					<a title="Resetta la dimensione del testo" rel="nofollow" class="a2 resetFont"	href="javascript:void(0)">A=</a>
+				</li>
+				<li>
+					<a title="Aumenta la dimensione del testo" rel="nofollow" class="a3 increaseFont" href="javascript:void(0)">A+</a>
+				</li>
+			</ul>
+
+		</div>
+
+		<div class="box-tools share">
+
+			<div id="share-inner-row-1"></div>
+			<div id="share-inner-row-2"></div>
+
+		</div>
+
+		<div class="box-tools reactions">
+
+			<div id="reactions-first">
+
+				<img class="reactions-loader" src="/rw/SysConfig/WebPortal2011/ilsecoloxix/images/reactions/loader.gif" />
+
+			</div>
+
+			<div id="reactions-others">
+
+			</div>
+
+		</div>
+
+		<div class="box-tools dynamic">
+			<p>
+				<a target="_blank" rel="nofollow" href="http://edicoladigitale.ilsecoloxix.it/secoloxix/">Leggi</a>
+				<a target="_blank" rel="nofollow" href="http://www.ilsecoloxix.it/abbonati">Abbonati</a>
+				<a target="_blank" rel="nofollow" href="http://www.ilsecoloxix.it/regala-un-abbonamento">Regala</a>
+			</p>
+		</div>
+
+	</div>
+
+</div>
+<!-- FINE TOOLS ARTICOLO -->
+
+	<div id="testo-articolo">
+
+		<!-- INIZIO TIMELINE -->
+		<!-- FINE TIMELINE -->
+
+		<div id="visore-video-articolo">
+		<div style="display:none"></div>
+
+		<object width="480px" height="268px"><param name="movie" value="http://www.youtube.com/v/Y5h-KfwC4aI"><param value="transparent" name="wmode"><embed width="480" height="268" src="http://www.youtube.com/v/Y5h-KfwC4aI" type="application/x-shockwave-flash" wmode="transparent"></embed></object><div id="descrizione-video">
+				<h2>
+						Seconda votazione per il presidente della Repubblica</h2>
+				<p>
+						Trasmissione in diretta streaming fornita dalla Camera dei deputati</p>
+				</div>
+		</div>
+<!-- INIZIO ARTICOLI CORRELATI APPARATI -->
+<div id="apparati-articolo">
+
+	<!-- INIZIO ARTICOLI CORRELATI APPARATI -->
+
+	<div class="articolo-correlati approfondimenti-articolo">
+		<h5>Approfondimenti</h5>
+	<p class="approfondimento-foto">
+				<a href="/p/multimedia/cultura_spettacoli/2015/01/29/ARAyipLD-magalli_flash_quirinale.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', 'Magalli, flash mob per il Quirinale']);">
+					Magalli, flash mob per il Quirinale</a>
+			</p>
+		<p class="approfondimento-foto">
+				<a href="/p/multimedia/italia/2015/01/29/AR5iHnLD-quirinale_democristiani_moriremo.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', 'Quirinale, proteste della Lega: «Non moriremo democristiani»']);">
+					Quirinale, proteste della Lega: «Non moriremo democristiani»</a>
+			</p>
+		<p class="approfondimento-foto">
+				<a href="/p/multimedia/italia/2015/01/29/ARBJelLD-quirinale_napolitano_applauso.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', 'Quirinale, lungo applauso per Napolitano']);">
+					Quirinale, lungo applauso per Napolitano</a>
+			</p>
+		<p class="approfondimento-foto">
+				<a href="/p/multimedia/italia/2015/01/30/ARijIOMD-quirinale_ferilli_ironici.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', 'Quirinale, i voti “ironici”: ci sono anche Ferilli e D’Urso']);">
+					Quirinale, i voti “ironici”: ci sono anche Ferilli e D’Urso</a>
+			</p>
+		<p class="approfondimento-foto">
+				<a href="/p/multimedia/gossip/2015/01/30/ARd4MPMD-pancino_ministro_lorenzin.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', 'La dolce attesa e il pancino del ministro Lorenzin ']);">
+					La dolce attesa e il pancino del ministro Lorenzin </a>
+			</p>
+		<p class="approfondimento-foto">
+				<a href="/p/multimedia/gossip/2015/01/30/ARKPEPMD-smanicato_golfino_boschi.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', 'Dal golfino della Madia allo smanicato della Boschi: i look']);">
+					Dal golfino della Madia allo smanicato della Boschi: i look</a>
+			</p>
+		<p class="approfondimento-foto">
+				<a href="/p/multimedia/italia/2015/01/30/ARScfJMD-antonio_pisolino_razzi.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', 'Il pisolino di Antonio Razzi... e in Aula si vota']);">
+					Il pisolino di Antonio Razzi... e in Aula si vota</a>
+			</p>
+		<p class="approfondimento-foto">
+				<a href="/p/multimedia/italia/2015/01/30/ARK5wJMD-quirinale_secondo_chiamati.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', 'Quirinale, tutti chiamati al secondo voto']);">
+					Quirinale, tutti chiamati al secondo voto</a>
+			</p>
+		<p class="approfondimento-foto">
+				<a href="/p/multimedia/italia/2015/01/30/ARJ1HKMD-quirinale_chiacchiere_accordi.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', 'Quirinale, chiacchiere e accordi mentre si aspetta di votare']);">
+					Quirinale, chiacchiere e accordi mentre si aspetta di votare</a>
+			</p>
+		</div>
+	<!-- FINE ARTICOLI CORRELATI APPARATI -->
+
+<!-- INIZIO APPROFONDIMENTI APPARATI -->
+	<div class="articolo-correlati">
+		<h5>Articoli correlati</h5>
+		<ul>
+	<li>
+				<a href="/p/italia/2015/01/29/AR6AWlLD-quirinale_si_vota.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', 'Quirinale, si vota']);">
+					<img src="/rw/IlSecoloXIXWEB/italia/foto_trattate/2015/01/29/71503a2939ef1ef37688aef109ff6360-u200433593701ssf--390x180@ilsecoloxixweb_71x40.jpg" height="40" width="71" alt="Il voto" />
+					Quirinale, si vota</a>
+
+				</li>
+		<li>
+				<a href="/p/italia/2015/01/29/ARJMCuLD-misterioso_inutili_francesco.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', 'I voti inutili: da Francesco Totti al misterioso Mauro Morelli']);">
+					<img src="/rw/IlSecoloXIXWEB/italia/foto_trattate/2015/01/29/dc511d3bd26fb161950b0f603f924f2e-kjuf--390x180@ilsecoloxixweb_71x40.jpg" height="40" width="71" alt="" />
+					I voti inutili: da Francesco Totti al misterioso Mauro Morelli</a>
+
+				</li>
+		<li>
+				<a href="/p/italia/2015/01/29/ARIxHoLD-profilo_mattarella_twitter.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', '“Seggio Mattarella”, su Twitter è già pronto il profilo fake']);">
+					<img src="/rw/IlSecoloXIXWEB/italia/foto_trattate/2015/01/29/profilofake-kbrg--390x180@ilsecoloxixweb_71x40.jpg" height="40" width="71" alt="Il finto profilo Twitter di Sergio Mattarella" />
+					“Seggio Mattarella”, su Twitter è già pronto il profilo fake</a>
+
+				</li>
+		<li>
+				<a href="/p/italia/2015/01/29/ARrRKjLD-mattarella_consulta_giudice.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', 'Mattarella, il giudice della Consulta che piace a Renzi']);">
+					<img src="/rw/IlSecoloXIXWEB/italia/foto_trattate/2015/01/29/33b7a298e9b62354d442388353286036-k1uc--390x180@ilsecoloxixweb_71x40.jpg" height="40" width="71" alt="Sergio Mattarella" />
+					Mattarella, il giudice della Consulta che piace a Renzi</a>
+
+				</li>
+		<li>
+				<a href="/p/italia/2015/01/30/AR0oeTMD-quirinale_chiama_transatlantico.shtml" onclick="_gaq.push(['_trackEvent', 'Articoli Correlati', 'Articolo', 'Dalla “chiama” al “Transatlantico”, tutte le parole del Quirinale']);">
+					<img src="/rw/IlSecoloXIXWEB/italia/foto_trattate/2015/01/30/512e3cf6dd59a20bb38a31b687eb7514-033-kri--390x180@ilsecoloxixweb_71x40.jpg" height="40" width="71" alt="L’aula di Montecitorio" />
+					Dalla “chiama” al “Transatlantico”, tutte le parole del Quirinale</a>
+
+				</li>
+		</ul>
+		</div>
+	<!-- FINE APPROFONDIMENTI APPARATI -->
+
+<!-- INIZIO INFOGRAFICA APPARATI -->
+	<!-- FINE INFOGRAFICA APPARATI -->
+
+<!-- INIZIO ADSENSE -->
+<div class="adsense">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5887328259901759";
+/* Articolo_2012_left */
+google_ad_slot = "0272092434";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+<!-- FINE ADSENSE -->
+
+</div>
+<!-- INIZIO TESTO ARTICOLO -->
+		<!-- <EdIndex> -->
+		<p>Roma - Dopo quella di gioved&igrave;, <b>una seconda fumata nera </b>alla Camera questa mattina per l&rsquo;elezione del presidente della Repubblica. Non si riesce a raggiungere il quorum di 673 voti. </p><p>La terza votazione si svolger&agrave; alle 15, ma gli occhi sono puntati su sabato per la<b> quarta chiama </b>che, salvo svolte clamorose e improbabili &ldquo;frotte&rdquo; di franchi tiratori, dovrebbe invece essere quella buona per eleggere il candidato voluto dal <b>premier Matteo Renzi</b>. </p><p>Sar&agrave; la prima votazione dove basta la maggioranza assoluta, quindi 505 s&igrave; e, al momento, Renzi pu&ograve; contare su 554 voti sicuri con la speranza che il numero cresca fino a oltre 580 unit&agrave;. Una maggioranza, quindi, autonoma dal fronte del centrodestra composta da FI e Ncd.</p><p id="U220179444300jOE" style="text-align: center;">| <a href="http://www.ilsecoloxix.it/elezione-presidente/" target=""><b>Speciale Corsa al Quirinale</b>
+</a> |</p><p id="U220180664105BQB" style="text-align: center;"><b><a href="/p/italia/2015/01/29/ARstorLD-quirinale_settant_presidenti.shtml" target="">|Quirinale, settant&rsquo;anni di storia: tutti i presidenti in un video|</a>
+
+</b>
+</p><p><b>Gli aggiornamenti</b>
+</p><p><b>ore 16.31: </b>Assemblea congiunta questa sera dei parlamentari M5s. La riunione &egrave; stata convocata alle 21 per decidere come procedere per il quarto scrutinio.</p><p><b>ore 16.05:</b> &laquo;Stiamo lavorando, siamo molto determinati a raggiungere l&rsquo;obiettivo. Non abbiamo nessuna preoccupazione particolare&raquo;. Cos&igrave; il capogruppo Pd, Roberto Speranza, al termine dell&rsquo;incontro con il premier Matteo Renzi e vicesegretari del Pd, Lorenzo Guerini e Deborah Serracchiani.  Quanto alle decisioni di Ncd, sostiene Speranza, &laquo;rispettiamo il dibattito in corso e torniamo a sostenere che Mattarela lo possono votare tutti&raquo;.</p><p><b>ore 15.55: </b>&laquo;Per me domani non dovremmo partecipare al voto, per evitare che alcuni dei nostri facciano i &ldquo;franchi soccorritori&rdquo;, ossia che soccorrano il candidato della sinistra perch&eacute; ce l&rsquo;hanno con Berlusconi&raquo;. Cos&igrave; Maurizio Gasparri, senatore Pdl.</p><p><b>ore 15.53:</b> &laquo;Il MoVimento 5 Stelle, contrariamente alle voci fatte circolare artatamente dai partiti per scombinare le carte, non sta votando Sergio Mattarella alla terza chiama&raquo;. Lo precisano i gruppi parlamentari di Camera e Senato del M5S. &laquo;Il Movimento 5 Stelle si riserva di valutare se, dal quarto scrutinio in poi, sottoporre alla Rete una votazione lampo&raquo; concludono.</p><p><b>ore 15.47:</b> &laquo;Se fossi in Parlamento voterei Mattarella come presidente della Repubblica&raquo;. Lo afferma il leader della Fiom-Cgil, Maurizio Landini, interpellato telefonicamente: &laquo;Considero che sia la figura adatta, con l&rsquo;autonomia necessaria per far applicare e far rispettare i principi della nostra Costituzione. E in pi&ugrave; - prosegue Landini - in un momento di distacco e di sfiducia delle persone dalla politica, considero l&rsquo;etica e la moralit&agrave; con cui Mattarella ha fatto politica un punto e una qualit&agrave; molto importanti&raquo;.</p><p><b>ore 15.37: </b>Sergio Mattarella &laquo;&egrave; un ottimo nome, &egrave; sbagliato il modo con cui ci si &egrave; arrivati e l&rsquo;elezione del presidente della Repubblica &egrave; innanzitutto una questione di metodo&raquo;. Lo afferma il deputato Ap, Giuseppe De Mita, interpellato sulla linea che i centristi adotteranno sulla candidatura di Mattarella al Colle. &laquo;Ora per&ograve; bisogna pensarci bene, e soprattutto il Pd deve pensarci, perch&eacute; un ottimo nome accompagnato da un metodo giusto mi sembra sia la migliore via d&rsquo;uscita&raquo;, aggiunge l&rsquo;esponente centrista.</p><p><b>ore 15.36:</b> &laquo;Sergio Mattarella rappresenta una scelta di compromesso del presidente del Consiglio con la sinistra del suo schieramento. Si poteva sperare in una figura con maggior consenso da parte del popolo italiano, una figura di vero cambiamento che rappresentasse qualcosa di nuovo. Credo che rimpiangeremo a lungo il presidente Napolitano&raquo;. Questo il commento del Sindaco di Verona Flavio Tosi sulle votazioni in corso per l&rsquo;elezione del Presidente della Repubblica. &laquo;Non so - ha aggiunto Tosi - se il presidente Renzi abbia davvero rotto il patto del Nazareno con Berlusconi o se ci sia qualche altra contropartita, questo lo vedremo in futuro&raquo;.</p><p><b>0re 15.19: </b>&Egrave;&ensp;cominciata la terza votazione, segreta e per schede. La chiama inizia dai senatori, cui seguiranno i deputati ed i delegati regionali. Ciascun grande elettore, chiamato da un deputato segretario, riceve una scheda e la matita dal commesso, entra in una delle cabine allestite tra il banco della presidenza e quello del governo, e dopo aver espresso il voto la deposita in una delle tre urne.  Lo spoglio sar&agrave; pubblico alla fine della votazione.</p><p><b>ore 15.14: </b>&laquo;Come ho detto ieri non ho nulla contro Mattarella, ma non &egrave; un nome condiviso, Renzi ha sbagliato il metodo per cui politicamente non si pu&ograve; appoggiare questa candidatura&raquo;. A ribadirlo &egrave; Silvio Berlusconi in collegamento telefonico con i vertici azzurri di Camera e Senato riuniti a Montecitorio. L&rsquo;ex capo del governo, a quanto raccontano alcuni presenti, avrebbe espresso ancora una volta l&rsquo;indicazione di votare scheda bianca (sarebbe considerato comunque un gesto di rispetto) ma l&rsquo;invito rivolto dallo stato maggiore azzurro &egrave; quello di considerare altre soluzioni, una fra tutte quelle di non prendere parte alla votazione. Presidente, &egrave; stato il ragionamento fatto dai vertici Fi, con la scheda bianca diamo la possibilit&agrave; ai fittiani e a tutti quelli che vogliono metterti in difficolt&agrave; di votare Mattarella per dimostrare che non hai pi&ugrave; il controllo del partito. Una considerazione questa che avrebbe quindi portato il Cavaliere a delegare i vertici su quale sia &laquo;tecnicamente&raquo; la strada migliore da percorrere. La decisione sar&agrave; presa in una nuova riunione in programma questa sera dopo il terzo scrutinio. Per ora dunque l&rsquo;ex capo del governo prendere tempo, valutiamo bene cosa fare, avrebbe detto ai suoi dirigenti. Dentro Fi le voci gli scenari si moltiplicano e c&rsquo;&egrave; chi pensa che alla fine l&rsquo;ex premier possa cambiare totalmente le carte in tavola e magari dare il via libera ad appoggiare la candidatura proposta da Renzi.</p><p><span style="font-weight: bold;font-style: normal;">Ore 15: Il blog di Grillo: Mattarella ment&igrave; sull&rsquo;Uranio impoverito</span>
+<br/>Il blog di Beppe Grillo pubblica un lungo post, del giornalista <span style="font-weight: bold;font-style: normal;">Lorenzo Sani</span>, in cui si accusa Sergio Mattarella di aver negato, quando era ministro della difesa, la presenza di uranio impoverito nei proiettili usati dalla Nato in Kosovo e nei Balcani.  &laquo;Ho avuto occasione di incontrare il candidato di Renzi al Quirinale, Sergio Mattarella - si legge nel post di Sani - quando questi era ministro della Difesa del governo Amato. Lavoravo da qualche mese sulla vicenda dell&rsquo;uranio Impoverito e sull&rsquo;impressionante numero di leucemie linfoblastiche acute e linfomi tra i nostri militari che erano o erano stati in missione nei Balcani, soprattutto in Bosnia, ma non solo. Sergio Mattarella neg&ograve; a pi&ugrave; riprese il possibile nesso tra l&rsquo;insorgere delle patologie e il servizio. Neg&ograve; che la Nato avesse mai utilizzato proiettili all&rsquo;uranio impoverito (DU, Depleted Uranium), tantomeno che questo fosse contenuto nei Tomahawk (missili) sparati in zona di guerra dalle navi Usa in Adriatico&raquo;.  &laquo;Insomma, Mattarella, candidato di Renzi al Quirinale, - prosegue - neg&ograve; su tutta la linea. Neg&ograve; pure ci&ograve; che era possibile reperire nei primi giorni di internet sugli stessi siti della Difesa Usa, che magnificava l&rsquo;efficacia degli armamenti al DU e dettava, contestualmente, le precauzioni sanitarie da adottare in caso di bonifica: protocolli di sicurezza molto rigidi, che prevedevano l&rsquo;utilizzo di tute, guanti e maschere protettive, per svolgere il lavoro che invece a mani nude e senza protezioni facevano i nostri soldati. I quali, nel frattempo, continuavano ad ammalarsi e morire...&raquo;. Il 27 gennaio 2001, racconta infine Sani, &laquo;avvicinai Mattarella nella ressa dei giornalisti e riuscii a porgli un paio di domande, alle quali, assai piccato, si rifiut&ograve; ancora una volta di rispondere. O meglio, anche in quell&rsquo;occasione neg&ograve; qualsiasi nesso tra DU e i linfomi o le leucemie. Fantasie della stampa. Provai a insistere, ma lui mi respinse con toni e modi definitivi&raquo;. &laquo;Mattarella gir&ograve; i tacchi se ne and&ograve; - conclude Sani - cos&igrave; mi beccai anche il rimprovero dei colleghi perch&eacute; avevo fatto scappare il ministro con domande `fuori tema&acute;&raquo;.</p><p><b>Ore 14.38: </b>&laquo;Anche oggi abbiamo votato Stefano Rodot&agrave;. La nostra &egrave; una scelta convinta&raquo;. Lo dichiara in una nota il coordinamento dei senatori ex M5s. &laquo;Il nome di Rodot&agrave; per noi &egrave; la dimostrazione di una linea coerente che risale alle prime quirinarie veramente libere del Movimento. Ogni illazione sul nostro conto - conclude la nota - &egrave; maldicenza strumentale. La verit&agrave; &egrave; una sola: le nostre azioni, ieri come oggi, sono ispirate al bene del Paese e non a giochetti di posizionamento o di potere&raquo;.</p><p><b>Ore 14.12:</b> Matteo Renzi riunisce alla Camera la delegazione Pd incaricata di seguire la partita del Quirinale. Alla spicciolata, nella sala del governo attigua all&rsquo;Aula di Montecitorio, sono giunti i vicesegretari Lorenzo Guerini e Debora Serracchiani, i capigruppo Roberto Speranza e Luigi Zanda e il presidente Matteo Orfini. Secondo quanto si apprende, la riunione serve a fare un punto sull&rsquo;andamento delle votazioni, in vista del quarto scrutinio di domani, quando il Pd voter&agrave; Sergio Mattarella.</p><p><b>Ore 13.55:</b> In contemporanea con la riunione dello stato maggiore di Forza Italia a Montecitorio, si &egrave; conclusa anche la riunione della fronda azzurra guidata da Raffaele Fitto. All&rsquo;incontro con l&rsquo;eurodeputato erano presenti 38 grandi elettori azzurri.</p><p><b>Ore 13.53:</b> La riunione del vertice di Forza Italia che si &egrave; tenuta alla Camera si &egrave; conclusa con l&rsquo;orientamento di non prendere parte alla quarta votazione per l&rsquo;elezione del presidente della Repubblica. Una nuova riunione si terr&agrave; dopo il terzo scrutinio e nel corso della giornata proseguiranno anche i contatti con la delegazione di Ncd.</p><p><b>Ore 13.29:</b> &laquo;Leggo dalle agenzie di una fantomatica riunione dei cosiddetti &ldquo;uffici di presidenza&rdquo; dei gruppi parlamentari di Senato e Camera. &Egrave; una ottima iniziativa solo se &egrave; un preannuncio di dimissioni e azzeramento. In caso contrario, &egrave; una ennesima riunione autoreferenziale e priva di legittimazione&raquo;. Lo afferma in una nota Raffaele Fitto. </p><p><b>Ore 13.18:</b> Ecco il risultato della seconda votazione per l&rsquo;elezione del presidente della Repubblica:  Presenti e votanti: 953 Maggioranza: 673  <br/>Imposimato 123 <br/>Feltri, 51 <br/>Castellina, 34 <br/>Bonino, 23 <br/>Rodot&agrave;, 22 <br/>Sabelli, 14 <br/>Gualdani, 10 <br/>Pagano, 7 <br/>Versace, 6 <br/>Prodi, 5 <br/>Severino, 5 <br/>Mattarella, 4 <br/>Razzi, 4 <br/>Sangalli, 4 <br/>Greggio, 3 <br/>Guerra, 3 <br/>Messina, 3 <br/>Barani, 3 <br/>Bersani, 2 <br/>Cimmino, 2 <br/>Finocchiaro, 2 <br/>Frattini, 2 <br/>Marinetti, 2 <br/>Scognamiglio, 2.  <br/>Voti dispersi, 143 Schede bianche, 531 Schede nulle, 26.</p><p><b>Ore 13.14:</b> Fumata nera nella prima votazione del Parlamento in seduta comune per eleggere il nuovo presidente della Repubblica. Al termine dello spoglio, la presidente Boldrini annuncia che si torner&agrave; a votare alle 15.</p><p><b>Ore 12.49:</b> &laquo;Spiace che Brunetta evochi le elezioni anticipate. Ma il buon Brunetta si metta il cuore in pace. Voteremo nel 2018, dopo aver fatto le riforme. Noi vogliamo farle insieme a Forza Italia, ma se Brunetta non vuole e Berlusconi seguir&agrave; il suo capogruppo alla Camera, le faremo senza Forza Italia&raquo;. Cos&igrave; il sottosegretario Luca Lotti.</p><p><b>Ore 12.33:</b> Se il capo dello Stato sar&agrave; eletto, cos&igrave; come ci si aspetta, al quarto scrutinio, il nuovo Presidente della Repubblica Sergio Mattarella potrebbe giurare, secondo quanto si apprende, davanti al Parlamento riunito in seduta comune gi&agrave; nella mattinata di luned&igrave;. La decisione ufficiale spetta comunque al nuovo inquilino del Quirinale e non &egrave; escluso che il giuramento possa essere rinviato a marted&igrave;. Dal momento che le Camere saranno impegnate fino al primo pomeriggio di sabato, infatti, pi&ugrave; di qualche parlamentare preferirebbe avere almeno 48 ore di tempo prima di dover tornare a Roma.</p><p><b>Ore 12.25: </b>fumata nera, nessun candidato sopra il quorum. Spoglio ancora in corso, nessuno pu&ograve; pi&ugrave; raggiungere i 673 voti.</p><p><b>Ore 12.17: </b>&laquo;Mi auguro ci sia la possibilit&agrave; di ricucire i rapporti con Forza Italia, forse gi&agrave; sabato in aula&raquo;, ma comunque &laquo;avremo modo di ricucire, c&rsquo;&egrave; tanto lavoro da fare&raquo;. Lo ha detto il ministro per le Riforme, Maria Elena Boschi, parlando con i giornalisti alla Camera.</p><p><b>Ore 11.29:</b>  acque agitate dentro Forza Italia in vista del voto di domani che sulla carta porterebbe all&rsquo;elezione di Sergio Mattarella alla presidenza della Repubblica. L&rsquo;idea di votare scheda bianca come deciso ieri da Berlusconi con il suo partito inizia a creare molti dubbi all&rsquo;interno del partito e ad alimentare i sospetti che poi nel segreto dell&rsquo;urna l&rsquo;ordine di scuderia non venga rispettato. Ecco perch&eacute; in queste ore si sono intensificati i contatti tra l&rsquo;ex premier, rientrato ad Arcore ieri, e i fedelissimi azzurri per ipotizzare un Piano B e cio&egrave; la non partecipazione al voto.</p><p>L&rsquo;ipotesi sar&agrave; discussa nella riunione di tutto lo stato maggiore azzurro in contatto permanente con i vertici di Ncd. Anche all&rsquo;interno del Ncd le frizioni sarebbero notevoli, soprattutto di chi giudica negativo non votare Mattarella e rompere il patto con Renzi. La situazione &egrave; in evoluzione, spiegano in Forza Italia, e non si esclude nemmeno un eventuale colpo di scena da parte del Cavaliere che alla fine potrebbe chiedere ai suoi di appoggiare il candidato di Renzi.<b></b>
+</p><p><b>Ore 9.59</b>:  anche oggi grande accoglienza a Napolitano. Il presidente emerito della Repubblica &egrave; stato tra i primi a presentarsi al voto per l&rsquo;elezione del nuovo capo dello Stato. Dopo aver deposto la scheda nell&rsquo;urna &egrave; stato attorniato da parlamentari. Una di loro gli ha anche chiesto di apporre una firma su un foglio: cosa che Napolitano ha fatto appoggiandosi al banco degli stenografi, visibilmente sorpresi dall&rsquo;&laquo;ospite illustre&raquo;, al centro dell&rsquo;Emiciclo. Poco dopo, Napolitano &egrave; salito al banco della presidenza dove si trovavano la presidente Laura Boldrini e la vicepresidente del Senato Valeria Sereni: appoggiandosi con le braccia alle poltrone delle presidenti, con le due si &egrave; intrattenuto in una conversazione durata cinque minuti al termine della quale, dopo una stretta di mano, si &egrave; avviato verso l&rsquo;uscita dell&rsquo;Aula</p><p><b>Ore 9.40</b>: al via nell&rsquo;Aula della Camera la seconda votazione per eleggere il presidente della Repubblica. Il quorum richiesto per le prime tre votazioni &egrave; di 673 voti. Ove, come prevedibile, non venga raggiunto, ci sar&agrave; una nuova votazione alle 15:30. </p><p>La votazione &egrave; segreta e per schede. La chiama inizia dai senatori, cui seguiranno i deputati ed i delegati regionali. Ciascun grande elettore, chiamato da un deputato segretario, riceve una scheda e la matita dal commesso, entra in una delle cabine allestite tra il banco della presidenza e quello del governo, e dopo aver espresso il voto la deposita in una delle tre urne.  Lo spoglio sar&agrave; pubblico alla fine della votazione.</p><p></p><p><b>Berlusconi e il Patto de Nazareno che non c&rsquo;&egrave; pi&ugrave;</b>
+</p><p><b>L</b>
+<b>o strappo col Patto del Nazareno </b>c&rsquo;&egrave; stato e si &egrave; consumato in un attimo. Pochi minuti prima della 14, Matteo Renzi ha comunicato all&rsquo;assemblea dei gradi elettori Pd che sarebbe stato Sergio Mattarella il candidato dem per il Colle. Alle 14.11 &egrave; arrivata la prima dichiarazione del capogruppo di Fi al Senato, Paolo Romani: &laquo;<b>Forzatura unilaterale, noi non lo votiamo</b>&raquo;. &Egrave; saltata cos&igrave;, a pochi metri dal traguardo, la possibilit&agrave; di una scelta condivisa per l&rsquo;elezione del successore di Giorgio Napolitano. </p><p>Una decisione, quella di Renzi, che da un lato &egrave; servita a ricompattare tutto il Pd sul nome di Mattarella ma che dall&rsquo;altra <b>rischia di mettere in serio pericolo </b>il percorso delle riforme. Se non &egrave; una pietra tombale sul patto del Nazareno, poco ci manca. Anche perch&eacute; <b>Silvio Berlusconi</b>, che <b>si sente &laquo;tradito&raquo;</b> dalla scelta del premier, ha gi&agrave; messo le cose in chiaro: &laquo;Quanto successo per la scelta del nuovo presidente della Repubblica rappresenta un altol&agrave; al patto siglato con Renzi&raquo;.  </p><p><i><b>Renzi: &laquo;Propongo il nome di Sergio Mattarella per  il Colle&raquo;</b>
+</i>
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td align="center"><object width="425" height="350px"><param name="movie" value="http://www.youtube.com/v/kbjxn_IJuNM"><param value="transparent" name="wmode"><embed width="425" height="350" src="http://www.youtube.com/v/kbjxn_IJuNM" type="application/x-shockwave-flash" wmode="transparent"></embed></object></td></tr></table>
+</p><p>La road map indicata dal premier &egrave; chiara: per il Pd scheda bianca nelle prime tre &ldquo;chiame&rdquo; per poi passare al voto per Mattarella dalla quarta, quando il <b>quorum scender&agrave; da 637 a 505</b>. La linea indicata da Renzi &egrave; stata poi ampiamente attuata durante la prima votazione che si &egrave; svolta ieri pomeriggio. <b>Fumata nera</b>, come ampiamente prevedibile, anche in virt&ugrave; della scelta di Fi e Area popolare (Udc+Ndc) di votare in massa scheda bianca. </p><p><i><b>M5S ed ex fotografano e twittano il voto</b>
+</i>
+<table width="1%" cellspacing="0" cellpadding="0" border="0" style="margin: 15px auto;"><tr><td><img src="/r/IlSecoloXIXWEB/italia/foto_trattate/2015/01/29/bencinifoto-U200433593701hwE--499x285@IlSecoloXIXWEB.JPG" width="499" height="285" align="center"></img></td></tr><tr><td>il voto di Alessandra Bencini</td></tr></table>
+</p><p>E cos&igrave;, oltre alle 538 schede bianca, da segnalare il<b> voto del M5S</b> che, in maniera compatta, ha votato <b>Ferdinando Imposimato</b> (120 voti), il candidato che ha vinto le &ldquo;quirinarie&rdquo; lampo che si sono svolte ieri mattina. Tra i candidati di bandiera, ha preso voti (49) anche <b>Vittorio Feltri </b>sostenuto da Lega e Fratelli d&rsquo;Italia. </p><p><i><b>Nel video, il deputato M5S Di Stefano che fa una sorta di servizio giornalistico filmando tutto: </b>
+</i>
+</p><p><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td align="center"><object width="425" height="350px"><param name="movie" value="http://www.youtube.com/v/pCuW6hIJk4w"><param value="transparent" name="wmode"><embed width="425" height="350" src="http://www.youtube.com/v/pCuW6hIJk4w" type="application/x-shockwave-flash" wmode="transparent"></embed></object></td></tr></table>
+</p><p><i><b></b>
+</i>
+</p><p>Le prossime due votazioni, per le quali &egrave; sempre necessario il quorum di 637, si svolgeranno oggi mentre da sabato mattina serviranno &ldquo;solo&rdquo; 505 voti. Se sar&agrave; il giorno giusto, come indicato da Renzi, lo si capir&agrave; anche da cosa accadr&agrave; oggi. </p><p>
+</p><!-- PER INFOGRAFICHE (TMP) -->
+
+<!-- Renzi -->
+
+<!-- TVOI -->
+
+<!-- MONDIALI - TIMOSSI -->
+
+<p class="riproduzione-riservata">&copy; Riproduzione riservata</p>
+
+		<!-- </EdIndex> -->
+		<!-- FINE TESTO ARTICOLO -->
+
+		<!-- INIZIO MAPPA ARTICOLO -->
+		<!-- FINE MAPPA ARTICOLO -->
+
+		<!-- INIZIO ADSENSE -->
+		<div class="adsense pushup">
+	<script type="text/javascript">
+	/* CSI Fondo Articolo */
+	  google_ad_client =  'ca-pub-5887328259901759';
+	  google_ad_channel =  '7090516349';
+	  google_ad_width =  600;
+	  google_ad_height =  110;
+	  google_ad_type =  'text';
+	  google_font_face =  'arial';
+	  google_color_link =  '#004070';
+	  google_color_url =  '#353535';
+	  google_color_url =  '#353535';
+	  google_language =  'it';
+	</script>
+	<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+<!-- FINE ADSENSE -->
+
+		<!-- INIZIO ALTRI SEZIONE -->
+
+		<!-- INIZIO eDintorni -->
+		<!-- EDINTORNI RELATED -->
+<div id="ed_Related_Box"></div>
+<script type="text/javascript" language="JavaScript">
+
+	//Start section to modify
+	var ed_Related_Result_Number 					= 8; 											//Define the max number of result : 0 = All result
+	var ed_Related_Result_Lenght 					= 80; 											//Define the max title lenght
+	var ed_Related_Sponsor_Position					= 0;											//Define the sponsor position : 0 = random position
+
+	var ed_Related_Box_Width 						= 675;											//Define the box width
+	var ed_Related_Box_Margin_Top 					= 12;
+	var ed_Related_Box_Overflow 					= "hidden";
+	var ed_Related_Box_Font_Family 					= 'Georgia, "Times New Roman", Times, serif';
+	var ed_Related_Box_Font_Size 					= 12;
+	var ed_Related_Box_Font_Weight 					= "normal";
+
+	var ed_Related_Title_Box						= "Articoli che potrebbero interessarti"; 		//Define the title box
+	var ed_Related_Title_Background_Color 			= "#003366";
+	var ed_Related_Title_Color 						= "#ffffff";
+	var ed_Related_Title_Font_Family 				= "'Gotham Condensed', Arial, sans-serif";
+	var ed_Related_Title_Font_Size 					= 24;
+	var ed_Related_Title_Font_Weight 				= "bold";
+	var ed_Related_Title_Height 					= 20;
+	var ed_Related_Title_Margin 					= "0 0 6px 0";
+	var ed_Related_Title_Padding					= "7px 0 5px 10px";
+	var ed_Related_Title_Text_Transform 			= "uppercase";
+
+	var	ed_Related_Result_Border_Width 				= 1;
+	var	ed_Related_Result_Float 					= "left";
+	var	ed_Related_Result_Margin 					= 6;
+	var	ed_Related_Result_Overflow 					= "hidden";
+	var	ed_Related_Result_Padding 					= 6;
+	var	ed_Related_Result_Width 					= 140;
+	var ed_Related_Result_Height					= 190;
+
+	var	ed_Related_Link_Border_Width 				= 0;
+    var	ed_Related_Link_Margin						= 0;
+	var	ed_Related_Link_Padding						= 5;
+	var	ed_Related_Link_Color						= "#000000";
+	var	ed_Related_Link_Text_Decoration 			= "none";
+
+	var ed_Related_Record_Div_Img_BackgroundColor 	= "#efefef";
+	var ed_Related_Record_Div_Img_BorderWidth 		= 0;
+	var ed_Related_Record_Div_Img_Overflow 			= "hidden";
+	var ed_Related_Record_Div_Img_Padding 			= "0";
+	var ed_Related_Record_Div_Img_Margin 			= "0";
+	var ed_Related_Record_Div_Img_Width 			= 140;
+	var ed_Related_Record_Div_Img_Height 			= 92;
+	var ed_Related_Record_Div_Img_Default 			= "http://www.ilsecoloxix.it/rw/SysConfig/WebPortal/ilsecoloxix/images/template/logo_large.jpg?v=123";
+
+	var	ed_Related_Text_Link_Font_Family  			= 'Georgia, "Times New Roman", Times, serif';	//Define the link font family
+	var ed_Related_Text_Link_Font_Size				= 14;											//Define the link font size
+	var ed_Related_Text_Link_Color					= "#353535";									//Define the link color
+	var ed_Related_Text_Link_Decoration				= "none";										//Define the link decoration: none = nothing decoration
+	var ed_Related_Text_Link_Weight    				= "normal";										//Define the link font weight: bold or normal
+
+	var ed_Related_Record_Content_Border_Width 		= 0;
+	var ed_Related_Record_Content_Margin 			= 0;
+	var ed_Related_Record_Content_Width 			= ed_Related_Record_Div_Img_Width;
+
+	var ed_Related_Link_Sponsor_Weight    			= "bold";								//Define the Sponsor font weight: bold or normal
+	var ed_Related_Link_Sponsor_Background_Color	= "#ffffff";
+	var ed_Related_Link_Sponsor_Font_Size			= 11;									//Define the image sponsor size
+	var ed_Related_Link_Sponsor_Font_Family  		= "Arial";
+	var ed_Related_ThumbImg_Dimension_Sponsor 		= 90;
+
+	//End section to modify
+
+	function ed_Related_Box_Image()
+	{
+
+		if(ed_Related_Sponsor_Position == 0){
+			ed_Related_Sponsor_Position = parseInt(Math.random() * ed_Related_Result_Number) + 1;
+		}
+
+		var ed_Related_Record_Sponsor = eDintorniRelated["Link"]["Record"][0]; //salvo il nodo sponsor se alla prima posizione
+		try
+		{
+			if(ed_Related_Record_Sponsor["Sponsor"] != "1"){
+				ed_Related_Record_Sponsor = eDintorniRelated["Link"]["Record"][1]; //salvo il nodo sponsor se e alla seconda posizione
+				if(ed_Related_Record_Sponsor["Sponsor"] == "1"){ //controllo se sono presenti sponsor
+					eDintorniRelated.Link.Record.splice(1,1); //rimuovo il secondo nodo sponsor
+					eDintorniRelated.Link.Record.splice((ed_Related_Sponsor_Position - 1), 0, ed_Related_Record_Sponsor);
+				}
+			}else{
+				if(ed_Related_Record_Sponsor["Sponsor"] == "1"){
+					eDintorniRelated.Link.Record.splice(0,1); //rimuovo il primo nodo sponsor
+					eDintorniRelated.Link.Record.splice(ed_Related_Sponsor_Position, 0, ed_Related_Record_Sponsor);
+				}
+			}
+		} catch(e) {
+		 //
+		}
+
+
+		if ((eDintorniRelated["Link"]["Record"].length >= ed_Related_Result_Number) && (ed_Related_Result_Number != 0)) {
+			ed_Related_Counter = ed_Related_Result_Number ;
+		}
+		else{
+			ed_Related_Counter = eDintorniRelated["Link"]["Record"].length;
+		}
+
+		ed_Related_Div = document.getElementById("ed_Related_Box");
+		ed_Related_Div.style.width			= ed_Related_Box_Width + "px";
+		ed_Related_Div.style.marginTop 		= ed_Related_Box_Margin_Top + "px";
+        ed_Related_Div.style.overflow 		= ed_Related_Box_Overflow;
+		ed_Related_Div.style.fontFamily 	= ed_Related_Box_Font_Family;
+        ed_Related_Div.style.fontSize 		= ed_Related_Box_Font_Size + "px";
+        ed_Related_Div.style.fontWeight 	= ed_Related_Box_Font_Weight;
+
+		for (ed_Related_I = 0; ed_Related_I < ed_Related_Counter; ed_Related_I++)
+		{
+			if (ed_Related_I == 0)
+			{
+				ed_Related_Title_Box_Div = document.createElement("div");
+				ed_Related_Title_Box_Div.style.backgroundColor			= ed_Related_Title_Background_Color;
+				ed_Related_Title_Box_Div.style.color					= ed_Related_Title_Color;
+				ed_Related_Title_Box_Div.style.fontFamily				= ed_Related_Title_Font_Family;
+				ed_Related_Title_Box_Div.style.fontSize					= ed_Related_Title_Font_Size + "px";
+				ed_Related_Title_Box_Div.style.fontWeight				= ed_Related_Title_Font_Weight;
+				ed_Related_Title_Box_Div.style.height					= ed_Related_Title_Height + "px";
+				ed_Related_Title_Box_Div.style.margin					= ed_Related_Title_Margin;
+				ed_Related_Title_Box_Div.style.padding					= ed_Related_Title_Padding;
+				ed_Related_Title_Box_Div.style.border					= "0";
+				ed_Related_Title_Box_Div.style.textTransform			= ed_Related_Title_Text_Transform;
+
+				ed_Related_TitleBox = document.createTextNode(ed_Related_Title_Box);
+				ed_Related_Title_Box_Div.appendChild(ed_Related_TitleBox);
+				ed_Related_Div.appendChild(ed_Related_Title_Box_Div);
+			}
+
+			ed_Related_Record = eDintorniRelated["Link"]["Record"][ed_Related_I];
+
+			if (ed_Related_Record["Sponsor"] == 0){
+
+				//Creo div contenente il singolo Result Record
+				ed_Related_Result_Record_Div = document.createElement("div");
+				ed_Related_Result_Record_Div.style.borderWidth 				= ed_Related_Result_Border_Width + "px";
+				ed_Related_Result_Record_Div.style.cssFloat					= ed_Related_Result_Float;
+				ed_Related_Result_Record_Div.style.styleFloat 				= ed_Related_Result_Float;
+				ed_Related_Result_Record_Div.style.margin 					= ed_Related_Result_Margin + "px";
+				ed_Related_Result_Record_Div.style.marginRight 				= "10px";
+				ed_Related_Result_Record_Div.style.overflow 				= ed_Related_Result_Overflow;
+				ed_Related_Result_Record_Div.style.padding 					= ed_Related_Result_Padding + "px";
+				ed_Related_Result_Record_Div.style.width 					= ed_Related_Result_Width + "px";
+				ed_Related_Result_Record_Div.style.height 					= ed_Related_Result_Height + "px";
+
+				//Creo il link per il record
+				ed_Related_Link_Record = document.createElement("a");
+				ed_Related_Link_Record.style.borderWidth				= ed_Related_Link_Border_Width + "px";
+				ed_Related_Link_Record.style.margin						= ed_Related_Link_Margin;
+				ed_Related_Link_Record.style.padding					= "0";
+				ed_Related_Link_Record.style.color						= ed_Related_Link_Color;
+				ed_Related_Link_Record.style.textDecoration				= ed_Related_Link_Text_Decoration;
+				ed_Related_Link_Record.href								= ed_Related_Record["Url"];
+
+				//Creo div per contenere immagine
+				ed_Related_Record_Img = document.createElement("img");
+				ed_Related_Record_Img.style.backgroundColor 		= ed_Related_Record_Div_Img_BackgroundColor;
+				ed_Related_Record_Img.style.borderWidth 			= ed_Related_Record_Div_Img_BorderWidth + "px";
+				ed_Related_Record_Img.style.padding					= ed_Related_Record_Div_Img_Padding + "px";
+				ed_Related_Record_Img.style.margin 					= ed_Related_Record_Div_Img_Margin;
+				ed_Related_Record_Img.style.width					= ed_Related_Record_Div_Img_Width + "px";
+				//ed_Related_Record_Div_Img.style.height			= ed_Related_Record_Div_Img_Height + "px";
+				ed_Related_Record_Img.style.height					= "auto";
+
+				ed_Related_Record_Img.onmouseover = function() {
+					this.style.opacity = "1";
+				};
+
+				ed_Related_Record_Img.onmouseout = function() {
+					this.style.opacity = "1";
+				};
+
+				if (ed_Related_Record["Image"] != null && ed_Related_Record["Image"] != ""){
+					ed_Related_Record_Img.src = ed_Related_Record["Image"];
+					ed_Related_Record_Img.setAttribute("title", ed_Related_Record["Title"]);
+				} else {
+					ed_Related_Record_Img.src = ed_Related_Record_Div_Img_Default;
+				}
+
+				//Creo div contenente il singolo Record
+				ed_Related_Record_Content = document.createElement("div");
+				ed_Related_Record_Content.style.borderWidth 		= ed_Related_Record_Content_Border_Width;
+				ed_Related_Record_Content.style.margin 				= ed_Related_Record_Content_Margin;
+				ed_Related_Record_Content.style.width 				= (ed_Related_Record_Content_Width - ed_Related_Link_Padding) + "px";
+				ed_Related_Record_Content.style.paddingRight		= ed_Related_Link_Padding + "px";
+
+				//Creo Link del Titolo senza sponsor
+				ed_Related_Record_Link = document.createElement("a");
+				ed_Related_Record_Link.style.fontFamily				= ed_Related_Text_Link_Font_Family;
+				ed_Related_Record_Link.style.fontSize				= ed_Related_Text_Link_Font_Size + "px";
+				ed_Related_Record_Link.style.fontWeight				= ed_Related_Text_Link_Weight;
+				ed_Related_Record_Link.style.color					= ed_Related_Text_Link_Color;
+				ed_Related_Record_Link.style.textDecoration			= ed_Related_Text_Link_Decoration;
+				ed_Related_Record_Link.style.clear					= "none";
+				ed_Related_Record_Link.style.display				= "inline";
+				ed_Related_Record_Link.style.border					= "0";
+				ed_Related_Record_Link.style.padding				= "0";
+				ed_Related_Record_Link.style.margin					= "0";
+
+				ed_Related_Record_Link.onmouseover = function() {
+					this.style.color = "#353535";
+					this.style.textDecoration = "underline";
+				};
+
+				ed_Related_Record_Link.onmouseout = function() {
+					this.style.color = "#353535";
+					this.style.textDecoration = "none";
+				};
+
+				if (ed_Related_Record["Title"].length > ed_Related_Result_Lenght){
+					ed_Related_Record_Link.setAttribute("title", ed_Related_Record["Title"]);
+					ed_Related_Record_Title = ed_Related_Record["Title"].substring(0,ed_Related_Result_Lenght) + "...";
+				}
+				else{
+					ed_Related_Record_Title = ed_Related_Record["Title"];
+				}
+
+				ed_Related_Record_Link.href							= ed_Related_Record["Url"];
+				ed_Related_Record_Link.innerHTML					= ed_Related_Record_Title;
+
+				//Creo div Container per le immagini
+				ed_Related_Container_Img_Div = document.createElement("div");
+				ed_Related_Container_Img_Div.style.display				= "block";
+				ed_Related_Container_Img_Div.style.width				= ed_Related_Record_Div_Img_Width + "px";
+				ed_Related_Container_Img_Div.style.height				= ed_Related_Record_Div_Img_Height + "px";
+				ed_Related_Container_Img_Div.style.marginBottom			= "9px";
+				ed_Related_Container_Img_Div.style.overflow				= "hidden";
+				ed_Related_Container_Img_Div.style.backgroundColor		= "#ffffff";
+
+				//Appendo i nodi creati
+				ed_Related_Container_Img_Div.appendChild(ed_Related_Record_Img);
+				ed_Related_Link_Record.appendChild(ed_Related_Container_Img_Div);
+				ed_Related_Result_Record_Div.appendChild(ed_Related_Link_Record);
+				ed_Related_Result_Record_Div.appendChild(ed_Related_Record_Content);
+				ed_Related_Record_Content.appendChild(ed_Related_Record_Link);
+				ed_Related_Div.appendChild(ed_Related_Result_Record_Div);
+			}
+
+			if(ed_Related_Record["Sponsor"] == 1) {
+
+				//Creo div contenente il singolo Result Record
+				ed_Related_Result_Record_Div = document.createElement("div");
+				//ed_Related_Result_Record_Div.style.backgroundColor 		= ed_Related_Link_Sponsor_Background_Color;
+				ed_Related_Result_Record_Div.style.borderWidth 				= ed_Related_Result_Border_Width + "px";
+				ed_Related_Result_Record_Div.style.cssFloat					= ed_Related_Result_Float;
+				ed_Related_Result_Record_Div.style.styleFloat 				= ed_Related_Result_Float;
+				ed_Related_Result_Record_Div.style.margin 					= ed_Related_Result_Margin + "px";
+				ed_Related_Result_Record_Div.style.marginRight 				= "10px";
+				ed_Related_Result_Record_Div.style.overflow 				= ed_Related_Result_Overflow;
+				ed_Related_Result_Record_Div.style.padding 					= ed_Related_Result_Padding + "px";
+				ed_Related_Result_Record_Div.style.width 					= ed_Related_Result_Width + "px";
+				ed_Related_Result_Record_Div.style.height 					= ed_Related_Result_Height + "px";
+
+				//Creo il link per il record
+				ed_Related_Link_Record = document.createElement("a");
+				ed_Related_Link_Record.style.borderWidth				= ed_Related_Link_Border_Width;
+				ed_Related_Link_Record.style.margin						= ed_Related_Link_Margin;
+				ed_Related_Link_Record.style.padding					= "0";
+				ed_Related_Link_Record.style.color						= ed_Related_Link_Color;
+				ed_Related_Link_Record.style.textDecoration				= ed_Related_Link_Text_Decoration;
+				ed_Related_Link_Record.href								= ed_Related_Record_Sponsor["Url"];
+
+				//Creo div Container per le immagini
+				ed_Related_Container_Img_Div = document.createElement("div");
+				ed_Related_Container_Img_Div.style.display				= "block";
+				ed_Related_Container_Img_Div.style.width				= ed_Related_ThumbImg_Dimension_Sponsor  + "px";
+				ed_Related_Container_Img_Div.style.height				= (ed_Related_Record_Div_Img_Height - 2)+ "px";
+				ed_Related_Container_Img_Div.style.marginBottom			= "0px";
+				ed_Related_Container_Img_Div.style.overflow				= "hidden";
+				ed_Related_Container_Img_Div.style.backgroundColor		= ed_Related_Link_Sponsor_Background_Color;
+				ed_Related_Container_Img_Div.style.cssFloat 			= "left";
+				ed_Related_Container_Img_Div.style.styleFloat 			= "left";
+
+				ed_Related_Container_Img_Div.style.borderTop 			= "1px solid #dfdfdf ";
+				ed_Related_Container_Img_Div.style.borderBottom 		= "1px solid #dfdfdf ";
+				ed_Related_Container_Img_Div.style.borderLeft 			= "1px solid #dfdfdf ";
+
+				//Creo div per contenere immagine
+				ed_Related_Record_Img = document.createElement("img");
+				//ed_Related_Record_Img.style.backgroundColor 		= ed_Related_Link_Sponsor_Background_Color;
+				ed_Related_Record_Img.style.borderWidth 			= ed_Related_Record_Div_Img_BorderWidth + "px";
+				ed_Related_Record_Img.style.overflow				= ed_Related_Record_Div_Img_Overflow;
+				ed_Related_Record_Img.style.paddingTop				= "0px";
+				ed_Related_Record_Img.style.paddingLeft				= "0px";
+				ed_Related_Record_Img.style.margin 					= ed_Related_Record_Div_Img_Margin;
+				ed_Related_Record_Img.style.width					= ed_Related_ThumbImg_Dimension_Sponsor + "px";
+				ed_Related_Record_Img.style.height					= ed_Related_ThumbImg_Dimension_Sponsor + "px";
+
+				if (ed_Related_Record_Sponsor["Image"] != null && ed_Related_Record_Sponsor["Image"] != ""){
+					ed_Related_Record_Img.src = ed_Related_Record_Sponsor["Image"];
+					ed_Related_Record_Img.setAttribute("title", ed_Related_Record_Sponsor["Title"]);
+				}
+
+				//Creo div contenente il singolo Record
+				ed_Related_Record_Content = document.createElement("div");
+				//ed_Related_Record_Content.style.backgroundColor 	= "#ff0000";
+				ed_Related_Record_Content.style.borderWidth 		= ed_Related_Record_Content_Border_Width;
+				ed_Related_Record_Content.style.margin 				= ed_Related_Record_Content_Margin;
+				ed_Related_Record_Content.style.width 				= ed_Related_Record_Content_Width + "px";
+				ed_Related_Record_Content.style.height 				= "auto";
+				ed_Related_Record_Content.style.paddingTop			= "9px";
+				ed_Related_Record_Content.style.paddingLeft			= "0px";
+				ed_Related_Record_Content.style.paddingRight		= "0px";
+				ed_Related_Record_Content.style.cssFloat 			= "left";
+				ed_Related_Record_Content.style.styleFloat 			= "left";
+
+				//Creo div Container per le immagini
+				ed_Related_Container_TitleProgram_Div = document.createElement("div");
+				ed_Related_Container_TitleProgram_Div.style.fontFamily			= ed_Related_Link_Sponsor_Font_Family;
+				ed_Related_Container_TitleProgram_Div.style.fontSize			= ed_Related_Link_Sponsor_Font_Size + "px";
+				ed_Related_Container_TitleProgram_Div.style.fontWeight			= "normal";
+				ed_Related_Container_TitleProgram_Div.style.color				= ed_Related_Text_Link_Color;
+				ed_Related_Container_TitleProgram_Div.style.display				= "block";
+				ed_Related_Container_TitleProgram_Div.style.width				= (ed_Related_Record_Content_Width - ed_Related_ThumbImg_Dimension_Sponsor) - 6 + "px"; //6 = 2padleft + 2padRight + 2 border
+				ed_Related_Container_TitleProgram_Div.style.height				= "80px";
+				ed_Related_Container_TitleProgram_Div.style.marginBottom		= "0px";
+				ed_Related_Container_TitleProgram_Div.style.overflow			= "hidden";
+				ed_Related_Container_TitleProgram_Div.style.paddingLeft			= "4px";
+				ed_Related_Container_TitleProgram_Div.style.paddingRight		= "0px";
+				ed_Related_Container_TitleProgram_Div.style.paddingTop			= "10px";
+				ed_Related_Container_TitleProgram_Div.style.backgroundColor		= ed_Related_Link_Sponsor_Background_Color;
+				ed_Related_Container_TitleProgram_Div.innerHTML					= "<font color='ff0000'>Sponsor</font><br><font color='888888'>" + ed_Related_Record_Sponsor["Program"] + "</font>";
+
+				ed_Related_Container_TitleProgram_Div.style.borderTop 			= "1px solid #dfdfdf ";
+				ed_Related_Container_TitleProgram_Div.style.borderBottom 		= "1px solid #dfdfdf ";
+				ed_Related_Container_TitleProgram_Div.style.borderRight 		= "1px solid #dfdfdf ";
+
+				//Creo div Program Sponsor
+				ed_Related_Record_LinkProgram = document.createElement("a");
+				ed_Related_Record_LinkProgram.style.fontFamily		= ed_Related_Text_Link_Font_Family;
+				ed_Related_Record_LinkProgram.style.fontSize		= ed_Related_Text_Link_Font_Size + "px";
+				ed_Related_Record_LinkProgram.style.fontWeight		= ed_Related_Text_Link_Weight;
+				ed_Related_Record_LinkProgram.style.color			= ed_Related_Text_Link_Color;
+				ed_Related_Record_LinkProgram.style.textDecoration	= "none";
+				ed_Related_Record_LinkProgram.style.border			= "0";
+				ed_Related_Record_LinkProgram.style.padding			= "0";
+				ed_Related_Record_LinkProgram.style.margin			= "0";
+				ed_Related_Record_LinkProgram.innerHTML				= ed_Related_Record_Sponsor["Title"] ;
+				ed_Related_Record_LinkProgram.href					= ed_Related_Record_Sponsor["Url"];
+
+				ed_Related_Container_Img_Div.appendChild(ed_Related_Record_Img);
+
+				ed_Related_Link_Record.appendChild(ed_Related_Container_Img_Div);
+				ed_Related_Link_Record.appendChild(ed_Related_Container_TitleProgram_Div);
+
+				ed_Related_Record_Content.appendChild(ed_Related_Record_LinkProgram);
+
+				ed_Related_Link_Record.appendChild(ed_Related_Record_Content);
+
+				ed_Related_Result_Record_Div.appendChild(ed_Related_Link_Record);
+
+				//Aggiungo tutto al nodo principale
+				ed_Related_Div.appendChild(ed_Related_Result_Record_Div);
+			}
+		}
+	}
+	ed_Related_Box_Image();
+</script>
+<!-- FINE eDintorni -->
+
+		<!-- REACTIONS -->
+
+		<div class="reactions-title" id="user-anchor">Questa notizia mi lascia</div>
+		<div class="reactions-bar"><div id="reactions-inner"></div></div>
+
+		<!-- COMMENTI -->
+
+		<div id="commenti-articolo">
+
+		<a name="commentilettori"></a>
+<div id="comments-container" style="float:left;min-height:300px;"></div></div>
+
+		<!-- FINE COMMENTI -->
+
+	</div><!-- testo-articolo -->
+</article><!-- left-articolo -->
+<aside id="general-right">
+
+<div class="oas box" id="oas_frame1">
+<script type="text/javascript">
+<!--
+OAS_AD('Frame1');
+//-->
+</script>
+</div><div class="box-right">
+	<h5 id="titolo-ultimora">Ultim'ora</h5>
+
+	<!-- <ul class="tabs ultimora">
+	<li><a href="">Mondo</a></li>
+	<!-- <li><a href="">Liguria</a></li>
+	</ul>-->
+
+	<div class="pane">
+		<div id="ultimora">
+			<div>
+	<span class="orario-news">16:57</span>
+	<a href="/p/cro/2015/01/30/ARykkIMD-maltempo.shtml">
+
+            Maltempo: frane, vento e neve in pianura
+          </a>
+</div>
+<div>
+	<span class="orario-news">16:19</span>
+	<a href="/p/pol/2015/01/30/ARmkkIMD-fake_twitter_mattarellum.shtml">
+
+            E su twitter il fake @mattarellum
+          </a>
+</div>
+<div>
+	<span class="orario-news">15:51</span>
+	<a href="/p/pol/2015/01/30/ARakkIMD-colle.shtml">
+
+            Colle: M5s, non votiamo Mattarella
+          </a>
+</div>
+<div>
+	<span class="orario-news">14:41</span>
+	<a href="/p/pol/2015/01/30/AROkkIMD-votare_orientata_scrutinio.shtml">
+
+            Fi orientata a non votare 4/o scrutinio
+          </a>
+</div>
+<div>
+	<span class="orario-news">12:58</span>
+	<a href="/p/pol/2015/01/30/ARCkkIMD-sinistra_mattarella_ricompone.shtml">
+
+            Civati, Mattarella ricompone c.sinistra
+          </a>
+</div>
+<div>
+	<span class="orario-news">12:54</span>
+	<a href="/p/pol/2015/01/30/AR0jkIMD-lotti_riforme_senza.shtml">
+
+            Lotti, riforme senza Fi, voto nel 2018
+          </a>
+</div>
+<div>
+	<span class="orario-news">12:51</span>
+	<a href="/p/pol/2015/01/30/ARojkIMD-colle.shtml">
+
+            Colle: Pressing Pd su Ncd che è diviso
+          </a>
+</div>
+<div>
+	<span class="orario-news">12:45</span>
+	<a href="/p/pol/2015/01/30/ARcjkIMD-semmai_prodi_mattarella.shtml">
+
+            M5s non vota Mattarella, semmai Prodi
+          </a>
+</div>
+<div>
+	<span class="orario-news">12:42</span>
+	<a href="/p/spr/2015/01/30/ARQjkIMD-vettel.shtml">
+
+            Vettel: "Guidare una Ferrari è speciale"
+          </a>
+</div>
+<div>
+	<span class="orario-news">12:40</span>
+	<a href="/p/pec/2015/01/30/AREjkIMD-sacconi_voteremo_mattarella.shtml">
+
+            Sacconi (Ap), non voteremo Mattarella
+          </a>
+</div>
+<div>
+	<span class="orario-news">12:36</span>
+	<a href="/p/pol/2015/01/30/AR2ikIMD-quirinale.shtml">
+
+            Quirinale: a vuoto seconda votazione
+          </a>
+</div>
+<div>
+	<span class="orario-news">12:31</span>
+	<a href="/p/pol/2015/01/30/ARqikIMD-boschi_rapporti_ricucire.shtml">
+
+            Boschi, spero ricucire rapporti con Fi
+          </a>
+</div>
+<div>
+	<span class="orario-news">12:30</span>
+	<a href="/p/est/2015/01/30/AReikIMD-sinai.shtml">
+
+            Sinai: Jihadisti rivendicano attacco
+          </a>
+</div>
+<div>
+	<span class="orario-news">12:27</span>
+	<a href="/p/cro/2015/01/30/ARSikIMD-eurispes.shtml">
+
+            Eurispes: per 4 su 10 meglio via da euro
+          </a>
+</div>
+<div>
+	<span class="orario-news">12:15</span>
+	<a href="/p/eco/2015/01/30/ARGikIMD-russia_taglia_sorpresa.shtml">
+
+            Russia taglia a sorpresa tassi al 15%
+          </a>
+</div>
+</div>
+	</div>
+
+</div>
+<div class="oas box" id="oas_frame2">
+<script type="text/javascript">
+<!--
+OAS_AD('Frame2');
+//-->
+</script>
+</div><div class="box-right">
+<h5 id="titolo-piuvisti">I preferiti dei lettori</h5>
+
+<ul class="tabs tabs-piuletti">
+	<li><a href="#">Pi&ugrave; letti</a></li>
+	<li><a href="#">Pi&ugrave; visti</a></li>
+	<li><a href="#">Pi&ugrave; commentati</a></li>
+</ul>
+
+	<div class="pane piu-letti"><!--piu letti-->
+
+		<p>
+			<a href="/p/cultura/2015/01/29/ARi0PoLD-morta_autrice_uccelli.shtml"><img src="/rw/IlSecoloXIXWEB/cultura/foto_trattate/2015/01/29/authoeugh-k3qd--390x180@ilsecoloxixweb_71x40.jpg" alt="" />È morta l’autrice di “Uccelli di rovo”...</a></p>
+	<p>
+			<a href="/p/italia/2015/01/30/AR8h1MMD-quirinale_votazioni_secondo.shtml"><img src="/rw/IlSecoloXIXWEB/italia/foto_trattate/2015/01/30/f3e78ff5de9f5e6d8510f8288848d560-032-u2004335937011pd--390x180@ilsecoloxixweb_71x40.jpg" alt="" />Quirinale, il secondo giorno di votazioni...</a></p>
+	<p>
+			<a href="/p/savona/2015/01/29/ARASSsLD-maltrattamenti_maestra_patteggia.shtml"><img src="/rw/IlSecoloXIXWEB/savona/foto_trattate/2015/01/29/e_img-klab--390x180@ilsecoloxixweb_71x40.jpg" alt="" />Maltrattamenti all’asilo, maestra patteggia dieci ...</a></p>
+	<p>
+			<a href="/p/genova/2015/01/30/AR3kOOMD-partenza_inchioda_aeroporto.shtml"><img src="/rw/IlSecoloXIXWEB/genova/foto_trattate/2015/01/30/20150130_125743-h150130125412-ktlb--390x180@ilsecoloxixweb_71x40.jpg" alt="" /> Colombo, panico all’aeroporto:  l’aereo “inchioda...</a></p>
+	<p>
+			<a href="/p/sport/2015/01/30/ARiVaHMD-pavoletti_arrivano_acquisti.shtml"><img src="/rw/IlSecoloXIXWEB/sport/foto_trattate/2015/01/30/schermata2015-01-30alle10.00.35-ksmd--390x180@ilsecoloxixweb_71x40.jpg" alt="" />Genoa, tris di acquisti: arrivano Pavoletti, Adiau...</a></p>
+	</div>
+	<div class="pane piu-letti"> <!--piu visti -->
+
+		<p>
+			<a href="/p/multimedia/mondo/2015/01/29/ARfH1uLD-giorno_scatti_mondo.shtml"><img src="/rw/IlSecoloXIXWEB/RIGIRI/2015/01/29/Foto/6a5e74a3e5b32404be6968d0685ff065-kuMB--350x180@IlSecoloXIXWEB.jpg" alt="" width="71" height="33"/>Le foto del giorno, il mondo in dieci scatti...</a></p>
+	<p>
+			<a href="/p/multimedia/italia/2015/01/30/ARijIOMD-quirinale_ferilli_ironici.shtml"><img src="/rw/IlSecoloXIXWEB/RIGIRI/2015/01/30/Foto/e3661cc103853cf27bc4ea4dbf1690b3-kDQC--350x180@IlSecoloXIXWEB.jpg" alt="" width="71" height="33"/>Quirinale, i voti “ironici”: ci sono anche Ferilli...</a></p>
+	<p>
+			<a href="/p/multimedia/italia/2015/01/30/ARJ1HKMD-quirinale_chiacchiere_accordi.shtml"><img src="/rw/IlSecoloXIXWEB/RIGIRI/2015/01/30/Foto/f09116aaa563b7e22969be42e0f220fb-183-kTGD--350x180@IlSecoloXIXWEB.jpg" alt="" width="71" height="33"/>Quirinale, chiacchiere e accordi mentre si aspetta...</a></p>
+	<p>
+			<a href="/p/multimedia/gossip/2015/01/30/ARKPEPMD-smanicato_golfino_boschi.shtml"><img src="/rw/IlSecoloXIXWEB/RIGIRI/2015/01/30/Foto/be9c6b7a49faa6711fe0b86f90f537a6-kD2H--350x180@IlSecoloXIXWEB.jpg" alt="" width="71" height="33"/>Dal golfino della Madia allo smanicato della Bosch...</a></p>
+	<p>
+			<a href="/p/multimedia/liguria/2015/01/30/AROrtFMD-brignole_ferroviario_consegna.shtml"><img src="/rw/IlSecoloXIXWEB/RIGIRI/2015/01/30/Foto/staz_Brignole_Ge012015_4500-F150129194023-k6eC--350x180@IlSecoloXIXWEB.jpg" alt="" width="71" height="33"/>Nodo ferroviario Voltri-Brignole, la consegna risc...</a></p>
+	</div>
+	<div class="pane piu-letti" id="piu-commentati"></div>
+
+</div><div class="facebook-big-box">
+
+<iframe
+	src="//www.facebook.com/plugins/likebox.php?locale=it_IT&amp;href=http%3A%2F%2Fwww.facebook.com%2FIlSecoloXIX&amp;width=300&amp;height=220&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;connections=5&amp;header=true&amp;appId=160551674027104"
+	style="background: transparent; border:none; overflow:hidden; width:300px; height:220px;">
+</iframe>
+
+</div>
+<div class="box-right">
+<h5 id="titolo-edicola"><a target="_blank" href="http://edicoladigitale.ilsecoloxix.it/secoloxix/">Edicola Digitale</a></h5>
+
+<img src="/rw/SysConfig/WebPortal/ilsecoloxix/images/template/edicola_digitale_dx.png" />
+
+<p class="edicola-digitale">
+	<a target="_blank" href="http://edicoladigitale.ilsecoloxix.it/secoloxix/">&#9658; Leggi il giornale di oggi</a>
+	<a target="_blank" href="http://www.ilsecoloxix.it/abbonati">&#9658; Scopri i vantaggi e abbonati</a>
+	<a target="_blank" href="http://www.ilsecoloxix.it/regala-un-abbonamento">&#9658; Regala un abbonamento</a>
+</p>
+
+</div>
+<div class="oas" id="oas_bottom1">
+<script type="text/javascript">
+<!--
+OAS_AD('Bottom1');
+//-->
+</script>
+</div>
+</aside>
+<div id="iniziative-editoriali">
+
+<div id="il-giornale-di-oggi">
+<h5>Il giornale di oggi</h5>
+<div id="tipologie-giornale">
+<div id="giornale-cartaceo">
+<a target="_blank" href="http://edicoladigitale.ilsecoloxix.it/secoloxix/"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/giornale-cartaceo.jpg" alt="Consulta il giornale" /></a>
+<p><a target="_blank" href="/abbonati">Abbonati subito</a></p>
+</div>
+<div id="giornale-digitale">
+<div class="tipologia-giornale-digitale">
+<img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/giornale-pc.jpg" alt="Il giornale su pc" />
+<p><a target="_blank" href="http://edicoladigitale.ilsecoloxix.it/secoloxix/">Leggi il giornale<br />
+sul tuo pc</a></p>
+</div>
+<div class="tipologia-giornale-digitale su-app-store">
+<img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/giornale-ipad-iphone.jpg" alt="Il giornale su iPad e iPhone" />
+<p><a target="_blank" href="http://itunes.apple.com/it/app/secolo-xix-edicola-digitale/id454714517?mt=8">Leggi su iPad<br />
+e iPhone</a></p>
+</div>
+<div class="tipologia-giornale-digitale su-android">
+<img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/giornale-tablet-android.jpg" alt="Il giornale su tablet e Android" />
+<p><a target="_blank" href="https://play.google.com/store/apps/details?id=it.virtualcom.rss.secoloXIX&hl=it">Leggi su tablet<br />
+e mobile Android</a></p>
+</div>
+</div>
+</div>
+</div><div id="box-iniziative">
+<h5>Iniziative in edicola</h5>
+
+<!-- INIZIO CONTENT SLIDER INIZIATIVE -->
+<div id="list_carousel-iniziative">
+
+<div class="cover-iniziative">
+<ul>
+  <li id="">
+    <script type="text/javascript">
+    <!--
+		OX_ADV('154');
+	-->
+	</script>
+  </li>
+  <li id="">
+    <script type="text/javascript">
+    <!--
+		OX_ADV('280');
+	-->
+	</script>
+  </li>
+  <li id="">
+    <script type="text/javascript">
+    <!--
+		OX_ADV('281');
+	-->
+	</script>
+  </li>
+</ul>
+</div>
+
+</div>
+<!-- FINE CONTENT SLIDER INIZIATIVE -->
+
+</div><div id="servizi">
+<h5>Servizi</h5>
+<ul>
+<li><a target="_blank" href="/affari/"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/ico-servizi-affari.png" alt="Affari" />Affari</a></li>
+<li><a href="http://case.ilsecoloxix.it/"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/ico-servizi-case.png" alt="Case">Case</a></li>
+<li><a target="_blank" href="/meteo_2011/"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/ico-servizi-meteo.png" alt="Meteo" />Meteo</a></li>
+<li><a target="_blank" href="/spettacoli/"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/ico-servizi-agenda.png" alt="Agenda" />Agenda</a></li>
+<li><a target="_blank" href="http://speciali.ilsecoloxix.it/articoli/scuole/il-giornale-classe-chi-cosa-perch%C3%A8-dove-e-quando-563.html"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/ico-servizi-scuole.png" alt="Scuole" />Scuole</a></li>
+<li><a target="_blank" href="/radio/radio-19/diretta/"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/ico-servizi-radio.png" alt="Radio" />Radio</a></li>
+<li><a target="_blank" href="http://avvisi.ilsecoloxix.it/" class="large95"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/ico-servizi-necrologie.png" alt="Necrologie" />Necrologie</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<footer id="footer" role="contentinfo">
+
+<div id="general-footer">
+
+<div id="quicklinks">
+
+<div id="quicksezione">
+<p>
+News<br />
+Sezioni<br />
+Shipping<br />
+Multimedia<br />
+Servizi<br />
+Pubblicit&agrave;<br />
+Abbonati<br />
+Contatti<br />
+</p>
+</div>
+
+<div id="quickcollegamenti">
+<p>
+<a href="/genova/">Genova</a> / <a href="/savona/">Savona</a> / <a href="/imperia/">Imperia</a> / <a href="/levante/">Levante</a> / <a href="/la_spezia/">La Spezia</a> / <a href="/basso_piemonte/">Basso Piemonte</a> / <a href="/italia/">Italia</a> / <a href="/mondo/">Mondo</a><br/>
+<a href="/economia/">Economia</a> / <a href="/cultura/">Cultura&amp;Spettacoli</a> / <a href="/high_tech/">Tech</a> / <a href="/gossip/">Gossip</a> / <a href="/salute_benessere/">Salute</a> / <a href="/blog/">Blog</a> / <a href="/sondaggi/">Sondaggi</a><br/>
+<a target="_blank" rel="nofollow" href="http://www.themeditelegraph.it/it/">The MediTelegraph</a> / <a target="_blank" href="http://avvisatore.ilsecoloxix.it/">Avvisatore marittimo</a> / <a target="_blank" rel="nofollow" href="http://www.ttmweb.it/">TTM</a><br/>
+<a target="_blank" href="/multimedia/xixtv/genova/">XIX TV</a> / <a target="_blank" href="/multimedia/fotogallery/italia/">Foto</a><br/>
+<a href="/affari/">Affari</a> / <a href="http://case.ilsecoloxix.it/">Case</a> / <a target="_blank" href="http://lavoro.ilsecoloxix.it/">Lavoro</a> / <a rel="nofollow" href="http://avvisi.ilsecoloxix.it/" >Necrologie</a> / <a href="/spettacoli/">Agenda</a> / <a href="/meteo_2011/">Meteo</a> / <a target="_blank" href="/radio/radio-19/diretta/">Radio</a> / <a href="/Rss">RSS</a> / <a target="_blank" href="http://speciali.ilsecoloxix.it/articoli/scuole/il-giornale-classe-chi-cosa-perch%C3%A8-dove-e-quando-563.html">Scuole</a> / <a href="http://asteappalti.ilsecoloxix.it/" target="_blank">Tribunali</a><br/>
+<a href="http://www.publirama.it/" rel="nofollow">Publirama</a> / <a rel="nofollow" href="http://www.publirama.it/sportelli.asp">Annunci</a><br/>
+<a href="/abbonamenti/">Cartaceo</a> / <a href="/abbonati">Digitale</a><br/>
+<a href="/contattaci/">Redazione</a> / <a href="/la_storia/">La storia</a>
+</p>
+</div>
+
+<form onsubmit="cleanSearchForm(this)" method="post" name="quickform" id="quickform" action="/search">
+<input type="text" class="search_input" value="Cerca..." name="qText" id="quick-s" onfocus="if (this.value == 'Cerca...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Cerca...';}" />
+<input type="submit" id="searchsubmit-general" value="Search" />
+</form>
+
+</div>
+<div id="segui-secoloxix">
+
+<h5>Segui il Secolo XIX</h5>
+
+<ul>
+<li><a target="_blank" href="http://itunes.apple.com/it/app/ilsecoloxix.it/id364603063?mt=8"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/segui-iphone.png" alt="iPhone" title="iPhone" /></a></li>
+<li><a target="_blank" href="https://play.google.com/store/apps/details?id=it.virtualcom.rss.secoloXIX&hl=it"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/android.png" alt="Android" title="Android" /></a></li>
+<li><a target="_blank" href="https://www.google.com/producer/editions/CAowh9N9/il_secolo_xix"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/segui-currents.png" alt="Google Currents" title="Google Currents" /></a></li>
+<li><a target="_blank" href="http://edicoladigitale.ilsecoloxix.it/secoloxix/"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/segui-archivio.png" alt="Archivio" title="Archivio" /></a></li>
+<li><a target="_blank" href="http://itunes.apple.com/it/app/radio-19/id383752613?mt=8"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/segui-radio.png" alt="Radio" title="Radio" /></a></li>
+</ul>
+
+<ul>
+<li><a target="_blank" href="http://twitter.com/#!/IlSecoloXIX"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/segui-twitter.png" alt="Twitter" title="Twitter" /></a></li>
+<li><a target="_blank" href="http://www.facebook.com/IlSecoloXIX"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/segui-facebook.png" alt="Facebook" title="Facebook" /></a></li>
+<li><a target="_blank" href="http://www.youtube.com/user/ilsecoloxix"><img src="/rw/SysConfig/WebPortal/ilsecoloxix/img/segui-youtube.png" alt="YouTube" title="YouTube" /></a></li>
+</ul>
+
+</div> 	<div id="dati-societari">
+
+<p>&copy; ITALIANA EDITRICE S.p.A. Via Lugaro, 15 - 10126 Torino <br />
+Cap. soc. &euro; 5.700.000 i.v. - C.F/P.I. 00486620016 - R.E.A. To 70986 - Societ&agrave; a socio unico-Direzione e coordinamento ex art. 2497 c.c.: Fiat Chrysler Automobiles N.V. </p>
+
+</div>
+
+</div>
+
+</footer>
+<div id="closer"></div>
+
+<!-- Webtrekk 3.2.3, (c) www.webtrekk.com -->
+<script type="text/javascript" src="/rw/SysConfig/WebPortal/ilsecoloxix/js/webtrekk/webtrekk_v3.js"></script>
+<script type="text/javascript">
+<!--
+
+function getContentIdByURL(){
+   var url = document.location.href;
+   if(url && url !== null) {
+      return url.split("?")[0].toLowerCase();
+   }
+   return "no_content";
+}
+
+function getExistsParameterByName(name) {
+	var match = RegExp('[?&]' + name).exec(window.location.search);
+	if (match) {
+		return name;
+	} else {
+		return 'no-refresh';
+	}
+}
+
+var pageConfig = {
+	linkTrack : "link",
+	heatmap : "",
+	form : "",
+	contentId : getContentIdByURL()
+};
+
+var wt = new webtrekkV3(pageConfig);
+var refresh = getExistsParameterByName("refresh_ce");
+
+wt.contentGroup = {
+	1 : "Il Secolo XIX",
+	2 : "Il Secolo XIX - Sito Web"
+};
+
+wt.customParameter = {
+	1 : document.title,
+	2 : refresh
+};
+
+wt.ignorePrerendering = "true";
+wt.sendinfo();
+
+//-->
+</script>
+<noscript><div><img src="http://ilsecoloxixitalia01.wt-eu02.net/791520050272751/wt.pl?p=326,0" height="1" width="1" alt="" /></div></noscript>
+<!-- /Webtrekk -->
+
+<script type="text/javascript">
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script><!-- START Nielsen//NetRatings SiteCensus V5.2 -->
+<!-- COPYRIGHT 2006 Nielsen//NetRatings -->
+<script type="text/javascript">
+	var _rsCI="ilsecoloxix-it";
+	var _rsCG="0";
+	var _rsDN="//secure-it.imrworldwide.com/";
+	var _rsCC=0;
+</script>
+<script type="text/javascript" src="//secure-it.imrworldwide.com/v52.js"></script>
+<noscript><img src="//secure-it.imrworldwide.com/cgi-bin/m?ci=ilsecoloxix-it&amp;cg=0" alt=""/></noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
+</body></html>

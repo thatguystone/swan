@@ -1,0 +1,679 @@
+
+<!DOCTYPE html>
+<html lang="nl" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Zeekoeien - Wikipedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf14" />
+<link rel="alternate" href="android-app://org.wikipedia/http/nl.m.wikipedia.org/wiki/Zeekoeien" />
+<link rel="alternate" type="application/x-wiki" title="Bewerken" href="/w/index.php?title=Zeekoeien&amp;action=edit" />
+<link rel="edit" title="Bewerken" href="/w/index.php?title=Zeekoeien&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (nl)" />
+<link rel="EditURI" type="application/rsd+xml" href="//nl.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Zeekoeien" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom-feed" href="/w/index.php?title=Speciaal:RecenteWijzigingen&amp;feed=atom" />
+<link rel="canonical" href="http://nl.wikipedia.org/wiki/Zeekoeien" />
+<link rel="stylesheet" href="//bits.wikimedia.org/nl.wikipedia.org/load.php?debug=false&amp;lang=nl&amp;modules=ext.gadget.Direct-link-to-Commons%2CIProject%2COpenStreetMapFrame%2CProtectionTemplates%2CReferenceTooltips%2Choofdbetekenis-titelwijziging%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/nl.wikipedia.org/load.php?debug=false&amp;lang=nl&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: nlwiki:resourceloader:filter:minify-css:7:b5ab1bb4aad7dcfc73655eecdd6017f1 */</style>
+<script src="//bits.wikimedia.org/nl.wikipedia.org/load.php?debug=false&amp;lang=nl&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Zeekoeien","wgTitle":"Zeekoeien","wgCurRevisionId":42781742,"wgRevisionId":42781742,"wgArticleId":53479,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Lokale afbeelding gelijk aan Wikidata","Wikipedia:Commonscat met lokaal zelfde link als op Wikidata","Wikipedia:Etalage-artikelen","Wikipedia:Etalage-artikelen uit 2007","Zeekoe"],"wgBreakFrames":false,"wgPageContentLanguage":"nl","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","maart","april","mei","juni","juli","augustus","september","oktober","november","december"],"wgMonthNamesShort":["","jan","feb","mrt","apr","mei","jun","jul","aug","sep","okt","nov","dec"],"wgRelevantPageName":"Zeekoeien","wgRelevantArticleId":53479,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"nl","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"8":true,"9":true,"10":true,"11":true,"12":true,"13":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"828":true,"829":true}},"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["nl-be"],"wgULSCurrentAutonym":"Nederlands","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q25431"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"nl"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: nlwiki:resourceloader:filter:minify-js:7:ba36e2060830640815f5aa47bd308192 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf14/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Zeekoeien skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="nl"><span dir="auto">Zeekoeien</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">Uit Wikipedia, de vrije encyclopedie</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Ga naar:					<a href="#mw-head">navigatie</a>, 					<a href="#p-search">zoeken</a>
+				</div>
+				<div id="mw-content-text" lang="nl" dir="ltr" class="mw-content-ltr"><table class="toccolours vatop infobox" cellpadding="1" cellspacing="1" style="float:right; clear:right; width:270px; padding:0px; margin:0px 0px 1em 1em; font-size:95%;">
+<tr>
+<th style="background-color:pink; text-align:center; font-weight:bold;"><big>Zeekoeien</big></th>
+</tr>
+<tr>
+<td align="center" style="padding:0;"><a href="/wiki/Bestand:Dugong_Marsa_Alam.jpg" class="image" title="Grazende doejong (Dugong dugon) in de wateren bij Marsa Alam"><img alt="Grazende doejong (Dugong dugon) in de wateren bij Marsa Alam" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dugong_Marsa_Alam.jpg/266px-Dugong_Marsa_Alam.jpg" width="266" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dugong_Marsa_Alam.jpg/399px-Dugong_Marsa_Alam.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dugong_Marsa_Alam.jpg/532px-Dugong_Marsa_Alam.jpg 2x" data-file-width="3648" data-file-height="2736" /></a></td>
+</tr>
+<tr>
+<td align="center" style="padding:0;"><small>Grazende <a href="/wiki/Doejong" title="Doejong">doejong</a> (<i>Dugong dugon</i>) in de wateren bij <a href="/wiki/Marsa_Alam" title="Marsa Alam">Marsa Alam</a></small></td>
+</tr>
+<tr>
+<td style="background-color: pink; text-align:center; font-weight:bold;"><a href="/wiki/Taxonomie" title="Taxonomie">Taxonomische indeling</a></td>
+</tr>
+<tr>
+<td>
+<table align="center" style="border:none;">
+<tr>
+<td valign="top"><a href="/wiki/Rijk_(biologie)" title="Rijk (biologie)">Rijk</a>:</td>
+<td valign="top"><a href="/wiki/Dierenrijk_(hoofdbetekenis)" title="Dierenrijk (hoofdbetekenis)" class="mw-redirect">Animalia</a> (Dieren)</td>
+</tr>
+<tr>
+<td valign="top"><a href="/wiki/Stam_(biologie)" title="Stam (biologie)">Stam</a>:</td>
+<td valign="top"><a href="/wiki/Chordadieren" title="Chordadieren">Chordata</a> (Chordadieren)</td>
+</tr>
+<tr>
+<td valign="top"><a href="/wiki/Klasse_(biologie)" title="Klasse (biologie)">Klasse</a>:</td>
+<td valign="top"><a href="/wiki/Zoogdieren" title="Zoogdieren">Mammalia</a> (Zoogdieren)</td>
+</tr>
+<tr>
+<td valign="top"><a href="/wiki/Onderklasse_(biologie)" title="Onderklasse (biologie)">Onderklasse</a>:</td>
+<td valign="top"><a href="/wiki/Theria_(zoogdieren)" title="Theria (zoogdieren)">Theria</a></td>
+</tr>
+<tr>
+<td valign="top"><a href="/wiki/Infraklasse_(biologie)" title="Infraklasse (biologie)">Infraklasse</a>:</td>
+<td valign="top"><a href="/wiki/Placentadieren" title="Placentadieren">Placentalia</a> (Placentadieren)</td>
+</tr>
+<tr>
+<td valign="top"><a href="/wiki/Superorde_(biologie)" title="Superorde (biologie)">Superorde</a>:</td>
+<td valign="top"><a href="/wiki/Afrotheria" title="Afrotheria">Afrotheria</a></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="background-color: pink; text-align:center; font-weight:bold;"><a href="/wiki/Orde_(biologie)" title="Orde (biologie)">Orde</a></td>
+</tr>
+<tr>
+<td align="center"><b>Sirenia</b><br />
+<small><a href="/wiki/Johann_Karl_Wilhelm_Illiger" title="Johann Karl Wilhelm Illiger">Illiger</a></small><small>, 1811</small></td>
+</tr>
+<tr>
+<td style="background-color: pink; text-align:center; font-weight:bold;" colspan="2"></td>
+</tr>
+<tr>
+<td align="center" colspan="2"><small><a href="//commons.wikimedia.org/wiki/Category:Sirenia" class="extiw" title="commons:Category:Sirenia">Afbeeldingen Zeekoeien</a> op</small> <a href="/wiki/Bestand:Commons-logo.svg" class="image" title="Wikimedia Commons"><img alt="Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> <small><a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a></small>
+<div class="interProject" style="display:none;"><a href="//commons.wikimedia.org/wiki/Category:Sirenia" class="extiw" title="commons:Category:Sirenia">Mediabestanden</a></div>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2"><small><a href="//species.wikimedia.org/wiki/Sirenia" class="extiw" title="wikispecies:Sirenia">Zeekoeien</a> op</small> <a href="/wiki/Bestand:Wikispecies-logo.svg" class="image" title="Wikispecies"><img alt="Wikispecies" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/15px-Wikispecies-logo.svg.png" width="15" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/23px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/30px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a> <small><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a></small>
+<div class="interProject" style="display:none;"><a href="//species.wikimedia.org/wiki/Sirenia" class="extiw" title="wikispecies:Sirenia">Wikispecies</a></div>
+</td>
+</tr>
+<tr>
+<td style="background-color: pink; text-align:center;" colspan="2">
+<table style="background:transparent; text-align:center;" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><b>Portaal</b>&#160; <a href="/wiki/Bestand:Portal_icon.svg" class="image" title="Portaalicoon"><img alt="Portaalicoon" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Portal_icon.svg/22px-Portal_icon.svg.png" width="22" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Portal_icon.svg/33px-Portal_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Portal_icon.svg/44px-Portal_icon.svg.png 2x" data-file-width="150" data-file-height="130" /></a> &#160;</td>
+<td align="left"><b><a href="/wiki/Portaal:Biologie" title="Portaal:Biologie">Biologie</a><br />
+<a href="/wiki/Portaal:Zoogdieren" title="Portaal:Zoogdieren">Zoogdieren</a></b></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><b>Zeekoeien</b> (Sirenia) zijn een kleine <a href="/wiki/Orde_(biologie)" title="Orde (biologie)">orde</a> van plantenetende, in zee levende <a href="/wiki/Zoogdieren" title="Zoogdieren">zoogdieren</a>. Ze worden tot de <a href="/wiki/Afrotheria" title="Afrotheria">Afrotheria</a> gerekend en zijn daarbinnen het nauwste verwant aan de <a href="/wiki/Slurfdieren" title="Slurfdieren">slurfdieren</a>. Naast de <a href="/wiki/Walvissen" title="Walvissen" class="mw-redirect">walvissen</a> en de <a href="/wiki/Zeeroofdieren" title="Zeeroofdieren">zeeroofdieren</a> zijn de zeekoeien de derde grotere groep <a href="/wiki/Zeezoogdieren" title="Zeezoogdieren">zeezoogdieren</a>. Anders dan zeeroofdieren hebben ze geen geschikte ledematen om zich op het land voort te bewegen en in tegenstelling tot walvissen houden ze zich steeds in de buurt van de kust of zelfs in <a href="/wiki/Zoet_water" title="Zoet water">zoet water</a> op. De orde van Sirenia omvat binnen twee (nog) levende families, de <a href="/wiki/Dugongidae" title="Dugongidae" class="mw-redirect">Dugongidae</a> (<i>Doejongs</i>) en de <a href="/wiki/Trichechidae" title="Trichechidae" class="mw-redirect">Trichechidae</a> (<i>Lamantijnen</i>), vier nog levende soorten.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Inhoud</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Beschrijving"><span class="tocnumber">1</span> <span class="toctext">Beschrijving</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Externe_anatomie"><span class="tocnumber">1.1</span> <span class="toctext">Externe anatomie</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Bouw_van_het_skelet"><span class="tocnumber">1.2</span> <span class="toctext">Bouw van het skelet</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Anatomie_van_de_weke_delen"><span class="tocnumber">1.3</span> <span class="toctext">Anatomie van de weke delen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Verspreiding_en_leefgebied"><span class="tocnumber">2</span> <span class="toctext">Verspreiding en leefgebied</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Leefwijze"><span class="tocnumber">3</span> <span class="toctext">Leefwijze</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Voeding"><span class="tocnumber">4</span> <span class="toctext">Voeding</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Voortplanting_en_ontwikkeling"><span class="tocnumber">5</span> <span class="toctext">Voortplanting en ontwikkeling</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Ontstaansgeschiedenis_en_systematiek"><span class="tocnumber">6</span> <span class="toctext">Ontstaansgeschiedenis en systematiek</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Beschermingsstatus"><span class="tocnumber">7</span> <span class="toctext">Beschermingsstatus</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Zeekoeien_in_mythologie.2C_kunst_en_literatuur"><span class="tocnumber">8</span> <span class="toctext">Zeekoeien in mythologie, kunst en literatuur</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Naam"><span class="tocnumber">9</span> <span class="toctext">Naam</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Literatuur"><span class="tocnumber">10</span> <span class="toctext">Literatuur</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Noten"><span class="tocnumber">11</span> <span class="toctext">Noten</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Externe_links"><span class="tocnumber">12</span> <span class="toctext">Externe links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Beschrijving">Beschrijving</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=1" title="Bewerk dit kopje: Beschrijving">bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Externe_anatomie">Externe anatomie</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=2" title="Bewerk dit kopje: Externe anatomie">bewerken</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Bestand:Manatee_photo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Manatee_photo.jpg/220px-Manatee_photo.jpg" width="220" height="157" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Manatee_photo.jpg/330px-Manatee_photo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Manatee_photo.jpg/440px-Manatee_photo.jpg 2x" data-file-width="850" data-file-height="607" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Bestand:Manatee_photo.jpg" class="internal" title="Vergroten"></a></div>
+Caribische lamantijn.</div>
+</div>
+</div>
+<p>Zeekoeien zijn stevige dieren met een cilindrisch lichaam. De levende soorten bereiken een lichaamslengte van 2,5 tot 4 m, de <a href="/wiki/Stellerzeekoe" title="Stellerzeekoe">Stellerzeekoe</a>, die in de 18e eeuw is uitgeroeid, werd zelfs tot 7,5 m lang. Bij de nog levende soorten varieert het gewicht van 250 tot 1500 kg. De voorpoten zijn in <a href="/wiki/Vin" title="Vin">vinnen</a> veranderd, de achterpoten zijn volledig gedegenereerd. In tegenstelling tot de meeste walvissen bezitten zeekoeien geen <a href="/wiki/Rugvin" title="Rugvin" class="mw-redirect">rugvin</a>, maar de staart is tot een horizontale vin omgevormd. Een <a href="/w/index.php?title=Huidspier&amp;action=edit&amp;redlink=1" class="new" title="Huidspier (de pagina bestaat niet)">huidspier</a>, de dorsale <a href="/w/index.php?title=Musculus_penniculus_carnosus&amp;action=edit&amp;redlink=1" class="new" title="Musculus penniculus carnosus (de pagina bestaat niet)">musculus penniculus carnosus</a>, is de belangrijkste slagspier van de staartvin geworden. De vorm daarvan is het duidelijkst zichtbare onderscheidingskenmerk tussen de twee nog levende families: <a href="/wiki/Doejongs" title="Doejongs">doejongs</a> hebben een gevorkte staart, <a href="/wiki/Lamantijnen" title="Lamantijnen">lamantijnen</a> een halvemaanvormige.</p>
+<p>De stompe snuit is duidelijk van de kop afgescheiden en omgeven door harde <a href="/wiki/Snorhaar" title="Snorhaar">snorharen</a>. De neusgaten liggen aan de bovenkant van de snuit. Vergeleken met de romp is de kop verhoudingsgewijs groot, maar het <a href="/wiki/Hersenen" title="Hersenen">brein</a> behoort met een gewicht van slechts 250 tot 350 g onder de zoogdieren tot de kleinste in verhouding tot de lichaamsgrootte.</p>
+<p>De huid is zeer dik en gerimpeld. Bij de nog levende zeekoeien, die in tropische wateren te vinden zijn, is de <a href="/wiki/Opperhuid" title="Opperhuid" class="mw-redirect">opperhuid</a> zeer dun, maar de Stellerzeekoe had als aanpassing aan het koude poolwater een veel dikkere opperhuid (tot 7,5 cm). De <a href="/wiki/Vacht" title="Vacht">vacht</a> is beperkt tot enkele borstels bij de mondopening en afzonderlijke haren op de romp, maar <a href="/wiki/Embryo" title="Embryo">embryo</a>'s hebben nog een volledig haarkleed, en ook bij pasgeboren jongen zijn nog duidelijk meer haren aanwezig dan bij volwassen dieren.</p>
+<h3><span class="mw-headline" id="Bouw_van_het_skelet">Bouw van het skelet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=3" title="Bewerk dit kopje: Bouw van het skelet">bewerken</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Bestand:Sirenia_Skulls.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sirenia_Skulls.jpg/220px-Sirenia_Skulls.jpg" width="220" height="265" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sirenia_Skulls.jpg/330px-Sirenia_Skulls.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sirenia_Skulls.jpg/440px-Sirenia_Skulls.jpg 2x" data-file-width="476" data-file-height="574" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Bestand:Sirenia_Skulls.jpg" class="internal" title="Vergroten"></a></div>
+Schedels van verschillende zeekoeien (Caribische lamantijn, West-Afrikaanse lamantijn, doejong). Tekeningen door Johann Andreas Fleischmann.</div>
+</div>
+</div>
+<p>Net als bij walvissen kwam het bij zeekoeien tot een sterke toename van de dikte en dichtheid van de botten, doordat de <a href="/wiki/Kanaal_van_Havers" title="Kanaal van Havers" class="mw-redirect">kanalen van Havers</a> en de holtes in het <a href="/wiki/Beenmerg" title="Beenmerg">beenmerg</a> gereduceerd worden. Het skelet, en daarmee het gehele dier, wordt daardoor zwaarder en de opwaartse druk neemt af; de botten zijn echter minder flexibel en breken gemakkelijker. De <a href="/wiki/Schedel" title="Schedel">schedel</a> bezit een sterk verlengde, door het <a href="/w/index.php?title=Os_praemaxillare&amp;action=edit&amp;redlink=1" class="new" title="Os praemaxillare (de pagina bestaat niet)">os praemaxillare</a> gevormde snuit (<a href="/wiki/Rostrum_(anatomie)" title="Rostrum (anatomie)">rostrum</a>), die bij de <a href="/wiki/Doejong" title="Doejong">doejong</a> daarnaast nog naar beneden is gebogen. De <a href="/w/index.php?title=Jukboog&amp;action=edit&amp;redlink=1" class="new" title="Jukboog (de pagina bestaat niet)">jukbogen</a> zijn zeer breed en liggen hoog op de schedel. De <a href="/w/index.php?title=Kauwspieren&amp;action=edit&amp;redlink=1" class="new" title="Kauwspieren (de pagina bestaat niet)">kauwspieren</a> zijn zeer massief en de <a href="/wiki/Musculus_masseter" title="Musculus masseter">musculus masseter</a> is groot. De <a href="/wiki/Neus" title="Neus">neusopeningen</a> liggen zeer ver naar achteren op de bovenkant van de schedel. Het achterste gedeelte van de schedel, het <a href="/wiki/Neurocranium" title="Neurocranium">neurocranium</a>, dat onder andere de hersenen bevat, is naar verhouding klein.</p>
+<p>Het gebit is bij de twee families verschillend gevormd. Bij de lamantijnen zijn de <a href="/wiki/Snijtand" title="Snijtand">snijtanden</a> gereduceerd, bij de doejong ontwikkelt de eerste snijtand zich bij de mannetjes tot een korte <a href="/wiki/Slagtand" title="Slagtand">slagtand</a>, maar breekt hij bij de vrouwtjes niet door de <a href="/wiki/Kaak_(anatomie)" title="Kaak (anatomie)">kaak</a> heen. De <a href="/wiki/Hoektand" title="Hoektand">hoektanden</a> ontbreken volledig bij alle nog levende soorten. De <a href="/w/index.php?title=Tandwisseling&amp;action=edit&amp;redlink=1" class="new" title="Tandwisseling (de pagina bestaat niet)">tandwisseling</a> verloopt net als bij olifanten <a href="/w/index.php?title=Horizontale_tandwisseling&amp;action=edit&amp;redlink=1" class="new" title="Horizontale tandwisseling (de pagina bestaat niet)">horizontaal</a>, maar dit kenmerk heeft zich in beide groepen onafhankelijk ontwikkeld. Hierbij komen de <a href="/wiki/Valse_kies" title="Valse kies" class="mw-redirect">valse kiezen</a> en <a href="/wiki/Kies" title="Kies">kiezen</a> na elkaar uit de kaak en worden de een na de ander verbruikt. Bij de oudste fossiele vertegenwoordigers van de orde is het gebit nog volledig aanwezig, zodat slechts een normale tandwisseling mogelijk was. Het voorste gedeelte van het <a href="/wiki/Verhemelte" title="Verhemelte">verhemelte</a> is bedekt met hoornplaten, die waarschijnlijk helpen bij het eten. Ook de <a href="/wiki/Tong_(anatomie)" title="Tong (anatomie)">tong</a> is verhoornd.</p>
+<p>Het aantal <a href="/wiki/Wervel_(anatomie)" title="Wervel (anatomie)">wervels</a> verschilt per soort. De lamantijnen zijn naast de <a href="/wiki/Hoffmannluiaard" title="Hoffmannluiaard">Hoffmannluiaard</a> de enige <a href="/wiki/Zoogdieren" title="Zoogdieren">zoogdieren</a> die slechts zes <a href="/wiki/Halswervel" title="Halswervel">halswervels</a> hebben, maar de doejong en de Stellerzeekoe hebben er zoals gebruikelijk zeven. Daarop volgen zeventien (lamantijnen en Stellerzeekoe) of negentien (doejong) <a href="/wiki/Borstwervel" title="Borstwervel">borstwervels</a> en twee (lamantijnen), drie (Stellerzeekoe) of vier tot vijf (doejong) <a href="/wiki/Lendenwervel" title="Lendenwervel">lendenwervels</a>. De rudimenten van het <a href="/wiki/Bekken_(anatomie)" title="Bekken (anatomie)">bekken</a> zijn slechts door een <a href="/wiki/Ligament_(anatomie)" title="Ligament (anatomie)">ligament</a> met de <a href="/wiki/Ruggengraat" title="Ruggengraat" class="mw-redirect">ruggengraat</a> verbonden, zodat het <a href="/wiki/Heiligbeen" title="Heiligbeen">heiligbeen</a> uit slechts een wervel bestaat. Lamantijnen hebben 22 tot 24 <a href="/wiki/Staartwervel" title="Staartwervel">staartwervels</a>, doejongs 28 tot 29.</p>
+<p>Het bekken is gereduceerd tot een stuk van het <a href="/wiki/Zitbeen" title="Zitbeen">zitbeen</a>, dat in spierweefsel is ingebed. De achterpoten ontbreken volledig, de voorpoten zijn omgevormd tot peddelachtige vinnen. Het <a href="/wiki/Sleutelbeen" title="Sleutelbeen">sleutelbeen</a> is gereduceerd. Het <a href="/wiki/Schouderblad" title="Schouderblad">schouderblad</a> is driehoekig bij de lamantijnen en sikkelvormig bij de doejong. De hand bestaat uit vijf benen vingerstralen, die ingebed zijn in het spierweefsel; in tegenstelling tot bij de walvissen zijn alle gewrichten beweeglijk.</p>
+<h3><span class="mw-headline" id="Anatomie_van_de_weke_delen">Anatomie van de weke delen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=4" title="Bewerk dit kopje: Anatomie van de weke delen">bewerken</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>De <a href="/wiki/Long_(orgaan)" title="Long (orgaan)">longen</a> nemen bij de zeekoeien, net als bij de meeste andere zoogdieren, alle ruimte boven het <a href="/wiki/Middenrif" title="Middenrif">middenrif</a> in. Dat is echter sterk horizontaal uitgestrekt en reikt tot kort voor de rudimenten van het bekken, waardoor de longen aan de rugzijde liggen. Daardoor wordt de opwaartse druk die de met lucht gevulde longen veroorzaken over het dier verdeeld, wat het mogelijk maakt om stabiel in het water te liggen en te zwemmen. Het hart ligt in de buurt van de kop tussen de longen en bezit een diepe groeve aan de voorkant, tussen de twee kamers. Daardoor heeft het hart twee punten, een <a href="/wiki/Synapomorfie" title="Synapomorfie">synapomorfie</a> die uitsluitend met de <a href="/wiki/Slurfdieren" title="Slurfdieren">slurfdieren</a> wordt gedeeld.</p>
+<p>Het <a href="/wiki/Maag-darmstelsel" title="Maag-darmstelsel">maag-darmstelsel</a> bestaat uit een eenkamerige <a href="/wiki/Maag" title="Maag">maag</a> met aansluitend de <a href="/wiki/Twaalfvingerige_darm" title="Twaalfvingerige darm">twaalfvingerige darm</a>, die een grote bocht, de <i>ampulla duodeni</i>, bevat. Daarop volgt de eigenlijke <a href="/wiki/Darm" title="Darm" class="mw-redirect">darm</a>, die ongeveer twintig keer zo lang is als het lichaam. De maag en de bocht in de twaalfvingerige darm dienen vooral voor de opslag van opgenomen en gekauwde voeding; de eigenlijke <a href="/wiki/Vertering" title="Vertering" class="mw-redirect">vertering</a> vindt in de darm plaats. Het voedsel heeft gemiddeld vijf dagen nodig tot het verteerd is en uitgescheiden wordt.</p>
+<p>De <a href="/wiki/Eierstok" title="Eierstok">eierstokken</a> bevinden zich dicht bij de buikwand. De <a href="/wiki/Baarmoeder" title="Baarmoeder">baarmoeder</a> is tweehoornig; de beide helften worden door een scheidingswand, ook wel het septum genoemd, gescheiden. Ook de <a href="/wiki/Testikels" title="Testikels" class="mw-redirect">testikels</a> liggen in de buikholte; de <a href="/wiki/Penis" title="Penis">penis</a> ligt onder de buikhuid in een eigen plooi. De spieren van de penis zitten vast aan het rudiment van het zitbeen.</p>
+<h2><span class="mw-headline" id="Verspreiding_en_leefgebied">Verspreiding en leefgebied</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=5" title="Bewerk dit kopje: Verspreiding en leefgebied">bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/Bestand:Mapa_distribuicao_Trichechus.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mapa_distribuicao_Trichechus.png/240px-Mapa_distribuicao_Trichechus.png" width="240" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mapa_distribuicao_Trichechus.png/360px-Mapa_distribuicao_Trichechus.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mapa_distribuicao_Trichechus.png/480px-Mapa_distribuicao_Trichechus.png 2x" data-file-width="647" data-file-height="441" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Bestand:Mapa_distribuicao_Trichechus.png" class="internal" title="Vergroten"></a></div>
+Verspreiding van de lamantijnen: <a href="/wiki/Caribische_lamantijn" title="Caribische lamantijn">Caribische lamantijn</a>: groen;<br />
+<a href="/wiki/Amazonelamantijn" title="Amazonelamantijn">Amazonelamantijn</a>: rood;<br />
+<a href="/wiki/West-Afrikaanse_lamantijn" title="West-Afrikaanse lamantijn">West-Afrikaanse lamantijn</a>: oranje.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/Bestand:Dugong-range.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dugong-range.png/240px-Dugong-range.png" width="240" height="161" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dugong-range.png/360px-Dugong-range.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dugong-range.png/480px-Dugong-range.png 2x" data-file-width="650" data-file-height="436" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Bestand:Dugong-range.png" class="internal" title="Vergroten"></a></div>
+Verspreidingsgebied van de <a href="/wiki/Doejong" title="Doejong">doejong</a>.</div>
+</div>
+</div>
+<p>De verspreidingsgebieden van de huidige zeekoeien overlappen niet en liggen deels op grote afstand van elkaar. Zo wordt de enige nog overlevende soort van de familie der <a href="/wiki/Doejongs" title="Doejongs">doejongs</a> (Dugongidae), de <a href="/wiki/Doejong" title="Doejong">doejong</a> (<i>Dugong dugon</i>), alleen aan de randen van de <a href="/wiki/Indische_Oceaan" title="Indische Oceaan">Indische Oceaan</a> gevonden, inclusief de <a href="/wiki/Rode_Zee" title="Rode Zee">Rode Zee</a>. De in de 18e eeuw uitgestorven <a href="/wiki/Stellerzeekoe" title="Stellerzeekoe">Stellerzeekoe</a> leefde in de noordelijke <a href="/wiki/Grote_Oceaan" title="Grote Oceaan">Grote Oceaan</a>. De <a href="/wiki/Lamantijnen" title="Lamantijnen">lamantijnen</a> (Trichechidae) leven in de <a href="/wiki/Golf_van_Mexico" title="Golf van Mexico">Golf van Mexico</a> en de <a href="/wiki/Caribische_Zee" title="Caribische Zee" class="mw-redirect">Caribische Zee</a> en voor de kust van <a href="/wiki/Zuid-Amerika" title="Zuid-Amerika">Zuid-Amerika</a> (<a href="/wiki/Caribische_lamantijn" title="Caribische lamantijn">Caribische lamantijn</a>, <i>Trichechus manatus</i>), in het <a href="/wiki/Amazonebekken" title="Amazonebekken">Amazonebekken</a> van Zuid-Amerika (<a href="/wiki/Amazonelamantijn" title="Amazonelamantijn">Amazonelamantijn</a>, <i>Trichechus inunguis</i>) en langs de kust en in de rivieren van <a href="/wiki/West-Afrika" title="West-Afrika">West-Afrika</a>, van <a href="/wiki/Senegal" title="Senegal">Senegal</a> tot <a href="/wiki/Angola" title="Angola">Angola</a> (<a href="/wiki/West-Afrikaanse_lamantijn" title="West-Afrikaanse lamantijn">West-Afrikaanse lamantijn</a>, <i>Trichechus senegalensis</i>).</p>
+<p>Zeekoeien komen zowel in zout, brak als zoet water voor. De Amazonelamantijn leeft uitsluitend in zoet water, maar de andere lamantijnen komen ook in zout water voor. De doejong is zelfs alleen maar in zee te vinden. De huidige zeekoeien leven, net als de meeste van hun fossiele verwanten, uitsluitend in tropisch water, maar de Stellerzeekoe kwam in kouder water voor.</p>
+<h2><span class="mw-headline" id="Leefwijze">Leefwijze</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=6" title="Bewerk dit kopje: Leefwijze">bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Zowel over de leefwijze als over het sociale gedrag van zeekoeien is slechts weinig bekend. Ze leven normaliter alleen of in kleine familiegroepen; af en toe worden ook grotere groepen van honderden dieren gevormd. Er bestaan nauwelijks sociale relaties, op de moeder-kindrelatie na, die ongeveer twee jaar duurt. Zeekoeien kunnen zowel overdag als 's nachts actief zijn. De communicatie verloopt via geluid en drukveranderingen. Tussen moeder en kind komt het tot zogenaamde moeder-kindduetten, die een frequentie van 600 tot 6000 Hz bereiken.</p>
+<p>Zeekoeien bewegen zich altijd drijvend of zwemmend voort. Volwassen zeekoeien komen meestal elke een tot vijf minuten aan de oppervlakte om adem te halen. Een langere duik kan tot twintig minuten duren.</p>
+<p>Behalve de <a href="/wiki/Mens" title="Mens">mens</a> hebben zeekoeien slechts weinig natuurlijke vijanden. Op zee vallen grotere <a href="/wiki/Haaien" title="Haaien">haaien</a> en de <a href="/wiki/Orka_(dier)" title="Orka (dier)">orka</a> wel eens zeekoeien aan, in rivieren zijn <a href="/wiki/Krokodillen" title="Krokodillen">krokodillen</a> en in Zuid-Amerika de <a href="/wiki/Jaguar" title="Jaguar">jaguar</a> de belangrijkste predator.</p>
+<h2><span class="mw-headline" id="Voeding">Voeding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=7" title="Bewerk dit kopje: Voeding">bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/Bestand:Hpim0279.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hpim0279.jpg/240px-Hpim0279.jpg" width="240" height="181" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hpim0279.jpg/360px-Hpim0279.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hpim0279.jpg/480px-Hpim0279.jpg 2x" data-file-width="2592" data-file-height="1952" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Bestand:Hpim0279.jpg" class="internal" title="Vergroten"></a></div>
+Caribische lamantijn.</div>
+</div>
+</div>
+<p>Het voedsel van zeekoeien is overwegend plantaardig en bestaat uit <a href="/wiki/Zeegras" title="Zeegras">zeegras</a>, <a href="/wiki/Algen" title="Algen">algen</a> en andere waterplanten, alsmede voor hen bereikbare <a href="/wiki/Blad" title="Blad">bladeren</a> van <a href="/wiki/Mangrove" title="Mangrove">mangrovebomen</a>. Lamantijnen hebben per dag zo'n 90 kg voedsel nodig en zijn per dag gemiddeld zes tot acht uur lang met eten bezig. Terwijl lamantijnen vooral op geringe diepte eten en de zoetwatersoorten vooral <a href="/wiki/Waterhyacint" title="Waterhyacint">waterhyacinten</a> en graseilanden consumeren, voeden doejongs zich uitsluitend op de zeebodem. De <a href="/wiki/Stellerzeekoe" title="Stellerzeekoe">Stellerzeekoe</a> at voornamelijk <a href="/wiki/Zeewier" title="Zeewier">zeewier</a>.</p>
+<p>Het is onduidelijk in welke mate ze ook dierlijk voedsel tot zich nemen. Met hun plantaardige voedsel eten ze ook kleine <a href="/wiki/Ongewervelden" title="Ongewervelden">ongewervelden</a> op, die de dieren van <a href="/wiki/Prote%C3%AFne" title="Proteïne">eiwit</a> voorzien. Er zijn berichten dat dieren in gevangenschap enthousiast vissen eten. Bij <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a> zijn Caribische lamantijnen gezien die vissen uit netten haalden en opaten. De uitgestorven <i><a href="/w/index.php?title=Miosiren&amp;action=edit&amp;redlink=1" class="new" title="Miosiren (de pagina bestaat niet)">Miosiren</a></i> at mogelijk <a href="/wiki/Weekdieren" title="Weekdieren">weekdieren</a>.</p>
+<h2><span class="mw-headline" id="Voortplanting_en_ontwikkeling">Voortplanting en ontwikkeling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=8" title="Bewerk dit kopje: Voortplanting en ontwikkeling">bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/Bestand:Manatee_with_calf.PD.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Manatee_with_calf.PD.jpg/240px-Manatee_with_calf.PD.jpg" width="240" height="157" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Manatee_with_calf.PD.jpg/360px-Manatee_with_calf.PD.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Manatee_with_calf.PD.jpg/480px-Manatee_with_calf.PD.jpg 2x" data-file-width="3658" data-file-height="2400" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Bestand:Manatee_with_calf.PD.jpg" class="internal" title="Vergroten"></a></div>
+Caribische lamantijn met kalf</div>
+</div>
+</div>
+<p>Zeekoeien hebben noch een seizoensgebonden paartijd noch een specifiek paargedrag. Het vrouwtje heeft meerdere keren per jaar een <a href="/wiki/Eisprong" title="Eisprong" class="mw-redirect">eisprong</a> en paart in het water met meerdere mannetjes, waarbij geen strijd optreedt tussen rivalen. De <a href="/wiki/Zygote" title="Zygote">zygote</a> bedt zich midden in de <a href="/wiki/Baarmoeder" title="Baarmoeder">baarmoeder</a> in. De voeding van het embryo en later van de <a href="/wiki/Foetus" title="Foetus">foetus</a> geschiedt via een <a href="/w/index.php?title=Placenta_zonaria&amp;action=edit&amp;redlink=1" class="new" title="Placenta zonaria (de pagina bestaat niet)">placenta zonaria</a> (gordelplacenta). Het jong wordt na een <a href="/wiki/Draagtijd" title="Draagtijd">draagtijd</a> van 12 tot 14 maanden in het water geboren en zwemt onmiddellijk naar de oppervlakte. Het weegt dan 10 tot 30 kg. Tijdens de volgende 18 maanden wordt het jong gezoogd, waarna het nog enkele maanden bij de moeder blijft. Na zes tot tien jaar wordt het dier <a href="/wiki/Geslachtsrijp" title="Geslachtsrijp">geslachtsrijp</a>. Lamantijnen worden tot ongeveer veertig jaar oud; doejongs kunnen een leeftijd van zestig jaar bereiken.</p>
+<h2><span class="mw-headline" id="Ontstaansgeschiedenis_en_systematiek">Ontstaansgeschiedenis en systematiek</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=9" title="Bewerk dit kopje: Ontstaansgeschiedenis en systematiek">bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:242px;"><a href="/wiki/Bestand:Afrikanischer_Elefant,_Miami.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Afrikanischer_Elefant%2C_Miami.jpg/240px-Afrikanischer_Elefant%2C_Miami.jpg" width="240" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Afrikanischer_Elefant%2C_Miami.jpg/360px-Afrikanischer_Elefant%2C_Miami.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Afrikanischer_Elefant%2C_Miami.jpg/480px-Afrikanischer_Elefant%2C_Miami.jpg 2x" data-file-width="2272" data-file-height="1704" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Bestand:Afrikanischer_Elefant,_Miami.jpg" class="internal" title="Vergroten"></a></div>
+Een <a href="/wiki/Savanneolifant" title="Savanneolifant">savanneolifant</a>, een van de nauwste verwanten van de zeekoeien.</div>
+</div>
+</div>
+<p>Zeekoeien zijn het nauwste verwant aan de <a href="/wiki/Slurfdieren" title="Slurfdieren">slurfdieren</a>, die een groot aantal kenmerken met hen delen, waaronder het ontbreken van <a href="/wiki/Zweetklier" title="Zweetklier" class="mw-redirect">zweetklieren</a>, wat suggereert dat hun gemeenschappelijke voorouder semiaquatisch was. Het <a href="/wiki/Taxon" title="Taxon">taxon</a> dat de zeekoeien, de slurfdieren en de fossiele <a href="/wiki/Desmostylia" title="Desmostylia">Desmostylia</a> omvat wordt <a href="/wiki/Tethytheria" title="Tethytheria">Tethytheria</a> genoemd, omdat deze groep zich aan de randen van de <a href="/wiki/Tethyszee" title="Tethyszee" class="mw-redirect">Tethyszee</a> heeft ontwikkeld. Onder de nog levende zoogdieren zijn de <a href="/wiki/Klipdassen" title="Klipdassen">klipdassen</a> naar alle waarschijnlijkheid de nauwste verwanten van de Tethytheria, maar ook de uitgestorven <a href="/wiki/Embrithopoda" title="Embrithopoda">Embrithopoda</a> zijn verwant. In hun standaardwerk <i>Classification of Mammals</i> plaatsen <a href="/w/index.php?title=Malcolm_McKenna&amp;action=edit&amp;redlink=1" class="new" title="Malcolm McKenna (de pagina bestaat niet)">Malcolm McKenna</a> en <a href="/w/index.php?title=Susan_Bell&amp;action=edit&amp;redlink=1" class="new" title="Susan Bell (de pagina bestaat niet)">Susan Bell</a> alle genoemde groepen in één <a href="/wiki/Orde_(biologie)" title="Orde (biologie)">orde</a>, <a href="/wiki/Uranotheria" title="Uranotheria" class="mw-redirect">Uranotheria</a>, waarbinnen de Tethytheria een <a href="/wiki/Onderorde" title="Onderorde">onderorde</a> en de zeekoeien een <a href="/wiki/Infraorde" title="Infraorde">infraorde</a> vormen, maar deze indeling is in latere classificaties niet overgenomen. Voor McKenna en Bells Uranotheria wordt tegenwoordig meestal de oudere naam <a href="/wiki/Paenungulata" title="Paenungulata">Paenungulata</a> gebruikt, die oorspronkelijk voor een groter taxon was voorgesteld. Volgens <a href="/wiki/Genetica" title="Genetica">genetisch</a> onderzoek zijn de Paenungulata deel van de <a href="/wiki/Afrotheria" title="Afrotheria">Afrotheria</a>, een van de vier hoofdgroepen binnen de <a href="/wiki/Placentadieren" title="Placentadieren">placentadieren</a>. Op basis van morfologische gegevens werden ze in de <a href="/wiki/Hoefdieren" title="Hoefdieren">hoefdieren</a> (Ungulata) geplaatst.</p>
+<p>De oudste <a href="/wiki/Fossiel" title="Fossiel">fossiele</a> zeekoeien stammen uit het vroege <a href="/wiki/Eoceen" title="Eoceen">Eoceen</a> (ongeveer 50 miljoen jaar geleden). De oudste vondsten omvatten een <a href="/wiki/Wervel_(anatomie)" title="Wervel (anatomie)">wervel</a> van een <a href="/wiki/Dugongidae" title="Dugongidae" class="mw-redirect">Dugongidae</a> uit <a href="/wiki/India" title="India">India</a>, ribben van een ongeïdentificeerde zeekoe uit <a href="/wiki/Hongarije" title="Hongarije">Hongarije</a> en grotere vondsten uit <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>, die tot de uitgestorven familie <a href="/wiki/Prorastomidae" title="Prorastomidae">Prorastomidae</a> worden gerekend. De Prorastomidae waren viervoetige planteneters die zich op het land nog goed konden redden, maar waarschijnlijk al hoofdzakelijk in het water leefden. Uit het latere Eoceen is ook het geslacht <i><a href="/wiki/Protosiren" title="Protosiren">Protosiren</a></i> bekend, dat wijdverspreid was over Europa, Egypte, Zuid-Azië en oostelijk Noord-Amerika en samen met twee nog onbeschreven geslachten uit het Eoceen van Florida de <a href="/wiki/Protosirenidae" title="Protosirenidae" class="mw-redirect">Protosirenidae</a> vormt, de tweede uitgestorven familie van de zeekoeien. Deze dieren hadden gereduceerde, maar waarschijnlijk nog functionele achterpoten. Vanaf het Eoceen ontwikkelden de Dugongidae, die nog slechts rudimentaire achterpoten hebben, een grote diversiteit; van deze familie zijn tientallen fossiele soorten bekend. De andere nog levende familie, de <a href="/wiki/Trichechidae" title="Trichechidae" class="mw-redirect">Trichechidae</a>, komt mogelijk voor het eerst voor in het Laat-Oligoceen van Europa, maar de oudste vondsten die met zekerheid tot de familie zijn te rekenen komen uit het Midden-Mioceen van Zuid-Amerika; deze familie heeft zich mogelijk uit de Dugongidae ontwikkeld. Uit het Mioceen en Plioceen zijn vele fossiele zeekoeien uit allerlei gebieden bekend, maar na het Plioceen verdween het grootste deel van deze diversiteit, vermoedelijk door de klimaatveranderingen van het <a href="/wiki/Pleistoceen" title="Pleistoceen">Pleistoceen</a>.</p>
+<p>De orde omvat de volgende geslachten en recente soorten:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<ul>
+<li><i><a href="/w/index.php?title=Sirenavus&amp;action=edit&amp;redlink=1" class="new" title="Sirenavus (de pagina bestaat niet)">Sirenavus</a></i> (Midden-<a href="/wiki/Eoceen" title="Eoceen">Eoceen</a> van <a href="/wiki/Europa_(continent)" title="Europa (continent)" class="mw-redirect">Europa</a>; behoort mogelijk tot de Prorastomidae)</li>
+<li><i><a href="/w/index.php?title=Anisosiren&amp;action=edit&amp;redlink=1" class="new" title="Anisosiren (de pagina bestaat niet)">Anisosiren</a></i> (Midden-Eoceen van Europa)</li>
+<li><i><a href="/w/index.php?title=Prohalicore&amp;action=edit&amp;redlink=1" class="new" title="Prohalicore (de pagina bestaat niet)">Prohalicore</a></i> (<a href="/wiki/Plioceen" title="Plioceen">Plioceen</a> van Europa; behoort mogelijk tot de Dugongidae)</li>
+<li>Familie <a href="/wiki/Prorastomidae" title="Prorastomidae">Prorastomidae</a> (Vroeg- tot Midden-Eoceen van <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>; omvat ook een onbeschreven geslacht uit het Vroeg- of Midden-Eoceen)
+<ul>
+<li><i><a href="/w/index.php?title=Pezosiren&amp;action=edit&amp;redlink=1" class="new" title="Pezosiren (de pagina bestaat niet)">Pezosiren</a></i> (Vroeg-Eoceen van Jamaica)</li>
+<li><i><a href="/wiki/Prorastomus" title="Prorastomus">Prorastomus</a></i> (Vroeg- tot Midden-Eoceen van Jamaica)</li>
+</ul>
+</li>
+<li>Familie <a href="/wiki/Protosirenidae" title="Protosirenidae" class="mw-redirect">Protosirenidae</a> (wijdverspreid in het Midden-Eoceen; omvat ook een onbeschreven geslacht uit het Midden-Eoceen van <a href="/wiki/Florida_(staat)" title="Florida (staat)">Florida</a> en <a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a> en mogelijk een tweede uit het Laat-Eoceen van Florida)
+<ul>
+<li><i><a href="/wiki/Protosiren" title="Protosiren">Protosiren</a></i> (Midden-Eoceen van <a href="/wiki/Egypte_(land)" title="Egypte (land)">Egypte</a>, Europa, <a href="/wiki/Zuid-Azi%C3%AB" title="Zuid-Azië">Zuid-Azië</a> en oostelijk <a href="/wiki/Noord-Amerika" title="Noord-Amerika">Noord-Amerika</a>)</li>
+</ul>
+</li>
+<li>Familie <a href="/wiki/Dugongidae" title="Dugongidae" class="mw-redirect">Dugongidae</a> (Vroeg-Eoceen tot heden)
+<ul>
+<li><i><a href="/w/index.php?title=Miodugong&amp;action=edit&amp;redlink=1" class="new" title="Miodugong (de pagina bestaat niet)">Miodugong</a></i> (<a href="/wiki/Mioceen" title="Mioceen">Mioceen</a> van <a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a>; mogelijk geen geldige soort)</li>
+<li>Onderfamilie <a href="/w/index.php?title=Halitheriinae&amp;action=edit&amp;redlink=1" class="new" title="Halitheriinae (de pagina bestaat niet)">Halitheriinae</a> (Midden-Eoceen tot Vroeg- of misschien Laat-Plioceen)
+<ul>
+<li><i><a href="/w/index.php?title=Eotheroides&amp;action=edit&amp;redlink=1" class="new" title="Eotheroides (de pagina bestaat niet)">Eotheroides</a></i> (Eoceen van Europa; Midden-Eoceen tot Vroeg-Oligoceen van Egypte; Eoceen van <a href="/wiki/India" title="India">India</a>)</li>
+<li><i><a href="/w/index.php?title=Eosiren&amp;action=edit&amp;redlink=1" class="new" title="Eosiren (de pagina bestaat niet)">Eosiren</a></i> (Eoceen van Europa, Egypte en India)</li>
+<li><i><a href="/w/index.php?title=Prototherium&amp;action=edit&amp;redlink=1" class="new" title="Prototherium (de pagina bestaat niet)">Prototherium</a></i> (Midden- tot Laat-Eoceen van <a href="/wiki/Itali%C3%AB" title="Italië">Italië</a> en <a href="/wiki/Spanje" title="Spanje">Spanje</a>)</li>
+<li><i><a href="/w/index.php?title=Paralitherium&amp;action=edit&amp;redlink=1" class="new" title="Paralitherium (de pagina bestaat niet)">Paralitherium</a></i> (Laat-Eoceen van Europa)</li>
+<li><i><a href="/w/index.php?title=Halitherium&amp;action=edit&amp;redlink=1" class="new" title="Halitherium (de pagina bestaat niet)">Halitherium</a></i> (Oligoceen van <a href="/wiki/Madagaskar" title="Madagaskar">Madagaskar</a>, Vroeg-Oligoceen tot Vroeg-Mioceen van Europa, Laat- en mogelijk Vroeg-Oligoceen van Noord-Amerika, Laat-Oligoceen tot Vroeg-Mioceen van <a href="/wiki/Azi%C3%AB" title="Azië">Azië</a>)</li>
+<li><i><a href="/w/index.php?title=Caribosiren&amp;action=edit&amp;redlink=1" class="new" title="Caribosiren (de pagina bestaat niet)">Caribosiren</a></i> (Laat-Oligoceen van <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>)</li>
+<li><i><a href="/wiki/Metaxytherium" title="Metaxytherium">Metaxytherium</a></i> (Vroeg-Mioceen tot Laat-Mioceen of Vroeg-Plioceen van <a href="/wiki/Noord-Afrika" title="Noord-Afrika">Noord-Afrika</a>; Vroeg-Mioceen tot Vroeg- en mogelijk Laat-Plioceen van Europa; Midden-, Laat- en mogelijk Vroeg-Mioceen van Noord-Amerika; Vroeg-Mioceen van Puerto Rico; Midden-Mioceen van <a href="/wiki/Cuba_(eiland)" title="Cuba (eiland)">Cuba</a>; Vroeg-Plioceen van <a href="/wiki/Zuid-Amerika" title="Zuid-Amerika">Zuid-Amerika</a> en <a href="/wiki/Nieuw-Zeeland" title="Nieuw-Zeeland">Nieuw-Zeeland</a>)</li>
+<li><i><a href="/w/index.php?title=Thalattosiren&amp;action=edit&amp;redlink=1" class="new" title="Thalattosiren (de pagina bestaat niet)">Thalattosiren</a></i> (Midden-Mioceen van Europa; mogelijk een jong exemplaar van <i>Metaxytherium</i>)</li>
+</ul>
+</li>
+<li>Onderfamilie <a href="/w/index.php?title=Dugonginae&amp;action=edit&amp;redlink=1" class="new" title="Dugonginae (de pagina bestaat niet)">Dugonginae</a> (Laat-Oligoceen tot heden; omvat ook een onbeschreven geslacht uit het Laat-Plioceen van Florida, de laatste vertegenwoordiger van de Dugongidae in de <a href="/wiki/Atlantische_Oceaan" title="Atlantische Oceaan">Atlantische Oceaan</a>)
+<ul>
+<li><i><a href="/w/index.php?title=Bharatisiren&amp;action=edit&amp;redlink=1" class="new" title="Bharatisiren (de pagina bestaat niet)">Bharatisiren</a></i> (Oligoceen tot Vroeg-Mioceen van India)</li>
+<li><i><a href="/w/index.php?title=Crenatosiren&amp;action=edit&amp;redlink=1" class="new" title="Crenatosiren (de pagina bestaat niet)">Crenatosiren</a></i> (Laat-Oligoceen van de zuidoostelijke <a href="/wiki/Verenigde_Staten" title="Verenigde Staten">Verenigde Staten</a>)</li>
+<li><i><a href="/w/index.php?title=Dioplotherium&amp;action=edit&amp;redlink=1" class="new" title="Dioplotherium (de pagina bestaat niet)">Dioplotherium</a></i> (Laat-Oligoceen tot Midden-Mioceen van Noord- en Zuid-Amerika)</li>
+<li><i><a href="/wiki/Rytiodus" title="Rytiodus">Rytiodus</a></i> (Mioceen van <a href="/wiki/Libi%C3%AB" title="Libië">Libië</a>; Vroeg-Mioceen van Europa en mogelijk <a href="/wiki/Brazili%C3%AB" title="Brazilië">Brazilië</a>)</li>
+<li><i><a href="/w/index.php?title=Xenosiren&amp;action=edit&amp;redlink=1" class="new" title="Xenosiren (de pagina bestaat niet)">Xenosiren</a></i> (Laat-Mioceen en/of Vroeg-Plioceen van <a href="/wiki/Yucat%C3%A1n_(schiereiland)" title="Yucatán (schiereiland)">Yucatán</a>)</li>
+<li><i><a href="/w/index.php?title=Indosiren&amp;action=edit&amp;redlink=1" class="new" title="Indosiren (de pagina bestaat niet)">Indosiren</a></i> (Laat-Mioceen van <a href="/wiki/Java_(eiland)" title="Java (eiland)">Java</a>)</li>
+<li><i><a href="/w/index.php?title=Corystosiren&amp;action=edit&amp;redlink=1" class="new" title="Corystosiren (de pagina bestaat niet)">Corystosiren</a></i> (Vroeg-Plioceen van Yucatán en Florida)</li>
+<li><i><a href="/wiki/Dugong" title="Dugong" class="mw-redirect">Dugong</a></i>
+<ul>
+<li><a href="/wiki/Doejong" title="Doejong">Doejong</a> (<i>Dugong dugon</i>) (<a href="/wiki/Indische_Oceaan" title="Indische Oceaan">Indische</a> en westelijke <a href="/wiki/Grote_Oceaan" title="Grote Oceaan">Grote Oceaan</a>; geen fossielen bekend)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Onderfamilie <a href="/w/index.php?title=Hydrodamalinae&amp;action=edit&amp;redlink=1" class="new" title="Hydrodamalinae (de pagina bestaat niet)">Hydrodamalinae</a> (Vroeg-Mioceen tot 1768)
+<ul>
+<li><i><a href="/w/index.php?title=Dusisiren&amp;action=edit&amp;redlink=1" class="new" title="Dusisiren (de pagina bestaat niet)">Dusisiren</a></i> (Vroeg- tot Laat-Mioceen van westelijk Noord-Amerika en <a href="/wiki/Japan" title="Japan">Japan</a>)</li>
+<li><i><a href="/wiki/Hydrodamalis" title="Hydrodamalis" class="mw-redirect">Hydrodamalis</a></i> (Laat-Mioceen tot Laat-<a href="/wiki/Pleistoceen" title="Pleistoceen">Pleistoceen</a> van westelijk Noord-Amerika; mogelijk Vroeg-Plioceen, Laat-Plioceen en mogelijk Midden-Pleistoceen van Japan; Laat-Pleistoceen tot 1768 in de <a href="/wiki/Beringzee" title="Beringzee">Beringzee</a>)
+<ul>
+<li><a href="/wiki/Stellerzeekoe" title="Stellerzeekoe">Stellerzeekoe</a> (<i>Hydrodamalis gigas</i>) (rond de <a href="/wiki/Komandorski-eilanden" title="Komandorski-eilanden">Komandorski-eilanden</a> in de Beringzee; in 1768 uitgeroeid)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Familie <a href="/wiki/Trichechidae" title="Trichechidae" class="mw-redirect">Trichechidae</a> (Laat-Oligoceen tot heden)
+<ul>
+<li>Onderfamilie <a href="/w/index.php?title=Miosireninae&amp;action=edit&amp;redlink=1" class="new" title="Miosireninae (de pagina bestaat niet)">Miosireninae</a> (Laat-Oligoceen tot Mioceen; ook wel tot de Dugongidae gerekend)
+<ul>
+<li><i><a href="/w/index.php?title=Anomotherium&amp;action=edit&amp;redlink=1" class="new" title="Anomotherium (de pagina bestaat niet)">Anomotherium</a></i> (Laat-Oligoceen van Europa)</li>
+<li><i><a href="/w/index.php?title=Miosiren&amp;action=edit&amp;redlink=1" class="new" title="Miosiren (de pagina bestaat niet)">Miosiren</a></i> (Mioceen van Europa)</li>
+</ul>
+</li>
+<li>Onderfamilie <a href="/w/index.php?title=Trichechinae&amp;action=edit&amp;redlink=1" class="new" title="Trichechinae (de pagina bestaat niet)">Trichechinae</a> (Vroeg-Mioceen tot heden)
+<ul>
+<li><i><a href="/w/index.php?title=Sirenotherium&amp;action=edit&amp;redlink=1" class="new" title="Sirenotherium (de pagina bestaat niet)">Sirenotherium</a></i> (Vroeg-Mioceen van Brazilië; ook wel tot de Dugongidae gerekend)</li>
+<li><i><a href="/w/index.php?title=Potamosiren&amp;action=edit&amp;redlink=1" class="new" title="Potamosiren (de pagina bestaat niet)">Potamosiren</a></i> (Midden-Mioceen van Colombia; de eerste oncontroversiële Trichechidae)</li>
+<li><i><a href="/w/index.php?title=Ribodon&amp;action=edit&amp;redlink=1" class="new" title="Ribodon (de pagina bestaat niet)">Ribodon</a></i> (Laat-Mioceen van <a href="/wiki/Argentini%C3%AB" title="Argentinië">Argentinië</a> en Vroeg-Plioceen van North Carolina)</li>
+<li><i><a href="/wiki/Trichechus" title="Trichechus" class="mw-redirect">Trichechus</a></i> (Plioceen tot heden in de Atlantische Oceaan)
+<ul>
+<li><a href="/wiki/Amazonelamantijn" title="Amazonelamantijn">Amazonelamantijn</a> (<i>Trichechus inunguis</i>) (<a href="/wiki/Amazonebekken" title="Amazonebekken">Amazonebekken</a>)</li>
+<li><a href="/wiki/Caribische_lamantijn" title="Caribische lamantijn">Caribische lamantijn</a> (<i>Trichechus manatus</i>) (Vroeg-Pleistoceen van Florida; levend in en rond de <a href="/wiki/Cara%C3%AFbische_Zee" title="Caraïbische Zee">Caraïbische Zee</a>)</li>
+<li><a href="/wiki/West-Afrikaanse_lamantijn" title="West-Afrikaanse lamantijn">West-Afrikaanse lamantijn</a> (<i>Trichechus senegalensis</i>) (<a href="/wiki/West-Afrika" title="West-Afrika">West-Afrika</a>)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Beschermingsstatus">Beschermingsstatus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=10" title="Bewerk dit kopje: Beschermingsstatus">bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:207px;"><a href="/wiki/Bestand:Dugo3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/0/00/Dugo3.jpg" width="205" height="154" class="thumbimage" data-file-width="205" data-file-height="154" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Bestand:Dugo3.jpg" class="internal" title="Vergroten"></a></div>
+Doejong.</div>
+</div>
+</div>
+<p>Alle soorten worden bejaagd om hun vlees; dat is vooral gedocumenteerd bij de <a href="/wiki/Indianen" title="Indianen">indianen</a> van de kusten van Noord- en Midden-Amerika. Ze gebruiken het vlees als voedsel en de huid en andere delen van het lichaam voor andere doeleinden. <a href="/wiki/William_Dampier" title="William Dampier">William Dampier</a> beschreef in 1681 de Caribische lamantijn uit de Golf van Mexico en de rivieren van <a href="/wiki/Panama_(land)" title="Panama (land)">Panama</a>. Hij behandelde ook de jacht op het dier door de <a href="/wiki/Miskito" title="Miskito">Miskito</a> en het gebruik van het vlees als voedsel en van de huid voor roeiriemen en zwepen. Er is echter nergens overmatige jacht bekend; de jacht gebeurde naargelang de behoefte. De Stellerzeekoe werd echter vanaf haar ontdekking door robbenjagers vervolgd en in grote aantallen gedood. De laatste dieren verdwenen in 1768, slechts 27 jaar na hun ontdekking door <a href="/wiki/Georg_Wilhelm_Steller" title="Georg Wilhelm Steller">Georg Wilhelm Steller</a>. Ook de doejong wordt bejaagd en in delen van haar verspreidingsgebied, bijvoorbeeld bij de <a href="/wiki/Filipijnen" title="Filipijnen">Filipijnen</a>, is dit dier uitgeroeid.</p>
+<p>Alle vier nog bestaande soorten worden door de <a href="/wiki/International_Union_for_Conservation_of_Nature_and_Natural_Resources" title="International Union for Conservation of Nature and Natural Resources">IUCN</a> als "kwetsbaar" (VU) beschouwd. De grootste bedreiging wordt tegenwoordig niet meer gevormd door de jacht, maar, vooral voor de Caribische lamantijn, door sportboten, die de dieren met hun schroeven zware verwondingen kunnen toebrengen. Vooral voor de kust van de <a href="/wiki/Verenigde_Staten" title="Verenigde Staten">Verenigde Staten</a> in de Golf van Mexico zijn hierom beschermde gebieden ingesteld, waar motorboten niet zijn toegestaan.</p>
+<p>Een verdere bedreiging is de verstoring van hun leefgebied door mensen; zeekoeien hebben om hun energiebehoefte te bevredigen behoefte aan een immense hoeveelheid waterplanten en ook aan een goede waterkwaliteit, die echter steeds meer afneemt. Vooral de rivieren in Zuid-Amerika en Afrika worden steeds troebeler en bevatten allerlei gifstoffen, zodat geschikte plantenrijke leefgebieden zeldzaam worden.</p>
+<h2><span class="mw-headline" id="Zeekoeien_in_mythologie.2C_kunst_en_literatuur">Zeekoeien in mythologie, kunst en literatuur</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=11" title="Bewerk dit kopje: Zeekoeien in mythologie, kunst en literatuur">bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Bestand:Manutus_australis.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Manutus_australis.jpg/220px-Manutus_australis.jpg" width="220" height="226" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Manutus_australis.jpg/330px-Manutus_australis.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Manutus_australis.jpg/440px-Manutus_australis.jpg 2x" data-file-width="472" data-file-height="484" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Bestand:Manutus_australis.jpg" class="internal" title="Vergroten"></a></div>
+<a href="/wiki/West-Afrikaanse_lamantijn" title="West-Afrikaanse lamantijn">West-Afrikaanse lamantijn</a> (tekening van J.A. Fleischmann).</div>
+</div>
+</div>
+<p>Zeekoeien werden en worden regelmatig in verband gebracht met <a href="/wiki/Zeemeermin" title="Zeemeermin">zeemeerminnen</a> of met de <a href="/wiki/Sirene_(halfgodin)" title="Sirene (halfgodin)">sirenen</a> uit de <a href="/wiki/Griekse_mythologie" title="Griekse mythologie">Griekse mythologie</a>, maar aangezien er geen zeekoeien in de <a href="/wiki/Middellandse_Zee" title="Middellandse Zee">Middellandse Zee</a> en daarmee in de omgeving van de Grieken voorkomen, is een samenhang tussen sirenen en zeekoeien uitgesloten. Overigens zijn er reeds uit de tijd van de <a href="/wiki/Babyloni%C3%AB" title="Babylonië">Babyloniërs</a> beschrijvingen van vismensen bekend, waaronder de god <a href="/w/index.php?title=Oannes&amp;action=edit&amp;redlink=1" class="new" title="Oannes (de pagina bestaat niet)">Oannes</a> en de godinnen <a href="/w/index.php?title=Atargatis&amp;action=edit&amp;redlink=1" class="new" title="Atargatis (de pagina bestaat niet)">Atargatis</a> en <a href="/w/index.php?title=Derketo&amp;action=edit&amp;redlink=1" class="new" title="Derketo (de pagina bestaat niet)">Derketo</a>, die ook bij de Grieken in de vorm van de <a href="/wiki/Nere%C3%AFden" title="Nereïden">Nereïden</a> en <a href="/w/index.php?title=Tritonen&amp;action=edit&amp;redlink=1" class="new" title="Tritonen (de pagina bestaat niet)">Tritonen</a> voorkomen.</p>
+<p><a href="/wiki/Christoffel_Columbus" title="Christoffel Columbus">Christoffel Columbus</a>, die in de Golf van Mexico op Caribische lamantijnen stootte en ze als zeemeerminnen beschreef, was de eerste die een verband legde tussen zeekoeien en de mythologische zeewezens. Men vermoedt dat deze associatie vooral terug te voeren is op de <a href="/wiki/Mammae" title="Mammae" class="mw-redirect">mammae</a> van de vrouwtjes, die ongeveer op de plaats van menselijke vrouwenborsten geplaatst zijn, en op het gezicht, dat uit de verte menselijk lijkt doordat de ogen aan de voorkant van de kop zitten. Van een afstand kan men zeekoeien inderdaad voor badende mensen houden, maar het gezang van de sirenen past niet bij zeekoeien. Columbus vermeldde in 1493 in zijn logboek dat de sirenen van de Caraïbische Zee minder mooi waren dan bij <a href="/wiki/Horatius" title="Horatius">Horatius</a>.</p>
+<p><a href="/wiki/Jules_Verne" title="Jules Verne">Jules Verne</a> gebruikte de beschrijving van de zeekoe als zeemeermin in zijn werk <i><a href="/wiki/20.000_mijlen_onder_zee" title="20.000 mijlen onder zee" class="mw-redirect">20.000 mijlen onder zee</a></i>, waarin de hoofdpersonen op een reusachtige vrouwelijke doejong stuiten en haar als zeemeermin identificeren. In de roman wordt de doejong geharpoeneerd, maar trekt de boot achter zich aan, valt hem aan en beschadigt hem. Ook in <i><a href="/wiki/Het_geheimzinnige_eiland" title="Het geheimzinnige eiland">Het geheimzinnige eiland</a></i> wordt de doejong als een agressief en gevaarlijk dier beschreven, dat een hond aanvalt, maar daarna zelf door <a href="/wiki/Kapitein_Nemo" title="Kapitein Nemo">Kapitein Nemo</a> wordt gedood.</p>
+<p>Vooral de Stellerzeekoe verschijnt vaak in boeken en verhalen, bijvoorbeeld bij <a href="/wiki/Rudyard_Kipling" title="Rudyard Kipling">Rudyard Kipling</a>. Ook in de kunst is de uitroeiing van dit dier als motief gebruikt. In de 19e eeuw maakte <a href="/w/index.php?title=Johann_Andreas_Fleischmann&amp;action=edit&amp;redlink=1" class="new" title="Johann Andreas Fleischmann (de pagina bestaat niet)">Johann Andreas Fleischmann</a> een serie <a href="/wiki/Ets" title="Ets">etsen</a> hierover.</p>
+<h2><span class="mw-headline" id="Naam">Naam</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=12" title="Bewerk dit kopje: Naam">bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>De Nederlandse naam "zeekoe" is voor het eerst aangetroffen in <i>Der Naturen Bloeme</i> van <a href="/wiki/Jacob_van_Maerlant" title="Jacob van Maerlant">Jacob van Maerlant</a> (1287), in de vorm "zee coe". Maerlant bedoelde waarschijnlijk de doejong. Volgens het <i><a href="/wiki/Woordenboek_der_Nederlandse_Taal" title="Woordenboek der Nederlandse Taal" class="mw-redirect">Woordenboek der Nederlandse Taal</a></i> is de term mogelijk terug te voeren op de op die van een rund gelijkende kop en op de geluiden die zeekoeien maken. De naam "zeekoe" is in het Nederlands overigens ook gebruikt voor de <a href="/wiki/Walrus" title="Walrus">walrus</a>, het <a href="/wiki/Nijlpaard" title="Nijlpaard">nijlpaard</a> en de <a href="/wiki/Vissen_(dieren)" title="Vissen (dieren)">vis</a> <i><a href="/wiki/Heniochus_varius" title="Heniochus varius">Heniochus varius</a></i>. In het <a href="/wiki/Afrikaans" title="Afrikaans">Afrikaans</a> wordt het nijlpaard nog steeds "seekoei" genoemd.</p>
+<p>De wetenschappelijke naam "Sirenia" voor de orde, die voor het eerst werd gebruikt door <a href="/wiki/Johann_Karl_Wilhelm_Illiger" title="Johann Karl Wilhelm Illiger">Johann Karl Wilhelm Illiger</a> in 1811, verwijst naar de sirenen uit de Griekse mythologie; in veel talen worden de zeekoeien met een hiervan afgeleide naam benoemd. Andere wetenschappelijke namen die voor de zeekoeien zijn gebruikt zijn Herbivorae Gray, 1821, Sirenoidea Van Beneden, 1855, Phycoceta Haeckel, 1866, Halobioidea Ameghino, 1889, Trichechiformes Hay, 1923 en Sireniformes Kinman, 1994.</p>
+<h2><span class="mw-headline" id="Literatuur">Literatuur</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=13" title="Bewerk dit kopje: Literatuur">bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Bajpaia, S., Thewissen, J.G.M., Kapura, V.V., Tiwaric, B.N. &amp; Sahnid, A. 2006. Eocene and Oligocene sirenians (Mammalia) from Kachchh, India. Journal of Vertebrate Paleontology 26(2):400-410.</li>
+<li>Fischer, M.S. 2004. Sirenia, Seekühe. In Westheide, W. &amp; Rieger, R. Spezielle Zoologie. Teil 2. Wirbel- oder Schädeltiere. München: Spektrum Akademischer Verlag. <a href="/wiki/Speciaal:Boekbronnen/9783827403070" class="internal mw-magiclink-isbn">ISBN 978-3-8274-0307-0</a></li>
+<li>Forsten, A. &amp; Youngman, P.M. 1982. <a rel="nofollow" class="external text" href="http://www.science.smith.edu/departments/Biology/VHAYSSEN/msi/pdf/i0076-3519-165-01-0001.pdf">Hydrodamalis gigas</a>. Mammalian Species 165:1-3.</li>
+<li>Gysseling, M. et al. 1977-1988. Vroegmiddelnederlands Woordenboek. <a rel="nofollow" class="external text" href="http://gtb.inl.nl/?owner=VMNW">Online raadpleegbaar</a>.</li>
+<li>Husar, S.L. 1978. <a rel="nofollow" class="external text" href="http://www.science.smith.edu/departments/Biology/VHAYSSEN/msi/pdf/i0076-3519-072-01-0001.pdf">Trichechus inunguis</a>. Mammalian Species 72:1-4.</li>
+<li>Husar, S.L. 1978. <a rel="nofollow" class="external text" href="http://www.science.smith.edu/departments/Biology/VHAYSSEN/msi/pdf/i0076-3519-088-01-0001.pdf">Dugong dugon</a>. Mammalian Species 88:1-7.</li>
+<li>Husar, S.L. 1978. <a rel="nofollow" class="external text" href="http://www.science.smith.edu/departments/Biology/VHAYSSEN/msi/pdf/i0076-3519-089-01-0001.pdf">Trichechus senegalensis</a>. Mammalian Species 89:1-3.</li>
+<li>Husar, S.L. 1978. <a rel="nofollow" class="external text" href="http://www.science.smith.edu/departments/Biology/VHAYSSEN/msi/pdf/i0076-3519-093-01-0001.pdf">Trichechus manatus</a>. Mammalian Species 93:1-5.</li>
+<li>McKenna, M.C. &amp; Bell, S.K. 1997. Classification of mammals: above the species level. New York: Columbia University Press, 631 pp. <a href="/wiki/Speciaal:Boekbronnen/9780231110136" class="internal mw-magiclink-isbn">ISBN 978-0-231-11013-6</a></li>
+<li>Nowak, R.M. 1999. Walker's Mammals of the World. Baltimore: The Johns Hopkins University Press. <a href="/wiki/Speciaal:Boekbronnen/9780801857898" class="internal mw-magiclink-isbn">ISBN 978-0-8018-5789-8</a></li>
+<li>Self-Sullivan, C. Ongedateerd. <a rel="nofollow" class="external text" href="http://www.sirenian.org/sirenianevolution.pdf">Evolution of the Sirenia</a>. 11 pp.</li>
+<li>Shoshani, J. 2005. Order Sirenia. Pp. 92-93 in Wilson, D.E. &amp; Reeder, D.M. (eds.). <a href="/wiki/Mammal_Species_of_the_World" title="Mammal Species of the World">Mammal Species of the World: a taxonomic and geographic reference</a>. 3rd ed. Baltimore: The Johns Hopkins University Press, 2 vols., 2142 pp. <a href="/wiki/Speciaal:Boekbronnen/9780801882210" class="internal mw-magiclink-isbn">ISBN 978-0-8018-8221-0</a></li>
+<li>Vries, M. de, Winkel, L.A. te et al. 1882-1998. Woordenboek der Nederlandsche Taal. <a rel="nofollow" class="external text" href="http://gtb.inl.nl/?owner=WNT">Online raadpleegbaar</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Noten">Noten</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=14" title="Bewerk dit kopje: Noten">bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="font-size:100%;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Deze indeling is grotendeels gebaseerd op McKenna &amp; Bell, 1997 en Self-Sullivan (ongedateerd), met aanvullingen van Bajpai et al. (2006). McKenna &amp; Bell plaatsen ook de geslachten <i><a href="/w/index.php?title=Florentinoameghinia&amp;action=edit&amp;redlink=1" class="new" title="Florentinoameghinia (de pagina bestaat niet)">Florentinoameghinia</a></i>, <i><a href="/w/index.php?title=Lophiodolodus&amp;action=edit&amp;redlink=1" class="new" title="Lophiodolodus (de pagina bestaat niet)">Lophiodolodus</a></i> uit respectievelijk het Vroeg-Eoceen en het Vroeg-Oligoceen van Zuid-Amerika binnen de zeekoeien, maar die worden nu als <a href="/wiki/Zoogdieren" title="Zoogdieren">Mammalia</a> <i><a href="/wiki/Incertae_sedis" title="Incertae sedis">incertae sedis</a></i> gezien.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Externe_links">Externe links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zeekoeien&amp;action=edit&amp;section=15" title="Bewerk dit kopje: Externe links">bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="interProject" style="display:none;"><a href="//commons.wikimedia.org/wiki/Category:Sirenia#mw-subcategories" class="extiw" title="commons:Category:Sirenia">Mediabestanden</a></div>
+<table id="commonscatklein" class="noprint plainlinks interProjectTemplate zusterprojectsjab" style="border:1px solid #aaaaaa; font-size:85%; background-color:#f9f9f9; width:270px; padding:4px; text-align:left; clear:right; float:right; margin:0 0 1em 1em;">
+<tr>
+<td>
+<div class="floatleft"><a href="/wiki/Bestand:Commons-logo.svg" class="image" title="Logo Wikimedia Commons"><img alt="Logo Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/25px-Commons-logo.svg.png" width="25" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/38px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/50px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+<div style="margin-left:30px;"><a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Commons</a> heeft meer mediabestanden in de categorie <i><b><a class="external text" href="//commons.wikimedia.org/wiki/Category:Sirenia?uselang=nl#mw-subcategories">Zeekoeien</a></b></i>.</div>
+</td>
+</tr>
+</table>
+<div class="interProject" style="display:none;"><a href="//species.wikimedia.org/wiki/Sirenia" class="extiw" title="wikispecies:Sirenia">Wikispecies</a></div>
+<table id="speciesklein" class="noprint interProjectTemplate zusterprojectsjab" style="clear:right; border:solid #aaaaaa 1px; margin:0 0 1em 1em; font-size:85%; background-color:#f9f9f9; width:270px; padding:4px; text-align:left; float:right;">
+<tr>
+<td>
+<div class="floatleft"><a href="/wiki/Bestand:Wikispecies-logo.svg" class="image" title="Logo Wikispecies"><img alt="Logo Wikispecies" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/25px-Wikispecies-logo.svg.png" width="25" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/38px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/50px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></div>
+<div style="margin-left: 30px;"><a href="//species.wikimedia.org/wiki/Hoofdpagina" class="extiw" title="wikispecies:Hoofdpagina">Wikispecies</a> heeft een pagina over <i><b><a href="//species.wikimedia.org/wiki/Sirenia" class="extiw" title="wikispecies:Sirenia">Sirenia</a></b></i>.</div>
+</td>
+</tr>
+</table>
+<ul>
+<li><span style="font-family:sans-serif; font-weight:bold; font-size:85%; cursor:help; color:#555555;" title="Taal: Engels">(<span style="border-bottom: 1px dotted #555555;">en</span>)</span> <a rel="nofollow" class="external text" href="http://www.sirenian.org/">Sirenian International</a></li>
+</ul>
+<div class="Top_icon_raw" id="tpl_Etalage" style="padding-top: 3px"><a href="/wiki/Wikipedia:Etalage" title="Etalagester"><img alt="Etalagester" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fairytale_bookmark.png/21px-Fairytale_bookmark.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fairytale_bookmark.png/32px-Fairytale_bookmark.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fairytale_bookmark.png/42px-Fairytale_bookmark.png 2x" data-file-width="64" data-file-height="64" /></a></div>
+<table class="toccolours" style="text-align:center; width:100%; font-size:85%; clear:both; margin-top:1em; margin-bottom:-7px;">
+<tr>
+<td width="20px"><a href="/wiki/Bestand:Fairytale_bookmark.png" class="image" title="Etalagester"><img alt="Etalagester" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fairytale_bookmark.png/21px-Fairytale_bookmark.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fairytale_bookmark.png/32px-Fairytale_bookmark.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fairytale_bookmark.png/42px-Fairytale_bookmark.png 2x" data-file-width="64" data-file-height="64" /></a></td>
+<td><font color="#333333">Dit artikel is op 8 december 2007 in <span class="plainlinks" style="color:#0645AD"><a class="external text" href="//nl.wikipedia.org/w/index.php?title=Zeekoeien&amp;oldid=10426093">deze versie</a></span> opgenomen in de <a href="/wiki/Wikipedia:Etalage" title="Wikipedia:Etalage">etalage</a>.</font></td>
+<td width="20px"></td>
+</tr>
+</table>
+<div class="interProject" style="display:none;"><a href="//nl.wiktionary.org/wiki/zeekoe" class="extiw" title="wikt:zeekoe">WikiWoordenboek</a></div>
+<div class="interProjectTemplate">
+<div id="tpl_Woordenboek" style="padding-top:0px;" class="Top_icon_raw zusterprojectsjab"><a href="//nl.wiktionary.org/wiki/zeekoe" title="Zoek dit woord op in WikiWoordenboek"><img alt="Zoek dit woord op in WikiWoordenboek" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RomanW-01.png/18px-RomanW-01.png" width="18" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RomanW-01.png/27px-RomanW-01.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RomanW-01.png/36px-RomanW-01.png 2x" data-file-width="92" data-file-height="64" /></a></div>
+</div>
+<div>
+<table class="navigatiesjabloon" style="width:100%; clear:both; margin-top:1em; margin-bottom:-7px; border:1px solid #aaaaaa; background-color:#f8f8f8;" cellpadding="0">
+<tr>
+<th style="width:100%; font-size:87%; padding-bottom:2px; text-align:center; background-color: #ddeef8; color:black;">Orden van <a href="/wiki/Zoogdieren" title="Zoogdieren">zoogdieren</a></th>
+<td valign="top" rowspan="2"><a href="/wiki/Bestand:ZoogdierIcoon.png" class="image" title="Olifant"><img alt="Olifant" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ZoogdierIcoon.png/50px-ZoogdierIcoon.png" width="50" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/c/c9/ZoogdierIcoon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/c/c9/ZoogdierIcoon.png 2x" data-file-width="60" data-file-height="44" /></a></td>
+</tr>
+<tr>
+<td align="center" style="font-size:87%; padding:0px 3px 0px 3px;" colspan="1">
+<p><a href="/wiki/Cloacadieren" title="Cloacadieren">Cloacadieren</a> · <a href="/wiki/Didelphimorphia" title="Didelphimorphia">Opossums</a> · <a href="/wiki/Paucituberculata" title="Paucituberculata">Paucituberculata</a> · <a href="/wiki/Microbiotheriidae" title="Microbiotheriidae">Microbiotheria</a> · <a href="/wiki/Roofbuideldieren" title="Roofbuideldieren">Roofbuideldieren</a> · <a href="/wiki/Buideldassen" title="Buideldassen">Buideldassen</a> · <a href="/wiki/Buidelmollen" title="Buidelmollen">Buidelmollen</a> · <a href="/wiki/Klimbuideldieren" title="Klimbuideldieren">Klimbuideldieren</a> · <a href="/wiki/Tenreks_en_goudmollen" title="Tenreks en goudmollen">Tenreks en goudmollen</a> · <a href="/wiki/Springspitsmuizen" title="Springspitsmuizen">Springspitsmuizen</a> · <a href="/wiki/Buistandigen" title="Buistandigen">Buistandigen</a> · <a href="/wiki/Klipdasachtigen" title="Klipdasachtigen">Klipdasachtigen</a> · <a href="/wiki/Slurfdieren" title="Slurfdieren">Slurfdieren</a> · <strong class="selflink">Zeekoeien</strong> · <a href="/wiki/Luiaards_en_miereneters" title="Luiaards en miereneters">Luiaards en miereneters</a> · <a href="/wiki/Gordeldierachtigen" title="Gordeldierachtigen">Gordeldierachtigen</a> · <a href="/wiki/Insecteneters" title="Insecteneters">Insecteneters</a> · <a href="/wiki/Vleermuizen" title="Vleermuizen">Vleermuizen</a> · <a href="/wiki/Schubdierachtigen" title="Schubdierachtigen">Schubdierachtigen</a> · <a href="/wiki/Roofdieren" title="Roofdieren">Roofdieren</a> · <a href="/wiki/Onevenhoevigen" title="Onevenhoevigen">Onevenhoevigen</a> · <a href="/wiki/Evenhoevigen" title="Evenhoevigen">Evenhoevigen</a> · <a href="/wiki/Walvisachtigen" title="Walvisachtigen">Walvissen</a> · <a href="/wiki/Knaagdieren" title="Knaagdieren">Knaagdieren</a> · <a href="/wiki/Haasachtigen" title="Haasachtigen">Haasachtigen</a> · <a href="/wiki/Huidvliegers" title="Huidvliegers">Huidvliegers</a> · <a href="/wiki/Toepaja%27s" title="Toepaja's">Toepaja's</a> · <a href="/wiki/Primaten" title="Primaten">Primaten</a><br />
+<a href="/wiki/Bestand:Portal.svg" class="image"><img alt="Portal.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/25px-Portal.svg.png" width="25" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/38px-Portal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/50px-Portal.svg.png 2x" data-file-width="36" data-file-height="32" /></a> <i><a href="/wiki/Portaal:Zoogdieren" title="Portaal:Zoogdieren">Portaal Zoogdieren</a> · <a href="/wiki/Zoogdieren#Indeling" title="Zoogdieren">Indeling van de zoogdieren</a> · <a href="/wiki/Lijst_van_zoogdieren_met_Nederlandse_namen" title="Lijst van zoogdieren met Nederlandse namen">Overzicht Nederlandse namen van zoogdieren</a></i></p>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!--
+NewPP limit report
+Parsed by mw1093
+CPU time usage: 0.332 seconds
+Real time usage: 0.407 seconds
+Preprocessor visited node count: 1578/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 16952/2097152 bytes
+Template argument size: 2970/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.005/10.000 seconds
+Lua memory usage: 493 KB/50 MB
+-->
+
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  188.009      1 - -total
+ 59.13%  111.171      1 - Sjabloon:Taxobox_zoogdier
+ 54.09%  101.696      1 - Sjabloon:Taxobox
+ 22.58%   42.449      1 - Sjabloon:Wikidata_afbeelding
+ 16.09%   30.242      1 - Sjabloon:Commonscatklein
+  4.75%    8.939      1 - Sjabloon:Navigatie_Mammalia
+  3.59%    6.745      1 - Sjabloon:Etalage
+  3.10%    5.822      1 - Sjabloon:Navigatie
+  2.83%    5.324      1 - Sjabloon:References
+  2.71%    5.089      5 - Sjabloon:InterProject
+-->
+
+<!-- Saved in parser cache with key nlwiki:pcache:idhash:53479-0!*!0!!nl!4!* and timestamp 20150128004856 and revision id 42781742
+ -->
+<noscript><img src="//nl.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Overgenomen van &quot;<a dir="ltr" href="http://nl.wikipedia.org/w/index.php?title=Zeekoeien&amp;oldid=42781742">http://nl.wikipedia.org/w/index.php?title=Zeekoeien&amp;oldid=42781742</a>&quot;					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Categorie:Alles" title="Categorie:Alles">Categorieën</a>: <ul><li><a href="/wiki/Categorie:Wikipedia:Etalage-artikelen" title="Categorie:Wikipedia:Etalage-artikelen">Wikipedia:Etalage-artikelen</a></li><li><a href="/wiki/Categorie:Zeekoe" title="Categorie:Zeekoe">Zeekoe</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Verborgen categorieën: <ul><li><a href="/wiki/Categorie:Wikipedia:Lokale_afbeelding_gelijk_aan_Wikidata" title="Categorie:Wikipedia:Lokale afbeelding gelijk aan Wikidata">Wikipedia:Lokale afbeelding gelijk aan Wikidata</a></li><li><a href="/wiki/Categorie:Wikipedia:Commonscat_met_lokaal_zelfde_link_als_op_Wikidata" title="Categorie:Wikipedia:Commonscat met lokaal zelfde link als op Wikidata">Wikipedia:Commonscat met lokaal zelfde link als op Wikidata</a></li><li><a href="/wiki/Categorie:Wikipedia:Etalage-artikelen_uit_2007" title="Categorie:Wikipedia:Etalage-artikelen uit 2007">Wikipedia:Etalage-artikelen uit 2007</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigatiemenu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Persoonlijke instellingen</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Speciaal:Aanmelden&amp;returnto=Zeekoeien&amp;type=signup" title="Registreer u vooral en meld u aan. Dit is echter niet vereist.">Registreren</a></li><li id="pt-login"><a href="/w/index.php?title=Speciaal:Aanmelden&amp;returnto=Zeekoeien" title="U wordt van harte uitgenodigd om u aan te melden als gebruiker, maar dit is niet verplicht [o]" accesskey="o">Aanmelden</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Naamruimten</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Zeekoeien"  title="Inhoudspagina bekijken [c]" accesskey="c">Artikel</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Overleg:Zeekoeien"  title="Overleg over deze pagina [t]" accesskey="t">Overleg</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Varianten</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Weergaven</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Zeekoeien" >Lezen</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Zeekoeien&amp;action=edit"  title="U kunt deze pagina bewerken. Gebruik de knop &quot;Bewerking ter controle bekijken&quot; voordat u de pagina opslaat [e]" accesskey="e">Bewerken</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Zeekoeien&amp;action=history"  title="Eerdere versies van deze pagina [h]" accesskey="h">Geschiedenis</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Meer</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Zoeken</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Zoeken" title="Zoeken in Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Speciaal:Zoeken" name="title" /><input type="submit" name="fulltext" value="Zoeken" title="Doorzoek alle pagina&#039;s op deze tekst" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Artikel" title="Direct naar een pagina met deze naam" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Hoofdpagina"  title="Naar de hoofdpagina gaan"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigatie</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage"><a href="/wiki/Hoofdpagina" title="Naar de hoofdpagina gaan [z]" accesskey="z">Hoofdpagina</a></li>
+													<li id="n-zoekartikel"><a href="/wiki/Portaal:Navigatie">Vind een artikel</a></li>
+													<li id="n-today"><a href="/wiki/30_januari">Vandaag</a></li>
+													<li id="n-Etalage"><a href="/wiki/Wikipedia:Etalage">Etalage</a></li>
+													<li id="n-categories"><a href="/wiki/Categorie:Alles">Categorieën</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Speciaal:RecenteWijzigingen" title="De lijst met recente wijzigingen in deze wiki. [r]" accesskey="r">Recente wijzigingen</a></li>
+													<li id="n-newpages"><a href="/wiki/Speciaal:NieuwePaginas">Nieuwe artikelen</a></li>
+													<li id="n-randompage"><a href="/wiki/Speciaal:Willekeurig" title="Een willekeurige pagina bekijken [x]" accesskey="x">Willekeurige pagina</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-navigation2' aria-labelledby='p-navigation2-label'>
+			<h3 id='p-navigation2-label'>Informatie</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-portal"><a href="/wiki/Portaal:Gebruikersportaal" title="Informatie over het project: wie, wat, hoe en waarom">Gebruikersportaal</a></li>
+													<li id="n-Snelcursus"><a href="/wiki/Wikipedia:Snelcursus">Snelcursus</a></li>
+													<li id="n-help"><a href="/wiki/Portaal:Hulp_en_beheer" title="Hulpinformatie over deze wiki">Hulp en contact</a></li>
+													<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_nl.wikipedia.org&amp;uselang=nl" title="Ondersteun ons financieel">Donaties</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Hulpmiddelen</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Speciaal:VerwijzingenNaarHier/Zeekoeien" title="Lijst met alle pagina&#039;s die naar deze pagina verwijzen [j]" accesskey="j">Links naar deze pagina</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Speciaal:RecenteWijzigingenGelinkt/Zeekoeien" title="Recente wijzigingen in pagina&#039;s waar deze pagina naar verwijst [k]" accesskey="k">Verwante wijzigingen</a></li>
+													<li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=nl" title="Bestanden uploaden [u]" accesskey="u">Bestand uploaden</a></li>
+													<li id="t-specialpages"><a href="/wiki/Speciaal:SpecialePaginas" title="Lijst met alle speciale pagina&#039;s [q]" accesskey="q">Speciale pagina's</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Zeekoeien&amp;oldid=42781742" title="Permanente koppeling naar deze versie van de pagina">Permanente koppeling</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Zeekoeien&amp;action=info" title="Meer informatie over deze pagina">Paginagegevens</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q25431" title="Koppeling naar item in verbonden gegevensrepository [g]" accesskey="g">Wikidata-item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Speciaal:Citeren&amp;page=Zeekoeien&amp;id=42781742" title="Informatie over hoe u deze pagina kunt citeren">Deze pagina citeren</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Afdrukken/exporteren</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Speciaal:Boek&amp;bookcmd=book_creator&amp;referer=Zeekoeien">Boek maken</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Speciaal:Boek&amp;bookcmd=render_article&amp;arttitle=Zeekoeien&amp;oldid=42781742&amp;writer=rdf2latex">Downloaden als PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Zeekoeien&amp;printable=yes" title="Printvriendelijke versie van deze pagina [p]" accesskey="p">Printervriendelijke versie</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>In andere talen</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AE%D9%8A%D9%84%D8%A7%D9%86%D9%8A%D8%A7%D8%AA" title="خيلانيات – Arabisch" lang="ar" hreflang="ar">العربية</a></li>
+													<li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Sirenl%C9%99r" title="Sirenlər – Azerbeidzjaans" lang="az" hreflang="az">Azərbaycanca</a></li>
+													<li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%A1%D1%96%D1%80%D1%8D%D0%BD%D1%8B,_%D0%B1%D1%96%D1%8F%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Сірэны, біялогія – Wit-Russisch" lang="be" hreflang="be">Беларуская</a></li>
+													<li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%A1%D1%8B%D1%80%D1%8D%D0%BD%D1%8B" title="Сырэны – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D0%B8" title="Сирени – Bulgaars" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-br"><a href="//br.wikipedia.org/wiki/Sirenia" title="Sirenia – Bretons" lang="br" hreflang="br">Brezhoneg</a></li>
+													<li class="interlanguage-link interwiki-ca badge-Q17437796 badge-featuredarticle" title="uitgelicht artikel"><a href="//ca.wikipedia.org/wiki/Sireni" title="Sireni – Catalaans" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-ceb"><a href="//ceb.wikipedia.org/wiki/Duyong" title="Duyong – Cebuano" lang="ceb" hreflang="ceb">Cebuano</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Sir%C3%A9ny" title="Sirény – Tsjechisch" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/S%C3%B8k%C3%B8er" title="Søkøer – Deens" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de badge-Q17437796 badge-featuredarticle" title="uitgelicht artikel"><a href="//de.wikipedia.org/wiki/Seek%C3%BChe" title="Seekühe – Duits" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A3%CE%B5%CE%B9%CF%81%CE%B7%CE%BD%CE%BF%CE%B5%CE%B9%CE%B4%CE%AE" title="Σειρηνοειδή – Grieks" lang="el" hreflang="el">Ελληνικά</a></li>
+													<li class="interlanguage-link interwiki-en"><a href="//en.wikipedia.org/wiki/Sirenia" title="Sirenia – Engels" lang="en" hreflang="en">English</a></li>
+													<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Sireno_(besto)" title="Sireno (besto) – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li>
+													<li class="interlanguage-link interwiki-es badge-Q17437798 badge-goodarticle" title="goed artikel"><a href="//es.wikipedia.org/wiki/Sirenia" title="Sirenia – Spaans" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Meriveiselised" title="Meriveiselised – Estisch" lang="et" hreflang="et">Eesti</a></li>
+													<li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Sirenia" title="Sirenia – Baskisch" lang="eu" hreflang="eu">Euskara</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DA%AF%D8%A7%D9%88_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C%E2%80%8C%D8%B3%D8%A7%D9%86%D8%A7%D9%86" title="گاو دریایی‌سانان – Perzisch" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Sireeniel%C3%A4imet" title="Sireenieläimet – Fins" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-fo"><a href="//fo.wikipedia.org/wiki/Sj%C3%B3k%C3%BAgv" title="Sjókúgv – Faeröers" lang="fo" hreflang="fo">Føroyskt</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Sirenia_(mammif%C3%A8re)" title="Sirenia (mammifère) – Frans" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-frr"><a href="//frr.wikipedia.org/wiki/Siaki" title="Siaki – Noord-Fries" lang="frr" hreflang="frr">Nordfriisk</a></li>
+													<li class="interlanguage-link interwiki-fy"><a href="//fy.wikipedia.org/wiki/Seekij" title="Seekij – Fries" lang="fy" hreflang="fy">Frysk</a></li>
+													<li class="interlanguage-link interwiki-ga"><a href="//ga.wikipedia.org/wiki/Sir%C3%A9ineach" title="Siréineach – Iers" lang="ga" hreflang="ga">Gaeilge</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A9%D7%90%D7%99%D7%9D" title="תחשאים – Hebreeuws" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Sirene_(%C5%BEivotinje)" title="Sirene (životinje) – Kroatisch" lang="hr" hreflang="hr">Hrvatski</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Tengeritehenek" title="Tengeritehenek – Hongaars" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Sirenia" title="Sirenia – Italiaans" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%82%B4%E3%83%B3%E7%9B%AE" title="ジュゴン目 – Japans" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-jbo"><a href="//jbo.wikipedia.org/wiki/sirenias" title="sirenias – Lojban" lang="jbo" hreflang="jbo">Lojban</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%A1%E1%83%98%E1%83%A0%E1%83%94%E1%83%9C%E1%83%94%E1%83%91%E1%83%98" title="სირენები – Georgisch" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%B0%94%EB%8B%A4%EC%86%8C%EB%AA%A9" title="바다소목 – Koreaans" lang="ko" hreflang="ko">한국어</a></li>
+													<li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Sirenia" title="Sirenia – Latijn" lang="la" hreflang="la">Latina</a></li>
+													<li class="interlanguage-link interwiki-lb"><a href="//lb.wikipedia.org/wiki/S%C3%A9ik%C3%A9i" title="Séikéi – Luxemburgs" lang="lb" hreflang="lb">Lëtzebuergesch</a></li>
+													<li class="interlanguage-link interwiki-li"><a href="//li.wikipedia.org/wiki/Ziekeuj" title="Ziekeuj – Limburgs" lang="li" hreflang="li">Limburgs</a></li>
+													<li class="interlanguage-link interwiki-lij"><a href="//lij.wikipedia.org/wiki/Sirenia" title="Sirenia – Ligurisch" lang="lij" hreflang="lij">Ligure</a></li>
+													<li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Sirenos_(gyv%C5%ABnai)" title="Sirenos (gyvūnai) – Litouws" lang="lt" hreflang="lt">Lietuvių</a></li>
+													<li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Sir%C4%93nas" title="Sirēnas – Lets" lang="lv" hreflang="lv">Latviešu</a></li>
+													<li class="interlanguage-link interwiki-mt"><a href="//mt.wikipedia.org/wiki/Baqra_tal-ba%C4%A7ar" title="Baqra tal-baħar – Maltees" lang="mt" hreflang="mt">Malti</a></li>
+													<li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Sj%C3%B8kyr" title="Sjøkyr – Noors - Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Sj%C3%B8kyr" title="Sjøkyr – Noors" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-nov"><a href="//nov.wikipedia.org/wiki/Sirenia" title="Sirenia – Novial" lang="nov" hreflang="nov">Novial</a></li>
+													<li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Sirenia" title="Sirenia – Occitaans" lang="oc" hreflang="oc">Occitan</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Syreny" title="Syreny – Pools" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Sirenia" title="Sirenia – Portugees" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-qu"><a href="//qu.wikipedia.org/wiki/Yaku_waka" title="Yaku waka – Quechua" lang="qu" hreflang="qu">Runa Simi</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Sirenieni" title="Sirenieni – Roemeens" lang="ro" hreflang="ro">Română</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D1%8B_(%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B5)" title="Сирены (млекопитающие) – Russisch" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-scn"><a href="//scn.wikipedia.org/wiki/Sirenia" title="Sirenia – Siciliaans" lang="scn" hreflang="scn">Sicilianu</a></li>
+													<li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Morske_krave" title="Morske krave – Servokroatisch" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Sirenia" title="Sirenia – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Sir%C3%A9ny" title="Sirény – Slowaaks" lang="sk" hreflang="sk">Slovenčina</a></li>
+													<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B5_%D0%BA%D1%80%D0%B0%D0%B2%D0%B5" title="Морске краве – Servisch" lang="sr" hreflang="sr">Српски / srpski</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Sirendjur" title="Sirendjur – Zweeds" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-sw"><a href="//sw.wikipedia.org/wiki/Nguva" title="Nguva – Swahili" lang="sw" hreflang="sw">Kiswahili</a></li>
+													<li class="interlanguage-link interwiki-te"><a href="//te.wikipedia.org/wiki/%E0%B0%B8%E0%B0%AE%E0%B1%81%E0%B0%A6%E0%B1%8D%E0%B0%B0%E0%B0%AA%E0%B1%81_%E0%B0%86%E0%B0%B5%E0%B1%81" title="సముద్రపు ఆవు – Telugu" lang="te" hreflang="te">తెలుగు</a></li>
+													<li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%B0%E0%B8%A2%E0%B8%B9%E0%B8%99" title="อันดับพะยูน – Thais" lang="th" hreflang="th">ไทย</a></li>
+													<li class="interlanguage-link interwiki-tl"><a href="//tl.wikipedia.org/wiki/Sirenia" title="Sirenia – Tagalog" lang="tl" hreflang="tl">Tagalog</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Deniz_inekleri" title="Deniz inekleri – Turks" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D0%B8_(%D1%82%D0%B2%D0%B0%D1%80%D0%B8%D0%BD%D0%B8)" title="Сирени (тварини) – Oekraïens" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/B%E1%BB%99_B%C3%B2_bi%E1%BB%83n" title="Bộ Bò biển – Vietnamees" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+													<li class="interlanguage-link interwiki-war"><a href="//war.wikipedia.org/wiki/Sirenia" title="Sirenia – Waray" lang="war" hreflang="war">Winaray</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%B5%B7%E7%89%9B%E7%9B%AE" title="海牛目 – Chinees" lang="zh" hreflang="zh">中文</a></li>
+													<li class="interlanguage-link interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E6%B5%B7%E7%89%9B%E7%9B%AE" title="海牛目 – Cantonese" lang="zh-yue" hreflang="zh-yue">粵語</a></li>
+													<li class="interlanguage-link interwiki-zu"><a href="//zu.wikipedia.org/wiki/Imvubu_yolwandle" title="Imvubu yolwandle – Zoeloe" lang="zu" hreflang="zu">IsiZulu</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q25431#sitelinks-wikipedia" text="Koppelingen bewerken" title="Intertaalkoppelingen bewerken" class="wbc-editpage">Koppelingen bewerken</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Deze pagina is het laatst bewerkt op 18 dec 2014 om 18:07.</li>
+											<li id="footer-info-copyright">De tekst is beschikbaar onder de licentie <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.nl">Creative Commons Naamsvermelding/Gelijk delen</a>, er kunnen aanvullende voorwaarden van toepassing zijn. Zie de <a href="//wikimediafoundation.org/wiki/Gebruiksvoorwaarden">gebruiksvoorwaarden</a> voor meer informatie.<br/> Wikipedia&reg; is een geregistreerd handelsmerk van de <a href="http://www.wikimediafoundation.org">Wikimedia Foundation, Inc.</a>, een organisatie zonder winstoogmerk.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia:Privacybeleid" title="Wikipedia:Privacybeleid">Privacybeleid</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia" title="Wikipedia">Over Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Vrijwaringsclausule" title="Wikipedia:Vrijwaringsclausule">Voorbehoud</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Ontwikkelaars</a></li>
+											<li id="footer-places-mobileview"><a href="//nl.m.wikipedia.org/w/index.php?title=Zeekoeien&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobiele weergave</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf14/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.Direct-link-to-Commons","ext.gadget.ProtectionTemplates","ext.gadget.IProject","ext.gadget.hoofdbetekenis-titelwijziging","ext.gadget.ReferenceTooltips","ext.gadget.OpenStreetMapFrame","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/nl.wikipedia.org/load.php?debug=false\u0026amp;lang=nl\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":116,"wgHostname":"mw1187"});
+}</script>
+	</body>
+</html>

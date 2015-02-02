@@ -35,6 +35,10 @@ func runPyTests(
 
 	filepath.Walk(dir,
 		func(path string, info os.FileInfo, err error) error {
+			if err != nil {
+				t.Fatalf("error while walking directory %s: %s", dir, err)
+			}
+
 			if info.IsDir() || !strings.HasSuffix(path, ".json") {
 				return nil
 			}
@@ -62,7 +66,7 @@ func runPyTests(
 				t.Fatalf("%s: %s", name, err)
 			}
 
-			a, err := FromHTML(string(html), Config{})
+			a, err := FromHTML(string(html))
 			if err != nil {
 				t.Fatalf("%s: %s", name, err)
 			}

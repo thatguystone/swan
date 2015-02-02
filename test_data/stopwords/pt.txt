@@ -1,0 +1,2131 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html dir="ltr" class="no-js ie6 ie" lang="pt-PT"> <![endif]-->
+<!--[if IE 7]>    <html dir="ltr" class="no-js ie7 ie" lang="pt-PT"> <![endif]-->
+<!--[if IE 8]>    <html dir="ltr" class="no-js ie8 ie" lang="pt-PT"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="pt-PT"><!--<![endif]-->
+    <head>
+    <title>Jerónimo ataca PS e as falsas mudanças dos que dizem que não são o PASOK de Portugal - Expresso.pt</title>
+    <link rel="canonical" href="http://expresso.sapo.pt/jeronimo-ataca-ps-e-as-falsas-mudancas-dos-que-dizem-que-nao-sao-o-pasok-de-portugal=f909074">
+    <meta name="resource-type" content="document">
+    <meta http-equiv="Content-Language" content="pt">
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <meta name="description" content="No discurso de abertura das jornadas parlamentares, em Aveiro, em&amp;#160;que a pol&amp;#237;tica do Governo foi alvo de fogo cerrado, a indireta maior do secret&amp;#225;rio-geral do PCP foi para Ant&amp;#243;nio Costa e para as &amp;quot;mudan&amp;#231;as de cosm&amp;#233;tica para que tudo fique na mesma&amp;quot;.">
+    <meta name="keywords" content="">
+    <meta name="rating" content="general">
+    <meta name="robots" content="index,follow">
+    <meta http-equiv="expires" content="never">
+    <meta name="Identifier-URL" content="http://expresso.sapo.pt/">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta name="distribution" content="global">
+    <meta name="author" content="EXPRESSO - Impresa Publishing S.A.">
+    <meta name="DC.date.issued" content="2015-02-02">
+
+
+
+        <meta property="og:title" content="Jerónimo ataca PS e &quot;as falsas mudanças dos que dizem que não são o PASOK de Portugal&quot;"/>
+        <meta property="og:site_name" content="Expresso"/>
+        <meta property="og:image" content="http://expresso.sapo.pt/users/3590/359063/pcpaveirords02-e9dd.jpg"/>
+        <meta property="og:description" content="No discurso de abertura das jornadas parlamentares, em Aveiro, em&amp;#160;que a pol&amp;#237;tica do Governo foi alvo de fogo cerrado, a indireta maior do secret&amp;#225;rio-geral do PCP foi para Ant&amp;#243;nio Costa e para as &amp;quot;mudan&amp;#231;as de cosm&amp;#233;tica para que tudo fique na mesma&amp;quot;."/>
+
+    <meta name="publisher" CONTENT="Jornal Semanário Expresso">
+    <meta name="copyright" content="2009, Sojornal S.A.">
+    <meta name="verify-v1" content="tGvqCZrxp3ztk4uVfD+GzegLdotQeHNmPvAXqJSRJ0w=">
+    <meta name="y_key" content="e7a16a36ab888060">
+    <meta name="msvalidate.01" content="1B9BC14763EE420ABDC46BE70A928758">
+
+    <style type="text/css"> /* v1.1 */
+        .bsu_almofada {clear: both;margin-bottom: 1.4em;overflow: hidden;min-height: 20px;font-size: 16px;}
+    </style>
+
+
+<script type="text/javascript">
+    var _vrq = _vrq || [];
+    _vrq.push(['id', 100]);
+    _vrq.push(['automate', true]);
+    _vrq.push(['track', function(){}]);
+    (function(d, a) {
+        var s = d.createElement(a),
+        x = d.getElementsByTagName(a)[0];
+        s.async = true;
+        s.src = 'http://a.visualrevenue.com/vrs.js';
+        x.parentNode.insertBefore(s, x);
+    })(document, 'script');
+</script>
+<!-- End of VR RR Tracking Script - All rights reserved -->
+
+
+    <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'></script>
+<script type='text/javascript'>
+  GS_googleAddAdSenseService("ca-pub-2356946001767358");
+  GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+  GA_googleAddSlot("ca-pub-2356946001767358", "Expresso_300x100");
+  GA_googleAddSlot("ca-pub-2356946001767358", "Expresso_Economia_300x100");
+  GA_googleAddSlot("ca-pub-2356946001767358", "Expresso_300x250");
+  GA_googleAddSlot("ca-pub-2356946001767358", "Expresso_600x300");
+  GA_googleAddSlot("ca-pub-2356946001767358", "Expresso_Overlay");
+  GA_googleAddSlot("ca-pub-2356946001767358", "300x40");
+  GA_googleAddSlot("ca-pub-2356946001767358", "940x60");
+</script>
+<script type='text/javascript'>
+  GA_googleFetchAds();
+</script>
+    <link rel="alternate" type="application/rss+xml" title="Jerónimo ataca PS e as falsas mudanças dos que dizem que não são o PASOK de Portugal - Expresso.pt" href="http://expresso.sapo.pt/static/rss/politica_25630.xml">
+
+
+
+
+    <link rel="stylesheet" type="text/css" href="http://expresso.sapo.pt/css/expresso-plugins-debug.css">
+    <link rel="stylesheet" type="text/css" href="http://expresso.sapo.pt/style/login-sso.css">
+    <link rel="stylesheet" type="text/css" href="http://expresso.sapo.pt/css/expresso-debug.css">
+    <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://expresso.sapo.pt/style/ie.css"><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="http://expresso.sapo.pt/style/ie8.css"><![endif]-->
+    <!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="http://expresso.sapo.pt/style/ie7.css"><![endif]-->
+
+
+    <link rel="stylesheet" type="text/css" href="http://expresso.sapo.pt/css/expresso-stories-debug.css">
+
+    <script type="text/javascript" src="http://expresso.sapo.pt/js/expresso-plugins-debug.js"></script>
+    <script type="text/javascript" src="http://widgets.twimg.com/j/2/widget.js"></script>
+    <script type="text/javascript" src="https://id.impresa.pt/js/impresa-sso.js"></script>
+    <script type="text/javascript" src="http://expresso.sapo.pt/js/expresso-sso-debug.js"></script>
+    <script type="text/javascript" src="http://expresso.sapo.pt/js/expresso-debug.js"></script>
+    <script type="text/javascript"  src="http://expresso.sapo.pt/script/destaques_colright.js"></script>
+    <script type="text/javascript"  src="http://expresso.sapo.pt/script/favorites.js"></script>
+
+    <script type="text/javascript" src="http://expresso.sapo.pt/js/expresso-stories-debug.js"></script>
+
+        <script type="text/javascript" src="http://expresso.sapo.pt/script/autorun.js"></script>
+        <script type="text/javascript">
+            var TileID = Math.floor(Math.random()*10000);
+        </script>
+        <script type="text/javascript">
+            if(document.location.protocol=='http:'){
+                var Tynt=Tynt||[];Tynt.push('di5G9mLP8r4iYeadbi-bnq');Tynt.i={"ap":"Ler mais:"};
+                (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var
+                 h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+            }
+        </script>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-4263503-16']);
+            _gaq.push(['_setDomainName', '.expresso.sapo.pt']);
+            _gaq.push(['_setAllowHash', 'false']);
+            _gaq.push(['_trackPageview']);
+            _gaq.push(['_trackPageLoadTime']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+
+        <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+    </head>
+    <body class="stories-view-listasimples listasimples">
+<div id="exwrapper">
+  <div id="bsu_root">
+  <div class="bsu_almofada"></div>
+  </div>
+
+
+
+<div id="exstoryheader">
+    <div class="exstoryheader-container">
+        <div class="exstoryheader-left">
+            <a href="http://expresso.sapo.pt/" class="logo">
+                <img alt="Expresso" src="http://expresso.sapo.pt/images/quarentaanos/ex-logo-small.png" height="38" width="38">
+            </a>
+            <div class="dropdown-container" data-dropdown="#main-menu">
+                <a class="icon dropdown" data-dropdown-close><i class="icon-reorder"></i></a>
+                <nav id="main-menu" class="expandable-menu">
+                    <ul>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/23411&amp;p=index&amp;op=view&amp;mid1=ex.menus/119" data-oid="119" class=" _pi">Início</a>
+</li>
+<li>
+<a href="/politica?mid1=ex.menus/475" data-oid="475" class="active ">Política</a>
+</li>
+<li>
+<a href="/sociedade?mid1=ex.menus/283" data-oid="283" class=" ">Sociedade</a>
+</li>
+<li>
+<a href="/internacional?mid1=ex.menus/476" data-oid="476" class=" ">Internacional</a>
+</li>
+<li>
+<a href="/economia" data-oid="20" class=" _economia">Economia</a>
+
+<ul>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/23413&amp;p=24h&amp;mid1=ex.menus/20&amp;m2=221" data-oid="221" class=" ">Últimas</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25668&amp;mid1=ex.menus/20&amp;m2=507" data-oid="507" class=" ">Exame</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25562&amp;mid1=ex.menus/20&amp;m2=460" data-oid="460" class=" ">Dívida</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25358&amp;mid1=ex.menus/20&amp;m2=410" data-oid="410" class=" ">Energia</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25364&amp;mid1=ex.menus/20&amp;m2=414" data-oid="414" class=" ">Carros</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25357&amp;mid1=ex.menus/20&amp;m2=407" data-oid="407" class=" ">Turismo</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25361&amp;mid1=ex.menus/20&amp;m2=409" data-oid="409" class=" ">Luxo</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25096&amp;mid1=ex.menus/20&amp;m2=345" data-oid="345" class=" ">WorldGMC</a>
+</li>
+<li>
+<a href="/gen.pl?p=stories&op=view&fokey=ex.stories/766931" data-oid="261" class=" ">500 M&M</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25173&amp;mid1=ex.menus/20&amp;m2=429" data-oid="429" class=" ">Melhores para trabalhar</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gic" data-oid="510" class=" ">GIC</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/23413&amp;p=arquivo&amp;mid1=ex.menus/20&amp;m2=270" data-oid="270" class=" ">Arquivo</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/desporto" data-oid="21" class=" ">Desporto</a>
+</li>
+<li>
+<a href="/cultura?mid1=ex.menus/477" data-oid="477" class=" ">Cultura</a>
+</li>
+<li>
+<a href="/opiniao" data-oid="23" class=" ">Opinião</a>
+<ul>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25609&amp;mid1=ex.menus/23&amp;m2=502" data-oid="502" class=" ">Henrique Monteiro</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25282&amp;mid1=ex.menus/23&amp;m2=503" data-oid="503" class=" ">Daniel Oliveira</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25269&amp;mid1=ex.menus/23&amp;m2=504" data-oid="504" class=" ">Henrique Raposo</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25615&amp;mid1=ex.menus/23&amp;m2=505" data-oid="505" class=" ">Nicolau Santos</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25024&amp;mid1=ex.menus/23&amp;m2=48" data-oid="48" class=" ">Cartoons</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/23425&amp;mid1=ex.menus/23&amp;m2=45" data-oid="45" class=" ">Está dito</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/23416&amp;mid1=ex.menus/23&amp;m2=436" data-oid="436" class=" ">Direito de resposta</a>
+</li>
+<li>
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/23423&amp;mid1=ex.menus/23&amp;m2=506" data-oid="506" class=" ">Blogues</a>
+</li>
+</ul>
+</li>
+</ul>
+
+                    <ul>
+<li>
+<a href="http://leitor.expresso.pt" data-oid="534" class=" ">Diário</a>
+</li>
+<li class="yellow">
+<a href="http://expressoemprego.pt/" data-oid="526" class=" _destaqueyellow">Emprego</a>
+</li>
+<li class="yellow">
+<a href="http://bpiexpressoimobiliario.pt/" data-oid="527" class=" _destaqueyellow">Casas</a>
+</li>
+<li class="blue">
+<a href="http://escape.expresso.sapo.pt/" data-oid="528" class=" _destaqueblue">Lazer</a>
+</li>
+<li class="blue">
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25699&amp;mid1=ex.menus/525&amp;m2=529" data-oid="529" class=" _destaqueblue">GIC</a>
+</li>
+</ul>
+
+                </nav>
+            </div>
+            <div class="opt title-wrapper">
+                <a class="title" title="Jerónimo ataca PS e "as falsas mudanças dos que dizem que não são o PASOK de Portugal"">Jerónimo ataca PS e "as falsas mudanças dos que dizem que não são o PASOK de Portugal"</a>
+            </div>
+        </div>
+        <div class="exstoryheader-right">
+            <a href="#" class="share facebook"><span class='st_facebook_custom'><span>partilhe nas redes</span> <i class="icon-facebook"></i></span></a>
+            <a href="#" class="share twitter"><span class='st_twitter_custom'><span>partilhe nas redes</span> <i class="icon-twitter"></i></span></a>
+            <a href="#comentarios" class="opt vr"><i class="icon-message"></i> 3</a>
+            <div class="logininfo opt vr"></div>
+            <script type="text/javascript">
+                var uid = '&uid='+(new Date().getTime());
+                jQuery(document).ready(function() {
+                    jQuery('#exstoryheader .logininfo').load('http://expresso.sapo.pt/gen.pl?p=index&op=view:ajaxloginstory&sid=ex.sections/25630'+uid, function(){});
+                });
+            </script>
+            <a id="search-btn" href="#" class="search opt vr"><i class="icon-magnifying"></i></a>
+            <!-- begin search -->
+            <div id="searchbox" class="exbox">
+                <form id="cse-search-box" target="_blank" action="http://www.google.com/cse">
+                    <input type="hidden" name="cx" value="partner-pub-9486303979574677:wgdgz1e0nvo" />
+                    <input type="hidden" name="ie" value="ISO-8859-1" name="q"/>
+                    <div class="searchBoxBorder"><input name="q" type="text" class="searchBox"></div>
+                    <div class="searchButton"><a href="javascript:submitform()">pesquisar</a></div>
+                </form>
+                <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=pt"></script>
+                <a class="searchbox-close" title="fechar" href="#">
+                   &nbsp;
+                </a>
+            </div>
+            <!-- end search -->
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<div id="subheader" class="automatic">
+    <div class="swiper">
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/salgado-manda-mais-uma-carta-ao-parlamento-a-explicar-a-anterior=f909081">
+  <img src="/imv/2/248/976/carta-d760.jpg" width="120" height='82' alt="Na segunda carta enviada aos deputados, Ricardo Salgado contextualiza a informação que tinha feito chegar anteriormente. O objetivo, escreveu, era garantir que a sua resposta anterior não fosse &quot;desvirtuada para outros fins&quot;" title="Na segunda carta enviada aos deputados, Ricardo Salgado contextualiza a informação que tinha feito chegar anteriormente. O objetivo, escreveu, era garantir que a sua resposta anterior não fosse &quot;desvirtuada para outros fins&quot;" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/salgado-manda-mais-uma-carta-ao-parlamento-a-explicar-a-anterior=f909081" >Salgado manda mais uma carta ao Parlamento. A explicar a anterior</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/mercado-da-bola-os-que-chegam-os-que-saem-e-os-que-ficam=f909055">
+  <img src="/imv/2/248/746/spo-18765022-7a66.jpg" width="120" height='82' alt="Este menino, Cuadrado, está a correr para o Chelsea de Mourinho" title="Este menino, Cuadrado, está a correr para o Chelsea de Mourinho" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/mercado-da-bola-os-que-chegam-os-que-saem-e-os-que-ficam=f909055" >Mercado da bola. Os que chegam, os que saem e os que ficam</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/presidente-do-parlamento-europeu-aconselha-tsipras-a-deixar-a-retorica-anti-alemanha=f908994">
+  <img src="/imv/2/248/449/martin-3a34.jpg" width="120" height='82' alt="Numa entrevista, Martin Schulz (esq) diz ter pedido a Tsipras que mude o seu discurso: &quot;Recomendei-lhe insistentemente que se desarme no plano verbal. Isso não lhe traz nada&quot;" title="Numa entrevista, Martin Schulz (esq) diz ter pedido a Tsipras que mude o seu discurso: &quot;Recomendei-lhe insistentemente que se desarme no plano verbal. Isso não lhe traz nada&quot;" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/presidente-do-parlamento-europeu-aconselha-tsipras-a-deixar-a-retorica-anti-alemanha=f908994" >Presidente do Parlamento Europeu aconselha Tsipras a deixar a retórica anti-Alemanha</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/a-rota-jiadista-entre-londres-e-lisboa=f909056">
+  <img src="/imv/2/248/731/fabio-6195.jpg" width="120" height='82' alt="Fabio, um dos portugueses que foi para a jiade a partir de Londres" title="Fabio, um dos portugueses que foi para a jiade a partir de Londres" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/a-rota-jiadista-entre-londres-e-lisboa=f909056" >A rota jiadista entre Londres e Lisboa</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/jeronimo-ataca-ps-e-as-falsas-mudancas-dos-que-dizem-que-nao-sao-o-pasok-de-portugal=f909074">
+  <img src="/imv/2/248/926/pcpaveirords02-fb55.jpg" width="120" height='82' alt="Jerónimo ataca PS e &quot;as falsas mudanças dos que dizem que não são o PASOK de Portugal&quot;" title="Jerónimo ataca PS e &quot;as falsas mudanças dos que dizem que não são o PASOK de Portugal&quot;" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/jeronimo-ataca-ps-e-as-falsas-mudancas-dos-que-dizem-que-nao-sao-o-pasok-de-portugal=f909074" >Jerónimo ataca PS e "as falsas mudanças dos que dizem que não são o PASOK de Portugal"</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/arma-liga-portugues-ao-carrasco-jihadi-john=f909070">
+  <img src="/imv/2/248/818/manchete-725f.jpg" width="120" height='82' alt="Nero Saraiva, um dos cinco portugueses da célula de Leyton e um dos braços-direitos do carrasco britânico Jihadi John" title="Nero Saraiva, um dos cinco portugueses da célula de Leyton e um dos braços-direitos do carrasco britânico Jihadi John" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/arma-liga-portugues-ao-carrasco-jihadi-john=f909070" >Arma liga português ao carrasco Jihadi John</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/durao-vai-dar-aulas-na-catolica=f909077">
+  <img src="/imv/2/248/939/durao-barroso-ec56-7d78.jpg" width="120" height='82' alt="Durão vai dar aulas na Católica" title="Durão vai dar aulas na Católica" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/durao-vai-dar-aulas-na-catolica=f909077" >Durão vai dar aulas na Católica</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/quinze-professores-nao-conseguiram-escapar-a-requalificacao=f909088"></a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/quinze-professores-nao-conseguiram-escapar-a-requalificacao=f909088" >Quinze professores não conseguiram escapar à requalificação</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/financas-tem-novo-site-para-evitar-bloqueios=f909065">
+  <img src="/imv/2/248/779/portal-3682.jpg" width="120" height='82' alt="A nova página de acesso ao Portal das Finanças" title="A nova página de acesso ao Portal das Finanças" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/financas-tem-novo-site-para-evitar-bloqueios=f909065" >Finanças têm novo site para evitar bloqueios</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/farmacias-comecam-a-receber-incentivos-em-troca-de-genericos=f909078"></a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/farmacias-comecam-a-receber-incentivos-em-troca-de-genericos=f909078" >Farmácias começam a receber incentivos em troca de genéricos</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/eua-ponderam-fornecer-armas-a-ucrania-rebeldes-respondem-com-novos-recrutamentos=f909066">
+  <img src="/imv/2/248/829/ucrania-7842.jpg" width="120" height='82' alt="Forças ucranianas fazem uma pausa na caserna junto a um checkpoint em Debaltseve, no leste da Ucrânia" title="Forças ucranianas fazem uma pausa na caserna junto a um checkpoint em Debaltseve, no leste da Ucrânia" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/eua-ponderam-fornecer-armas-a-ucrania-rebeldes-respondem-com-novos-recrutamentos=f909066" >EUA ponderam fornecer armas à Ucrânia. Rebeldes respondem com novos recrutamentos</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/falso-alarme-levou-a-evacuacao-de-quatro-edificios-do-parlamento-europeu=f909076"></a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/falso-alarme-levou-a-evacuacao-de-quatro-edificios-do-parlamento-europeu=f909076" >Falso alarme levou à evacuação de quatro edifícios do Parlamento Europeu </a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/japao-reforca-seguranca-apos-morte-de-kenji-goto=f909050">
+  <img src="/imv/2/248/673/ebf-18797209-279a.jpg" width="120" height='82' alt="O Executivo japonês ordenou também o reforço das medidas de segurança no país" title="O Executivo japonês ordenou também o reforço das medidas de segurança no país" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/japao-reforca-seguranca-apos-morte-de-kenji-goto=f909050" >Japão reforça segurança após morte de Kenji Goto</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/caso-meco-dux-falta-a-frente-a-frente-com-familias=f909054"></a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/caso-meco-dux-falta-a-frente-a-frente-com-familias=f909054" >Caso Meco. 'Dux' falta a frente a frente com famílias</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/strauss-kahn-esta-na-lama-e-nao-pode-cair-mais-baixo-escandalo-sexual-em-julgamento=f909044">
+  <img src="/imv/2/248/621/strauss-cb2e.jpg" width="120" height='82' alt="Strauss-Kahn enfrenta a partir desta segunda-feira um julgamento muito complicado no chamado &quot;escândalo do Carlton de Lille&quot; " title="Strauss-Kahn enfrenta a partir desta segunda-feira um julgamento muito complicado no chamado &quot;escândalo do Carlton de Lille&quot; " >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/strauss-kahn-esta-na-lama-e-nao-pode-cair-mais-baixo-escandalo-sexual-em-julgamento=f909044" >Strauss-Kahn está na lama e não pode cair mais baixo. Escândalo sexual em julgamento</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/sudao-do-sul-volta-a-tentar-a-paz-a-setima-sera-de-vez=f909062">
+  <img src="/imv/2/248/769/gm1eb221dt101-e1da.jpg" width="120" height='82' alt="O Presidente Salva Kiir e vice-Presidente Riek Machar assinaram o sétimo acordo de cessar-fogo" title="O Presidente Salva Kiir e vice-Presidente Riek Machar assinaram o sétimo acordo de cessar-fogo" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/sudao-do-sul-volta-a-tentar-a-paz-a-setima-sera-de-vez=f909062" >Sudão do Sul volta a tentar a paz. À sétima será de vez?</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/manifestacao-na-ilha-terceira-contra-reducao-militar-na-base-das-lajes=f909007">
+  <img src="/imv/2/248/506/lajes-9b32.jpg" width="120" height='82' alt="O protesto decorreu de forma pacífica, sem cartazes ou gritos de luta" title="O protesto decorreu de forma pacífica, sem cartazes ou gritos de luta" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/manifestacao-na-ilha-terceira-contra-reducao-militar-na-base-das-lajes=f909007" >Manifestação na ilha Terceira contra redução militar na Base das Lajes</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/patriots-de-tom-brady-vencem-super-bowl=f909037">
+  <img src="/imv/2/248/578/matthewemmonsreuters-f5f3.jpg" width="120" height='82' alt="Tom Brady a celebrar a vitória" title="Tom Brady a celebrar a vitória" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/patriots-de-tom-brady-vencem-super-bowl=f909037" >Patriots de Tom Brady vencem Super Bowl </a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/libertado-um-dos-jornalistas-da-al-jazeera-preso-no-egito=f909000">
+  <img src="/imv/2/248/471/peter-99ff.jpg" width="120" height='82' alt="Peter Geste durante o seu julgamento no Cairo, em 2014" title="Peter Geste durante o seu julgamento no Cairo, em 2014" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/libertado-um-dos-jornalistas-da-al-jazeera-preso-no-egito=f909000" >Libertado um dos jornalistas da Al Jazeera preso no Egito</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/a-tv-nao-os-quis-mas-agora-quer-a-net-adora-os-vamos-entrar-pela-porta-dos-fundos=f908862">
+  <img src="/imv/2/247/792/fundos1-5e01.jpg" width="120" height='82' alt="Pensativo. Depois da TV, o que se seguirá para o Porta dos Fundos?" title="Pensativo. Depois da TV, o que se seguirá para o Porta dos Fundos?" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/a-tv-nao-os-quis-mas-agora-quer-a-net-adora-os-vamos-entrar-pela-porta-dos-fundos=f908862" >A TV não os quis (mas agora quer), a net adora-os. Vamos entrar pela Porta dos Fundos</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/luis-nazare-dirige-plataforma-de-meios-privados=f909057">
+  <img src="/imv/2/248/729/nazare-e9a1.jpg" width="120" height='82' alt="A nomeação de Luís Nazaré foi confirmada hoje em comunicado e ocorre na sequência da saída do anterior diretor, Pedro Reis, que invocou motivos pessoais para se afastar do cargo que assumira este verão" title="A nomeação de Luís Nazaré foi confirmada hoje em comunicado e ocorre na sequência da saída do anterior diretor, Pedro Reis, que invocou motivos pessoais para se afastar do cargo que assumira este verão" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/luis-nazare-dirige-plataforma-de-meios-privados=f909057" >Luís Nazaré dirige Plataforma de Meios Privados</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/marcelo-rebelo-de-sousa-grecia-e-tema-arriscado-para-usar-na-campanha=f909011"></a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/marcelo-rebelo-de-sousa-grecia-e-tema-arriscado-para-usar-na-campanha=f909011" >Marcelo Rebelo de Sousa. Grécia é "tema arriscado" para usar na campanha</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/manifestantes-regressam-a-rua-em-hong-kong=f908989"></a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/manifestantes-regressam-a-rua-em-hong-kong=f908989" >Manifestantes regressam à rua em Hong Kong</a>
+</h4>
+    </div>
+</div>
+
+
+<div class="swiper-slide">
+    <div class="subheader-img">
+        <a href="/guerra-dos-tronos-ja-nao-vai-dar-para-dizer-gostei-mais-do-livro=f908948">
+  <img src="/imv/2/248/164/t-29fa.png" width="120" height='82' alt="Guerra dos Tronos. Já não vai dar para dizer &quot;gostei mais do livro&quot;" title="Guerra dos Tronos. Já não vai dar para dizer &quot;gostei mais do livro&quot;" >
+</a>
+    </div>
+    <div class="subheader-text">
+        <h4>
+<a href="/guerra-dos-tronos-ja-nao-vai-dar-para-dizer-gostei-mais-do-livro=f908948" >Guerra dos Tronos. Já não vai dar para dizer "gostei mais do livro"</a>
+</h4>
+    </div>
+</div>
+
+
+
+            </div>
+        </div>
+        <div class="swiper-navigation">
+            <span class="previous"><i class="icon-chevron_left"></i></span>
+            <span class="next"><i class="icon-chevron_right"></i></span>
+        </div>
+    </div>
+</div>
+
+    <div id="mainTable">
+
+
+
+          <a class='story-navigation prev-story' href='pcp-producao-nacional-e-emprego-sao-eixos-centrais-para-saida-da-crise=f909038'>
+                        <span>Anterior</span><h5>PCP. Produção nacional e emprego são "eixos centrais" para saída da crise</h5><i class='icon-chevron_left'></i>
+                     </a>
+
+              <div id="section_table" class="row">
+        <div class="span24">
+            <div class="levels"><span class="levelsAnchors"><a href="http://expresso.sapo.pt/" target="_top">Página Inicial</a></span>
+&nbsp;&nbsp;&gt;&nbsp;&nbsp;<span class="levelsAnchors"><a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25630" target="_top">Política</a></span>&nbsp;&nbsp;&gt;&nbsp;&nbsp;<span class="levelsAnchors">Jerónimo ataca PS e "as falsas mudanças dos que dizem que não são o PASOK de Portugal"</span>
+</div>
+        </div>
+        <div id="section_col" class="span16">
+
+
+
+
+
+
+
+
+
+
+<article id="artigo">
+    <header>
+        <p class="article-pretitle">
+</p>
+        <h1>Jerónimo ataca PS e "as falsas mudanças dos que dizem que não são o PASOK de Portugal"</h1>
+        <summary>No discurso de abertura das jornadas parlamentares, em Aveiro, em que a política do Governo foi alvo de fogo cerrado, a indireta maior do secretário-geral do PCP foi para António Costa e para as "mudanças de cosmética para que tudo fique na mesma".</summary>
+
+        <section class="article-social">
+
+            <div class="share">
+                <span class='st_facebook_custom'><i class="icon-facebook_circle"></i></span>
+                <span class='st_twitter_custom'><i class="icon-twitter_circle"></i></span>
+                <span class='st_linkedin_custom'><i class="icon-linked_in_circle"></i></span>
+                <span class='st_googleplus_custom'><i class="icon-google_plus_circle"></i></span>
+                <span class='st_sharethis_custom'><i class="icon-paperplane_black"></i></span>
+                <a class="comments-count" href="#comentarios">3 <i class="icon-message"></i></a>
+            </div>
+
+
+            <span class="hits-count"></span>
+                <!--div class="others-wrapper">
+                    <div class="controls">
+                            $O->{icn_buttons}
+                    </div>
+                </div-->
+        </section>
+
+        <div class="authoring">
+            <div class='author-info'><span class="article-author">Paulo Paixão</span> |</div>
+            <time datetime="2015-02-02 13:32:06" pubdate>13:32 Segunda feira,  2 de fevereiro de 2015</time>
+            <span id="ultima-actualizacao">Última atualização há 20 minutos
+</span>
+        </div>
+
+    </header>
+
+    <div class="row-fluid">
+        <section id='media'>
+<figure class="image-wrapper">
+    <img src="/imv/2/248/926/pcpaveirords02-b8f4.jpg" width="620px" height="431px" style="border:0px;" alt="Jerónimo ataca PS e 'as falsas mudanças dos que dizem que não são o PASOK de Portugal'" title="Jerónimo ataca PS e 'as falsas mudanças dos que dizem que não são o PASOK de Portugal'">
+    <div class="clear"></div>
+    &nbsp;<span class="credits">FOTO RUI DUARTE SILVA</span>
+</figure>
+</section>
+
+        <section id="conteudo">
+
+              <p class="newsP">"O ridículo e a pérfida tomaram conta deste Governo do PSD/CDS", afirmou Jerónimo de Sousa na abertura das jornadas parlamentares do PCP, que hoje e amanhã decorrem em Aveiro.</p>
+  <p class="newsP">A frase ilustra bem o tom crítico usado pelo líder comunista, que alertou, logo a abrir, para "a tragédia social e (a) ruína nacional em curso no país".</p>
+  <p class="newsP">Mas se o Executivo liderado por Passos Coelho mereceu a atenção do líder comunista praticamente do princípio ao fim do seu discurso, algumas farpas foram lançadas ao PS, sem no entanto ter nomeado este partido ou qualquer dos seus dirigentes.</p>
+  <p class="newsP">"As nuvens negras só se dissiparão no presente e no futuro dos portugueses quando este Governo, esta política que não é sua em exclusividade, mas que tem passado de mão em mão entre os partidos da troika, for definitivamente derrotada", disse Jerónimo de Sousa.</p>
+  <p class="newsP">Mais adiante, isolando agora com mais nitidez o PS, Jenónimo afirmou: "(Portugal) precisa de uma verdadeira rutura e não as mudanças de cosmética para que tudo fique na mesma. Das falsas mudanças daqueles que dizem que não são o PASOK de Portugal, mas que foram ontem e que hoje deixam os destinos do país nas mãos das propostas e dos sinais do senhor Juncker, do sr. Draghi e da boa vontade do diretório das grandes potências."</p>
+<p class="newsP">Jerónimo referia-se às declarações proferidas este s+abado poe António Costa, que disse que "a verdadeira e única lição que temos a retirar das eleições gregas é que o PS em Portugal não é nem será o PASOK, porque não estamos cá para servir as políticas que têm sido seguidas, mas, pelo contrário, criar alternativa às políticas que têm sido seguidas". </p>
+  <p class="newsP"><br>
+<b>Um "calendário de propaganda"</b><br>
+Numas jornadas em que os deputados comunistas vão elaborar um conjunto de propostas que visam a defesa da produção nacional e a criação de emprego com direitos, Jerónimo de Sousa fez um retrato do país e dos efeitos das políticas do Governo.</p>
+  <p class="newsP">"Ainda agora estamos no princípio e o ano já começou mal para milhares e milhares de portugueses", disse, passando em revista alguns desses sintomas. Do estado das urgências nos hospitais à "intenção do Governo de levar para a frente milhares de despedimentos a coberto da mobilidade e da requalificação"; da venda da PT à privatização da TAP; do desemprego (quase 1,2 milhões de pessoas, somando as várias situações) ao aumento da pobreza (um em cada quatro portugueses estão hoje nessa situação).</p>
+  <p class="newsP">"Hoje o Governo e os seus membros não fazem outra coisa que cumprir escrupulosamente um calendário de propaganda, programado em função das eleições legislativas", acusou Jerónimo.</p>
+  <p class="newsP"><br>
+<b>A fábula grega</b><br>
+Sem nunca nomear a Grécia ou o resultado do Syriza, o exemplo da votação ocorrida há uma semana paira por estes dias, de certa forma, no imaginário comunista.</p>
+  <p class="newsP">Jerónimo de Sousa falou dos "ventos de mudança que vão soprando por essa Europa fora, fruto da luta, determinação e vontade dos povos de romper as amarras a uma política que só conhece um amo, o grande capital económico e financeiro".</p>
+  <p class="newsP">De seguida, o secretário-geral do PCP afirmou: "Dizem que não há alternativa. Nós dizemos: não há caminhos fechados à vontade e determinação dos povos".</p>
+  <p class="newsP"><b>Um retrato do "desastre nacional"</b><br>
+Na abertura dos trabalhos, o líder parlamentar comunista, João Oliveira, explicou a escolha do palco destas jornadas: "O distrito de Aveiro apresenta hoje uma realidade que, ampliada, é um retrato muito próximo do desastre nacional".</p>
+  <p class="newsP">Durante a tarde de hoje, segunda-feira, e manhã de terça-feira, os deputados comunistas desdobram-se em contactos com empresas, de diversos setores de atividade, e serviços públicos, em diversos pontos do distrito de Aveiro.</p>
+  <p class="newsP">Amanhã, terça-feira, a meio da tarde, serão apresentadas as conclusões dos trabalhos. Então, os deputados do PCP anunciarão as propostas com pretendem defender a produção nacional e criar emprego com direitos.</p>
+
+        </section>
+
+    </div>
+
+    <footer>
+        <aside id="keywords">
+
+        </aside>
+        <div class="cboth"></div>
+        <aside id="share">
+            <a href="#" class="facebook"><span class='st_facebook_custom'><i class="icon-facebook"></i> Partilhar no Facebook</span></a>
+            <a href="#" class="twitter"><span class='st_twitter_custom'><i class="icon-twitter"></i> Partilhar no Twitter</span></a>
+        </aside>
+        <aside id="relacionados">
+            <hr class="arrow-separator">
+<div class="related-wrapper">
+  <span class="title">Relacionados</span>
+  <div class="related-list">
+
+<!-- st_storyLink_int -->
+<div class="story-link">
+    <figure class='image-frame'><img src='/imv/2/248/569/tmimg3488-d870.jpg' width='100px' height='auto' alt='&quot;Queremos outro aproveitamento dos recursos e das potencialidades nacionais, para haver uma saída da crise&quot;, diz João Oliveira' title='&quot;Queremos outro aproveitamento dos recursos e das potencialidades nacionais, para haver uma saída da crise&quot;, diz João Oliveira'></figure>
+    <a href="/pcp-producao-nacional-e-emprego-sao-eixos-centrais-para-saida-da-crise=f909038">PCP. Produção nacional e emprego são "eixos centrais" para saída da crise</a>
+    <div class="clear"></div>
+</div>
+
+
+<!-- st_storyLink_int -->
+<div class="story-link">
+    <figure class='image-frame'><img src='/imv/2/248/180/costa-82c2-5d8c.jpg' width='100px' height='auto' alt='' title=''></figure>
+    <a href="/antonio-costa-unica-licao-a-retirar-das-eleicoes-gregas-e-que-o-ps-nao-e-nem-sera-o-pasok=f908950">António Costa. "Única lição a retirar das eleições gregas é que o PS não é nem será o PASOK"</a>
+    <div class="clear"></div>
+</div>
+
+  </div>
+</div>
+
+
+        </aside>
+    </footer>
+
+</article>
+
+
+          <hr class="arrow-separator" />
+<section id="sectionOpiniao" data-vr-zone="Story detail opinion">
+    <h3 class="sectionTitle">
+        <a href="http://expresso.sapo.pt/blogues">Opinião</a>
+    </h3>
+    <div class="opiniao-container">
+
+<article class="opiniaoItem">
+    <figure><a href="/fictiongram=s25752"><img src="/users/2407/240714/patriciareis-0622.jpg" style="width:200px; height:auto;" alt="" title=""></a></figure>
+    <h4><a href="/fictiongram=s25752">Patrícia Reis</a></h4>
+    <h5><a href="/fictiongram=s25752">Fictiongram</a></h5>
+    <h3><a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/25752">prepara-te, vou gritar</a></h3>
+    <span class="destaquesNoCommentsNew">
+
+</span>
+
+
+</article>
+
+<article class="opiniaoItem">
+    <figure><a href="/conomia-a-2=s25736"><img src="/users/2407/240714/diogoagostinho-ab3d.jpg" style="width:200px; height:auto;" alt="" title=""></a></figure>
+    <h4><a href="/conomia-a-2=s25736">Diogo Agostinho</a></h4>
+    <h5><a href="/conomia-a-2=s25736">&conomia à 2ª</a></h5>
+    <h3><a href="/a-bazuca-e-a-bisnaga=f908988">A bazuca e a bisnaga</a></h3>
+    <span class="destaquesCommentsNew">
+  <span class="comments"><a href="/a-bazuca-e-a-bisnaga=f908988#comentarios" rel="nofollow"> 4 </a></span>
+
+</span>
+
+
+</article>
+
+<article class="opiniaoItem">
+    <figure><a href="/tempo-comprado=s25730"><img src="/users/2407/240714/joaogalamba-3f9e.jpg" style="width:200px; height:auto;" alt="" title=""></a></figure>
+    <h4><a href="/tempo-comprado=s25730">João Galamba</a></h4>
+    <h5><a href="/tempo-comprado=s25730">Tempo comprado</a></h5>
+    <h3><a href="/tambem-somos-a-grecia=f909014">Também somos a Grécia </a></h3>
+    <span class="destaquesCommentsNew">
+  <span class="comments"><a href="/tambem-somos-a-grecia=f909014#comentarios" rel="nofollow"> 27 </a></span>
+
+</span>
+
+
+</article>
+
+    </div>
+</section>
+
+
+
+
+          <hr class="arrow-separator" />
+<section id="sectionMultimedia" data-vr-zone="">
+    <h3 class="sectionTitle">
+        <a href="/multimedia">Multimédia</a>
+    </h3>
+    <div class="multimedia-pagination pagination"></div>
+    <div class="swiper-container swiper-multimedia">
+        <div class="swiper-wrapper">
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a target="_blank"  href='http://expresso.sapo.pt/jihad'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/221/957/mataremorrerporalaframe1-ae0f.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+</a></figure>
+    </div>
+    <h2>
+<a href="http://expresso.sapo.pt/jihad" > </a>
+</h2>
+    <h3><p>Os assass&#237;nios, as execu&#231;&#245;es, as decapita&#231;&#245;es s&#227;o as imagens mais chocantes de uma propaganda cada vez mais sofisticada. &#201; a Jihad, que recruta guerrilheiros no ocidente para matar e morrer na S&#237;ria. O Expresso seguiu as pisadas de cinco jiadistas portugueses, mostrando quem s&#227;o e como foram convertidos e radicalizados. E como lutam, como foram morrer - e como j&#225; haver&#225; arrependidos com medo de fugir. Reportagem em Londres, no caf&#233; onde viam jogos de futebol, na universidade onde estudavam e na mesquita onde rezavam. Autoridades e especialistas em terrorismo est&#227;o alerta sobre este pequeno mas perigoso grupo, onde corre sangue portugu&#234;s - e de onde escorre sangue por Al&#225;.</p>  </h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a   href='/musse-de-chocolate-com-basmati-e-pimenta-rosa=f908676'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/247/173/a1-28bc.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+<div class="icon_storytype icon_infografia"></div></a></figure>
+    </div>
+    <h2>
+<a href="/musse-de-chocolate-com-basmati-e-pimenta-rosa=f908676" >Musse de chocolate  com basmati  e pimenta rosa</a>
+</h2>
+    <h3>Especialista em pratos de confeção acessível, com ingredientes ao alcance de qualquer pessoa, Tiger escolheu a gastronomia como forma de estar na vida. Veja, confecione, desfrute e impressione com esta nova receita.</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a   href='/desfile-de-vedetas=f902451'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/218/790/c-75e2.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+<div class="icon_storytype icon_infografia"></div></a></figure>
+    </div>
+    <h2>
+<a href="/desfile-de-vedetas=f902451" >Desfile de vedetas</a>
+</h2>
+    <h3>Saiba tudo sobre os modelos concorrentes ao Carro do Ano 2015/Troféu Essilor Volante de Cristal. Conheça o essencial sobre os 20 automóveis participantes nesta iniciativa, da estética, às características técnicas, do preço ao consumo. A apresentação ficará completa no dia 3 de janeiro.</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a   href='/experimentamos-feijoada-com-bacalhau-como-diz-a-piada-so-temos-um-adjetivo-gostamos=f906328'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/238/404/f2-f512.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+<div class="icon_storytype icon_infografia"></div></a></figure>
+    </div>
+    <h2>
+<a href="/experimentamos-feijoada-com-bacalhau-como-diz-a-piada-so-temos-um-adjetivo-gostamos=f906328" >Experimentámos feijoada com bacalhau. Como diz a piada, só temos um adjetivo: gostámos</a>
+</h2>
+    <h3>Especialista em pratos de confeção acessível, com ingredientes ao alcance de qualquer pessoa, Tiger escolheu a gastronomia como forma de estar na vida. Veja, confecione, desfrute e impressione com esta nova receita. Como diz a velha gafe atribuída a um antigo Presidente da República, "só tenho um adjetivo: gostei".</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a target="_blank"  href='http://expresso.sapo.pt/especiais/ElvisPresley/index.html'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/233/573/76118405-620a.jpg" style="width: 380px; height:auto; border: 0px;" alt="É ele ali de chapéu, de olhar confiante e  com fã delirante" title="É ele ali de chapéu, de olhar confiante e  com fã delirante" >
+</a></figure>
+    </div>
+    <h2>
+<a href="http://expresso.sapo.pt/especiais/ElvisPresley/index.html" >Elvis. Gostamos ou não gostamos?</a>
+</h2>
+    <h3><p>Ele n&#227;o &#233; consensual, mas &#233; incontorn&#225;vel. Dispunha de penteado majestoso e patilha marota,&#160;aparentava olhar matador e pose atrevida. E deixou can&#231;&#245;es: umas f&#225;ceis e outras nem tanto, por vezes previs&#237;veis e &#224;s vezes inesperadas, ora gentis ora aceleradas. E ele, Elvis, nasceu em janeiro de 1934 - h&#225; precisamente 40 anos, ao oitavo dia. Temos quatro textos sobre o artista: Nicolau Santos, Rui Gustavo, Nicolau Pais e Jo&#227;o C&#226;ndido da Silva explicam o que apreciam, o que toleram e o que n&#227;o suportam.</p></h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a target="_blank"  href='http://expresso.sapo.pt/especiais/FA2014/index.html'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/228/555/a-42dc.png" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+</a></figure>
+    </div>
+    <h2>
+<a href="http://expresso.sapo.pt/especiais/FA2014/index.html" >Vídeo, prosa, fotografia e análise: as figuras e os acontecimentos de 2014</a>
+</h2>
+    <h3>&#201; um ritual iniciado em 1981: todos os anos, a reda&#231;&#227;o do Expresso elege as figuras e os acontecimentos nacionais e internacionais. E houve uma novidade em 2014: os leitores tamb&#233;m fizeram a sua escolha, atrav&#233;s de uma vota&#231;&#227;o online. Este &#233; o resultado - para ler, ver e ouvir com calma.</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid='ex.videosapo/926'>
+        <figure><a  class='switch2video' href='/tudo-o-que-precisa-de-saber-sobre-o-ebola-em-dois-minutos=f894514'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/183/170/frame-video-ebola-6564.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+<div class="icon_storytype icon_video"></div></a></figure>
+    </div>
+    <h2>
+<a href="/tudo-o-que-precisa-de-saber-sobre-o-ebola-em-dois-minutos=f894514" >Tudo o que precisa de saber sobre o ébola. Em dois minutos</a>
+</h2>
+    <h3>Porque &#233; que este est&#225; a ser o pior surto da hist&#243;ria? Como &#233; que os primeiros sintomas se confundem com os de outras doen&#231;as? &#201; poss&#237;vel viajar depois de ter contra&#237;do o v&#237;rus, sem transmitir a doen&#231;a? E estamos ou n&#227;o perto de ter uma vacina? O Expresso procurou as respostas a estas e outras d&#250;vidas sobre o &#233;bola.</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a   href='/piza-de-manga-com-estragao-e-canela=f905371'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/233/581/pp-3d99.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+<div class="icon_storytype icon_infografia"></div></a></figure>
+    </div>
+    <h2>
+<a href="/piza-de-manga-com-estragao-e-canela=f905371" >Piza de manga com estragão e canela</a>
+</h2>
+    <h3>Especialista em pratos de confeção acessível, com ingredientes ao alcance de qualquer pessoa, Tiger escolheu a gastronomia como forma de estar na vida. Veja, confecione, desfrute e impressione. </h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a   href='/desaceleramos-a-realidade-para-observar-a-euforia-da-liberdade=f903059'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/221/603/5-33c5.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+<div class="icon_storytype icon_video"></div></a></figure>
+    </div>
+    <h2>
+<a href="/desaceleramos-a-realidade-para-observar-a-euforia-da-liberdade=f903059" >Desacelerámos a realidade para observar a euforia da liberdade</a>
+</h2>
+    <h3>Ela, Jacarandá, é algarvia. Ele, Katmandu, é espanhol. São linces e agora experimentam a responsabilidade da liberdade: foram soltos esta terça-feira numa herdade alentejana, próxima de Mértola, eles que saíram de centros de reprodução em cativeiro. Foi inédito: nunca tinha acontecido algo assim em Portugal. Estivemos lá e ensaiámos o slow motion.</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid='ex.videosapo/991'>
+        <figure><a  class='switch2video' href='/a-caixinha-de-surpresas-que-promete-revolucionar-os-treinos-do-benfica=f901649'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/215/168/benfica-360s-treino-seixal-ac52.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+<div class="icon_storytype icon_video"></div></a></figure>
+    </div>
+    <h2>
+<a href="/a-caixinha-de-surpresas-que-promete-revolucionar-os-treinos-do-benfica=f901649" >A caixinha de surpresas que promete revolucionar os treinos do Benfica</a>
+</h2>
+    <h3>Chama-se 360S, e &#233; um simulador com o qual o Benfica pretende revolucionar os treinos e fazer dos jogadores m&#225;quinas de precis&#227;o. O Expresso mostra-lhe como funciona o sistema que j&#225; est&#225; a funcionar no centro de treinos do Seixal.</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a   href='/desaparecidos-para-sempre-no-mar-do-norte=f898030'><!-- man_tag_image_380_lazy -->
+<img data-src="/users/2407/240714/sacadura-cabral-ec6e.jpg" style="width: 370px; height:auto; border: 0px;" alt="Sacadura Cabral numa das suas viagens de hidroavião" title="Sacadura Cabral numa das suas viagens de hidroavião" >
+<div class="icon_storytype icon_infografia"></div></a></figure>
+    </div>
+    <h2>
+<a href="/desaparecidos-para-sempre-no-mar-do-norte=f898030" >Desaparecidos para sempre no Mar do Norte</a>
+</h2>
+    <h3>O dia 15 de novembro já foi feriado, há 90 anos. A razão foi o desaparecimento de Sacadura Cabral algures no Mar do Norte. Depois de fazer mais de oito mil quilómetros de Lisboa ao Rio de Janeiro, o aviador pioneiro não conseguiu completar o voo entre a cidade holandesa de Amesterdão e a capital portuguesa. Ainda hoje, não se sabe o que aconteceu ao companheiro de Gago Coutinho e tio-avô de Paulo Portas, a quem o Expresso pediu um sms.</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a   href='/os-muros-do-mundo=f897150'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/196/82/os-muros-do-mundo-3e69.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+<div class="icon_storytype icon_infografia"></div></a></figure>
+    </div>
+    <h2>
+<a href="/os-muros-do-mundo=f897150" >Os muros do mundo</a>
+</h2>
+    <h3>Novembro relembrou-nos os muros que caem, mas também os que permanecem e os que se expandem. Berlim aproximou-se de si própria há 25 anos, mas há muros que continuam a desaproximar. Esta é a história de sete deles - diferentes, imprevisíveis, estranhos.</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid='ex.videosapo/914'>
+        <figure><a  class='switch2video' href='/a-ultima-viagem-do-navio-indesejado=f892137'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/173/405/a-08e6.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+<div class="icon_storytype icon_video"></div></a></figure>
+    </div>
+    <h2>
+<a href="/a-ultima-viagem-do-navio-indesejado=f892137" >A última viagem do navio indesejado</a>
+</h2>
+    <h3><p>Constru&#237;do nos Estaleiros de Viana e pensado para fazer a liga&#231;&#227;o entre ilhas nos A&#231;ores, o Atl&#226;ntida foi recusado pelo Governo Regional por alegadamente n&#227;o atingir a velocidade pretendida. Contando com os custos associados &#224; dissolu&#231;&#227;o do contrato, o preju&#237;zo ascendeu a 70 milh&#245;es de euros. Foi agora comprado a &quot;pre&#231;o de saldo&quot;, para mudar de nome e ser reconvertido num cruzeiro na Amaz&#243;nia. Fizemos a &#250;ltima viagem do Atl&#226;ntida e vamos mostrar-lhe os segredos do navio.</p></h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid='ex.videosapo/872'>
+        <figure><a  class='switch2video' href='/o-papa-medalhas-que-veio-do-espaco=f889006'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/157/212/med1-0c89.jpg" style="width: 380px; height:auto; border: 0px;" alt="Francisco Vicente. Fotografado pelo Expresso na sua casa, em Torres Vedras. Na sala, onde não cabe mais nada, estão duas cadeiras, uma televisão e estantes com taças e medalhas" title="Francisco Vicente. Fotografado pelo Expresso na sua casa, em Torres Vedras. Na sala, onde não cabe mais nada, estão duas cadeiras, uma televisão e estantes com taças e medalhas" >
+<div class="icon_storytype icon_video"></div></a></figure>
+    </div>
+    <h2>
+<a href="/o-papa-medalhas-que-veio-do-espaco=f889006" >O papa-medalhas que veio do espaço</a>
+</h2>
+    <h3>O atleta português mais medalhado de sempre, Francisco Vicente, regressou dos campeonatos europeus de veteranos, na Turquia, com novas lembranças ao pescoço. Três de ouro e duas de prata para juntar à coleção. Tem 81 medalhas, uma por cada ano de vida.</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a   href='/terror-religioso-esta-a-aumentar=f896439'><!-- man_tag_image_380_lazy -->
+<img data-src="/users/1935/193537/mcht-c2e7.jpg" style="width: 370px; height:auto; border: 0px;" alt="" title="" >
+<div class="icon_storytype icon_infografia"></div></a></figure>
+    </div>
+    <h2>
+<a href="/terror-religioso-esta-a-aumentar=f896439" >Terror religioso está a aumentar</a>
+</h2>
+    <h3>Relatório sobre a Liberdade Religiosa é divulgado esta terça-feira em todo o mundo. Dos 196 países analisados, só em 80 não há indícios de perseguições motivadas pela fé.</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a   href='/correr-111-km-e-sob-40-graus-nao-e-para-todos-mas-um-portugues-fe-lo-e-ganhou=f894956'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/188/307/prova-30a9.jpg" style="width: 380px; height:auto; border: 0px;" alt="Prova muito exigente do ponto de vista físico, Manuel Machado reconhece que uma das melhores coisas desta ultramaratona é “a paisagem, que é sempre fantástica”" title="Prova muito exigente do ponto de vista físico, Manuel Machado reconhece que uma das melhores coisas desta ultramaratona é “a paisagem, que é sempre fantástica”" >
+<div class="icon_storytype icon_fotogaleria"></div></a></figure>
+    </div>
+    <h2>
+<a href="/correr-111-km-e-sob-40-graus-nao-e-para-todos-mas-um-portugues-fe-lo-e-ganhou=f894956" >Correr 111 km e sob 40 graus não é para todos. Mas um português fê-lo e ganhou</a>
+</h2>
+    <h3>Imagine o cenário: temperaturas de 40 graus em pleno deserto do Sara e percorrer 111 quilómetros num tempo máximo de 22 horas. Era capaz? Manuel Machado fê-lo, venceu e já tem uma história "para contar aos netos".</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a   href='/vai-pagar-mais-ou-menos-irs-veja-as-simulacoes=f894287'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/182/126/a-efae.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+</a></figure>
+    </div>
+    <h2>
+<a href="/vai-pagar-mais-ou-menos-irs-veja-as-simulacoes=f894287" >Vai pagar mais ou menos IRS? Veja as simulações</a>
+</h2>
+    <h3>Reforma do imposto protege quem tem dependentes a cargo, mas pode penalizar os restantes contribuintes. Função pública e pensionistas vão ter mais dinheiro disponível. Veja simulações para vários casos.</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid=''>
+        <figure><a   href='/impostos-todas-as-alteracoes-desde-que-passos-chegou-ao-poder=f894550'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/183/510/man1-528c.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+<div class="icon_storytype icon_infografia"></div></a></figure>
+    </div>
+    <h2>
+<a href="/impostos-todas-as-alteracoes-desde-que-passos-chegou-ao-poder=f894550" >Impostos. Todas as alterações desde que Passos chegou ao poder</a>
+</h2>
+    <h3>Desde que tomou posse, o Governo não se tem cansado de mexer nos impostos. IRS, IVA, outras contribuições e impostos têm sofrido inúmeras alterações, sempre com o mesmo resultado: mais carga, mais cobrança.</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid='ex.videosapo/907'>
+        <figure><a  class='switch2video' href='/tem-tres-minutinhos-vamos-explicar-lhe-o-que-muda-no-orcamento-de-350-mil-portugueses-e-no-de-muitas-empresas=f891806'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/170/449/a-a31a.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+<div class="icon_storytype icon_video"></div></a></figure>
+    </div>
+    <h2>
+<a href="/tem-tres-minutinhos-vamos-explicar-lhe-o-que-muda-no-orcamento-de-350-mil-portugueses-e-no-de-muitas-empresas=f891806" >Tem três minutinhos? Vamos explicar-lhe o que muda no orçamento de 350 mil portugueses (e no de muitas empresas)</a>
+</h2>
+    <h3>O novo sal&#225;rio m&#237;nimo entrou em vigor. S&#227;o mais &#8364;20 brutos para cerca de 350 mil portugueses (n&#250;meros do Minist&#233;rio da Seguran&#231;a Social, porque os sindicatos falam em 500 mil trabalhadores). Mudou o valor, mas tamb&#233;m os descontos que as empresas fazem para a Seguran&#231;a Social. Porque se trata de uma medida que afeta a vida de muitos portugueses, queremos explicar o que se perde e o que se ganha, o que se altera e o que se mant&#233;m.</h3>
+</article>
+
+<article class="multimediaItem">
+    <div class='media-wrapper media-location' data-videoid='ex.videosapo/889'>
+        <figure><a  class='switch2video' href='/music-fighter-temos-marco-paulo-e-bruno-nogueira-numa-batalha-epica=f890025'><!-- man_tag_image_380_lazy -->
+<img data-src="/imv/2/161/885/frame-video-pimba-1-7458.jpg" style="width: 380px; height:auto; border: 0px;" alt="" title="" >
+<div class="icon_storytype icon_video"></div></a></figure>
+    </div>
+    <h2>
+<a href="/music-fighter-temos-marco-paulo-e-bruno-nogueira-numa-batalha-epica=f890025" >Music fighter: temos Marco Paulo e Bruno Nogueira numa batalha épica</a>
+</h2>
+    <h3><p>Está preparado para um dos encontros mais improváveis na história da música portuguesa? O humorista Bruno Nogueira e a cantora Manuela Azevedo, dos Clã, pegaram em várias músicas consideradas "pimba" - daquelas que ninguém admite ouvir mas que, no fundo, todos vão dançar assim que começam a tocar - e deram-lhe novos arranjos, num projeto que chegou aos coliseus de Lisboa e do Porto.  "Ninguém, ninguém", de Marco Paulo, tem possivelmente a introdução mais acelerada e frenética do panorama musical português. Mas, no frente-a-frente, quem é o mais rápido? Vai um tira-teimas à antiga?</p></h3>
+</article>
+
+        </div>
+    </div>
+    <div class="swiper-navigation hp-swiper-navigation">
+        <span class="previous"><i class="icon-chevron_left"></i></span>
+        <span class="next"><i class="icon-chevron_right"></i></span>
+    </div>
+</section>
+
+
+
+          <script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+
+<div style="width:610px">
+<div id="recommended_container"></div>
+<script type="text/javascript">
+    SAPO_Project_Recommended = {
+        service: '896125db69b4340c9925571deec92b0eaa2b1b64155d373e3f86aed2ecb4a432',
+        url: 'http://expresso.sapo.pt/jeronimo-ataca-ps-e-as-falsas-mudancas-dos-que-dizem-que-nao-sao-o-pasok-de-portugal=f909074',
+        target: 'recommended_container',
+        partner: true
+    };
+</script>
+<script type="text/javascript" src="http://js.sapo.pt/Snippets/Recommended-v1.js"></script>
+</div>
+
+          <section id="comentarios">
+              <hr class="arrow-separator">
+
+<!-- Begin st_extrainfocomments -->
+<div class="comments-row row">
+
+    <span class="left-column span8">
+        <span class="comments-title">Comentários</span>
+        <span class="comments">3 <i class="icon-message"></i></span>
+    </span>
+
+    <span class="right-column pull-right span8">
+        <a id="mainCommentButton" class="comment-btn btn pull-right" href="javascript:showHideCommentBox('p=comments&sid=ex.stories/909074&fokey=ex.stories/909074&amp;pid=0&skin=ex&op=Reply','mainCommentButton')" rel="nofollow">Comentar</a>
+        <div class="pagination">
+            <span class="total">Página 1 de 1</span>
+            <span class="prev">
+
+            </span>
+            <span class="next">
+
+            </span>
+        </div>
+    </span>
+
+</div>
+
+<div id="filter-comments">
+  <div>
+    <div class="title"><b>ordenar por:</b></div>
+    <div><a rel="nofollow" href="/gen.pl?fokey=ex.stories/909074&amp;p=stories&amp;op=view&amp;commentsort=R#comentarios">mais recentes</a></div>
+<div><a rel="nofollow" href="/gen.pl?fokey=ex.stories/909074&amp;p=stories&amp;op=view&amp;commentsort=D#comentarios">mais antigos</a></div>
+<div class="selected"><span>mais votados</span></div>
+
+
+
+
+<div><a rel="nofollow" href="/gen.pl?fokey=ex.stories/909074&amp;p=stories&amp;op=view&amp;commentsort=L#comentarios">mais comentados</a></div>
+
+  </div>
+    <div class="cboth"></div>
+</div>
+
+<div id='thread'><script type="text/javascript">
+        (function(){
+            jQuery( window ).resize( function() { commentsFloatMove(); });
+            jQuery( window ).scroll( function( ){ commentsFloatMove(); });
+        })();
+</script>
+
+<iframe src="about:blank" height="1" width="1" scrolling="no" marginheight="0" marginwidth="0" frameborder="0" name="moderateiframe" class="hidden"></iframe>
+<iframe src="about:blank" height="1" width="1" scrolling="no" marginheight="0" marginwidth="0" frameborder="0" name="commentiframeid" id="commentiframeid" class="hidden"></iframe>
+
+
+<!-- Begin cm_comment -->
+
+<div id="comentario-5289682" class="comment">
+
+    <div class="comment-content">
+
+        <div class="subject">
+            Costa é Tudo aquilo....
+            <i class="icon-chevron_down"></i>
+            <!--img class="comment-srrow" src="/i/icons/expanded_comments.png"-->
+        </div>
+        <div class="user-info">
+            <a href="/gen.pl?p=users&#038;user=345950&#038;op=view" class="links5" rel="nofollow">JoanaAbreu21</a> (<a href="javascript:followUserForm(345950,'JoanaAbreu21');">seguir utilizador</a>), <span> 2 pontos </span>, hoje às 13:51
+        </div>
+
+        <div class="text">
+            ,...Que lhe Dê Votos!!! Era Sócrates, Deixou de Ser!!! Era Syriza,...Também já não é!!! Ele Deveria era ter Assaltado o PS Um Mês antes das Eleições, para Não dar Tempo de Conhecermos a sua Inutilidade!!! Assim Lixou-se!!!
+        </div>
+
+        <div class="controls">
+            <span class="small-column">
+                <a href="http://downloads.expresso.pt/docs/regulamento.html" rel="nofollow" target="_blank" class="help">
+                    <span class="abuse">Regras da comunidade</span>
+                </a>
+            </span>
+            <span class="controls-column pull-right">
+                <a href="javascript:markAbuse('ex.comments/5289682');" rel="nofollow" class="abuse-btn btn btn-link">
+    <span class="abuse">Reportar abusivo</span>
+</a>
+
+
+
+
+<a id="commentButton_5289682" href="javascript:showHideCommentBox('p=comments&targetsid=ex.stories/909074&fokey=ex.stories/909074&pid=ex.comments/5289682&op=Reply','commentButton_5289682')" rel="nofollow" class="reply-btn btn">
+  <span class="reply">Responder</span>
+</a>
+
+            </span>
+        </div>
+    </div>
+
+    <div class="comments">
+
+
+
+
+
+
+    </div>
+</div>
+
+<!-- End cm_comment -->
+
+
+
+<!-- Begin cm_comment -->
+
+<div id="comentario-5289744" class="comment">
+
+    <div class="comment-content">
+
+        <div class="subject">
+            OK. É uma utopia, mas eu sempre votei PCP.
+            <i class="icon-chevron_down"></i>
+            <!--img class="comment-srrow" src="/i/icons/expanded_comments.png"-->
+        </div>
+        <div class="user-info">
+            <a href="/gen.pl?p=users&#038;user=352000&#038;op=view" class="links5" rel="nofollow">NunoSilva2</a> (<a href="javascript:followUserForm(352000,'NunoSilva2');">seguir utilizador</a>), <span> 2 pontos </span>, hoje às 16:13
+        </div>
+
+        <div class="text">
+            Sabemos que não há nenhum exemplo no mundo de países comunistas, nem podia haver, porque é uma utopia, e o PCP sabe disso perfeitamente e já não vai em experiências falhadas.
+<BR>
+<BR>É um objectivo. Só isso.
+<BR>
+<BR>Afinal de contas, que partido mete mais medo á Máfia em Portugal?
+<BR>
+<BR>Jerónimo tem razão mais uma vez: o PS, antes das eleições, são mais de esquerda que os comunistas, mas depois, são mais de direita que o PSD/CDS!!!
+<BR>
+<BR>Uma fraude.
+<BR>
+<BR>Uma vergonha os portugueses continuarem a votar nestes engodos.
+        </div>
+
+        <div class="controls">
+            <span class="small-column">
+                <a href="http://downloads.expresso.pt/docs/regulamento.html" rel="nofollow" target="_blank" class="help">
+                    <span class="abuse">Regras da comunidade</span>
+                </a>
+            </span>
+            <span class="controls-column pull-right">
+                <a href="javascript:markAbuse('ex.comments/5289744');" rel="nofollow" class="abuse-btn btn btn-link">
+    <span class="abuse">Reportar abusivo</span>
+</a>
+
+
+
+
+<a id="commentButton_5289744" href="javascript:showHideCommentBox('p=comments&targetsid=ex.stories/909074&fokey=ex.stories/909074&pid=ex.comments/5289744&op=Reply','commentButton_5289744')" rel="nofollow" class="reply-btn btn">
+  <span class="reply">Responder</span>
+</a>
+
+            </span>
+        </div>
+    </div>
+
+    <div class="comments">
+
+
+
+
+
+
+    </div>
+</div>
+
+<!-- End cm_comment -->
+
+
+
+<!-- Begin cm_comment -->
+
+<div id="comentario-5289713" class="comment">
+
+    <div class="comment-content">
+
+        <div class="subject">
+            PCP, o Partido sempre disponivel para ...
+            <i class="icon-chevron_down"></i>
+            <!--img class="comment-srrow" src="/i/icons/expanded_comments.png"-->
+        </div>
+        <div class="user-info">
+            <a href="/gen.pl?p=users&#038;user=359351&#038;op=view" class="links5" rel="nofollow">Schil</a> (<a href="javascript:followUserForm(359351,'Schil');">seguir utilizador</a>), <span> 1 ponto </span>, hoje às 15:25
+        </div>
+
+        <div class="text">
+            ... colocar a direita no poder !
+        </div>
+
+        <div class="controls">
+            <span class="small-column">
+                <a href="http://downloads.expresso.pt/docs/regulamento.html" rel="nofollow" target="_blank" class="help">
+                    <span class="abuse">Regras da comunidade</span>
+                </a>
+            </span>
+            <span class="controls-column pull-right">
+                <a href="javascript:markAbuse('ex.comments/5289713');" rel="nofollow" class="abuse-btn btn btn-link">
+    <span class="abuse">Reportar abusivo</span>
+</a>
+
+
+
+
+<a id="commentButton_5289713" href="javascript:showHideCommentBox('p=comments&targetsid=ex.stories/909074&fokey=ex.stories/909074&pid=ex.comments/5289713&op=Reply','commentButton_5289713')" rel="nofollow" class="reply-btn btn">
+  <span class="reply">Responder</span>
+</a>
+
+            </span>
+        </div>
+    </div>
+
+    <div class="comments">
+
+
+
+
+
+
+    </div>
+</div>
+
+<!-- End cm_comment -->
+
+
+
+</div>
+<!-- Begin st_extrainfocomments -->
+<div class="comments-row row">
+
+    <span class="left-column span8">
+        <span class="comments-title">Comentários</span>
+        <span class="comments">3 <i class="icon-message"></i></span>
+    </span>
+
+    <span class="right-column pull-right span8">
+        <a id="mainCommentButton" class="comment-btn btn pull-right" href="javascript:showHideCommentBox('p=comments&sid=ex.stories/909074&fokey=ex.stories/909074&amp;pid=0&skin=ex&op=Reply','mainCommentButton')" rel="nofollow">Comentar</a>
+        <div class="pagination">
+            <span class="total">Página 1 de 1</span>
+            <span class="prev">
+
+            </span>
+            <span class="next">
+
+            </span>
+        </div>
+    </span>
+
+</div>
+
+
+          </section>
+          <div id="google_ads_600x300">
+  <script type='text/javascript'>
+  GA_googleFillSlot("Expresso_600x300");
+  </script>
+</div>
+
+
+          <section id="sectionUltimas">
+    <hr class="arrow-separator">
+    <h3 class='sectionTitle'>
+        <a href="http://expresso.sapo.pt/gen.pl?p=arquivo">&Uacute;ltimas</a>
+    </h3>
+    <div class="ultimas-container grid-three" data-infinite-scroll>
+
+    <article>
+
+        <h3><a href="http://expresso.sapo.pt/quinze-professores-nao-conseguiram-escapar-a-requalificacao=f909088" title="Quinze professores não conseguiram escapar à requalificação">Quinze professores não conseguiram escapar à requalificação</a></h3>
+        <p>Enquanto não arranjam uma colocação, estes professores arriscam-se a perder 40% do salário, ...</p>
+    </article>
+
+    <article>
+
+        <h3><a href="http://expresso.sapo.pt/entender-concordar-e-criticar=f909089" title="Henrique Monteiro - Entender, concordar e criticar">Entender, concordar e criticar</a></h3>
+        <p></p>
+    </article>
+
+    <article>
+        <figure><a href="http://expresso.sapo.pt/salgado-manda-mais-uma-carta-ao-parlamento-a-explicar-a-anterior=f909081">
+ <img src="/imv/2/248/976/carta-1e97.jpg" alt="Na segunda carta enviada aos deputados, Ricardo Salgado contextualiza a informação que tinha feito chegar anteriormente. O objetivo, escreveu, era garantir que a sua resposta anterior não fosse &quot;desvirtuada para outros fins&quot;" title="Na segunda carta enviada aos deputados, Ricardo Salgado contextualiza a informação que tinha feito chegar anteriormente. O objetivo, escreveu, era garantir que a sua resposta anterior não fosse &quot;desvirtuada para outros fins&quot;" width="220" height="auto" border="0">
+</a></figure>
+        <h3><a href="http://expresso.sapo.pt/salgado-manda-mais-uma-carta-ao-parlamento-a-explicar-a-anterior=f909081" title="Salgado manda mais uma carta ao Parlamento. A explicar a anterior">Salgado manda mais uma carta ao Parlamento. A ...</a></h3>
+
+    </article>
+
+    <article>
+
+        <h3><a href="http://expresso.sapo.pt/farmacias-comecam-a-receber-incentivos-em-troca-de-genericos=f909078" title="Farmácias começam a receber incentivos em troca de genéricos">Farmácias começam a receber incentivos em troca de genéricos</a></h3>
+        <p>Acordo entre o Governo e a Associa&#231;&#227;o Nacional das Farm&#225;cias para estimular o ...</p>
+    </article>
+
+    <article>
+        <figure><a href="http://expresso.sapo.pt/durao-vai-dar-aulas-na-catolica=f909077">
+ <img src="/imv/2/248/939/durao-barroso-ec56-0f98.jpg" alt="Durão vai dar aulas na Católica" title="Durão vai dar aulas na Católica" width="220" height="auto" border="0">
+</a></figure>
+        <h3><a href="http://expresso.sapo.pt/durao-vai-dar-aulas-na-catolica=f909077" title="Durão vai dar aulas na Católica">Durão vai dar aulas na Católica</a></h3>
+
+    </article>
+
+    <article>
+
+        <h3><a href="http://expresso.sapo.pt/falso-alarme-levou-a-evacuacao-de-quatro-edificios-do-parlamento-europeu=f909076" title="Falso alarme levou à evacuação de quatro edifícios do Parlamento Europeu ">Falso alarme levou à evacuação de quatro edifícios do Parlamento Europeu </a></h3>
+        <p>Carro suspeito obrigou a nova interven&#231;&#227;o da pol&#237;cia de Bruxelas, frequentemente ...</p>
+    </article>
+
+    <article>
+        <figure><a href="http://expresso.sapo.pt/jeronimo-ataca-ps-e-as-falsas-mudancas-dos-que-dizem-que-nao-sao-o-pasok-de-portugal=f909074">
+ <img src="/imv/2/248/926/pcpaveirords02-23be.jpg" alt="Jerónimo ataca PS e 'as falsas mudanças dos que dizem que não são o PASOK de Portugal'" title="Jerónimo ataca PS e 'as falsas mudanças dos que dizem que não são o PASOK de Portugal'" width="220" height="auto" border="0">
+</a></figure>
+        <h3><a href="http://expresso.sapo.pt/jeronimo-ataca-ps-e-as-falsas-mudancas-dos-que-dizem-que-nao-sao-o-pasok-de-portugal=f909074" title="Jerónimo ataca PS e 'as falsas mudanças dos que dizem que não são o PASOK de Portugal'">Jerónimo ataca PS e "as falsas mudanças dos ...</a></h3>
+
+    </article>
+
+    <article>
+        <figure><a href="http://expresso.sapo.pt/arma-liga-portugues-ao-carrasco-jihadi-john=f909070"><img src="/imv/2/248/818/manchete-6b2e.jpg" alt="Nero Saraiva, um dos cinco portugueses da célula de Leyton e um dos braços-direitos do carrasco britânico Jihadi John" height="auto" width="190"/></a></figure>
+        <h3><a href="http://expresso.sapo.pt/arma-liga-portugues-ao-carrasco-jihadi-john=f909070" title="Arma liga português ao carrasco Jihadi John">Arma liga português ao carrasco Jihadi John</a></h3>
+
+    </article>
+
+    <article>
+        <figure><a href="http://expresso.sapo.pt/a-rota-jiadista-entre-londres-e-lisboa=f909056">
+ <img src="/imv/2/248/731/fabio-00a8.jpg" alt="Fabio, um dos portugueses que foi para a jiade a partir de Londres" title="Fabio, um dos portugueses que foi para a jiade a partir de Londres" width="220" height="auto" border="0">
+</a></figure>
+        <h3><a href="http://expresso.sapo.pt/a-rota-jiadista-entre-londres-e-lisboa=f909056" title="A rota jiadista entre Londres e Lisboa">A rota jiadista entre Londres e Lisboa</a></h3>
+
+    </article>
+
+        <a href="/gen.pl?fokey=ex.stories/900227&amp;p=infinitescroll&amp;op=lastlusa&amp;page=2&amp;npages=&amp;num=9" data-next-page>Ver mais</a>
+
+    </div>
+</section>
+
+
+
+        </div>
+        <div id="pubCol" clasS="span8">
+<div id="right_column">
+    <div class="lateralBox" style="margin-top: 7px;">
+        <!-- Expresso_300x40 -->
+        <!--div style="overflow:hidden;">
+            <a target="_blank" href="http://leitor.expresso.pt">
+                <img src="http://expresso.sapo.pt/images/botao_expressDiario.png" border="0" width="300" height="35" alt="">
+            </a>
+        </div-->
+        <!--script type='text/javascript'>
+            GA_googleFillSlot("300x40");
+        </script-->
+        <div class="btn-expressodiario">
+            <span>Di&aacute;rio</span>
+            <a target="_blank" href="https://codigo.impresa.pt/?brandName=ao%20Expresso&brandImg=http://expresso.sapo.pt/images/ex_logo_xl.png&appId=1">C&oacute;digo de Acesso</a>
+            <a target="_blank" href="http://leitor.expresso.pt">Ler</a>
+        </div>
+    </div>
+    <div class="lateralBox"><div class="sub-newsletter">
+    <div class="sub-newsletter-title">
+        <i class="icon-coffee"></i> Receba a nova Newsletter
+    </div>
+    <form method="post" action="http://newsletters.impresa.pt/subscribe/expresso/expressomatinal">
+        <input type="hidden" name="success_callback_url" value="http://expresso.sapo.pt/gen.pl?p=newsletter&op=confirm">
+        <input type="hidden" name="error_callback_url" value="http://expresso.sapo.pt/gen.pl?p=newsletter&op=error">
+        <input type="text" name="email" placeholder="Introduza o seu email">
+        <input type="submit" value="Subscrever">
+    </form>
+    <a class="example" target="_blank" href="http://newsletters.impresa.pt/expresso/expressomatinal">Ver Exemplo</a>
+</div>
+
+
+</div>
+
+    <div class="lateralBox stickyGroup">
+        <section id="expressodiario">
+    <hr class="arrow-separator">
+    <h3 class="sectionTitle">Edição Diária <span class="date">17.Abr.2014</span></h3>
+    <div class="message">Leia no seu telemóvel, tablet e computador</div>
+        <figure data-oid="907019"><a href="http://expresso.sapo.pt/jihad-en/killing-and-dying/" target="_blank">
+ <img src="/imv/2/239/674/imgkillingamddyingen-a2cd.jpg" alt="" title="" width="" height="auto" border="0">
+</a></figure>
+    <article class="item highlight">
+        <h1> </h1>
+    </article>
+
+
+    <figure data-oid="908874"><a href="/portuguese-cell-helped-british-jihadists-to-fly-to-syria-via-lisbon=f908874" target="_blank">
+ <img src="/imv/2/247/839/10395164189616727875262896596403156765-acac.jpg" alt="" title="" width="" height="auto" border="0">
+</a></figure>
+    <article class="item highlight">
+        <h1>
+<a href="/portuguese-cell-helped-british-jihadists-to-fly-to-syria-via-lisbon=f908874" >Portuguese cell helped British jihadists to fly to Syria via Lisbon</a>
+</h1>
+    </article>
+
+
+    <figure data-oid="902767"><a href="http://expresso.sapo.pt/jihad" target="_blank">
+ <img src="/imv/2/221/957/mataremorrerporalaframe1-cd55.jpg" alt="" title="" width="" height="auto" border="0">
+</a></figure>
+    <article class="item highlight">
+        <h1>
+<a href="http://expresso.sapo.pt/jihad" > </a>
+</h1>
+    </article>
+
+
+    <figure data-oid="908854"><a href="http://leitor.expresso.pt/#library/expressodiario/30-01-2015/caderno-1/primeira-pagina/fmi-contraria-governo-e-nao-acredita-em-defice-abaixo-dos-3" target="_blank">
+ <img src="/imv/2/247/766/186-de28.jpg" alt="" title="" width="" height="auto" border="0">
+</a></figure>
+    <article class="item highlight">
+        <h1>
+<a href="http://leitor.expresso.pt/#library/expressodiario/30-01-2015/caderno-1/primeira-pagina/fmi-contraria-governo-e-nao-acredita-em-defice-abaixo-dos-3" >LEIA A EDIÇÃO MAIS RECENTE DO EXPRESSO DIÁRIO</a>
+</h1>
+    </article>
+
+
+    <figure data-oid="906155"><a href="/e-trabalhador-por-conta-de-outrem-temos-um-simulador-de-irs-para-si=f906155" target="_blank">
+ <img src="/imv/2/236/726/s-55b41-8c38.jpg" alt="" title="" width="" height="auto" border="0">
+</a></figure>
+    <article class="item highlight">
+        <h1>
+<a href="/e-trabalhador-por-conta-de-outrem-temos-um-simulador-de-irs-para-si=f906155" >É trabalhador por conta de outrem? Temos um simulador de IRS para si</a>
+</h1>
+    </article>
+
+
+    <figure data-oid="898524"><a href="http://expresso.sapo.pt/expresso-revela-arquivo-de-documentos-confidenciais-do-caso-espirito-santo=f898375" target="_blank">
+ <img src="/imv/2/200/501/ficheirosbescortado-166a.jpg" alt="" title="" width="" height="auto" border="0">
+</a></figure>
+    <article class="item highlight">
+        <h1>
+<a href="http://expresso.sapo.pt/expresso-revela-arquivo-de-documentos-confidenciais-do-caso-espirito-santo=f898375" >EXPRESSO REVELA ARQUIVO DE DOCUMENTOS CONFIDENCIAIS DO CASO ESPÍRITO SANTO</a>
+</h1>
+    </article>
+
+
+
+</section>
+
+
+        <div id="bannerMrec2" class="bannerMrec mtop15 mbot15 cboth" style="z-index:9999;" data-cb-ad-id="Expresso Economia 300x100">
+  <table cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td>
+        <div id="mrec" style="z-index:9999;">
+            <script type="text/javascript" language="javascript">
+            showMrec(1509,"&cpid=jaguarexp");
+        </script>
+            <noscript>
+                <a href='http://pub.sapo.pt/ck.php?n=abe0a189&cpid=jaguarexp&cb=2021.24997579631' target='_blank'>
+                    <img src='http://pub.sapo.pt/avw.php?zoneid=1509&cb=2021.24997579631&n=abe0a189&cpid=jaguarexp' border='0' alt='' />
+                </a>
+            </noscript>
+            <div align="right" class="cboth"><font face="Helvetica, sans-serif" color="#CCCCCC" style="font-size: 10px; text-transform:uppercase;">PUBLICIDADE</font></div>
+        </div>
+       </td>
+    </tr>
+  </table>
+</div>
+
+<script type='text/javascript'>
+    GA_googleFillSlot("Expresso_Economia_300x100");
+</script>
+
+    </div>
+    <div class="lateralBox"><div class="lateralBox" data-cb-ad-id="Expresso Destaques de Mercado">
+    <!-- <div align="right"><font face="Helvetica, sans-serif" color="#CCCCCC" style="font-size: 10px; text-transform:uppercase;">PUBLICIDADE</font></div> -->
+    <div class="destaques-mercado-ad" style="display:none;">
+        <script type="text/javascript">
+            showMrec(2246);
+        </script>
+    </div>
+    <div class="destaques-mercado-ad" style="display:none;">
+        <script type="text/javascript">
+            showMrec(2247);
+        </script>
+    </div>
+    <div class="destaques-mercado-ad" style="display:none;">
+        <script type="text/javascript">
+            showMrec(2248);
+        </script>
+    </div>
+    <noscript>
+        <a href='http://pub.sapo.pt/ck.php?n=abe0a189&cb=' target='_blank'>
+            <img src='http://pub.sapo.pt/avw.php?zoneid=2246&cb=&n=abe0a189' border='0' alt='' />
+        </a>
+    </noscript>
+    <noscript>
+        <a href='http://pub.sapo.pt/ck.php?n=abe0a189&cb=' target='_blank'>
+            <img src='http://pub.sapo.pt/avw.php?zoneid=2247&cb=&n=abe0a189' border='0' alt='' />
+        </a>
+    </noscript>
+    <noscript>
+        <a href='http://pub.sapo.pt/ck.php?n=abe0a189&cb=' target='_blank'>
+            <img src='http://pub.sapo.pt/avw.php?zoneid=2248&cb=&n=abe0a189' border='0' alt='' />
+        </a>
+    </noscript>
+    <script type="text/javascript">
+        jQuery(document).ready(
+            function(){
+                jQuery(".destaques-mercado-ad").each(
+                    function(){
+                        if(jQuery(this).height()>0){
+                            jQuery(this).addClass("destaques-mercado-ad-active");
+                            jQuery(this).css("display", "block");
+                        }
+                    }
+                );
+                //jQuery(".destaques-mercado-ad-active")
+                //    .live("mouseover",function() { jQuery(this).addClass("destaques-mercado-ad-active-hover"); })
+                //    .live("mouseout",function() { jQuery(this).removeClass("destaques-mercado-ad-active-hover"); });
+            });
+    </script>
+</div>
+
+</div>
+    <div class="lateralBox"></div>
+    <div class="lateralBox"><section class="lateralSection sectionLastStories">
+    <h2><a href="/gen.pl?p=arquivo">&Uacute;ltimas</a></h2>
+    <div class="article-list">
+
+<article class="item-wrapper">
+
+    <header>
+        <time pubdate="pubdate" datetime="16:19">16:19</time>
+        <h3><a href="/quinze-professores-nao-conseguiram-escapar-a-requalificacao=f909088">
+<a href="/gen.pl?p=stories&amp;op=view&amp;fokey=ex.stories/909088" >Quinze professores não conseguiram escapar à requalificação</a>
+</a></h3>
+    </header>
+</article>
+
+<article class="item-wrapper">
+
+    <header>
+        <time pubdate="pubdate" datetime="16:13">16:13</time>
+        <h3><a href="/entender-concordar-e-criticar=f909089">Entender, concordar e criticar</a></h3>
+    </header>
+</article>
+
+<article class="item-wrapper">
+    <figure>
+    <table style="border:0px;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td><img src="http://expresso.sapo.pt//imv/2/248/976/carta-1e97.jpg" border="0" alt="Na segunda carta enviada aos deputados, Ricardo Salgado contextualiza a informação que tinha feito chegar anteriormente. O objetivo, escreveu, era garantir que a sua resposta anterior não fosse &quot;desvirtuada para outros fins&quot;"></td>
+        </tr>
+        <tr>
+            <td class="aiCenterCre">Luís Barra</td>
+        </tr>
+    </table>
+</figure>
+    <header>
+        <time pubdate="pubdate" datetime="15:40">15:40</time>
+        <h3><a href="/salgado-manda-mais-uma-carta-ao-parlamento-a-explicar-a-anterior=f909081">
+<a href="/gen.pl?p=stories&amp;op=view&amp;fokey=ex.stories/909081" >Salgado manda mais uma carta ao Parlamento. A explicar a anterior</a>
+</a></h3>
+    </header>
+</article>
+
+<article class="item-wrapper">
+
+    <header>
+        <time pubdate="pubdate" datetime="15:22">15:22</time>
+        <h3><a href="/farmacias-comecam-a-receber-incentivos-em-troca-de-genericos=f909078">Farmácias começam a receber incentivos em troca de genéricos</a></h3>
+    </header>
+</article>
+
+<article class="item-wrapper">
+    <figure>
+    <table style="border:0px;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td><img src="http://expresso.sapo.pt//imv/2/248/939/durao-barroso-ec56-0f98.jpg" border="0" alt="Durão vai dar aulas na Católica"></td>
+        </tr>
+        <tr>
+            <td class="aiCenterCre">FOTO REUTERS</td>
+        </tr>
+    </table>
+</figure>
+    <header>
+        <time pubdate="pubdate" datetime="15:08">15:08</time>
+        <h3><a href="/durao-vai-dar-aulas-na-catolica=f909077">
+<a href="/gen.pl?p=stories&amp;op=view&amp;fokey=ex.stories/909077" >Durão vai dar aulas na Católica</a>
+</a></h3>
+    </header>
+</article>
+
+<article class="item-wrapper">
+
+    <header>
+        <time pubdate="pubdate" datetime="14:23">14:23</time>
+        <h3><a href="/falso-alarme-levou-a-evacuacao-de-quatro-edificios-do-parlamento-europeu=f909076">Falso alarme levou à evacuação de quatro edifícios do Parlamento Europeu </a></h3>
+    </header>
+</article>
+
+<article class="item-wrapper">
+    <figure>
+    <table style="border:0px;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td><img src="http://expresso.sapo.pt//imv/2/248/926/pcpaveirords02-23be.jpg" border="0" alt="Jerónimo ataca PS e 'as falsas mudanças dos que dizem que não são o PASOK de Portugal'"></td>
+        </tr>
+        <tr>
+            <td class="aiCenterCre">FOTO RUI DUARTE SILVA</td>
+        </tr>
+    </table>
+</figure>
+    <header>
+        <time pubdate="pubdate" datetime="13:32">13:32</time>
+        <h3><a href="/jeronimo-ataca-ps-e-as-falsas-mudancas-dos-que-dizem-que-nao-sao-o-pasok-de-portugal=f909074">
+<a href="/gen.pl?p=stories&amp;op=view&amp;fokey=ex.stories/909074" >Jerónimo ataca PS e "as falsas mudanças dos que dizem que não são o PASOK de Portugal"</a>
+</a></h3>
+    </header>
+</article>
+
+<article class="item-wrapper">
+    <figure><a href='/arma-liga-portugues-ao-carrasco-jihadi-john=f909070'><img src='/imv/2/248/818/manchete-5259.jpg' style='width:100px; height:68px;' alt='Nero Saraiva, um dos cinco portugueses da célula de Leyton e um dos braços-direitos do carrasco britânico Jihadi John' title='Nero Saraiva, um dos cinco portugueses da célula de Leyton e um dos braços-direitos do carrasco britânico Jihadi John' /></a></figure>
+    <header>
+        <time pubdate="pubdate" datetime="13:27">13:27</time>
+        <h3><a href="/arma-liga-portugues-ao-carrasco-jihadi-john=f909070">Arma liga português ao carrasco Jihadi John</a></h3>
+    </header>
+</article>
+
+<article class="item-wrapper">
+    <figure>
+    <table style="border:0px;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td><img src="http://expresso.sapo.pt//imv/2/248/731/fabio-00a8.jpg" border="0" alt="Fabio, um dos portugueses que foi para a jiade a partir de Londres"></td>
+        </tr>
+        <tr>
+            <td class="aiCenterCre"></td>
+        </tr>
+    </table>
+</figure>
+    <header>
+        <time pubdate="pubdate" datetime="13:22">13:22</time>
+        <h3><a href="/a-rota-jiadista-entre-londres-e-lisboa=f909056">
+<a href="/gen.pl?p=stories&amp;op=view&amp;fokey=ex.stories/909056" >A rota jiadista entre Londres e Lisboa</a>
+</a></h3>
+    </header>
+</article>
+
+    </div>
+</section>
+
+</div>
+    <div class="lateralBox"></div>
+    <div class="lateralBox"><section id="rc_rs_box" class="lateralSection">
+    <div class="social-buttons">
+        <a class="facebook-button"   target="_blank" title="Facebook" href="https://www.facebook.com/jornalexpresso"><i class="icon-facebook_circle"></i><span>&#47;jornalexpresso</span></a>
+        <a class="twitter-button"    target="_blank" title="Twitter"  href="https://twitter.com/expresso"><i class="icon-twitter_circle"></i><span>&#64;siga expresso</span></a>
+        <a class="googleplus-button" target="_blank" title="Google+"  href="https://plus.google.com/110189231159586871953/posts"><i class="icon-google_plus_circle"></i></a>
+        <a class="rss-button"        target="_blank" title="RSS"      href="http://expresso.sapo.pt/gen.pl?p=allrss">&nbsp;</a>
+    </div>
+</section>
+
+</div>
+    <div class="lateralBox"><section class="topsLinHP mostViewed lateralSection">
+    <h2>Mais visitados</h2>
+    <div class="item-section scrollable">
+
+<!-- [103489] -->
+<article class="item-wrapper">
+    <header>
+        <h3><a href="/morreram-os-dois-suspeitos-do-ataque-ao-charlie-hebdo=f905581">Morreram os dois suspeitos do ataque ao "Charlie Hebdo"</a></h3>
+    </header>
+</article>
+<!-- [96356] -->
+<article class="item-wrapper">
+    <header>
+        <h3><a href="/ao-lado-do-anjo-da-morte=f908176">Ao lado do "Anjo da Morte"  </a></h3>
+    </header>
+</article>
+<!-- [93569] -->
+<article class="item-wrapper">
+    <header>
+        <h3><a href="/e-trabalhador-por-conta-de-outrem-temos-um-simulador-de-irs-para-si=f906155">É trabalhador por conta de outrem? Temos um simulador de IRS para si</a></h3>
+    </header>
+</article>
+<!-- [71182] -->
+<article class="item-wrapper">
+    <header>
+        <h3><a href="/jose-socrates-escutado-a-pedir-dinheiro-a-amigo=f902506">José Sócrates escutado a pedir dinheiro a amigo</a></h3>
+    </header>
+</article>
+<!-- [56606] -->
+<article class="item-wrapper">
+    <header>
+        <h3><a href="/mario-soares-sou-o-gajo-que-lhes-atira-mais-as-trombas=f900893">Mário Soares. "Sou o gajo que lhes atira mais às trombas"</a></h3>
+    </header>
+</article>
+    </div>
+</section>
+<div id="PubBelowMrec_placeholder">
+  <div id="PubBelowMrec"></div>
+</div>
+
+</div>
+    <div class="lateralBox"><div class="lateralBox">
+    <a href="http://expressoemprego.pt/" target="_blank">
+    <img src="/users/3455/345595/expresso-emprego-7aea.jpg" alt="Expresso Emprego" title="Expresso Emprego" width="310" height="99" border="0">
+</a>
+</div>
+</div>
+    <div class="lateralBox"><section class="topsLinHP mostCommented lateralSection">
+    <h2>Mais comentados</h2>
+    <div class="item-section scrollable">
+
+
+<!-- [276] -->
+<article class="item-wrapper">
+    <h3><a href="/soares-nao-ha-justica-em-portugal-infelizmente=f904783">Soares: "Não há justiça em Portugal, infelizmente"</a></h3>
+</article>
+<!-- [197] -->
+<article class="item-wrapper">
+    <h3><a href="/mario-soares-sou-o-gajo-que-lhes-atira-mais-as-trombas=f900893">Mário Soares. "Sou o gajo que lhes atira mais às trombas"</a></h3>
+</article>
+<!-- [197] -->
+<article class="item-wrapper">
+    <h3><a href="/fmi-suspende-ajuda-a-grecia-ate-tomada-de-posse-de-novo-governo=f904283">FMI suspende ajuda à Grécia até tomada de posse de novo ...</a></h3>
+</article>
+<!-- [195] -->
+<article class="item-wrapper">
+    <h3><a href="/costa-visita-socrates-ele-vai-continuar-a-lutar=f904507">Costa visita Sócrates. "Ele vai continuar a lutar"</a></h3>
+</article>
+<!-- [178] -->
+<article class="item-wrapper">
+    <h3><a href="/sondagem-ps-sobe-apesar-de-socrates=f902376">Sondagem. PS sobe apesar de Sócrates</a></h3>
+</article>
+    </div>
+</section>
+
+
+
+</div>
+    <div class="lateralBox"><script src="http://expressoemprego.pt/expresso/expresso.js"></script>
+<div id="empregos-expresso"></div><br/>
+
+
+</div>
+</div>
+</div>
+
+    <div id="coms" style="padding-right:19px;vertical-align:top;">
+
+    </div>
+    </div>
+
+    </div>
+
+<script>
+jQuery(document).ready(function() {
+    jQuery.ajax({
+            url: '/gen.pl',
+            cache: false,
+            data: {
+                p: "hitcount",
+                op: "view",
+                fokey: "ex.stories/909074"
+            }
+    });
+});
+</script>
+<div id="leaderboard">
+    <table cellpadding="0" cellspacing="0" border="0">
+      <tr>
+         <td id="pubImg1"><img src="/i/pub_vertical.gif" width="7" height="17" alt="Pub"></td>
+         <td><div id="zahirad1"></div></td>
+      </tr>
+    </table>
+</div>
+
+<div id="footer-buttons-wrapper">
+    <div id="footer-buttons" class="content-row">
+
+    </div>
+    <div class="cboth"></div>
+</div>
+<div class="cboth"></div>
+
+<footer id="footer">
+    <div class="footer-min">
+        <div class="footer-wrapper">
+            <div class="footer-tab">
+                <a href="#" id="footer-tab-title">&copy; EXPRESSO Impresa Publishing S.A.<span>&times;</span></a>
+            </div>
+        </div>
+        <div class="cboth"></div>
+    </div>
+    <div class="footer-max">
+        <div class="footer-wrapper">
+            <nav class="footer-menu">
+                <a title="" sel="" target="_top" data-oid="119" class=" _pi" href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/23411&amp;p=index&amp;op=view&amp;mid1=ex.menus/119">Início</a>
+
+</li>
+<a title="" sel="" target="_top" data-oid="475" class=" " href="/politica?mid1=ex.menus/475">Política</a>
+<a title="" sel="" target="_top" data-oid="283" class=" " href="/sociedade?mid1=ex.menus/283">Sociedade</a>
+<a title="" sel="" target="_top" data-oid="476" class=" " href="/internacional?mid1=ex.menus/476">Internacional</a>
+<a title="" sel="" target="_top" data-oid="20" class="active _economia" href="/economia">Economia</a>
+</li>
+<a title="" sel="" target="_top" data-oid="21" class=" " href="/desporto">Desporto</a>
+<a title="" sel="" target="_top" data-oid="477" class=" " href="/cultura?mid1=ex.menus/477">Cultura</a>
+<a title="" sel="" target="_top" data-oid="23" class=" " href="/opiniao">Opinião</a>
+
+
+
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/23432&amp;mid1=ex.menus/480&amp;m2=485" class="" target="_top"  title="">Infografia</a>
+
+
+
+<!-- mn_intlink -->
+<a href="/gen.pl?p=aaz&letter=A" class="" title="">A a Z</a>
+
+
+
+<a href="http://expresso.sapo.pt/energiaportugal" class="" data-oid="509" target="_blank" title="">Energia de Portugal </a>
+
+
+
+
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/23434&amp;mid1=ex.menus/480&amp;m2=486" class="" target="_top"  title="">Vídeos</a>
+
+
+
+
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/23431&amp;mid1=ex.menus/480&amp;m2=484" class="" target="_top"  title="">Fotos</a>
+
+
+
+<a href="http://www.guiadoestudante.pt/" class="" data-oid="482" target="_blank" title="">Guia do Estudante</a>
+
+
+
+            </nav>
+            <div class="cboth"></div>
+            <div class="social-buttons">
+                <a target="_blank" title="Facebook" href="https://www.facebook.com/jornalexpresso" class="icon facebook-button"><i class="icon-facebook_circle"></i></a>
+                <a target="_blank" title="Twitter" href="https://twitter.com/expresso" class="icon twitter-button"><i class="icon-twitter_circle"></i></a>
+                <a target="_blank" title="Linkedin" href="https://www.linkedin.com/company/expresso-emprego" class="icon linkedin-button"><i class="icon-linked_in_circle"></i></a>
+                <a target="_blank" title="Google+" href="https://plus.google.com/110189231159586871953/posts" class="icon googleplus-button"><i class="icon-google_plus_circle"></i></a>
+                <a target="_blank" title="RSS" href="/gen.pl?p=allrss" class="icon rss-button">&nbsp;</a>
+            </div>
+            <div class="footer-first-itens">
+                <div class="f1item">
+<!-- mn_intlink_target -->
+<a href="http://expresso.sapo.pt/gen.pl?p=stories&amp;fokey=ex.stories/774690&amp;op=view&amp;mid1=ex.menus/66&amp;m2=487" class="" target="_top"  title="">Estatuto editorial</a>
+</div>
+
+
+
+<div class="f1item">
+<!-- mn_intlink_target -->
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/24868&amp;mid1=ex.menus/66&amp;m2=489" class="" target="_top"  title="">Código de Conduta</a>
+</div>
+
+
+
+<div class="f1item">
+<!-- mn_intlink_target -->
+<a href="http://expresso.sapo.pt/gen.pl?p=stories&amp;fokey=ex.stories/774685&amp;op=view&amp;mid1=ex.menus/66&amp;m2=488" class="" target="_top"  title="">Ficha Técnica do Expresso</a>
+</div>
+
+
+
+<div class="f1item">
+<!-- mn_intlink_target -->
+<a href="http://expresso.sapo.pt/gen.pl?p=stories&amp;fokey=ex.stories/616942&amp;op=view&amp;mid1=ex.menus/66&amp;m2=490" class="" target="_top"  title="">Ficha técnica da Exame</a>
+</div>
+
+
+
+
+          </div>
+            <div class="footer-second-itens">
+                <div class="footer-subtitle">&copy; EXPRESSO Impresa Publishing S.A.</div>
+                <div class="f2item">
+<a href="http://expresso.sapo.pt/politica-de-cookies=f774682" class="" data-oid="462" target="_blank" title="">Política de cookies</a>
+</div>
+
+<div class="f2item">
+<!-- mn_intlink -->
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/24790&amp;p=stories&amp;fokey=ex.storie/774667&amp;op=view&amp;mid1=ex.menus/67&amp;m2=99" class="" title="">Termos de utilização</a>
+</div>
+
+<div class="f2item">
+<!-- mn_intlink -->
+<a href="http://expresso.sapo.pt/gen.pl?sid=ex.sections/24791&amp;p=stories&amp;fokey=ex.storie/774676&amp;op=view&amp;mid1=ex.menus/67&amp;m2=100" class="" title="">Política de privacidade</a>
+</div>
+
+<div class="f2item">
+<a href="http://expresso.sapo.pt/regras-da-comunidade=f740487" class="" data-oid="104" target="_blank" title="">Regras da Comunidade</a>
+</div>
+
+<div class="f2item">
+<!-- mn_intlink -->
+<a href="/gen.pl?p=stories&op=view&fokey=ex.stories/723177" class="" title="">Publicidade</a>
+</div>
+
+<div class="f2item">
+<a href="http://expresso.sapo.pt/contactos-directos=f774722" class="" data-oid="105" target="_blank" title="">Contactos</a>
+</div>
+
+<div class="f2item">
+<a href="http://www.assineja.pt/expresso" class="" data-oid="90" target="_blank" title="">Assinaturas</a>
+</div>
+
+
+            </div>
+        </div>
+        <div class="cboth"></div>
+        <script src="http://web.cdn.impresa.pt/impresafooter/impresafooter-compress-min.js" type="text/javascript" charset="UTF-8" ></script>
+    </div>
+</footer>
+<!--INÍCIO netscope2 Expresso -->
+<script language="javascript" type="text/javascript">
+var WRP_ID= 317344;
+var WRP_SECTION='politica';
+var WRP_SUBSECTION='homepage';
+
+var WRP_SECTION_GRP='Impresa Publishing';
+var WRP_SUBSECTION_GRP= WRP_ID;
+
+var WRP_CONTENT='Jerónimo ataca PS e as falsas mudanças dos que dizem que não são o PASOK de Portugal';
+var WRP_CHANNEL='Sapo-Expresso';
+/* Profondeur Frame */
+var WRP_ACC ;
+wreport_ok=0;
+</script>
+<script language="javascript" src="http://expresso.sapo.pt/script/netscope2JS/netscope2.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(wreport_ok==1){ var w_counter = new wreport_counter(WRP_SECTION, WRP_SUBSECTION, WRP_ID, WRP_ACC, WRP_CHANNEL, WRP_SECTION_GRP, WRP_SUBSECTION_GRP);
+w_counter.add_content(WRP_CONTENT);
+w_counter.count();}
+</script>
+
+<script type="text/javascript" src="http://js.sapo.pt/SAPOWebAnalytics/"></script>
+<script>
+var _sapoWebAnalyticsArgs =
+    { swakt: "24b385df-4bb8-4e29-a51f-defae04777fd"
+    , swasection: WRP_SECTION
+    , swasubsection: WRP_SUBSECTION
+    , swasectiongrp: WRP_SECTION_GRP
+    , swasubsectiongrp: WRP_SUBSECTION_GRP
+    , swacontent: WRP_CONTENT
+    , swachannel: WRP_CHANNEL };
+SAPO.WebAnalytics.track(_sapoWebAnalyticsArgs);
+</script>
+
+<!-- netScope v3 Begin of gPrism tag - expresso.pt - 3377032 -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!-
+var pp_gemius_identifier = 'pzObuT8RwBPt9Har2hEswLb.LSnwzSdM1eV554gHvI7.Q7';
+var params = new Array();
+params[0] = WRP_SECTION;
+params[1] = WRP_SUBSECTION;
+params[2] = WRP_CONTENT;
+var pp_gemius_extraparameters = new Array("gA="+params[0]+"/"+params[1]+"/"+params[2]);
+var pp_gemius_event = pp_gemius_event || function() {var x = window.gemius_sevents = window.gemius_sevents || []; x[x.length]=arguments;};
+( function(d,t) {
+    var ex;
+    try { var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s://secure':'://data'); gt.async='true'; gt.src=l+'.netscope.marktest.pt/netscope-gemius.js'; s.parentNode.appendChild(gt);}
+    catch (ex){}}
+    (document,'script')
+);
+//--><!]] -->
+</script>
+<!-- End netScope v3 / www.net.marktest.pt / (C) Gemius/Marktest 2013 -->
+
+
+</div>
+
+<script type='text/javascript'>
+   var m3_u = (location.protocol=='https:'?'https://pub.sapo.pt/ajs.php':'http://pub.sapo.pt/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1508");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&;mmm_fo=1");
+   document.write ("'></scr"+"ipt>");
+</script><noscript><a href='http://pub.sapo.pt/ck.php?n=aee3957e&cb=6653.14819271774' target='_blank'><img src='http://pub.sapo.pt/avw.php?zoneid=1508&cb=6653.14819271774&n=aee3957e' border='0' alt='' /></a></noscript>
+
+
+<script charset="UTF-8" id="bsu-v2-sapo" src="http://bars.sapo.pt/bsu_v2.0/barra.js" data-partner="impresa"></script>
+<script type="text/javascript">
+SAPO_Project_TakeOver={
+zoneId: 2797
+};
+</script>
+<script type="text/javascript" src="http://js.sapo.pt/Snippets/TakeOver-v1.js"></script>
+
+
+
+<script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 54899;
+    _sf_async_config.domain = 'expresso.sapo.pt';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = "Política";
+    _sf_async_config.authors = "Paulo Paixão";
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_pub.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+<div id="fb-root-footer">
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '46267cb9368e4512d092a4723ae7ee39', // App ID
+      xfbml      : true  // parse XFBML
+    });
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/pt_PT/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
+</div>
+
+
+</body>
+</html>
+

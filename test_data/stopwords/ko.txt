@@ -1,0 +1,588 @@
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN' 'http://www.w3.org/TR/html4/loose.dtd'>
+<html>
+<head>
+<title>적자 삼성SDI를 단숨에 흑자로…손욱 “혁신, 이렇게 하라” : 뉴스 : 동아닷컴</title>
+<meta name='keywords' content='뉴스, 기사, 속보, 정치, 경제, 사회, 국제, 문화, 사설, 컬럼, 동아일보, 동아닷컴, news, donga.com'>
+<meta name='description' content="&ldquo;바둑에서 정석을 공부하지 않고 일류 기사의 기보만 외워 대국하는 것이 어리석은 일이다. 혁신도 마찬가지다. 무조건 외국 기업의 혁신 방법만 따라 한다고 되는 것이 아니다.&rdquo;    &lsquo;식스시그마 전도사&rsquo; &lsquo;최고의 테크노 최고경영자(CEO)&rsquo;라는 별명을 가진 손욱 행복나눔125운동본부 회장의 혁신에 대한 통찰이다. 그는 고(故) 이병철 회장과 이건희 회장을 보좌하며 삼성의 기술 혁신을 주도했다. 또 삼성전기와 삼성전자, 삼성SDI의 프로세스 혁신과 전사적 정보시스템 구축 프로젝트를 이끌었다. 1993년 삼성 신경영 프로젝트를 시작할 당시 수행팀장으로 이건희 회장을 보필했으며 2006년 현직 CEO로는 최초로 서울대 공과대학 최고산업전략과정 주임교수로 임용됐다. 농심 회장을 거쳐 현재는 1주일에 한 번 선행하고, 1개월에 책을 두 권 읽으며, 하루 다섯 번 감사하자는 취지의 운동인 행복나눔125운동본부 회장으로 일하고 있다. DBR이 손 회장을 만나 혁신에 대한 경험과 통찰을 들었다. 인터뷰 전문은 DBR 1">
+<link rel="image_src" href="http://dimg.donga.com/wps/NEWS/IMAGE/2014/07/15/65178564.2.jpg" />
+<meta property="og:image" content="http://dimg.donga.com/wps/NEWS/IMAGE/2014/07/15/65178564.2.jpg"/>
+<meta name='writer' content='동아닷컴'>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=8'>
+<link rel='stylesheet' type='text/css' href='http://image.donga.com/donga2013/css/sub_20140402.css'>
+<script type='text/javascript' src='http://image.donga.com/donga/js/jquery-latest.js'></script>
+<script type='text/javascript' src='http://image.donga.com/donga2013/js/calendar.js'></script>
+<script>
+function openWindow(url, name, width, height)
+{
+    window.open(url, name, "width="+width+", height="+height+", scrollbars=yes, resizable=yes");
+    return false;
+}
+</script>
+</head>
+
+<body>
+<div class='skip'><a href='#contents'>본문바로가기</a></div>
+<!-- GnbAD -->
+<div id='top_AD'><div id='usa_ad'><script src='http://www.googletagservices.com/tag/js/gpt.js'></script><SCRIPT LANGUAGE="JavaScript1.1"> adURL = "http://ar.donga.com/RealMedia/ads/adstream_jx.ads/2012.donga.com/news@Top"; adURL = adURL.replace(/@/, "/1" + ((String)(Math.random())).substring (2, 11) + "@"); document.write ("<SCR" + "IPT LANG" + "UAGE='JAVAS" + "CRIPT1.1' SRC='" + adURL + "'></SCR" + "IPT>");</SCRIPT></div><a href='#' onClick='javascript:$("#top_AD").toggle(); return false;' class='btn_close'><img src='http://image.donga.com/home2012/images/ad/btn_close.gif'></a></div>
+<!-- //GnbAD -->
+<hr>
+
+<!-- Gnb 영역 -->
+<div id='gnb'>
+    <div class='gnbBox'>
+        <ul class='gnbLeft'>
+            <li><strong><a href='http://www.donga.com/members/login.php?gourl=http%3A%2F%2Fnews.donga.com%2FMain%2F3%2Fall%2F20150130%2F69374744%2F1' class='login'>로그인</a></strong> | </li><li><a href='http://www.donga.com/members/mregist.php?gourl=http%3A%2F%2Fnews.donga.com%2FMain%2F3%2Fall%2F20150130%2F69374744%2F1' class='join'>회원가입</a> | </li>
+            <li><a href='http://readers.donga.com/' target='_blank'>구독신청</a> | </li>
+            <li><a href="http://voice.donga.com/" target='_blank'>보이스뉴스</a> | </li>
+            <li><a href="http://www.donga.com/pdf/" target='_blank'>지면보기</a> | </li>
+            <li><a href="#" onClick="javascript: this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.donga.com/');return false;">동아닷컴을 시작페이지로▶</a> </li>
+        </ul>
+        <ul class='gnbRight'>
+            <li><strong><a href='http://sports.donga.com/' target='_blank'>스포츠동아</a></strong> | </li>
+            <li><a href='http://reuters.donga.com/' target='_blank'>ON세상</a> | </li>
+            <li><a href='http://studio.donga.com/' target='_blank'>스튜디오</a> | </li>
+            <li><a href='http://economy.donga.com/' target='_blank'>동아경제</a> | </li>
+            <li><a href='http://thewoman.donga.com/' target='_blank'>우먼동아</a> | </li>
+            <li><a href='http://www.ichannela.com/' target='_blank'>채널A</a> | </li>
+            <li class="more"><a href='#' onClick='javascript:$(".headMoreWrap").toggle();'>더보기<img src='http://image.donga.com/donga2013/images/common/bul_plus_more.gif' alt=''></a> &nbsp; </li>
+        </ul>
+
+        <!-- 더보기 레이어 -->
+        <div class='headMoreWrap' style='display:none;' onmouseover='javascript:$(".headMoreWrap").show();' onMouseOut='javascript:$(".headMoreWrap").hide();' >
+            <dl class='left'>
+                <dt class='first'><a href='http://www.donga.com/'>뉴스</a></dt>
+                <dd><a href='http://news.donga.com/Politics' class='bg'>정치</a><a href='http://news.donga.com/Economy'>경제</a></dd>
+                <dd><a href='http://news.donga.com/Society' class='bg'>사회</a><a href='http://news.donga.com/Inter'>국제</a></dd>
+                <dd><a href='http://news.donga.com/Enter' class='bg'>연예<img src='http://image.donga.com/donga2013/images/common/icon_new.gif' width='8' height='8' alt=''></a><a href='http://news.donga.com/Culture'>문화</a></dd>
+                <dd><a href='http://news.donga.com/Sports'>스포츠<img src='http://image.donga.com/donga2013/images/common/icon_new.gif' width='8' height='8' alt=''></a></dd>
+                <dd><a href='http://news.donga.com/It'>의학 · 과학</a></dd>
+                <dd><a href='http://news.donga.com/Column'>오피니언</a></dd>
+                <dd><a href='http://news.donga.com/People'>사람속으로</a></dd>
+                <dt><a href='http://voice.donga.com/'>보이스뉴스</a></dt>
+                <dt class='tit'><a href='http://www.donga.com/pdf/'>PDF지면보기</a></dt>
+                <dt class='tit'><a href='http://news.donga.com/'>오늘의 신문<img src='http://image.donga.com/donga2013/images/common/icon_new.gif' width='8' height='8' alt=''></a></dt>
+                <dt class='tit'><a href='http://rss.donga.com/'>RSS</a></dt>
+                <dt><a href='#'>다국어뉴스</a></dt>
+                <dd><a href='http://english.donga.com/' class='bg1'>ENG</a><a href='http://japan.donga.com/' class='bg1'>日本語</a><a href='http://chinese.donga.com/gb/index.html'>中國語</a></dd>
+            </dl>
+            <dl>
+                <dt class='first'><a href='#'>포토&amp;동영상</a></dt>
+                <dd><a href='http://studio.donga.com/'>스튜디오<img src='http://image.donga.com/donga2013/images/common/icon_new.gif' width='8' height='8' alt=''></a></dd>
+                <dd><!-- a href='http://etv.donga.com/' class='bg'>eTV</a --><a href='http://reuters.donga.com/'>ON세상</a></dd>
+                <dt><a href='http://economy.donga.com/'>동아경제</a></dt>
+                <dd><a href='http://economy.donga.com/' class='bg'>종합</a><a href='http://economy.donga.com/stock'>증권</a></dd>
+                <dd><a href='http://economy.donga.com/estate' class='bg'>부동산</a><a href='http://economy.donga.com/List/Money'>금융</a></dd>
+                <dd><a href='http://join4.creditbank.co.kr/DongA/creditinquiry.cb?m=inquiryMain' class='bg'>신용조회</a><a href='http://economy.donga.com/List/It'>IT</a></dd>
+                <dd><a href='http://car.donga.com/'>동아오토<img src='http://image.donga.com/donga2013/images/common/icon_new.gif' width='8' height='8' alt=''></a></dd>
+                <dt><a href='http://sports.donga.com/'>스포츠동아</a></dt>
+                <dt><a href='http://dkbnews.donga.com/'>도깨비뉴스</a></dt>
+                <dt><a href='http://mlbpark.donga.com/'>MLB파크</a></dt>
+                <dt class='tit'><a href='http://idolpark.donga.com/'>아이돌파크</a></dt>
+            </dl>
+            <dl>
+                <dt class='first'><a href='http://www.donga.com/docs/magazine/subscription.php'>자매지</a></dt>
+                <dd><a href='http://shindonga.donga.com/'>신동아</a></dd>
+                <dd><a href='http://weekly.donga.com/'>주간동아</a></dd>
+                <dd><a href='http://woman.donga.com/'>여성동아</a></dd>
+                <dd><a href='http://kids.donga.com/'>어린이동아</a></dd>
+                <dd><a href='http://science.dongascience.com/'>과학동아</a></dd>
+                <dd><a href='http://math.dongascience.com/'>수학동아</a></dd>
+                <dd><a href='http://kids.dongascience.com/'>어린이과학동아</a></dd>
+                <dd><a href='http://www.dongabiz.com/?src=image&amp;kw=000011'>동아비지니스리뷰</a></dd>
+                <dt><a href='http://thewoman.donga.com/'>우먼동아일보</a></dt>
+                <dt><a href='http://books.donga.com/'>북스동아</a></dt>
+                <dt><a href='http://health.donga.com/'>헬스&라이프</a></dt>
+            </dl>
+            <dl class='right'>
+                <dt class='first'><a href='http://blog.donga.com/'>블로그<span>(저널로그)</span></a></dt>
+                <dt><a href='http://nuri.donga.com/'>동아누리</a></dt>
+                <dd><a href='http://www.donga.com/event/'>이벤트</a></dd>
+                <dt class='secon'><a href='http://www.donga.com/'>동아닷컴</a></dt>
+                <dd><a href='http://faq.donga.com/'>고객센터</a></dd>
+                <dd><a href='http://www.donga.com/members/mregist.php'>회원가입</a></dd>
+                <dd><a href='http://www.donga.com/members/mupdate.php'>회원정보수정</a></dd>
+                <dt><a href='http://www.donga.com/'>동아일보</a></dt>
+                <dd><a href='http://www.donga.com/docs/ilbo/'>회사소개</a></dd>
+                <dd><a href='http://www.donga.com/docs/ilbo/svc/'>독자서비스센터</a></dd>
+                <dd><a href='http://readers.donga.com/'>구독문의·신청</a></dd>
+            </dl>
+            <a href='#' class='btnClose' onClick='javascript:$(".headMoreWrap").hide();return false;'><img src='http://image.donga.com/donga2013/images/common/btn_header_del.gif' width='15' height='15' alt='닫기'></a>
+        </div>
+        <!-- // 더보기 레이어 -->
+    </div>
+</div>
+<!-- //Gnb 영역 -->
+
+<hr>
+
+<!-- Header -->
+<div id='header'>
+    <!-- 로고 -->
+    <h1><a href='http://www.donga.com'><img src='http://image.donga.com/donga2013/images/common/logo_2.gif' alt='dongA.com'></a></h1>
+    <!-- // 로고 -->
+
+    <!-- 전체 검색 -->
+    <div class='headerSearch'>
+        <form name='search_form' id='search_form' method='get' action='http://news.donga.com/search'>
+            <fieldset>
+                <legend>전체검색</legend>
+                    <span class='t'><input type='text' id='query' name='query' title='검색어 입력 ' onclick="document.getElementById('search_form').query.value =''"></span>
+                    <input class='s' type='image' src='http://image.donga.com/donga2013/images/common/btn_header_search02.gif' alt='검색'>
+            </fieldset>
+        </form>
+    </div>
+    <script src="http://dimg.donga.com/carriage/NEWS/files/home_content_keyword/home_content_keyword.1.js"></script>
+    <!-- // 전체 검색 -->
+
+    <!-- NAV -->
+    <ul id='nav'><li class='news on'><a class='on' href='http://news.donga.com/List' >최신기사</a><ul class='subNav01 on'><li class='subNav01_01'><a href='http://news.donga.com/List'  class=''>최신기사</a></li><li class='subNav01_02'><a href='http://news.donga.com/Politics'  class=''>정치</a><ul class='subNav02 '><li><a href='http://news.donga.com/List/Politics'>최신기사</a></li><li><a href='http://news.donga.com/List/Politics/CWD'>청와대</a></li><li><a href='http://news.donga.com/List/Politics/NA'>국회정당</a></li><li><a href='http://news.donga.com/List/Politics/Dip'>외교안보</a></li><li><a href='http://news.donga.com/List/Politics/NK'>북한</a></li><li><a href='http://news.donga.com/List/Politics/Admin'>행정자치</a></li><li><a href='http://news.donga.com/List/Politics/Poll'>여론조사</a></li><li><a href='http://news.donga.com/DStory/Politics'>이슈연재</a></li></ul></li><li class='subNav01_03'><a href='http://news.donga.com/Economy'  class='on'>경제</a><ul class='subNav02 on'><li><a href='http://news.donga.com/List/Economy'>최신기사</a></li><li><a href='http://news.donga.com/List/Economy/CEO'>기업CEO</a></li><li><a href='http://news.donga.com/List/Economy/RE'>부동산</a></li><li><a href='http://news.donga.com/List/Economy/Money'>금융</a></li><li><a href='http://news.donga.com/List/Economy/Policy'>정책</a></li><li><a href='http://news.donga.com/List/Economy/Job'>JOB</a></li><li><a href='http://news.donga.com/List/Economy/Car'>자동차</a></li><li><a href='http://news.donga.com/List/Economy/Market'>유통</a></li><li><a href='http://news.donga.com/DStory/Economy'>이슈연재</a></li></ul></li><li class='subNav01_04'><a href='http://news.donga.com/Inter'  class=''>국제</a><ul class='subNav02 '><li><a href='http://news.donga.com/List/Inter'>최신기사</a></li><li><a href='http://news.donga.com/List/Inter/China'>중국</a></li><li><a href='http://news.donga.com/List/Inter/Japan'>일본</a></li><li><a href='http://news.donga.com/List/Inter/ME'>중동</a></li><li><a href='http://news.donga.com/List/Inter/Asia'>아시아</a></li><li><a href='http://news.donga.com/List/Inter/USA'>미국·북미</a></li><li><a href='http://news.donga.com/List/Inter/Latin'>중남미</a></li><li><a href='http://news.donga.com/List/Inter/EU'>유럽EU</a></li><li><a href='http://news.donga.com/List/Inter/Russia'>러시아</a></li><li><a href='http://news.donga.com/DStory/Inter'>이슈연재</a></li></ul></li><li class='subNav01_05'><a href='http://news.donga.com/Society'  class=''>사회</a><ul class='subNav02 '><li><a href='http://news.donga.com/List/Society'>최신기사</a></li><li><a href='http://news.donga.com/List/Society/Law'>법조</a></li><li><a href='http://news.donga.com/List/Society/Edu'>교육</a></li><li><a href='http://news.donga.com/List/Society/Envi'>환경</a></li><li><a href='http://news.donga.com/List/Society/Welfare'>보건·복지</a></li><li><a href='http://news.donga.com/List/Society/Labor'>노동</a></li><li><a href='http://news.donga.com/List/Society/Weather'>날씨이야기</a></li><li><a href='http://news.donga.com/List/Society/Traffic'>교통</a></li><li><a href='http://news.donga.com/List/Society/Event'>사건·사고</a></li><li><a href='http://news.donga.com/List/Society/Region'>내고장 소식</a></li><li><a href='http://news.donga.com/DStory/Society'>이슈연재</a></li></ul></li><li class='subNav01_06'><a href='http://news.donga.com/Culture'  class=''>문화</a><ul class='subNav02 '><li><a href='http://news.donga.com/List/Culture'>최신기사</a></li><li><a href='http://news.donga.com/List/Culture/Music'>음악</a></li><li><a href='http://news.donga.com/List/Culture/Ani'>애니·만화</a></li><li><a href='http://news.donga.com/List/Culture/Play'>공연</a></li><li><a href='http://news.donga.com/List/Culture/Liter'>문학·출판</a></li><li><a href='http://news.donga.com/List/Culture/Food'>요리·맛집</a></li><li><a href='http://news.donga.com/List/Culture/Reli'>종교</a></li><li><a href='http://news.donga.com/List/Culture/Acad'>학술</a></li><li><a href='http://news.donga.com/List/Culture/Fashion'>패션·인테리어</a></li><li><a href='http://news.donga.com/List/Culture/Travel'>여행</a></li><li><a href='http://news.donga.com/DStory/Culture'>이슈연재</a></li></ul></li><li class='subNav01_07'><a href='http://news.donga.com/It'  class=''>의학과학</a><ul class='subNav02 '><li><a href='http://news.donga.com/List/It'>최신기사</a></li><li><a href='http://news.donga.com/List/It/Medi'>의학·과학</a></li><li><a href='http://news.donga.com/List/It/Com'>정보통신</a></li><li><a href='http://news.donga.com/List/It/PC'>인터넷</a></li><li><a href='http://news.donga.com/List/It/Game'>게임</a></li><li><a href='http://news.donga.com/DStory/It'>이슈연재</a></li></ul></li><li class='subNav01_08'><a href='http://news.donga.com/People'  class=''>사람속으로</a><ul class='subNav02 '><li><a href='http://news.donga.com/List/People'>최신기사</a></li><li><a href='http://news.donga.com/List/People/Inmul'>인물동정</a></li><li><a href='http://news.donga.com/List/People/Insa'>인사</a></li><li><a href='http://news.donga.com/List/People/Bugo'>부고</a></li><li><a href='http://news.donga.com/List/People/Sago'>사고</a></li><li><a href='http://news.donga.com/List/People/Bonsa'>본사손님</a></li></ul></li></ul></li><li class='opinion '><a class='' href='http://news.donga.com/Column' >오피니언</a><ul class='subNav01 '><li class='subNav01_01'><a href='http://news.donga.com/List/Column'  class=''>최신기사</a></li><li class='subNav01_02'><a href='http://news.donga.com/List/Column/Sasul'  class=''>사설</a></li><li class='subNav01_03'><a href='http://news.donga.com/List/Column/DA'  class='on'>동아광장</a></li><li class='subNav01_04'><a href='http://news.donga.com/List/Column/ON'  class=''>오늘과 내일</a></li><li class='subNav01_05'><a href='http://news.donga.com/List/Column/Siron'  class=''>시론</a></li><li class='subNav01_06'><a href='http://news.donga.com/List/Column/HS'  class=''>횡설수설</a></li><li class='subNav01_07'><a href='http://news.donga.com/List/Column/GHM'  class=''>광화문에서</a></li><li class='subNav01_08'><a href='http://news.donga.com/List/Column/NSR'  class=''>@뉴스룸</a></li><li class='subNav01_09'><a href='http://news.donga.com/List/Column/Kija'  class=''>문화컬럼</a></li></ul></li><li class='sports '><a class='' href='http://news.donga.com/Sports' >스포츠</a><ul class='subNav01 '><li class='subNav01_01'><a href='http://news.donga.com/List/Sports'  class=''>최신기사</a></li><li class='subNav01_02'><a href='http://news.donga.com/List/Sports/Base'  class=''>야구&MLB</a></li><li class='subNav01_03'><a href='http://news.donga.com/List/Sports/Foot'  class='on'>축구</a></li><li class='subNav01_04'><a href='http://news.donga.com/List/Sports/Golf'  class=''>골프</a></li><li class='subNav01_05'><a href='http://news.donga.com/List/Sports/Basket'  class=''>농구</a></li><li class='subNav01_06'><a href='http://marathon.donga.com/'  class=''>마라톤</a></li><li class='subNav01_07'><a href='http://news.donga.com/List/Sports/Combi'  class=''>종합</a></li></ul></li><li class='entertainment '><a class='' href='http://news.donga.com/Enter' >연예</a><ul class='subNav01 '><li class='subNav01_01'><a href='http://news.donga.com/List/Enter'  class=''>최신기사</a></li><li class='subNav01_02'><a href='http://news.donga.com/List/Enter/TV'  class=''>방송</a></li><li class='subNav01_03'><a href='http://news.donga.com/List/Enter/Movie'  class='on'>영화</a></li><li class='subNav01_04'><a href='http://news.donga.com/List/Enter/Music'  class=''>대중음악</a></li><li class='subNav01_05'><a href='http://news.donga.com/List/Enter/Reporter'  class=''>연예가소식</a></li><li class='subNav01_06'><a href='http://news.donga.com/O2'  class=''>O2플러스</a></li></ul></li><li class='studio '><a class='' href='http://studio.donga.com/' >스튜디오</a><ul class='subNav01 '><li class='subNav01_01'><a href='http://studio.donga.com/List?c=0003'  class=''>시사</a></li><li class='subNav01_02'><a href='http://studio.donga.com/List?c=0062'  class=''>연예</a></li><li class='subNav01_03'><a href='http://studio.donga.com/List?c=0063'  class='on'>스포츠</a></li><li class='subNav01_04'><a href='http://studio.donga.com/List?c=0064'  class=''>라이프</a></li><li class='subNav01_05'><a href='http://studio.donga.com/List?c=0047'  class=''>19 신문에 못 싣는 사진들</a></li><li class='subNav01_06'><a href='http://studio.donga.com/Gallery'  class=''>독자갤러리</a></li></ul></li><li class='dongaAuto '><a class='' href='http://car.donga.com/' >동아오토</a></li><li class='property '><a class='' href='http://realestate.donga.com/' >부동산</a></li>        <li class='channelA'><a href='http://www.ichannela.com/' target='_blank'>채널A</a></li>
+    </ul>
+    <!-- // NAV -->
+    <!-- 블로그, 동아누리 -->
+    <ul class='blogNuri'>
+        <li><a href='http://blog.donga.com/'><img src='http://image.donga.com/donga2013/images/main/tit_blog.gif' alt='블로그'></a></li>
+        <li><a href='http://nuri.donga.com/'><img src='http://image.donga.com/donga2013/images/main/tit_donga_nuri.gif' alt='동아누리'></a></li>
+    </ul>
+    <!-- // 블로그, 동아누리 -->
+
+    <!-- 날씨 -->
+    <iframe class='weatherBox weatherBox02' scrolling='no' src='http://news.donga.com/Weatheri?m=current&p1=h' frameborder='0' scrolling='no' title='날씨'></iframe><div class='snsMainList'><ul><li><a href='http://twitter.com/dongamedia' target='_blank'><img src='http://img.donga.com/donga2013/images/common/icon_twitter_b.gif' alt='twitter'></a></li><li><a href='http://www.facebook.com/dongamedia' target='_blank'><img src='http://img.donga.com/donga2013/images/common/icon_facebook_b.gif' alt='facebook'></a></li></ul></div>
+    <!-- // 날씨 -->
+</div>
+<!-- //Header -->
+
+<hr>
+
+<!-- Wrap -->
+<div id='wrap'>
+<div id='container'>
+        <div id='sub_top_AD_2014'><iframe width='978' height='148' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2014.donga.com/news@x10'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2014.donga.com/news@x10'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2014.donga.com/news@x10' alt='TopBanner'></a></iframe></div>
+    <!-- ?php $legoletManager->drawData('DA_ARTICLE_TITLE'); ? -->
+<script>
+function send2SNS ( media )
+{
+    var url = "" ;
+    switch(media)
+    {
+        case "facebook":
+            url = "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.donga.com%2FMain%2F3%2Fall%2F20150130%2F69374744%2F1" ;
+            break;
+        case "twitter":
+            url = "http://twitter.com/share?text=%EC%A0%81%EC%9E%90%20%EC%82%BC%EC%84%B1SDI%EB%A5%BC%20%EB%8B%A8%EC%88%A8%EC%97%90%20%ED%9D%91%EC%9E%90%EB%A1%9C%E2%80%A6%EC%86%90%EC%9A%B1%20%E2%80%9C%ED%98%81%EC%8B%A0%2C%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%ED%95%98%EB%9D%BC%E2%80%9D%20%3A%20%EB%8F%99%EC%95%84%EB%8B%B7%EC%BB%B4" ;
+            break;
+        case "naver":
+            url = "http://bookmark.naver.com/post?ns=1&title=%EC%A0%81%EC%9E%90%20%EC%82%BC%EC%84%B1SDI%EB%A5%BC%20%EB%8B%A8%EC%88%A8%EC%97%90%20%ED%9D%91%EC%9E%90%EB%A1%9C%E2%80%A6%EC%86%90%EC%9A%B1%20%E2%80%9C%ED%98%81%EC%8B%A0%2C%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%ED%95%98%EB%9D%BC%E2%80%9D%20%3A%20%EB%8F%99%EC%95%84%EB%8B%B7%EC%BB%B4&url=http%3A%2F%2Fnews.donga.com%2FMain%2F3%2Fall%2F20150130%2F69374744%2F1" ;
+            break;
+        case "cyworld":
+            url = "http://csp.cyworld.com/bi/bi_recommend_pop.php?url=http%3A%2F%2Fnews.donga.com%2FMain%2F3%2Fall%2F20150130%2F69374744%2F1&title_nobase64=%EC%A0%81%EC%9E%90%20%EC%82%BC%EC%84%B1SDI%EB%A5%BC%20%EB%8B%A8%EC%88%A8%EC%97%90%20%ED%9D%91%EC%9E%90%EB%A1%9C%E2%80%A6%EC%86%90%EC%9A%B1%20%E2%80%9C%ED%98%81%EC%8B%A0%2C%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%ED%95%98%EB%9D%BC%E2%80%9D%20%3A%20%EB%8F%99%EC%95%84%EB%8B%B7%EC%BB%B4&thumbnail=&writer=&corpid=65816299";
+            break;
+        case "google":
+            url = "http://www.google.com/bookmarks/mark?op=add&title=%EC%A0%81%EC%9E%90%20%EC%82%BC%EC%84%B1SDI%EB%A5%BC%20%EB%8B%A8%EC%88%A8%EC%97%90%20%ED%9D%91%EC%9E%90%EB%A1%9C%E2%80%A6%EC%86%90%EC%9A%B1%20%E2%80%9C%ED%98%81%EC%8B%A0%2C%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%ED%95%98%EB%9D%BC%E2%80%9D%20%3A%20%EB%8F%99%EC%95%84%EB%8B%B7%EC%BB%B4&bkmk=http%3A%2F%2Fnews.donga.com%2FMain%2F3%2Fall%2F20150130%2F69374744%2F1" ;
+            break;
+    }
+    if ( url != "" )
+    {
+        openWindow ( url, "_SNS", 860, 500 ) ;
+    }
+    return false;
+}
+
+var fontSize = 2 ;
+function callCSset(key, val)
+{
+    var targetUrl = "/HUB/common/cs.php?s="+key+"&u="+val ;
+    $.ajax( {
+        type: "GET",
+        url: targetUrl,
+        dataType: "html",
+        success: function (result) {
+        }
+    });
+}
+function changeFontSize ()
+{
+    if ( fontSize == 0 )
+    {
+        alert ('최소 폰트 사이즈입니다.') ;
+        fontSize = 1 ;
+        return false;
+    }
+    else if ( fontSize == 5 )
+    {
+        alert ('최대 폰트 사이즈입니다.') ;
+        fontSize = 4 ;
+        return false;
+    }
+
+    if ( fontSize == 1 )
+    {
+        $('.article_txt').css({'font-size':'14px'});
+    }
+    else if ( fontSize == 3 )
+    {
+        $('.article_txt').css({'font-size':'20px'});
+    }
+    else if ( fontSize == 4 )
+    {
+        $('.article_txt').css({'font-size':'24px'});
+    }
+    else
+    {
+        $('.article_txt').css({'font-size':'16px'});
+    }
+
+    callCSset('pfs', fontSize) ;
+    return false;
+}
+</script>
+<div class="article_title">
+    <p class="location">뉴스&nbsp;&gt;&nbsp;경제&nbsp;&gt;&nbsp;경제일반&nbsp;&gt;&nbsp;<strong>DBR</strong></p>
+    <h1>적자 삼성SDI를 단숨에 흑자로…손욱 “혁신, 이렇게 하라”</h1>
+    <p class="repoter">정지영기자 </p>
+    <div class='notice_banner'><script src='http://dimg.donga.com/carriage/NEWS/files/news_banner/news_banner.0.js'></script></div>
+</div>
+
+<!-- sns, 제어기능 -->
+<div class="sns_wrap">
+    <div class="sns_area">
+        <div class="sns" id="facebookButton1"><iframe src='http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fnews.donga.com%2FMain%2F3%2Fall%2F20150130%2F69374744%2F1&layout=button_count&show_faces=false&width=90&action=like&font=arial&colorscheme=light&height=21' scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:95px; height:21px;" allowTransparency="true"></iframe></div>
+        <div class="sns" id="twitterBox1"><a href='http://twitter.com/share?text=%EC%A0%81%EC%9E%90%20%EC%82%BC%EC%84%B1SDI%EB%A5%BC%20%EB%8B%A8%EC%88%A8%EC%97%90%20%ED%9D%91%EC%9E%90%EB%A1%9C%E2%80%A6%EC%86%90%EC%9A%B1%20%E2%80%9C%ED%98%81%EC%8B%A0%2C%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%ED%95%98%EB%9D%BC%E2%80%9D%20%3A%20%EB%8F%99%EC%95%84%EB%8B%B7%EC%BB%B4' class='twitter-share-button' data-count='horizontal' data-via='dongamedia' data-lang='eng'>Tweet</a></div><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <div class="sns_out">
+            <span class="sns_icon">
+                <a href="#" onClick="javascript:return send2SNS('facebook');"><img src="http://image.donga.com/home2012/images/common/icon_facebook.gif" alt="Facebook"></a>
+                <a href="http://twitter.com/share?text=%EC%A0%81%EC%9E%90%20%EC%82%BC%EC%84%B1SDI%EB%A5%BC%20%EB%8B%A8%EC%88%A8%EC%97%90%20%ED%9D%91%EC%9E%90%EB%A1%9C%E2%80%A6%EC%86%90%EC%9A%B1%20%E2%80%9C%ED%98%81%EC%8B%A0%2C%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%ED%95%98%EB%9D%BC%E2%80%9D%20%3A%20%EB%8F%99%EC%95%84%EB%8B%B7%EC%BB%B4" target="_SNS"><img src="http://image.donga.com/home2012/images/common/icon_twitter.gif" alt="twitter"></a>
+            </span>
+            <a href="#" class="txt" onClick="javascript:$('.sns_out_layer').toggle(); return false;">기사보내기</a>
+            <div class="sns_out_layer" style="display:none;">
+                <a href="#" class="tit" onClick="javascript:$('.sns_out_layer').toggle(); return false;">기사보내기</a>
+                <ul>
+                    <li><a href="#" onClick="javascript:return send2SNS('facebook');"><img src="http://image.donga.com/home2012/images/common/icon_facebook.gif" alt="Facebook">페이스북</a></li>
+                    <li><a href="http://twitter.com/share?text=%EC%A0%81%EC%9E%90%20%EC%82%BC%EC%84%B1SDI%EB%A5%BC%20%EB%8B%A8%EC%88%A8%EC%97%90%20%ED%9D%91%EC%9E%90%EB%A1%9C%E2%80%A6%EC%86%90%EC%9A%B1%20%E2%80%9C%ED%98%81%EC%8B%A0%2C%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%ED%95%98%EB%9D%BC%E2%80%9D%20%3A%20%EB%8F%99%EC%95%84%EB%8B%B7%EC%BB%B4" target="_SNS"><img src="http://image.donga.com/home2012/images/common/icon_twitter.gif" alt="twitter">트위터</a></li>
+                    <li><a href="#" onClick="javascript:return send2SNS('cyworld');"><img src="http://image.donga.com/home2012/images/common/icon_cyworld.gif" alt="cyworld">싸이월드</a></li>
+                    <li><a href="#" onClick="javascript:return send2SNS('naver');"><img src="http://image.donga.com/home2012/images/common/icon_naver.gif" alt="naver">네이버</a></li>
+                    <li><a href="#" onClick="javascript:return send2SNS('google');"><img src="http://image.donga.com/home2012/images/common/icon_google.gif" alt="google">구글</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="view_tool">
+        <span class="txt">폰트</span>
+        <button
+        type="button" style="width:18px;" onClick="javascript:fontSize++;changeFontSize();"><img src="http://image.donga.com/home2012/images/common/btn_expand.gif" alt="확대"></button><button
+        type="button" style="width:17px;" onClick="javascript:fontSize--;changeFontSize();"><img src="http://image.donga.com/home2012/images/common/btn_contract.gif" alt="축소"></button>
+
+        <span class="txt listen">뉴스듣기</span>
+        <button
+        type="button" class="w_voice" style="width:32px;" onclick="javascript:openWindow('http://news.donga.com/Voice?gid=69374744&date=20150130&gen=f', 'VOICE', 315, 326 );">
+            <img src="http://image.donga.com/home2012/images/common/btn_woman.gif" alt="여성">
+        </button><button
+        type="button" class="m_voice" style="width:33px;" onclick="javascript:openWindow('http://news.donga.com/Voice?gid=69374744&date=20150130&gen=m', 'VOICE', 315, 326 );">
+            <img src="http://image.donga.com/home2012/images/common/btn_man.gif" alt="남성">
+        </button>
+
+        <p id="cutSearchA" class="cutSearch">
+            <input id="fe_text" type="text" class="cutSearchInp">
+            <input type="image" src="http://image.donga.com/home2011/images/copy.gif" class="cutSearchBtn" alt="복사" value="복사" id="d_clip_button">
+            <img height="19" width="19" alt="닫기" src="http://image.donga.com/home2011/images/copy_close.gif" onclick="hiddenLayer('cutSearchA')" style="cursor:pointer;">
+        </p>
+        <button
+        type="button" class="btn_print" style="width:19px;" onClick="javascript:openWindow('http://news.donga.com/View?gid=69374744&date=20150130', 'View', 720, 600 );">
+            <img src="http://image.donga.com/home2012/images/common/btn_fax.gif" alt="PRINT">
+        </button><button
+        type="button" class="btn_email" style="width:20px;" onClick="javascript:window.open('http://news.donga.com/SendEmail?gid=69374744&date=20150130&prod=NEWS', 'email', 'menubar=1,scrollbars=1,resizable=1,width=420,height=450')">
+            <img src="http://image.donga.com/home2012/images/common/btn_letter.gif" alt="letter">
+        </button>
+    </div>
+</div>
+
+
+
+    <div id='contents'>
+        <div class="article_view">
+            <!-- ?php $legoletManager->drawData('DA_ARTICLE_BODY'); ? -->
+<div class="article_txt">
+    <p class='title_foot'>입력 <span class='date'>2015-01-30 15:27:00</span> 수정 <span class='date2'>2015-01-30 15:42:04</span></p>
+
+
+    <div class='articlePhotoR'><img src='http://dimg.donga.com/wps/NEWS/IMAGE/2014/07/15/65178564.2.jpg' width='160'><span class='t' style='width:140px;'>손욱 행복나눔125운동본부 회장</span></div>“바둑에서 정석을 공부하지 않고 일류 기사의 기보만 외워 대국하는 것이 어리석은 일이다. 혁신도 마찬가지다. 무조건 외국 기업의 혁신 방법만 따라 한다고 되는 것이 아니다.”<br><br> ‘식스시그마 전도사’ ‘최고의 테크노 최고경영자(CEO)’라는 별명을 가진 손욱 행복나눔125운동본부 회장의 혁신에 대한 통찰이다. 그는 고(故) 이병철 회장과 이건희 회장을 보좌하며 삼성의 기술 혁신을 주도했다. 또 삼성전기와 삼성전자, 삼성SDI의 프로세스 혁신과 전사적 정보시스템 구축 프로젝트를 이끌었다. 1993년 삼성 신경영 프로젝트를 시작할 당시 수행팀장으로 이건희 회장을 보필했으며 2006년 현직 CEO로는 최초로 서울대 공과대학 최고산업전략과정 주임교수로 임용됐다. 농심 회장을 거쳐 현재는 1주일에 한 번 선행하고, 1개월에 책을 두 권 읽으며, 하루 다섯 번 감사하자는 취지의 운동인 행복나눔125운동본부 회장으로 일하고 있다. DBR이 손 회장을 만나 혁신에 대한 경험과 통찰을 들었다. 인터뷰 전문은 DBR 169호(1월 15일자)에서 만나볼 수 있다.<br><br><br><b>-혁신이란 무엇인가</b>.<br><br> 혁신은 세계에서 앞서가는 방법들을 찾아내거나 스스로 개발해 자사의 현실에 맞춰 활용하는 것이다. 이를 통해 고객의 가치를 창조하고 경쟁사보다 우위를 차지할 수 있다. 선진기업과 일류기업, 후진기업과 보통기업의 차이는 ‘혁신’에서 나온다. 현실에 안주하고 새로운 혁신을 두려워하는 기업은 진정한 일류기업이 될 수 없다. <br><br> 혁신을 하려면 바닥에서 기본적인 것부터 쌓아올리는 노력이 필요하다. 외국 기업의 혁신 방법을 따라 하면 부작용이 생기고 성과를 기대하기도 힘들다. 각각의 회사가 가진 문제점과 현실을 파악하고 이를 계승 발전시켜 적용해야만 한다.<br><br><div  class='sub_cont_AD09'><iframe width='520' height='120' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@Position1'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@Position1'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@Position1' alt='banner'></a></iframe></div><br><b>-성공적인 혁신을 하려면 어떻게 해야 하는가</b>.<br><br> 가장 중요한 것은 ‘일류에 대한 열망’과 혁신을 실행할 ‘인재’다. 즉 기업은 유능한 인재를 뽑아 꾸준히 교육시키고, 적절한 동기부여를 통해 이들이 일류를 향해 정진할 수 있도록 해야 한다. 이병철 전 삼성그룹 회장은 그저 생존 자체가 목표였던 때부터 세계 일류를 외쳤다. <br><br> 새로운 일을 할 때 처음부터 모든 조직구성원이 100% 만족하고 그 일에 달려드는 경우는 없다. 우선 혁신에 공감하고 이를 적극적으로 시행하겠다는 의지를 가진 직원들, 즉 불씨를 몇 명이라도 만드는 게 중요하다. 핵심 인재를 기르는 게 중요하다는 말이다. GE에서는 우수 인력 20%를 따로 뽑아서 교육시킨다. 보통 이 중 4% 정도가 핵심인력이 된다고 한다. 인사관리에 자신이 없는 조직이라면 애초에 교육 집단을 늘려 전체 직원의 30%를 교육시키는 게 좋다. 최고의 조직에는 늘 A급 인재, 핵심인재가 있다. 전체 교육 외에 이처럼 조직 내 핵심인력으로 키울 인재들에게 신경을 써야 한다.<br><br><br><b>-혁신 기법인 식스시그마를 도입해 적자였던 삼성SDI를 단숨에 흑자로 전환시켰다. 당시 식스시그마를 도입할 때만 해도 반대하는 사내 여론이 많았다. 어떻게 이 일을 성공으로 이끌었나. </b><br><br> 직원들에게 혁신의 성공에 대한 확신을 심어주려고 했다. 삼성전자에서 전사적 자원관리 시스템 도입에 참여했던 경험을 적극 활용해 삼성SDI 직원을 설득했다. 회사 임원과 간부들이 “이건 이래서 어렵다”고 할 때마다 “이건 이렇게 할 수 있다”라고 답을 줬다. 답을 찾기 위해 일이 끝나도 쉬지 않고 공부해야 했다. 또 혁신을 하자고 직원을 설득하기 위해 직접 자료를 만들어 발표도 했다. 아무리 고위직이라도 진정 혁신이 필요하다고 느꼈다면 리더가 직접 나서야 한다고 생각했다. 누구를 시켜서 하면 진정성이 느껴지지 않는다. 일이 많을 때는 거의 회사에서 살다시피 했다. 하나에 빠지면 다른 게 눈에 안 들어오는 성격이라 바쁠 때는 일에만 몰두했던 것 같다.<br><br><b><br>-혁신에 실패하는 다른 기업들은 왜 그런건가. </b><br><br> 혁신피로증이라는 말은 혁신 실패와 관련이 있다. 혁신의 효과가 안 생기면 여기에 피로감을 느낄 수밖에 없다. 혁신 실패의 가장 큰 원인은 대부분 리더나 의사결정권자에게서 발견된다. 본인이 스스로 해야 하는 일을 직접 하지 않았기 때문이다. 자기가 선두에 서서 몰입해야 한다. 리더라도 부하 직원에게 시키기만 해선 안 된다. 지시만 내려놓고 본인은 ‘할 일을 하고 있다’라고 생각하는 것은 잘못된 것이다. <br><br> 전남 장성군의 혁신 성공사례가 있다. 1995년부터 장성군은 ‘장성아카데미’를 운영하며 매주 국내 최고 전문가를 초청해 지역 공무원과 주민들에게 강연을 했다. 교육이 효과를 거두면서 지자체는 정부로부터 100억 원이 넘는 프로젝트를 따냈다. 다른 지자체에서 너도나도 이 프로그램을 따라했다. 하지만 대부분 실패했다. 장성아카데미 교육에서는 군수가 빠짐없이 참여했다. 하지만 다른 지자체 교육에서는 군수들이 인사만 하고 강연 시작 전에 자리를 떴다. 리더가 자리를 뜨니 군의 주요 의사결정권자들도 따라서 자리를 떴다. 정작 강연을 들어야 할 사람들이 강연을 안 들었다. 여기에서 성공과 실패가 갈렸다. <br><br><b><br>-혁신을 추진하는 기업가들에게 조언을 해달라.</b><br><br> 1980년대 초반 전체적으로 가전사업이 어려웠다. 그 때 일본의 컨설팅회사에서 삼성전자를 찾아와 원가절감을 할 수 있다며 가치혁신(VE) 프로젝트를 하자고 했다. 혁신의 필요성을 느끼고 있던 터라 각 사업부장에게 이 프로젝트를 제안했다. 각 사업부장들은 “가격만 비싸고 효과는 없을 것”이라며 부정적인 입장을 보였다. <br><br><div class='sub_cont_AD08'><iframe width='250' height='250' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@x15' border='0' frameBorder='0' marginWidth='0' marginHeight='0' scrolling='no'></iframe></div> 컨설팅 비용을 전사비용으로 지원하겠다고 하자 냉장고사업부장이 VE기법을 도입했다. 비용 지원 대신 매월 손익 분석 보고서 아래에 VE효과로 발생한 이익을 따로 표시해달라고 했다. VE기법은 생각보다 효과가 컸다. 처음에는 1000만 원 이익이 나던 것이 다음 달에는 5000만 원으로 커졌다. 6개월이 지나자 냉장고사업부장의 표정이 바뀌었다. 다른 사업부에서도 VE기법을 지원해달라고 서로 요청하기 시작했다.<br><br> 말하고 싶은 것은 경영자들이 ‘혁신’을 입버릇처럼 말하지만 정작 혁신에 대해 잘 알고 있는 사람은 별로 없다는 것이다. 혁신에 대한 가치를 알아야 한다. 일반적으로 사업에 투자하면 5~10%의 이익이 생기지만 혁신에 투자하면 3¤4배씩 이익을 거둘 수 있다. 원가 절감, 품질 업그레이드 등의 혁신을 하면 단순 투자보다 훨씬 큰 효과를 거둘 수 있다는 뜻이다. 사람한테 투자하면 그 효과는 더 크다. 1억 원을 들여서 교육시키면 그 직원은 교육비의 10배 이상을 벌어온다. 혁신을 하자고 하면 대부분 ‘요새 바빠서’ ‘돈이 없어서’라고들 많이 하는데 그럴 때일수록 혁신을 시도해야 한다.<br><br>정지영 기자 jjy2011@donga.com <a href='http://news.donga.com/search?check_news=1&more=1&sorting=1&search_date=1&query=jjy2011@donga.com'><img src='http://image.donga.com/donga2013/images/common/btn_news_more.gif' alt='기자의 다른기사 더보기' target='_blank'></a><br>
+    <br><br>
+    <div class='article_relation'><div class='ar_title02'><h2>관련기사</h2></div><u></u><div class='ar_box02'><div class='a_r_list'><ul><li><a href='http://news.donga.com/rel/3/all/20150128/69340517/1'>놀면서 돈버는 ‘혁신 비지니스’ 美 뉴욕 현장가보니…</a></li><li><a href='http://news.donga.com/rel/3/all/20150101/68878041/1'>금융권 신년 화두는 ‘혁신-융합’</a></li><li><a href='http://news.donga.com/rel/3/all/20141222/68725155/1'>온-오프라인-모바일 연결 ‘쇼핑 혁신’</a></li><li><a href='http://news.donga.com/rel/3/all/20141220/68647683/1'>정몽구회장 “광주창조경제혁신센터… 실질성과 내도록 준비를”</a></li></ul></div></div><div class='rel_ad_box'><div class='box_le'><div class='sub_cont_AD07'><strong><img src='http://img.donga.com/donga2013/images/sub/tit_tech_AD.gif' alt='재테크 정보'></strong><ul><li><iframe width='580' height='20' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@Middle'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@Middle'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@Middle' alt='TextBanner'></a></iframe></li><li><iframe width='580' height='20' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@Middle1'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@Middle1'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@Middle1' alt='TextBanner'></a></iframe></li><li><iframe width='580' height='20' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@Middle2'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@Middle2'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@Middle2' alt='TextBanner'></a></iframe></li><li><iframe width='580' height='20' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@Middle3'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@Middle3'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@Middle3' alt='TextBanner'></a></iframe></li><li><iframe width='580' height='20' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@Bottom'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@Bottom'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@Bottom' alt='TextBanner'></a></iframe></li></ul></div></div></div></div>
+    <div class="t_sns">
+    <ul class="t_snsBtn">
+        <li><a href="http://twitter.com/share?text=%EC%A0%81%EC%9E%90%20%EC%82%BC%EC%84%B1SDI%EB%A5%BC%20%EB%8B%A8%EC%88%A8%EC%97%90%20%ED%9D%91%EC%9E%90%EB%A1%9C%E2%80%A6%EC%86%90%EC%9A%B1%20%E2%80%9C%ED%98%81%EC%8B%A0%2C%20%EC%9D%B4%EB%A0%87%EA%B2%8C%20%ED%95%98%EB%9D%BC%E2%80%9D%20%3A%20%EB%8F%99%EC%95%84%EB%8B%B7%EC%BB%B4" target="_SNS"><img src="http://img.donga.com/donga2013/images/common/icon_twitter_b.gif" alt="twitter"></a></li>
+        <li><a href="#" onClick="javascript:return send2SNS('facebook');"><img src="http://img.donga.com/donga2013/images/common/icon_facebook_b.gif" alt="Facebook"></a></li>
+        <li><a href="#" onClick="javascript:return send2SNS('cyworld');"><img src="http://img.donga.com/donga2013/images/common/icon_cyworld_b.gif" alt="cyworld"></a></li>
+        <li><a href="#" onClick="javascript:return send2SNS('naver');"><img src="http://img.donga.com/donga2013/images/common/icon_naver_b.gif" alt="naver"></a></li>
+        <li><a href="#" onClick="javascript:return send2SNS('google');"><img src="http://img.donga.com/donga2013/images/common/icon_google_b.gif" alt="google"></a></li>
+    </ul>
+    <ul class="t_option">
+        <li><a href="#" class="btnPrint"  onClick="javascript:openWindow('http://news.donga.com/View?gid=69374744&date=20150130', 'View', 720, 600 );">프린트 |</a></li>
+        <li><a href="#" class="btnMail" onClick="javascript:window.open('http://news.donga.com/SendEmail?gid=69374744&date=20150130', 'email', 'menubar=1,scrollbars=1,resizable=1,width=420,height=450')">메일</a></li>
+        <!-- li><a href="#" class="btnScrap" onClick="javascript:openWindow('http://www.donga.com/e-county/myscrap/scrapmain/scrapinform.php?kisaid=69374744&url=http%3A%2F%2Fnews.donga.com%2FMain%2F3%2Fall%2F20150130%2F69374744%2F1', 'View', 720, 600 );">스크랩</a></li -->
+    </ul>
+</div>
+</div>
+<div class="replyBtnWrap">
+    <a href="#replyLayer"><strong id='replyCnt'></strong>개의 댓글이 있습니다.</a>
+    <a href="#replyLayer">댓글쓰기</a>
+</div>
+<script>
+function getNewsCount()
+{
+    $.getJSON ( "http://spintop.donga.com/comment?jsoncallback=?", {
+        m: "count" ,
+        p3: "news.donga.com" ,
+        p4: "69374744"
+    })
+    .done ( function( result ) {
+        $('#replyCnt').html( result) ;
+    })
+    .error ( function( result ) {
+    });
+}
+$(document).ready( function() {
+    getNewsCount() ;
+} ) ;
+</script>        </div>
+
+        <!-- 썸네일형 AD 레오플 -->
+        <div class='sub_cont_AD01_2014'><iframe width='660' height='130' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2014.donga.com/news@x11'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2014.donga.com/news@x11'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2014.donga.com/news@x11' alt='BottomBanner'></a></iframe></div>        <!-- 엔에스온미디어 -->
+        <div class='sub_cont_AD02'><iframe width='660' height='130' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2013.donga.com/news@x08'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2013.donga.com/news@x08'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2013.donga.com/news@x08' alt='BottomBanner'></a></iframe></div>
+        <div class='clickArticleWrap'>
+            <!-- 인기클릭 기사 -->
+            <div class='clArticle'>
+    <h2><strong>인기 클릭</strong> 기사</h2>
+    <div class='clArtiBox'>
+        <ul class='tList'><li><a href='http://news.donga.com/PopularClick/3/all/20150130/69365069/1'>‘크림빵 아빠’ 뺑소니 용의자, 부인과 경찰서 찾아와</a></li><li><a href='http://news.donga.com/PopularClick/3/all/20150130/69365169/1'>아버지의 눈물…이완구 총리후보자 “비정한 父 됐다”</a></li><li><a href='http://news.donga.com/PopularClick/3/all/20150130/69364655/1'>“女장군 거쳐 로펌行…난, 유리천장 깨는 전문가”</a></li><li><a href='http://news.donga.com/PopularClick/3/all/20150130/69364810/1'>이정협-김진현 낙점, 이렇게 변할 줄이야</a></li><li><a href='http://news.donga.com/PopularClick/3/all/20150129/69346607/2'>문재인 “이재명 시장 사법처리하면 가만있지 않겠다”</a></li></ul>
+        <!-- ul class='pList'><li><a href='http://photo.donga.com/view.php?idxno=201402190010&category=0033''><img src='http://dimg.donga.com/wps/NEWS/FEED/View_Donga_Feed_PopularClick/61119160.1.thumb.jpg' width='138' height='83'><em>마리나 린척<br>섹시화보 현장</em></a></li><li><a href='http://photo.donga.com/view.php?idxno=201402210014&category=0033''><img src='http://dimg.donga.com/wps/NEWS/FEED/View_Donga_Feed_PopularClick/61119146.1.thumb.jpg' width='138' height='83'><em>伊배우 프리실라<br>‘아찔’ 퍼포먼스?</em></a></li></ul -->
+        <!-- 추천동영상 -->
+        <div class='video'>
+    <div class='viPhoto' ><a href='http://studio.donga.com/View?idxno=201501300017&c=00620002'><img src='http://dimg.donga.com/carriage/STUDIO/images/studio_main_hotissue/1422592956_studio_main_hotissue_image_0.jpg' width='200' height='111' alt=''><em>로렌 스토너, 눈 뗄 수 없는 탄탄한 몸매</em><span class='play'><img src='http://img.donga.com/donga2013/images/common/btn_play.png' alt='PLAY'></span></a></div>
+    <div class='viPhoto' style='display:none;'><a href='http://reuters.donga.com/'><img src='http://dimg.donga.com/carriage/NEWS/images/view_video/1422609087_view_video_image_1.jpg' width='200' height='111' alt=''><em>‘하의 실종’ 女모델, 뭐가 부족해서…</em><span class='play'><img src='http://img.donga.com/donga2013/images/common/btn_play.png' alt='PLAY'></span></a></div>
+    <p class='p_btn'>
+    <a href='#' onClick='javascript:$(".viPhoto").toggle(); return false;'><img src='http://image.donga.com/donga2013/images/common/btn_p_btn_left.gif' width='14' height='14' alt='prev'></a>
+    <a href='#' onClick='javascript:$(".viPhoto").toggle(); return false;'><img src='http://image.donga.com/donga2013/images/common/btn_p_btn_right.gif' width='15' height='14' alt='next'></a>
+    </p>
+</div>
+<script>
+setInterval( '$(".viPhoto").toggle()', 3000 ) ;
+</script>
+        <!-- // 추천동영상 -->
+	</div>
+</div>            <!-- // 인기클릭 기사 -->
+
+            <!-- 인기클릭 기사 우측 광고 -->
+                <!-- 광고 : 금주의 생생정보 -->
+                <div class='clArticleAd_2014'><iframe width='660' height='239' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2014.donga.com/news@x12'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2014.donga.com/news@x12'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2014.donga.com/news@x12' alt='BottomBanner'></a></iframe></div>                <!-- // 광고 : 금주의 생생정보 -->
+            <!-- // 인기클릭 기사 우측 광고 -->
+        </div>
+
+        <!-- ADIN Thumbnail -->
+        <div class='sub_cont_AD06'><iframe width='660' height='122' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@x19'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@x19'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@x19' alt='Thumbnail'></a></iframe> </div>
+        <!-- 라이트미디어 -->
+
+        <a name='replyLayer'></a>
+    <link rel='stylesheet' type='text/css' href='http://img.donga.com/donga2013/css/donga_sns_reply.css'><script type='text/javascript' src='http://image.donga.com/donga/js/spintop-comment.js'></script>
+
+<div id='spinTopLayer'></div>
+<script>
+var spinTopLoginUrl = "http://www.donga.com/members/login.php?gourl=http%3A%2F%2Fnews.donga.com%2FMain%2F3%2Fall%2F20150130%2F69374744%2F1" ;
+var spinTopParams = new Array();
+$(document).ready( function() {
+    spinTopParams['length'] = '10' ;
+    spinTopParams['site'] = 'news.donga.com' ;
+    spinTopParams['newsid'] = '69374744' ;
+    spinTopParams['newsurl'] = 'http://news.donga.com/Main/3/all/20150130/69374744/1' ;
+    spinTopParams['newstitle'] = '적자 삼성SDI를 단숨에 흑자로…손욱 “혁신, 이렇게 하라”' ;
+    spinTopParams['newsimage'] = 'http://dimg.donga.com/wps/NEWS/IMAGE/2014/07/15/65178564.2.jpg' ;
+    _spinTop (spinTopParams, 1 ) ;
+}) ;
+</script>        <!-- 애드넷 글로벌 660*315 -->
+        <iframe width='660' height='230' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2013.donga.com/news@x36'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2013.donga.com/news@x36'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2013.donga.com/news@x36' alt='Thumbnail'></a></iframe>        <!-- 닥터 박스 660*161 -->
+        <br><br><br><div class='video_ad'><iframe width='660' height='240' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2013.donga.com/news@x34'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2013.donga.com/news@x34'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2013.donga.com/news@x34' alt='Thumbnail'></a></iframe> </div>
+    </div>
+    <hr>
+    <div id='aside'>
+                <div id="aside">
+            <!-- 광고 -->
+            <SCRIPT LANGUAGE="JavaScript1.1">adURL = "http://ar.donga.com/RealMedia/ads/adstream_jx.ads/2012.donga.com/news@Frame1";adURL = adURL.replace(/@/, "/1" + ((String)(Math.random())).substring (2, 11) + "@");document.write ("<SCR" + "IPT LANG" + "UAGE='JAVAS" + "CRIPT1.1' SRC='" + adURL + "'></SCR" + "IPT>");</SCRIPT>
+            <!-- // 광고 -->
+
+            <!-- 동아 핫뉴스 -->
+            <div class="todayDongaHotNews">
+<h2 class="ctab_01">오늘의 동아일보 <strong>핫뉴스</strong></h2>
+<div>
+<ol><li><a href='http://news.donga.com/BestClickIlbo/3/all/20150130/69364655/1'><span>1</span> <strong>“女장군 거쳐 로펌行…난, 유리천장 깨는 전문가”</strong></a></li><li><a href='http://news.donga.com/BestClickIlbo/3/all/20150130/69364625/1'><span>2</span> “논문 조작 정도가 아니라 창작에 가까워”</a></li><li><a href='http://news.donga.com/BestClickIlbo/3/all/20150130/69364904/1'><span>3</span> [히로미의 한국 블로그]“괜찮아! 여긴 한국이잖아”</a></li><li><a href='http://news.donga.com/BestClickIlbo/3/all/20150130/69365043/1'><span>4</span> 전자담배 불법판촉에 악용된 ‘의리’</a></li><li><a href='http://news.donga.com/BestClickIlbo/3/all/20150130/69364973/1'><span>5</span> [이명박 회고록]“盧, 쇠고기수입 美와 약속 안지켜”… 盧측 “약속 없었다”</a></li></ol>
+<ol><li><a href='http://news.donga.com/BestClickIlbo/3/all/20150130/69364594/1'><span>6</span> <strong>[와!글]“여배우가 무슨 죄?” “영화는 영화로 봐야”</strong></a></li><li><a href='http://news.donga.com/BestClickIlbo/3/all/20150130/69365009/1'><span>7</span> 男女 군인 단둘이 車 타지 말라?</a></li><li><a href='http://news.donga.com/BestClickIlbo/3/all/20150130/69365131/1'><span>8</span> 美 차기 ‘에어포스 원’ 보잉 747-8機 선정</a></li><li><a href='http://news.donga.com/BestClickIlbo/3/all/20150130/69364547/1'><span>9</span> [사설]이명박 회고록에서 다시 확인된 北의 정상회담 속셈</a></li><li><a href='http://news.donga.com/BestClickIlbo/3/all/20150127/69316837/1'><span>10</span> 신세계 정용진-유경 남매, 증여세 3400억 ‘톱’</a></li></ol>
+</div>
+</div>
+            <!-- // 동아 핫뉴스 -->
+
+            <!-- 포토 동영상 -->
+                <div class='photoHotIssue'>
+        <h2>포토&middot;동영상</h2>
+        <ul><li><a href='http://studio.donga.com/View?idxno=201501300014&c=00620001'><img src='http://dimg.donga.com/carriage/STUDIO/images/studio_main_top/1422585859_studio_main_top_image_0.jpg'  width='116' height='65'><em>세계에서 가장 아름다운 여성 1위로 선정된 사람</em></a></li><li><a href='http://studio.donga.com/View?idxno=201501300016&c=00030004'><img src='http://dimg.donga.com/carriage/STUDIO/images/studio_main_top/1422592765_studio_main_top_image_1.jpg'  width='116' height='65'><em>북한, 국경 감시 강화로 탈북자 수 감소</em></a></li><li class='mn'><a href='http://reuters.donga.com/View?no=27053'><img src='http://dimg.donga.com/carriage/NEWS/images/section_photo_vidio2/1422601053_section_photo_vidio2_image_0.jpg'  width='116' height='65'><em>대학 도서관서 19금 영상 찍은 여대생</em></a></li><li><a href='http://studio.donga.com/View?idxno=201501300034&c=00030002'><img src='http://dimg.donga.com/carriage/STUDIO/images/studio_main_top/1422606590_studio_main_top_image_2.jpg'  width='116' height='65'><em>[화보] 럭셔리 스포츠 쿠페 ‘캐딜락 ATS 쿠페’</em></a></li></ul>
+        <ul style='display:none;'><li><a href='http://studio.donga.com/View?idxno=201501290071&c=00620002'><img src='http://dimg.donga.com/carriage/STUDIO/images/studio_main_top/1422521624_studio_main_top_image_3.jpg'  width='116' height='65'><em>[화보] 마일리 사이러스, 해변에서 남자친구와</em></a></li><li><a href='http://studio.donga.com/View?idxno=201501300009&c=00030004'><img src='http://dimg.donga.com/carriage/STUDIO/images/studio_main_top/1422592819_studio_main_top_image_4.jpg'  width='116' height='65'><em>美 국방장관 헤이글 퇴임… ‘굿바이 헤이글’</em></a></li><li class='mn'><a href='http://studio.donga.com/View?idxno=201501290012&c=00620001'><img src='http://dimg.donga.com/carriage/STUDIO/images/studio_main_sub/1422498054_studio_main_sub_image_0.jpg'  width='116' height='65'><em>[화보] K-POP 어워드…‘별’들의 총 출동</em></a></li><li><a href='http://reuters.donga.com/View?no=27055'><img src='http://dimg.donga.com/carriage/NEWS/images/section_photo_vidio2/1422608779_section_photo_vidio2_image_1.jpg'  width='116' height='65'><em>비키니 하의 앞이 ‘불룩’, “음경처럼 보여”</em></a></li></ul>
+        <p class='p_btn'>
+            <a href='#' onClick='javascript:$(".photoHotIssue ul").toggle(); return false;'><img src='http://img.donga.com/donga2013/images/common/btn_p_btn_left.gif' width='14' height='14' alt='prev'></a>
+            <a href='#' onClick='javascript:$(".photoHotIssue ul").toggle(); return false;'><img src='http://img.donga.com/donga2013/images/common/btn_p_btn_right.gif' width='15' height='14' alt='next'></a>
+        </p>
+    </div>
+    <script>
+    setInterval( '$(".photoHotIssue ul").toggle()', 4000 ) ;
+    </script>
+            <!-- // 포토 동영상 -->
+
+            <!-- 광고 -->
+            <div class='aside_AD02'><iframe allowtransparency='true' width='300' height='308' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/fixed@x11'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/fixed@x11'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/fixed@x11' alt='RightBanner'></a></iframe></div><div class='aside_AD04'><script src='http://cad.donga.com/NEWS/news_view_right_AD04.js'></script></div><div class='aside_AD06'><iframe allowtransparency='true' width='300' height='307' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@x29'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@x29'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@x29' alt='LeftBanner'></a></iframe></div>
+            <!-- // 광고 -->
+
+            <!-- 오늘의 화제뉴스 -->
+            <div class='todayDongaHotNews'><h2 class='ctab_01'>오늘의 <strong>화제뉴스</strong></h2><div><ol><li><a href='http://news.donga.com/East/3/all/20150130/69370744/1'><span>1</span> <strong>어린이용 성교육 영상에 男女 성기 ‘꿈틀꿈틀’-하트 ‘뿅뿅’</strong></a></li><li><a href='http://news.donga.com/East/3/all/20150130/69369655/2'><span>2</span> 이수경 “최우식은 모든 게 호구 같아” 돌직구 발언 논란</a></li><li><a href='http://news.donga.com/East/3/all/20150130/69378150/1'><span>3</span> 폴 매카트니, 5월 첫 내한 공연 위해 다시 한국 온다</a></li><li><a href='http://news.donga.com/East/3/all/20150130/69377432/1'><span>4</span> “값 싼 국산” vs “맛 좋은 수입”…이유 있는 맥주전쟁</a></li><li><a href='http://news.donga.com/East/3/all/20150130/69364904/1'><span>5</span> 외국인들, 한국서 한국인化? 길에 쓰레기 버리고 식당서 갑질</a></li></ol><ol><li><a href='http://news.donga.com/East/3/all/20150130/69380271/1'><span>6</span> <strong>UAE, 이라크 꺾고 3위 차지…마브쿠트 5호골</strong></a></li><li><a href='http://news.donga.com/East/3/all/20150130/69376003/1'><span>7</span> 코츠챔피언십 ‘막차’ 탄 장하나, LPGA 데뷔전 단독 선두</a></li><li><a href='http://news.donga.com/East/3/all/20150130/69376890/1'><span>8</span> 슈퍼볼 하나로 6658억 특수 누린다는데…올해 우즈도 출연?</a></li><li><a href='http://news.donga.com/East/3/all/20150130/69372105/1'><span>9</span> 소찬휘 측 “박명수가 콜라보 제안, 긍정 검토중”</a></li><li><a href='http://news.donga.com/East/3/all/20150130/69368363/1'><span>10</span> SG워너비 측 “이석훈 팬카페 글 사실…올해 안에 결혼”</a></li></ol></div></div>
+            <!-- // 오늘의 화제뉴스 -->
+
+            <!-- 광고 -->
+            <div class='aside_AD01_1'><iframe allowtransparency='true' width='300' height='308' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2013.donga.com/news@x50'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2013.donga.com/news@x50'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2013.donga.com/news@x50' alt='LeftBanner'></a></iframe></div><div class='aside_AD01_1'><SCRIPT LANGUAGE="JavaScript1.1">adURL = "http://ar.donga.com/RealMedia/ads/adstream_jx.ads/2012.donga.com/news@x43";adURL = adURL.replace(/@/, "/1" + ((String)(Math.random())).substring (2, 11) + "@");document.write ("<SCR" + "IPT LANG" + "UAGE='JAVAS" + "CRIPT1.1' SRC='" + adURL + "'></SCR" + "IPT>");</SCRIPT></div>
+            <!-- // 광고 -->
+
+            <!-- 많이 본 뉴스, 댓글이 핫한 뉴스 -->
+                        <div class='clickNews4 top' style='display:block;'>
+                <h2 class='mBoxTab01'><img src='http://image.donga.com/donga2013/images/main/tit_best_click_m.gif' alt='많이 본 뉴스'></h2>
+                <h3 class='ctab_01'><a href='#' class='bestClickCategoryMenu'>종합</a></h3><div class='cBox'><ol><li><a href='http://news.donga.com/BestClick/3/all/20150130/69374744/1'><span class='t'>1</span> <strong>적자 삼성SDI를 단숨에 흑자로…손욱 “혁신, 이렇게 하라”</strong></a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69374273/1'><span class='t'>2</span> 한국 유학생들, 필리핀서 여자 만나 아이까지 낳고선…</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69372790/1'><span class='t'>3</span> 절벽서 프러포즈 받은 女, 기뻐서 ‘펄쩍’ 뛰었다가 추락사</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69376527/1'><span >4</span> 아시아나항공 경영권까지 한 번에…금호산업 인수, 누가?</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69369443/1'><span >5</span> 연금복권 1·2등 싹쓸이 당첨자 나왔다…매달 500만원+일시금 1억</a></li></ol><ol><li><a href='http://news.donga.com/BestClick/3/all/20150130/69376478/1'><span>6</span> <strong>[화보]아름다운 북한 여성들</strong></a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69364655/1'><span>7</span> “女장군 거쳐 로펌行…난, 유리천장 깨는 전문가”</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69370673/1'><span>8</span> 흔적 지우려한 ‘크림빵 아빠’ 사고 차량</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69379198/1'><span>9</span> 조양호 회장 “박창진 사무장 어떤 불이익도 없도록 지시”</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69375865/1'><span>10</span> 부인 살해 후 담배 한 대, 그 후 딸 둘을…‘세 모녀 살인’ 재구성</a></li></ol></div><h3 class='ctab_02'><a href='#' class='bestClickCategoryMenu'>정치</a></h3><div class='cBox'><ol><li><a href='http://news.donga.com/BestClick/3/all/20150130/69376478/1'><span class='t'>1</span> <strong>[화보]아름다운 북한 여성들</strong></a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69368817/1'><span class='t'>2</span> 朴대통령 주간 지지율, 20%대 하락…“TK도 ‘못한다’가 다수”</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69373203/1'><span class='t'>3</span> 논문표절 부정 권은희 의원, 무혐의…논문은 ‘일부 표절’</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69374442/1'><span >4</span> 문재인 “박근혜 정권 출범이래 군 성범죄 끝없이…”</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69364973/1'><span >5</span> [이명박 회고록]“盧, 쇠고기수입 美와 약속 안지켜”… 盧측 “약속 없었다”</a></li></ol><ol><li><a href='http://news.donga.com/BestClick/3/all/20150130/69365009/1'><span>6</span> <strong>男女 군인 단둘이 車 타지 말라?</strong></a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69376193/1'><span>7</span> ‘하사 아가씨’ 발언 물의 송영근 “책임 통감” 병영특위 사퇴</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150129/69346607/1'><span>8</span> 문재인 “이재명 시장 사법처리하면 가만있지 않겠다”</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69368352/1'><span>9</span> 이완구, 공개검증 논란에 “답변은 해야되지 않겠냐”</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69370149/1'><span>10</span> 박지원 “‘만만회’는 비선라인 통칭…명예훼손죄 성립 안돼”</a></li></ol></div><h3 class='ctab_03'><a href='#' class='bestClickCategoryMenu'>국제</a></h3><div class='cBox'><ol><li><a href='http://news.donga.com/BestClick/3/all/20150130/69372790/1'><span class='t'>1</span> <strong>절벽서 프러포즈 받은 女, 기뻐서 ‘펄쩍’ 뛰었다가 추락사</strong></a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69370744/1'><span class='t'>2</span> 어린이용 성교육 영상에 男女 성기 ‘꿈틀꿈틀’-하트 ‘뿅뿅’</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150129/69355143/1'><span class='t'>3</span> “내 누드사진 본 아버지 자살” 20대 누드모델 딸의 ‘사부곡’</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150128/69340517/1'><span >4</span> 놀면서 돈버는 ‘혁신 비지니스’ 美 뉴욕 현장가보니…</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69370534/1'><span >5</span> “29세 일본인 여성, 이슬람교도인 남편 따라 IS 가담”</a></li></ol><ol><li><a href='http://news.donga.com/BestClick/3/all/20150130/69372978/1'><span>6</span> <strong>美 서부서 당선된 ‘친한파’ 마이크 혼다 의원, 동부서 감사파티 왜?</strong></a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69365131/1'><span>7</span> 美 차기 ‘에어포스 원’ 보잉 747-8機 선정</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150129/69353168/1'><span>8</span> 11세 손녀딸 성폭행-임신 ‘인면수심’ 할아버지에 징역200년</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69365134/1'><span>9</span> 헤즈볼라 미사일 공격에 이스라엘 ‘보복 공습’</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69365143/1'><span>10</span> 美, 北에 대화 제의 “성김 방중때 만나자”</a></li></ol></div><h3 class='ctab_04'><a href='#' class='bestClickCategoryMenu'>사회</a></h3><div class='cBox'><ol><li><a href='http://news.donga.com/BestClick/3/all/20150130/69374273/1'><span class='t'>1</span> <strong>한국 유학생들, 필리핀서 여자 만나 아이까지 낳고선…</strong></a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69369443/1'><span class='t'>2</span> 연금복권 1·2등 싹쓸이 당첨자 나왔다…매달 500만원+일시금 1억</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69364655/1'><span class='t'>3</span> “女장군 거쳐 로펌行…난, 유리천장 깨는 전문가”</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69370673/1'><span >4</span> 흔적 지우려한 ‘크림빵 아빠’ 사고 차량</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69379198/1'><span >5</span> 조양호 회장 “박창진 사무장 어떤 불이익도 없도록 지시”</a></li></ol><ol><li><a href='http://news.donga.com/BestClick/3/all/20150130/69375865/1'><span>6</span> <strong>부인 살해 후 담배 한 대, 그 후 딸 둘을…‘세 모녀 살인’ 재구성</strong></a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69365043/1'><span>7</span> 전자담배 불법판촉에 악용된 ‘의리’</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69380424/1'><span>8</span> 법정서 만난 맏딸 외면한 조양호…승무원은 ‘억울한 눈물’</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69373203/1'><span>9</span> 논문표절 부정 권은희 의원, 무혐의…논문은 ‘일부 표절’</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69370159/1'><span>10</span> 홍준표 “하지도 않은 말로 거짓선동”…진실공방 조짐</a></li></ol></div><h3 class='ctab_05'><a href='#' class='bestClickCategoryMenu'>스포츠</a></h3><div class='cBox'><ol><li><a href='http://news.donga.com/BestClick/3/all/20150130/69377881/1'><span class='t'>1</span> <strong>‘도핑 파문’ 박태환에 병원 소개해준 사람은 누구?</strong></a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69380271/1'><span class='t'>2</span> [아시안컵] UAE, 이라크 꺾고 3위 차지…마브쿠트 5호골</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69376003/1'><span class='t'>3</span> 코츠챔피언십 ‘막차’ 탄 장하나, LPGA 데뷔전 단독 선두 ‘돌풍’</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69364810/1'><span >4</span> 이정협-김진현 낙점, 이렇게 변할 줄이야</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69376890/1'><span >5</span> 슈퍼볼 하나로 6658억 특수 누린다는데…올해는 우즈도 출연?</a></li></ol><ol><li><a href='http://news.donga.com/BestClick/3/all/20150130/69376579/1'><span>6</span> <strong>[아시안컵]슈틸리케 감독 “냉정함을 잃지 않는 것이 우승 관건”</strong></a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69364846/1'><span>7</span> 인삼공사 문명화  “고1 때 만져본 배구공…난 ‘여자 강백호’ ”</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69370130/1'><span>8</span> [LPGA] 리디아 고, 최연소 세계랭킹 1위 등극할까?</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150129/69357448/1'><span>9</span> [PGA] 배상문, 국외여행기간연장 위한 소송 제기…“입대 연기 위한 것”</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69368647/1'><span>10</span> 아시안컵 설문조사…“최고 활약 선수는 차두리”</a></li></ol></div><h3 class='ctab_06'><a href='#' class='bestClickCategoryMenu'>연예</a></h3><div class='cBox'><ol><li><a href='http://news.donga.com/BestClick/3/all/20150130/69366694/1'><span class='t'>1</span> <strong>‘해피투게더’ 최정윤 남편과 신혼집 공개…‘진짜 청담동 며느리’ 후덜덜</strong></a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69380894/1'><span class='t'>2</span> 이수경 태도 논란, 막말에 괴성 지르며 ‘심기 불편’…신인배우 맞아?</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69365043/1'><span class='t'>3</span> 전자담배 불법판촉에 악용된 ‘의리’</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69364594/1'><span >4</span> [와!글]“여배우가 무슨 죄?” “영화는 영화로 봐야”</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69372760/1'><span >5</span> 이수경 태도 논란, 막말에 괴성 지르며 ‘심기 불편’…신인배우 맞아? 돌발+황당</a></li></ol><ol><li><a href='http://news.donga.com/BestClick/3/all/20150130/69368838/1'><span>6</span> <strong>낸시랭 달라진 얼굴?, 1년전 같은 포즈 비교해보니 ‘어색’</strong></a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69364571/1'><span>7</span> 먹방에 국경은 없다지만…韓美日 방송서 드러나는 미묘한 차이</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69376031/1'><span>8</span> ‘언프리티랩스타’ 제시 “내 라이벌은 없는 듯” 자신감…순위 결과는?</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69364587/1'><span>9</span> 세상의 불균형 바로잡으려 그가 돌아왔다</a></li><li><a href='http://news.donga.com/BestClick/3/all/20150130/69369655/1'><span>10</span> 이수경 “최우식은 모든 게 호구 같아”…거침없는 돌직구, 신인의 재기발랄함?</a></li></ol></div>
+                <h2 class='mBoxTab02'><a href='#' onClick='javascript:$(".clickNews4").toggle(); return false;'><img src='http://image.donga.com/donga2013/images/main/tit_best_reply_m_off.gif' alt='댓글이 핫한 뉴스'></a></h2>
+            </div>
+            <script type='text/javascript'>
+            var preBestClickIdx = 0 ;
+            $('.bestClickCategoryMenu').mouseover ( function() {
+                $('.bestClickCategoryMenu').eq(preBestClickIdx).removeClass('on');
+                $('.cBox').eq(preBestClickIdx).hide() ;
+                var idx = $('.bestClickCategoryMenu').index(this);
+                $('.bestClickCategoryMenu').eq(idx).addClass ('on') ;
+                $('.cBox').eq(idx).show() ;
+                preBestClickIdx =idx  ;
+                return false;
+            }) ;
+            $('.bestClickCategoryMenu').focus ( function() {
+                $('.bestClickCategoryMenu').eq(preBestClickIdx).removeClass('on');
+                $('.cBox').eq(preBestClickIdx).hide() ;
+                var idx = $('.bestClickCategoryMenu').index(this);
+                $('.bestClickCategoryMenu').eq(idx).addClass ('on') ;
+                $('.cBox').eq(idx).show() ;
+                preBestClickIdx =idx  ;
+                return false;
+            }) ;
+            $('.bestClickCategoryMenu').click ( function() { return false; } ) ;
+            $('.bestClickCategoryMenu').eq(0).mouseover() ;
+            </script>
+            <!-- // 많이 본 뉴스 -->
+            <!-- 댓글이 핫한 뉴스 -->
+            <div class='clickNews4 clickReply top' style='display:none'>
+                <h2 class='mBoxTab01'><a href='#' onClick='javascript:$(".clickNews4").toggle(); return false;'><img src='http://image.donga.com/donga2013/images/main/tit_best_click_m_off.gif' alt='많이 본 뉴스'></a></h2>
+                <div class='cBox cBoxOn'>
+                    <ol><li><a href='http://news.donga.com/Main/3/all/20150129/69346607/2'><span class='t'>1</span> <strong>문재인 “이재명 시장 사법처리하면 가만있지 않겠다”</strong></a></li><li><a href='http://news.donga.com/List/Column/3/04/20150130/69364955/1'><span class='t'>2</span> [오늘과 내일/이진녕]이럴 바엔 의원내각제가 낫다</a></li><li><a href='http://news.donga.com/NewsStand/3/all/20150129/69348792/1'><span class='t'>3</span> 송영근 “여군 성폭행 여단장, 외박을 못 나가서…” 발언 논란</a></li><li><a href='http://news.donga.com/Main/3/all/20150129/69341547/1'><span >4</span> 이완구 총리 후보자 “다리 아픈 자식 얼굴 공개… 참담”</a></li><li><a href='http://news.donga.com/Main/3/all/20150129/69341613/1'><span >5</span> [단독]재보선前 논문표절 허위해명 혐의… 권은희 새정치聯의원 檢 소환조사</a></li></ol><ol><li><a href='http://news.donga.com/Main/3/all/20150130/69374442/2'><span>6</span> <strong>문재인 “박근혜 정권 출범이래 군 성범죄 끝없이…”</strong></a></li><li><a href='http://news.donga.com/Main/3/all/20150130/69364973/1'><span>7</span> [이명박 회고록]“盧, 쇠고기수입 美와 약속 안지켜”… 盧측 “약속 없었다”</a></li><li><a href='http://news.donga.com/Main/3/all/20150130/69365009/1'><span>8</span> 男女 군인 단둘이 車 타지 말라?</a></li><li><a href='http://news.donga.com/Main/3/all/20150129/69341431/1'><span>9</span> 지휘관들 ‘계급 甲질’… 병영혁신 헛구호</a></li><li><a href='http://news.donga.com/Main/3/all/20150130/69376585/1'><span>10</span> ‘땅콩 회항’ 관련 승무원 “‘교수 제의받고 위증’ 주장, 사실과 달라” 눈물</a></li><li><a href='http://news.donga.com/Main/3/all/20150130/69374273/2'><span>11</span> 한국 유학생들, 필리핀서 여자 만나 아이까지 낳고선…</a></li></ol>
+                </div>
+                <h2 class='mBoxTab02'><img src='http://image.donga.com/donga2013/images/main/tit_best_reply_m.gif' alt='댓글이 핫한 뉴스'></h2>
+            </div>
+            <!-- //많이 본 뉴스, 댓글이 핫한 뉴스 -->
+            <!-- 광고 -->
+            <iframe allowtransparency='true' width='300' height='308' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@x37'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@x37'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@x37' alt='RightBanner'></a></iframe>
+            <!-- 광고 -->
+            <div class='luxuryStore'><iframe width='300' height='280' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://donga.autobrain.net/banner/'></iframe></div>
+
+            <!-- 광고 -->
+            <div class='aside_AD08'><SCRIPT LANGUAGE="JavaScript1.1">adURL = "http://ar.donga.com/RealMedia/ads/adstream_jx.ads/2012.donga.com/news@x35";adURL = adURL.replace(/@/, "/1" + ((String)(Math.random())).substring (2, 11) + "@");document.write ("<SCR" + "IPT LANG" + "UAGE='JAVAS" + "CRIPT1.1' SRC='" + adURL + "'></SCR" + "IPT>");</SCRIPT></div><div class='aside_AD09'><iframe allowtransparency='true' width='300' height='215' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@x39'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@x39'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@x39' alt='neo_newbottom'></a></iframe></div>
+            <!-- // 광고 -->
+        </div>    </div>
+</div>
+        <!-- 오늘의 동아닷컴 -->
+    <div id='todayDonga'>
+        <div class='td_tit'>
+            <h2><img src='http://img.donga.com/donga2013/images/sub/tit_today_donga.gif' alt='오늘의 dongA.com'></h2>
+            <div class='td_sns'>
+                <a href='http://twitter.com/dongamedia'  target='_blank'><img src='http://img.donga.com/donga2013/images/common/icon_twitter_2.gif' alt='트위터'></a>
+                <a href='http://www.facebook.com/dongamedia' target='_blank'><img src='http://img.donga.com/donga2013/images/common/icon_facebook_2.gif' alt='페이스북'></a>
+                <a href='http://www.donga.com/news/mynews_guide.html'  target='_blank' class='my'><img src='http://img.donga.com/donga2013/images/common/btn_my_news.gif' alt='마이뉴스 설정'></a>
+            </div>
+        </div>
+        <iframe width='980' height='425' scrolling='no' frameborder='0' marginheight='0' marginwidth='0'
+            src='http://openapi.donga.com/newsstand/donga?m=iframe'></iframe>
+    </div>
+    <!-- // 오늘의 동아닷컴 -->
+    <!-- body end -->
+    <hr>
+    <!-- Footer -->
+    <div id='footer'>
+        <div class='footerNav'>
+            <p>
+                <strong>동아일보</strong>
+                <a href='http://www.donga.com/docs/ilbo/' class='bgNone'>회사소개</a>
+                <a href='http://www.donga.com/docs/ilbo/event/index.html'>문화스포츠사업</a>
+                <a href='http://www.presseum.or.kr/'>신문박물관</a>
+                <a href='http://www.inchonmemorial.co.kr/'>인촌기념회</a>
+                <a href='http://www.hjpeace.or.kr/'>화정 평화재단</a>
+                <a href='http://www.donga.com/docs/ilbo/advertisement/'>신문광고안내</a>
+                <a href='http://readers.donga.com/'>구독신청</a>
+                <a href='http://www.donga.com/docs/ilbo/svc/'>독자서비스</a>
+                <a href='http://www.donga.com/docs/ilbo/html/01_company/company_07.htm'>정정보도 신청</a>
+                <a href='http://dongne.donga.com/'>'동네' 블로그</a>
+            </p>
+            <p>
+                <strong>동아닷컴</strong>
+                <a href='http://www.donga.com/docs/intro/company/aboutdonga_01.html' class='bgNone'>회사소개</a>
+                <a href='http://www.donga.com/docs/intro/2004/ad_01.html'>광고 (인터넷, 전광판)</a>
+                <a href='http://www.donga.com/docs/intro/2004/cooperation_01.html'>제휴안내</a>
+                <a href='http://faq.donga.com/sub_03.html'>회원약관</a>
+                <strong><a href='http://faq.donga.com/sub_04.html'>개인정보취급방침</a></strong>
+                <a href='http://www.donga.com/docs/for_teenagers_doc.html'>청소년보호정책</a>
+                <a href='https://secure.donga.com/faq/index.php?jebo=1'>기사제보</a>
+                <a href='http://www.donga.com/docs/intro/sitemap.html'>사이트맵</a>
+                <a href='http://rss.donga.com/'>RSS <img src='http://image.donga.com/home2011/images/footer_icon_rss.gif' alt='rss'></a>
+            </p>
+        </div>
+        <!-- footer 주소 20140611 -->
+        <div class='copyright2'>
+            <p class="address">주소: 서울특별시 서대문구 충정로 29 <span>|</span> 등록번호: 서울아00741 <span>|</span> 등록일자: 2009.01.16 <span>|</span> 발행·편집인: 김일흥 <span>|</span></p>
+            <iframe class="footerBanner2014" src="http://image.donga.com/donga2013/html/2014_f_banner.html" frameborder="0" scrolling="no" title="하단 배너"></iframe>
+            <p class='fLogo'>Copyright by <strong>dongA.com</strong> All rights reserved.</p>
+        </div>
+        <!-- // footer 주소 20140611 -->
+    </div>
+    <hr>
+    <div id='left_AD_20140228'>
+        <iframe class='samsung_e' width='120' height='240' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@x55'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@x55'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@x55' alt='rightBanner'></a></iframe><iframe width='120' height='603' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@x06'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@x06'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@x06' alt='LeftBanner'></a></iframe><div class='r_AD_4'><SCRIPT LANGUAGE="JavaScript1.1">adURL = "http://ar.donga.com/RealMedia/ads/adstream_jx.ads/2012.donga.com/news@x47";adURL = adURL.replace(/@/, "/1" + ((String)(Math.random())).substring (2, 11) + "@");document.write ("<SCR" + "IPT LANG" + "UAGE='JAVAS" + "CRIPT1.1' SRC='" + adURL + "'></SCR" + "IPT>");</SCRIPT></div><script type='text/javascript' charset='euc-kr' src='http://image.donga.com/ad_iframe/NEWS/news_view_float1.js'></script>
+    </div>
+    <div id='right_AD_20140228'>
+        <iframe width='120' height='240' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@x05'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@x05'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@x05' alt='LeftBanner'></a></iframe><iframe width='120' height='600' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2013.donga.com/news@x12'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2013.donga.com/news@x12'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2013.donga.com/news@x12' alt='RightBanner'></a></iframe>
+
+    </div>
+    <!-- //Footer -->
+</div>
+<!-- //Wrap -->
+
+</body>
+</html>
+<script type='text/javascript' charset='euc-kr' src='http://img.donga.com/donga2013/js/scrollBanner2.js'></script><script type='text/javascript'>initMoving2(document.getElementById('right_AD_20140228'), 230, 0, 2000, 400);</script>
+<!-- 쉐이프팝업 300*250 미니 쉐이프팝업 150*150-->
+<script type='text/javascript' charset='euc-kr' src='http://cad.donga.com/www_view_main_naver.js'></script>
+<!--포토링크 광고 -->
+<!---->
+
+<!--포토링크 광고 (애드서버 이용 2014.08.06)-->
+<script type="text/javascript">
+var lumieyes = "";
+lumieyes += "<iframe width='100%' height='50' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@x56'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@x56'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@x56' alt='TextBanner'></a></iframe>" ;
+lumieyes += "<a href='#'><span>3</span><iframe width='350' height='20' scrolling='no' frameborder='0' marginheight='0' marginwidth='0' src='http://ar.donga.com/RealMedia/ads/adstream_sx.ads/2012.donga.com/news@x57'><a href='http://ar.donga.com/RealMedia/ads/click_nx.ads/2012.donga.com/news@x57'><img src='http://ar.donga.com/RealMedia/ads/adstream_nx.ads/2012.donga.com/news@x57' alt='TextBanner'></a></iframe></a>" ;
+if(document.getElementById('adBox')) document.getElementById('adBox').innerHTML = lumieyes;
+</script>
+<!--//포토링크 광고 (애드서버 이용 2014.08.06)-->
+<script src='http://cad.donga.com/solspectrum_image.js' type='text/javascript'></script><script src='http://adimg.donga.com/madv/img/icon/donga_view_iocnad.js' type='text/javascript'></script>
+<script>
+    $(document).ready( function() {
+        changeFontSize() ;
+    } ) ;
+    document.charset="utf-8" ;
+</script>
+<script>var _GCD = '3';</script><script src='http://dimg.donga.com/acecounter/acecounter_V70.20130719.js'></script><script>_PL(_rl);</script>
