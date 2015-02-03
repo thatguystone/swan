@@ -90,12 +90,12 @@ var (
 		"meta",
 	}
 
-	divSpanTags     = cascadia.MustCompile("div, span")
-	emTags          = cascadia.MustCompile("em")
-	imgTags         = cascadia.MustCompile("img")
-	safeTags        = cascadia.MustCompile("body, article")
-	scriptStyleTags = cascadia.MustCompile("script, noscript, style, " +
-		" link[rel=stylesheet]")
+	divSpanTags = cascadia.MustCompile("div, span")
+	emTags      = cascadia.MustCompile("em")
+	imgTags     = cascadia.MustCompile("img")
+	safeTags    = cascadia.MustCompile("body, article")
+	uselessTags = cascadia.MustCompile("script, noscript, style, " +
+		"iframe, link[rel=stylesheet]")
 	unwraps = cascadia.MustCompile("span[class~=dropcap]," +
 		"span[class~=drop_cap]," +
 		"p span")
@@ -243,7 +243,7 @@ func (c cleanup) run(a *Article) error {
 		a.Doc.FindMatcher(cs).Remove()
 	}
 
-	a.Doc.FindMatcher(scriptStyleTags).Remove()
+	a.Doc.FindMatcher(uselessTags).Remove()
 	a.Doc.FindMatcher(unwraps).Unwrap()
 
 	ems := a.Doc.FindMatcher(emTags)
