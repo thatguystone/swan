@@ -1,18 +1,26 @@
 package swan
 
 import (
+	"net/url"
+
 	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
 )
 
 // Article is a fully extracted and cleaned document.
 type Article struct {
+	// Final URL after all redirects
+	URL string
+
 	// Newline-separated and cleaned content
 	CleanedText string
 
-	// HTML-formatted content with inline images, videos, and whatever else was
-	// found relevant to the original article
+	// HTML-formatted content with inline images, videos, and whatever else
+	// was found relevant to the original article
 	CleanedHTML string
+
+	// A header image to use for the article
+	Img *Image
 
 	// All metadata associated with the original document
 	Meta struct {
@@ -35,6 +43,18 @@ type Article struct {
 
 	// Node with the best score in the document
 	TopNode *goquery.Selection
+
+	// For use resolving URLs in the document
+	baseURL *url.URL
+}
+
+// Image contains information about the header image associated with an article
+type Image struct {
+	Src        string
+	Width      int
+	Height     int
+	Bytes      int64
+	Confidence uint
 }
 
 type runner interface {

@@ -1,6 +1,7 @@
 package swan
 
 import (
+	"net/url"
 	"strings"
 
 	"code.google.com/p/cascadia"
@@ -13,6 +14,7 @@ type metaDetectLanguage struct{}
 var (
 	htmlTagMatcher         = cascadia.MustCompile("html")
 	metaOpenGraphMatcher   = cascadia.MustCompile("[property^=og\\:]")
+	baseURLMatcher         = cascadia.MustCompile("base[href]")
 	metaMatcher            = cascadia.MustCompile("meta")
 	metaMatcherCanonical   = cascadia.MustCompile("[name=canonical]")
 	metaMatcherDescription = cascadia.MustCompile("[name=description]")
@@ -70,6 +72,17 @@ func (e extractMetas) run(a *Article) error {
 				a.Meta.OpenGraph[prop[3:]] = content
 			}
 		})
+
+	t, _ = a.Doc.FilterMatcher(baseURLMatcher).Attr("href")
+	if t == "" {
+		t = a.URL
+	}
+
+	var err error
+	a.baseURL, err = url.Parse(t)
+	if err != nil {
+		a.baseURL, _ = url.Parse(a.URL)
+	}
 
 	return nil
 }

@@ -1,8 +1,8 @@
 package swan
 
 import (
-	"bytes"
 	"fmt"
+	"regexp"
 	"strings"
 
 	"code.google.com/p/cascadia"
@@ -13,9 +13,9 @@ import (
 
 type cleanup struct{}
 type commentMatcher struct{}
-type childTextMatcher struct{}
 
 var (
+	emptyLinesRegex  = regexp.MustCompile("(?m)^\\s+$")
 	tablinesReplacer = strings.NewReplacer("\n", "\n\n", "\t", "")
 
 	remove   = []cascadia.Selector{}
@@ -94,8 +94,9 @@ var (
 	emTags          = cascadia.MustCompile("em")
 	imgTags         = cascadia.MustCompile("img")
 	safeTags        = cascadia.MustCompile("body, article")
-	scriptStyleTags = cascadia.MustCompile("script, noscript, style")
-	unwraps         = cascadia.MustCompile("span[class~=dropcap]," +
+	scriptStyleTags = cascadia.MustCompile("script, noscript, style, " +
+		" link[rel=stylesheet]")
+	unwraps = cascadia.MustCompile("span[class~=dropcap]," +
 		"span[class~=drop_cap]," +
 		"p span")
 	keepTags = cascadia.MustCompile("a, blockquote, dl, div," +
@@ -156,74 +157,42 @@ func (m commentMatcher) Filter(n []*html.Node) []*html.Node {
 	return nil
 }
 
-func (m childTextMatcher) Match(n *html.Node) bool {
-	for c := n.FirstChild; c != nil; c = c.NextSibling {
-		if c.Type == html.TextNode || m.Match(c) {
-			return true
-		}
-	}
-
-	return false
-}
-
-func (m childTextMatcher) matchAll(n *html.Node, ns []*html.Node) []*html.Node {
-	for c := n.FirstChild; c != nil; c = c.NextSibling {
-		if c.Type == html.TextNode {
-			ns = append(ns, c)
-		} else {
-			ns = m.matchAll(c, ns)
-		}
-	}
-
-	return ns
-}
-
-func (m childTextMatcher) MatchAll(n *html.Node) []*html.Node {
-	return m.matchAll(n, nil)
-}
-
-func (m childTextMatcher) Filter(n []*html.Node) []*html.Node {
-	var ns []*html.Node
-
-	for _, c := range n {
-		if m.Match(c) {
-			ns = append(ns, c)
-		}
-	}
-
-	return ns
-}
-
 func nodeIs(n *html.Node, a atom.Atom) bool {
 	return n != nil && n.Type == html.ElementNode && n.DataAtom == a
 }
 
 func getReplacements(s *goquery.Selection) []*html.Node {
 	var ns []*html.Node
-	var b bytes.Buffer
+	var buff []*html.Node
 
-	flushB := func() {
-		ns = append(ns, &html.Node{
-			Type: html.TextNode,
-			Data: b.String(),
-		})
-		b.Reset()
+	flushBuff := func() {
+		if len(buff) > 0 {
+			n := &html.Node{
+				Type:     html.ElementNode,
+				DataAtom: atom.P,
+				Data:     "p",
+			}
+
+			for _, b := range buff {
+				n.AppendChild(b)
+			}
+
+			ns = append(ns, n)
+			buff = buff[:0]
+		}
 	}
 
-	cs := s.FindMatcher(childTextMatcher{})
-
-	for _, n := range cs.Nodes {
+	for _, n := range s.Nodes {
 		switch {
 		case n.Type == html.TextNode:
 			n.Data = tablinesReplacer.Replace(n.Data)
-			n.Data = strings.TrimSpace(n.Data)
+			n.Data = emptyLinesRegex.ReplaceAllString(n.Data, "")
 
 			if len(n.Data) == 0 {
 				continue
 			}
 
 			an := n
-			flushB()
 
 			// Rewind to first <a> before this text
 			for ; nodeIs(an.PrevSibling, atom.A); an = an.PrevSibling {
@@ -236,18 +205,18 @@ func getReplacements(s *goquery.Selection) []*html.Node {
 					an.Parent.RemoveChild(an)
 				}
 
-				ns = append(ns, an)
+				buff = append(buff, an)
 			}
 
-		case nodeIs(n, atom.P) && b.Len() > 0:
-			flushB()
+		case nodeIs(n, atom.P) && len(buff) > 0:
+			flushBuff()
 			fallthrough
 		default:
 			ns = append(ns, n)
 		}
 	}
 
-	flushB()
+	flushBuff()
 
 	return ns
 }

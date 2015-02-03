@@ -17,7 +17,8 @@ const (
 )
 
 var (
-	client = &http.Client{
+	// TODO: use http.MaxBytesReader()
+	httpClient = &http.Client{
 		Timeout: time.Second * 10,
 	}
 )
@@ -31,7 +32,7 @@ func FromURL(url string) (a Article, err error) {
 	}
 
 	req.Header.Set("User-Agent", "swan/"+Version)
-	resp, err := client.Do(req)
+	resp, err := httpClient.Do(req)
 	if err != nil {
 		err = fmt.Errorf("could not load URL: %s", err)
 		return
@@ -46,23 +47,24 @@ func FromURL(url string) (a Article, err error) {
 
 	fmt.Println(http.DetectContentType(body))
 
-	return FromHTML(string(body))
+	return FromHTML(resp.Request.URL.String(), string(body))
 }
 
 // FromHTML does its best to extract an article from a single HTML page
-func FromHTML(html string) (Article, error) {
+func FromHTML(url string, html string) (Article, error) {
 	doc, err := goquery.NewDocumentFromReader(strings.NewReader(html))
 	if err != nil {
 		err = fmt.Errorf("invalid HTML: %s", err)
 		return Article{}, err
 	}
 
-	return FromDoc(doc)
+	return FromDoc(url, doc)
 }
 
 // FromDoc does its best to extract an article from a single document
-func FromDoc(doc *goquery.Document) (Article, error) {
+func FromDoc(url string, doc *goquery.Document) (Article, error) {
 	a := Article{
+		URL: url,
 		Doc: doc,
 	}
 
