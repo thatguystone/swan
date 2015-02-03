@@ -41,5 +41,18 @@ func TestPyContentExtractors(t *testing.T) {
 						"	Expected: %s",
 					name, a.Meta.Lang, e.MetaLang)
 			}
+
+			cleaned := a.CleanedText
+			if len(r.Expected.CleanedText) < len(cleaned) {
+				cleaned = cleaned[:len(r.Expected.CleanedText)]
+			}
+
+			if cleaned != r.Expected.CleanedText {
+				t.Fatalf(
+					"%s: CleanedText does not match:\n"+
+						"	Got: %s\n"+
+						"	Expected: %s",
+					name, cleaned, r.Expected.CleanedText)
+			}
 		})
 }

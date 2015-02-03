@@ -15,7 +15,7 @@ type cleanup struct{}
 type commentMatcher struct{}
 
 var (
-	emptyLinesRegex  = regexp.MustCompile("(?m)^\\s+$")
+	emptyLinesRegex  = regexp.MustCompile(`(?m)^\s+$`)
 	tablinesReplacer = strings.NewReplacer("\n", "\n\n", "\t", "")
 
 	remove   = []cascadia.Selector{}
@@ -161,18 +161,30 @@ func nodeIs(n *html.Node, a atom.Atom) bool {
 	return n != nil && n.Type == html.ElementNode && n.DataAtom == a
 }
 
+func createNode(atom atom.Atom, tag string, text string) *html.Node {
+	n := &html.Node{
+		Type:     html.ElementNode,
+		DataAtom: atom,
+		Data:     "p",
+	}
+
+	if text != "" {
+		n.AppendChild(&html.Node{
+			Type: html.TextNode,
+			Data: text,
+		})
+	}
+
+	return n
+}
+
 func getReplacements(s *goquery.Selection) []*html.Node {
 	var ns []*html.Node
 	var buff []*html.Node
 
 	flushBuff := func() {
 		if len(buff) > 0 {
-			n := &html.Node{
-				Type:     html.ElementNode,
-				DataAtom: atom.P,
-				Data:     "p",
-			}
-
+			n := createNode(atom.P, "p", "")
 			for _, b := range buff {
 				n.AppendChild(b)
 			}

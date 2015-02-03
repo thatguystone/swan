@@ -1,10 +1,13 @@
 package swan
 
 import (
+	"bytes"
 	"net/url"
+	"strings"
 
 	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
+	"golang.org/x/net/html"
 )
 
 // Article is a fully extracted and cleaned document.
@@ -15,9 +18,8 @@ type Article struct {
 	// Newline-separated and cleaned content
 	CleanedText string
 
-	// HTML-formatted content with inline images, videos, and whatever else
-	// was found relevant to the original article
-	CleanedHTML string
+	// Node from which CleanedText was created
+	TopNode *goquery.Selection
 
 	// A header image to use for the article
 	Img *Image
@@ -38,14 +40,17 @@ type Article struct {
 		Title       string
 	}
 
-	// Document backing this article
+	// Full document backing this article
 	Doc *goquery.Document
-
-	// Node with the best score in the document
-	TopNode *goquery.Selection
 
 	// For use resolving URLs in the document
 	baseURL *url.URL
+
+	// Caches information about nodes so that it doesn't have to be updated
+	cCache map[*html.Node]*contentCache
+
+	// Scores that have been calculated
+	scores map[*html.Node]int
 }
 
 // Image contains information about the header image associated with an article
@@ -55,6 +60,14 @@ type Image struct {
 	Height     int
 	Bytes      int64
 	Confidence uint
+}
+
+type contentCache struct {
+	text            string
+	wordCount       uint
+	stopwords       uint
+	highLinkDensity bool
+	s               *goquery.Selection
 }
 
 type runner interface {
@@ -72,8 +85,8 @@ var (
 		extractTags{},
 		extractTitle{},
 
-		useKnownArticles{},
 		cleanup{},
+		useKnownArticles{},
 		metaDetectLanguage{},
 
 		extractTopNode{},
@@ -81,8 +94,10 @@ var (
 		extractImages{},
 		extractVideos{},
 
-		// Does more document mangling
+		// Does more document mangling and TopNode resetting
 		extractContent{},
+
+		formatCleanedText{},
 	}
 
 	// Don't match all-at-once: there's precedence here
@@ -107,7 +122,22 @@ func (u useKnownArticles) run(a *Article) error {
 	return nil
 }
 
+// Checks to see if TopNode is a known article tag that was picked before
+// scoring
+func (u useKnownArticles) isTopKnown(a *Article) bool {
+	for _, m := range knownArticles {
+		if a.TopNode.IsMatcher(m) {
+			return true
+		}
+	}
+
+	return false
+}
+
 func (a *Article) extract() error {
+	a.cCache = make(map[*html.Node]*contentCache)
+	a.scores = make(map[*html.Node]int)
+
 	for _, r := range runners {
 		err := r.run(a)
 		if err != nil {
@@ -115,5 +145,54 @@ func (a *Article) extract() error {
 		}
 	}
 
+	a.cCache = nil
+	a.scores = nil
+
+	// Drop any previous selections the current selection might be holding on
+	// to
+	if a.TopNode != nil {
+		newTop := goquery.Selection{
+			Nodes: a.TopNode.Nodes,
+		}
+		a.TopNode = &newTop
+	}
+
 	return nil
+}
+
+func (a *Article) getCCache(n *html.Node) *contentCache {
+	cc, ok := a.cCache[n]
+	if !ok {
+		s := goquery.NewDocumentFromNode(n).Selection
+		cc = &contentCache{
+			text: s.Text(),
+			s:    s,
+		}
+
+		ws := splitText(cc.text)
+		cc.wordCount = uint(len(ws))
+		cc.stopwords = stopwordCountWs(a.Meta.Lang, ws)
+		cc.highLinkDensity = highLinkDensity(cc)
+		a.cCache[n] = cc
+	}
+
+	return cc
+}
+
+func highLinkDensity(cc *contentCache) bool {
+	var b bytes.Buffer
+
+	links := cc.s.FindMatcher(linkTags)
+
+	if links.Size() == 0 {
+		return false
+	}
+
+	links.Each(func(i int, l *goquery.Selection) {
+		b.WriteString(l.Text())
+	})
+
+	linkWords := float32(strings.Count(b.String(), " "))
+
+	return ((linkWords / float32(cc.wordCount)) * float32(len(cc.s.Nodes))) >= 1
 }

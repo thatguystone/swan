@@ -1,9 +1,7 @@
 package swan
 
 import (
-	"bytes"
 	"math"
-	"strings"
 
 	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
@@ -12,16 +10,7 @@ import (
 )
 
 type extractTopNode struct {
-	a      *Article
-	cache  map[*html.Node]*contentCache
-	scores map[*html.Node]uint
-}
-
-type contentCache struct {
-	text      string
-	wordCount uint
-	stopwords uint
-	s         *goquery.Selection
+	a *Article
 }
 
 const (
@@ -38,12 +27,10 @@ func (e extractTopNode) run(a *Article) error {
 	var ccs []*contentCache
 
 	e.a = a
-	e.cache = make(map[*html.Node]*contentCache)
-	e.scores = make(map[*html.Node]uint)
 
 	for _, n := range a.Doc.FindMatcher(nodesToCheck).Nodes {
-		cc := e.hitCache(n)
-		if cc.stopwords > 2 && !e.highLinkDensity(cc) {
+		cc := e.a.getCCache(n)
+		if cc.stopwords > 2 && !cc.highLinkDensity {
 			ccs = append(ccs, cc)
 		}
 	}
@@ -68,26 +55,26 @@ func (e extractTopNode) run(a *Article) error {
 			}
 		}
 
-		upscore := cc.stopwords + uint(boostScore)
+		upscore := int(cc.stopwords) + int(boostScore)
 
 		p := cc.s.Nodes[0].Parent
 		if p == nil {
 			continue
 		}
 
-		score, _ := e.scores[p]
-		e.scores[p] = score + upscore
+		score, _ := a.scores[p]
+		a.scores[p] = score + upscore
 
 		p = p.Parent
 		if p != nil {
-			pscore, _ := e.scores[p]
-			e.scores[p] = pscore + (upscore / 2)
+			pscore, _ := a.scores[p]
+			a.scores[p] = pscore + (upscore / 2)
 		}
 	}
 
 	var topNode *html.Node
-	topScore := uint(0)
-	for n, score := range e.scores {
+	topScore := 0
+	for n, score := range a.scores {
 		if score > topScore {
 			topNode = n
 			topScore = score
@@ -105,24 +92,6 @@ func (e extractTopNode) run(a *Article) error {
 	return nil
 }
 
-func (e *extractTopNode) hitCache(n *html.Node) *contentCache {
-	cc, ok := e.cache[n]
-	if !ok {
-		s := goquery.NewDocumentFromNode(n).Selection
-		cc = &contentCache{
-			text: s.Text(),
-			s:    s,
-		}
-
-		ws := splitText(cc.text)
-		cc.wordCount = uint(len(ws))
-		cc.stopwords = stopwordCountWs(e.a.Meta.Lang, ws)
-		e.cache[n] = cc
-	}
-
-	return cc
-}
-
 func (e *extractTopNode) isBoostable(cc *contentCache) bool {
 	stepsAway := 0
 	for sib := cc.s.Nodes[0].PrevSibling; sib != nil; sib = sib.PrevSibling {
@@ -131,7 +100,7 @@ func (e *extractTopNode) isBoostable(cc *contentCache) bool {
 				return false
 			}
 
-			scc := e.hitCache(sib)
+			scc := e.a.getCCache(sib)
 			if scc.stopwords > minStopwordCount {
 				return true
 			}
@@ -141,22 +110,4 @@ func (e *extractTopNode) isBoostable(cc *contentCache) bool {
 	}
 
 	return false
-}
-
-func (e *extractTopNode) highLinkDensity(cc *contentCache) bool {
-	var b bytes.Buffer
-
-	links := cc.s.FindMatcher(linkTags)
-
-	if links.Size() == 0 {
-		return false
-	}
-
-	links.Each(func(i int, l *goquery.Selection) {
-		b.WriteString(l.Text())
-	})
-
-	linkWords := float32(strings.Count(b.String(), " "))
-
-	return ((linkWords / float32(cc.wordCount)) * float32(len(cc.s.Nodes))) >= 1
 }

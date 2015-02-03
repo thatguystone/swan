@@ -101,8 +101,6 @@ func (e *extractImages) hitImage(url string) *Image {
 		Src: url,
 	}
 
-	// TODO: head request for size
-
 	resp, err := httpClient.Get(i.Src)
 	if err != nil || resp.StatusCode != 200 {
 		return nil
