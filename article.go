@@ -85,8 +85,8 @@ var (
 		extractTags{},
 		extractTitle{},
 
-		cleanup{},
 		useKnownArticles{},
+		cleanup{},
 		metaDetectLanguage{},
 
 		extractTopNode{},
@@ -101,6 +101,7 @@ var (
 	// Don't match all-at-once: there's precedence here
 	knownArticles = []goquery.Matcher{
 		cascadia.MustCompile("[itemprop=articleBody]"),
+		cascadia.MustCompile("[itemprop=blogPost]"),
 		cascadia.MustCompile(".post-content"),
 		cascadia.MustCompile("article"),
 	}
@@ -109,10 +110,11 @@ var (
 func (u useKnownArticles) run(a *Article) error {
 	for _, m := range knownArticles {
 		s := a.Doc.FindMatcher(m)
-		if s.Size() > 0 {
+		if s.Length() > 0 {
 			// Remove from document so that memory can be freed
 			f := s.First().Remove()
 			a.Doc = goquery.NewDocumentFromNode(f.Nodes[0])
+			a.TopNode = a.Doc.Selection
 			break
 		}
 	}
@@ -122,9 +124,9 @@ func (u useKnownArticles) run(a *Article) error {
 
 // Checks to see if TopNode is a known article tag that was picked before
 // scoring
-func (u useKnownArticles) isTopKnown(a *Article) bool {
+func (u useKnownArticles) isKnownArticle(a *Article) bool {
 	for _, m := range knownArticles {
-		if a.TopNode.IsMatcher(m) {
+		if a.Doc.IsMatcher(m) {
 			return true
 		}
 	}

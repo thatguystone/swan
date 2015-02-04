@@ -28,7 +28,7 @@ func (e extractContent) run(a *Article) error {
 	}
 
 	known := useKnownArticles{}
-	if !known.isTopKnown(a) {
+	if !known.isKnownArticle(a) {
 		e.addSiblings(a)
 	}
 
@@ -114,41 +114,35 @@ func (e extractContent) getText(s *goquery.Selection) string {
 }
 
 func (e extractContent) addSiblings(a *Article) {
-	newTop := goquery.Selection{}
 	baseScore := e.getSiblingBaseScore(a)
 
 	a.TopNode.PrevAll().Each(func(i int, s *goquery.Selection) {
-		newTop.AppendSelection(e.getSiblingContent(a, s, baseScore))
+		a.TopNode.PrependNodes(e.getSiblingContent(a, s, baseScore)...)
 	})
-
-	if len(newTop.Nodes) > 0 {
-		newTop.AppendSelection(a.TopNode)
-		a.TopNode = &newTop
-	}
 }
 
 func (e extractContent) getSiblingContent(
 	a *Article,
 	s *goquery.Selection,
-	baseScore uint) *goquery.Selection {
+	baseScore uint) []*html.Node {
+
+	var ret []*html.Node
 
 	if nodeIs(s.Nodes[0], atom.P) && len(s.Text()) > 0 {
-		return s
+		return s.Nodes
 	}
 
-	ret := goquery.Selection{}
 	ps := s.FindMatcher(pTags)
-
 	for _, n := range ps.Nodes {
 		cc := a.getCCache(n)
 		if len(cc.text) > 0 {
 			if cc.stopwords > baseScore && !cc.highLinkDensity {
-				ret.AppendNodes(createNode(atom.P, "p", cc.text))
+				ret = append(ret, createNode(atom.P, "p", cc.text))
 			}
 		}
 	}
 
-	return &ret
+	return ret
 }
 
 func (e extractContent) getSiblingBaseScore(a *Article) uint {

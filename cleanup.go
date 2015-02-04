@@ -40,6 +40,7 @@ var (
 		"footer",
 		"Footer",
 		"footnote",
+		"hidden",
 		"icon",
 		"inline-share-tools",
 		"js_replies",
@@ -211,8 +212,8 @@ func getReplacements(s *goquery.Selection) []*html.Node {
 			for ; nodeIs(an.PrevSibling, atom.A); an = an.PrevSibling {
 			}
 
-			// Run through all previous and trailing <a>s, injecting the node in
-			// the mix
+			// Run through all previous and trailing <a>s, injecting the node
+			// in the mix
 			for ; nodeIs(an, atom.A) || an == n; an = an.NextSibling {
 				if an.Parent != nil {
 					an.Parent.RemoveChild(an)
