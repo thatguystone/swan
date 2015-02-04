@@ -31,6 +31,13 @@ func httpGet(url string) (body io.ReadCloser, resp *http.Response, err error) {
 		return
 	}
 
+	if resp.StatusCode != 200 {
+		resp.Body.Close()
+		resp.Body = nil
+		err = fmt.Errorf("could not load URL: status code %d", resp.StatusCode)
+		return
+	}
+
 	body = http.MaxBytesReader(nil, resp.Body, maxRespBytes)
 	return
 }

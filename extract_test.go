@@ -25,7 +25,7 @@ type Result struct {
 
 type ExpectedTopImage struct {
 	Bytes      uint
-	Confidence string `json:"confidence_score"`
+	Confidence uint `json:"confidence_score"`
 	Height     uint
 	Src        string
 	Width      uint
@@ -40,8 +40,8 @@ type Expected struct {
 	MetaKeywords    string `json:"meta_keywords"`
 	MetaLang        string `json:"meta_lang"`
 	OpenGraph       map[string]string
-	PublishDate     string `json:"publish_date"`
-	TopImage        ExpectedTopImage
+	PublishDate     string           `json:"publish_date"`
+	TopImage        ExpectedTopImage `json:"top_image"`
 	Tags            []string
 	Title           string
 }

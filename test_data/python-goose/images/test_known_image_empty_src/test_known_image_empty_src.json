@@ -5,7 +5,7 @@
         "top_image": {
             "extraction_type": "NA",
             "src": "",
-            "confidence_score": 0.0,
+            "confidence_score": 0,
             "bytes": 0,
             "height": 0,
             "width": 0,

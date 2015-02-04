@@ -56,8 +56,8 @@ type Article struct {
 // Image contains information about the header image associated with an article
 type Image struct {
 	Src        string
-	Width      int
-	Height     int
+	Width      uint
+	Height     uint
 	Bytes      int64
 	Confidence uint
 }

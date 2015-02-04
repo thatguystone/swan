@@ -112,8 +112,8 @@ func (e *extractImages) hitImage(url string) *Image {
 		return nil
 	}
 
-	i.Width = ri.Bounds().Dx()
-	i.Height = ri.Bounds().Dy()
+	i.Width = uint(ri.Bounds().Dx())
+	i.Height = uint(ri.Bounds().Dy())
 	if resp.ContentLength > 0 {
 		i.Bytes = resp.ContentLength
 	}
@@ -202,7 +202,7 @@ func (e *extractImages) checkLarge(s *goquery.Selection, depth uint) bool {
 		func(i int, s *goquery.Selection) bool {
 			img := e.hitCache(s, "src")
 
-			if img == nil || img.Bytes == 0 {
+			if img == nil {
 				return false
 			}
 
