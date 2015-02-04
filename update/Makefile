@@ -10,6 +10,7 @@ update_stopwords: python-goose
 clean:
 	rm -rf python-goose
 	rm -rf python-goose.tar.gz
+	go clean
 
 python-goose.tar.gz:
 	curl -L https://api.github.com/repos/grangier/python-goose/tarball > python-goose.tar.gz
