@@ -1,15 +1,11 @@
-.PHONY: update update_tests update_stopwords
+.PHONY: update update_stopwords
 
-update: update_stopwords update_tests
+update: update_stopwords
 
 update_stopwords: python-goose
 	go build
 	./update
 	go fmt ../...
-
-update_tests: python-goose
-	rm -rf ../test_data/$<
-	cp -r $</tests/data/extractors ../test_data/$<
 
 clean:
 	rm -rf python-goose

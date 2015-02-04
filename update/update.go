@@ -29,7 +29,8 @@ func main() {
 			log.Fatalf("Could not read file: %s", err)
 		}
 
-		// Some stopword files from python-goose start with an invalid UTF8 char
+		// Some stopword files from python-goose start with an invalid UTF8
+		// char
 		ws := string(c)
 		ws = strings.Trim(ws, "\ufeff")
 
