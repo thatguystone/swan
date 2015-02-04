@@ -38,6 +38,7 @@ func main() {
 		for _, w := range strings.Split(ws, "\n") {
 			w = strings.TrimSpace(w)
 			if !strings.HasPrefix(w, "#") && len(w) > 0 {
+				w = strings.ToLower(w)
 				if _, ok := seen[w]; !ok {
 					fmt.Fprintf(out, "`%s`: true,\n", w)
 					seen[w] = true
