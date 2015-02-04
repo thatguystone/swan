@@ -22,7 +22,6 @@ type extractImages struct {
 }
 
 const (
-	imgMaxBytes = 15728640
 	minImgWidth = 50
 )
 
@@ -101,13 +100,14 @@ func (e *extractImages) hitImage(url string) *Image {
 		Src: url,
 	}
 
-	resp, err := httpClient.Get(i.Src)
-	if err != nil || resp.StatusCode != 200 {
+	body, resp, err := httpGet(i.Src)
+	if err != nil {
 		return nil
 	}
 
-	defer resp.Body.Close()
-	ri, _, err := image.Decode(resp.Body)
+	defer body.Close()
+
+	ri, _, err := image.Decode(body)
 	if err != nil {
 		return nil
 	}

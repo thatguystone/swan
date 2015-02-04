@@ -4,9 +4,7 @@ package swan
 import (
 	"fmt"
 	"io/ioutil"
-	"net/http"
 	"strings"
-	"time"
 
 	"github.com/PuerkitoBio/goquery"
 )
@@ -16,38 +14,22 @@ const (
 	Version = "1.0"
 )
 
-var (
-	// TODO: use http.MaxBytesReader()
-	httpClient = &http.Client{
-		Timeout: time.Second * 10,
-	}
-)
-
 // FromURL does its best to extract an article from the given URL
 func FromURL(url string) (a Article, err error) {
-	req, err := http.NewRequest("GET", url, nil)
+	body, resp, err := httpGet(url)
 	if err != nil {
-		err = fmt.Errorf("could not create new request: %s", err)
 		return
 	}
 
-	req.Header.Set("User-Agent", "swan/"+Version)
-	resp, err := httpClient.Do(req)
-	if err != nil {
-		err = fmt.Errorf("could not load URL: %s", err)
-		return
-	}
+	defer body.Close()
 
-	defer resp.Body.Close()
-	body, err := ioutil.ReadAll(resp.Body)
+	html, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
 		err = fmt.Errorf("could not read response body: %s", err)
 		return
 	}
 
-	fmt.Println(http.DetectContentType(body))
-
-	return FromHTML(resp.Request.URL.String(), string(body))
+	return FromHTML(resp.Request.URL.String(), string(html))
 }
 
 // FromHTML does its best to extract an article from a single HTML page
