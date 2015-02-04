@@ -1,16 +1,25 @@
 package swan
 
 import (
+	"bytes"
+	"strings"
+
 	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
+	"github.com/tdewolff/minify"
+	"golang.org/x/net/html"
 	"golang.org/x/net/html/atom"
 )
 
-type extractContent struct {
-}
+type extractContent struct{}
+type hasPrintableText struct{}
 
 var (
-	pTags = cascadia.MustCompile("p")
+	allTags             = cascadia.MustCompile("*")
+	pTags               = cascadia.MustCompile("p")
+	brTags              = cascadia.MustCompile("br")
+	replaceWithTextTags = cascadia.MustCompile("a, b, strong, i, sup")
+	goodContent         = cascadia.MustCompile("object, embed, img")
 )
 
 func (e extractContent) run(a *Article) error {
@@ -28,13 +37,80 @@ func (e extractContent) run(a *Article) error {
 			cc := a.getCCache(s.Nodes[0])
 			return cc.highLinkDensity ||
 				e.noParasWithoutTable(s) ||
-				e.isNodeScoreThreshMet(a, s)
+				!e.isNodeScoreThreshMet(a, s)
 		}
 
 		return false
 	}).Remove()
 
+	e.dropNegativeScored(a)
+	e.dropTinyEls(a)
+	e.extractCleanedText(a)
+
 	return nil
+}
+
+func (e extractContent) extractCleanedText(a *Article) error {
+	if a.TopNode == nil {
+		return nil
+	}
+
+	var b bytes.Buffer
+	html, _ := a.TopNode.Html()
+	minify.NewMinifier().HTML(&b, strings.NewReader(html))
+	doc, _ := goquery.NewDocumentFromReader(&b)
+
+	a.TopNode = doc.Selection
+
+	// Quick-and-dirty node-to-text replacement
+	a.TopNode.FindMatcher(replaceWithTextTags).Each(func(i int, s *goquery.Selection) {
+		s.ReplaceWithHtml(s.Text())
+	})
+
+	a.TopNode.FindMatcher(brTags).ReplaceWithHtml("\n")
+
+	a.CleanedText = e.getText(a.TopNode)
+
+	return nil
+}
+
+func (m hasPrintableText) Match(n *html.Node) bool {
+	var match func(n *html.Node) bool
+	match = func(n *html.Node) bool {
+		if n.Type == html.TextNode && len(n.Data) > 0 {
+			return true
+		}
+
+		for c := n.FirstChild; c != nil; c = c.NextSibling {
+			if match(c) {
+				return true
+			}
+		}
+
+		return false
+	}
+
+	return match(n)
+}
+
+func (m hasPrintableText) MatchAll(n *html.Node) []*html.Node {
+	return nil
+}
+
+func (m hasPrintableText) Filter(n []*html.Node) []*html.Node {
+	return nil
+}
+
+func (e extractContent) getText(s *goquery.Selection) string {
+	s.FindMatcher(pTags).Each(func(i int, s *goquery.Selection) {
+		// Some paragraphs only contain images, videos, etc and aren't
+		// rendered in plain text, so don't inject newlines for those
+		if s.IsMatcher(hasPrintableText{}) {
+			s.AfterHtml("\n\n")
+		}
+	})
+
+	return strings.TrimSpace(s.Text())
 }
 
 func (e extractContent) addSiblings(a *Article) {
@@ -113,5 +189,33 @@ func (e extractContent) isNodeScoreThreshMet(a *Article, s *goquery.Selection) b
 	currNodeScore := a.scores[s.Nodes[0]]
 	threshScore := int(float32(topNodeScore) * 0.08)
 
-	return (currNodeScore < threshScore) && !nodeIs(s.Nodes[0], atom.Td)
+	if (currNodeScore < threshScore) && !nodeIs(s.Nodes[0], atom.Td) {
+		return false
+	}
+
+	return true
+}
+
+func (e extractContent) dropTinyEls(a *Article) {
+	a.TopNode.Children().Each(func(i int, s *goquery.Selection) {
+		cc := a.getCCache(s.Nodes[0])
+		remove := s.HasMatcher(goodContent).Length() == 0 &&
+			((cc.stopwords < 3 || cc.highLinkDensity) ||
+				(strings.HasPrefix(cc.text, "(") &&
+					strings.HasSuffix(cc.text, ")")))
+
+		if remove {
+			s.Remove()
+		}
+	})
+}
+
+func (e extractContent) dropNegativeScored(a *Article) {
+	for n, score := range a.scores {
+		if score <= 0 {
+			if n.Parent != nil {
+				n.Parent.RemoveChild(n)
+			}
+		}
+	}
 }

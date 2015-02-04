@@ -71,6 +71,18 @@ func TestSplitText(t *testing.T) {
 			in:  "punct: everywhere!",
 			out: []string{"punct", "everywhere"},
 		},
+		test{
+			in:  "test – test",
+			out: []string{"test", "test"},
+		},
+		test{
+			in:  "test ––––– test",
+			out: []string{"test", "test"},
+		},
+		test{
+			in:  "test –– ü – ☃ –– test",
+			out: []string{"test", "ü", "☃", "test"},
+		},
 	}
 
 	for _, tc := range table {

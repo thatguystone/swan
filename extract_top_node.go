@@ -62,7 +62,7 @@ func (e extractTopNode) run(a *Article) error {
 			continue
 		}
 
-		score, _ := a.scores[p]
+		score := a.scores[p]
 		a.scores[p] = score + upscore
 
 		p = p.Parent

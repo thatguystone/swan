@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"strings"
 	"unicode"
+	"unicode/utf8"
 
 	"golang.org/x/net/html"
 )
@@ -73,7 +74,7 @@ func splitText(t string) (ws []string) {
 				inWord = false
 
 			default:
-				start++
+				start += utf8.RuneLen(r)
 			}
 		}
 
@@ -113,7 +114,7 @@ func stopwordCountWs(lang string, ws []string) uint {
 
 	count := uint(0)
 	for _, w := range ws {
-		if _, ok := words[w]; ok {
+		if _, ok := words[strings.ToLower(w)]; ok {
 			count++
 		}
 	}

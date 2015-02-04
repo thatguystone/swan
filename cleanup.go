@@ -40,6 +40,7 @@ var (
 		"footer",
 		"Footer",
 		"footnote",
+		"icon",
 		"inline-share-tools",
 		"js_replies",
 		"konafilter",
@@ -259,7 +260,7 @@ func (c cleanup) run(a *Article) error {
 	a.Doc.FindMatcher(unwraps).Contents().Unwrap()
 
 	ems := a.Doc.FindMatcher(emTags)
-	ems.NotSelection(ems.HasMatcher(imgTags)).Unwrap()
+	ems.NotSelection(ems.HasMatcher(imgTags)).Children().Unwrap()
 
 	a.Doc.FindMatcher(divSpanTags).Each(divToPara)
 

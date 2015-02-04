@@ -96,8 +96,6 @@ var (
 
 		// Does more document mangling and TopNode resetting
 		extractContent{},
-
-		formatCleanedText{},
 	}
 
 	// Don't match all-at-once: there's precedence here
@@ -156,7 +154,7 @@ func (a *Article) getCCache(n *html.Node) *contentCache {
 	if !ok {
 		s := goquery.NewDocumentFromNode(n).Selection
 		cc = &contentCache{
-			text: s.Text(),
+			text: strings.TrimSpace(s.Text()),
 			s:    s,
 		}
 
