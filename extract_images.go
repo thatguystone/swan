@@ -70,32 +70,7 @@ func init() {
 	}
 }
 
-func (e extractImages) run(a *Article) error {
-	e.a = a
-	e.cache = make(map[string]*Image)
-
-	if e.checkKnown() {
-		return nil
-	}
-
-	if a.TopNode == nil {
-		return nil
-	}
-
-	if e.checkLarge(a.TopNode, 0) {
-		return nil
-	}
-
-	if e.checkLinkTag() {
-		return nil
-	}
-
-	e.checkOpenGraphTag()
-
-	return nil
-}
-
-func (e *extractImages) hitImage(url string) *Image {
+func hitImage(url string) *Image {
 	i := Image{
 		Src: url,
 	}
@@ -121,13 +96,40 @@ func (e *extractImages) hitImage(url string) *Image {
 	return &i
 }
 
+func (e extractImages) run(a *Article) error {
+	e.a = a
+	e.cache = make(map[string]*Image)
+
+	if e.checkKnown() {
+		return nil
+	}
+
+	if a.TopNode == nil {
+		return nil
+	}
+
+	if e.checkLarge(a.TopNode, 0) {
+		return nil
+	}
+
+	if e.checkLinkTag() {
+		return nil
+	}
+
+	e.checkOpenGraphTag()
+
+	return nil
+}
+
 func (e *extractImages) hitCaches(imgs *goquery.Selection, attr string) []*Image {
 	var hits []*Image
 
 	imgs.Each(func(i int, img *goquery.Selection) {
 		hit := e.hitCache(img, attr)
 		if hit != nil {
-			hits = append(hits, hit)
+			i := *hit
+			i.Sel = img
+			hits = append(hits, &i)
 		}
 	})
 
@@ -137,7 +139,7 @@ func (e *extractImages) hitCaches(imgs *goquery.Selection, attr string) []*Image
 func (e *extractImages) hitCacheURL(url string) *Image {
 	i, ok := e.cache[url]
 	if !ok {
-		i = e.hitImage(url)
+		i = hitImage(url)
 		e.cache[url] = i
 	}
 
@@ -155,7 +157,14 @@ func (e *extractImages) hitCache(img *goquery.Selection, attr string) *Image {
 		return nil
 	}
 
-	return e.hitCacheURL(url)
+	hit := e.hitCacheURL(url)
+	if hit != nil {
+		i := *hit
+		i.Sel = img
+		hit = &i
+	}
+
+	return hit
 }
 
 func (e *extractImages) getImage(img *goquery.Selection, attr string, c uint) *Image {

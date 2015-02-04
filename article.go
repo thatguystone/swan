@@ -53,13 +53,15 @@ type Article struct {
 	scores map[*html.Node]int
 }
 
-// Image contains information about the header image associated with an article
+// Image contains information about the header image associated with an
+// article
 type Image struct {
 	Src        string
 	Width      uint
 	Height     uint
 	Bytes      int64
 	Confidence uint
+	Sel        *goquery.Selection
 }
 
 type contentCache struct {
@@ -74,10 +76,15 @@ type runner interface {
 	run(a *Article) error
 }
 
+type processor struct {
+	probe   func(a *Article) uint
+	runners []runner
+}
+
 type useKnownArticles struct{}
 
 var (
-	runners = []runner{
+	baseRunners = []runner{
 		extractMetas{},
 
 		extractAuthors{},
@@ -88,14 +95,28 @@ var (
 		useKnownArticles{},
 		cleanup{},
 		metaDetectLanguage{},
+	}
 
-		extractTopNode{},
-		extractLinks{},
-		extractImages{},
-		extractVideos{},
+	defaultProcessor = &processor{
+		probe: func(a *Article) uint {
+			return 1
+		},
+		runners: []runner{
+			extractTopNode{},
+			extractLinks{},
+			extractImages{},
+			extractVideos{},
 
-		// Does more document mangling and TopNode resetting
-		extractContent{},
+			// Does more document mangling and TopNode resetting
+			extractContent{},
+		},
+	}
+
+	processors = []*processor{
+		comicProcessor,
+
+		// Always last since it's the default
+		defaultProcessor,
 	}
 
 	// Don't match all-at-once: there's precedence here
@@ -135,10 +156,28 @@ func (u useKnownArticles) isKnownArticle(a *Article) bool {
 }
 
 func (a *Article) extract() error {
+	var p *processor
+
 	a.cCache = make(map[*html.Node]*contentCache)
 	a.scores = make(map[*html.Node]int)
 
-	for _, r := range runners {
+	for _, r := range baseRunners {
+		err := r.run(a)
+		if err != nil {
+			return err
+		}
+	}
+
+	max := uint(0)
+	for _, pp := range processors {
+		score := pp.probe(a)
+		if score > max {
+			p = pp
+			max = score
+		}
+	}
+
+	for _, r := range p.runners {
 		err := r.run(a)
 		if err != nil {
 			return err

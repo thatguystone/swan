@@ -16,6 +16,7 @@ type hasPrintableText struct{}
 
 var (
 	allTags             = cascadia.MustCompile("*")
+	bodyTag             = cascadia.MustCompile("body")
 	pTags               = cascadia.MustCompile("p")
 	brTags              = cascadia.MustCompile("br")
 	replaceWithTextTags = cascadia.MustCompile("a, b, strong, i, sup")
@@ -60,7 +61,7 @@ func (e extractContent) extractCleanedText(a *Article) error {
 	minify.NewMinifier().HTML(&b, strings.NewReader(html))
 	doc, _ := goquery.NewDocumentFromReader(&b)
 
-	a.TopNode = doc.Selection
+	a.TopNode = doc.FindMatcher(bodyTag)
 
 	// Quick-and-dirty node-to-text replacement
 	a.TopNode.FindMatcher(replaceWithTextTags).Each(func(i int, s *goquery.Selection) {
