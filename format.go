@@ -1,10 +1,12 @@
 package swan
 
 import (
+	"bytes"
 	"strings"
 
 	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
+	"github.com/tdewolff/minify"
 )
 
 type formatCleanedText struct{}
@@ -21,18 +23,21 @@ func (f formatCleanedText) run(a *Article) error {
 
 	f.dropNegativeScored(a)
 
-	// From here on, don't work on the main document as this mangles the
-	// document into text, which is not what we want for an HTML document.
-	s := a.TopNode.Clone()
+	var b bytes.Buffer
+	html, _ := a.TopNode.Html()
+	minify.NewMinifier().HTML(&b, strings.NewReader(html))
+	doc, _ := goquery.NewDocumentFromReader(&b)
+
+	a.TopNode = doc.Selection
 
 	// Quick-and-dirty node-to-text replacement
-	s.FindMatcher(replaceWithTextTags).Each(func(i int, s *goquery.Selection) {
+	a.TopNode.FindMatcher(replaceWithTextTags).Each(func(i int, s *goquery.Selection) {
 		s.ReplaceWithHtml(s.Text())
 	})
 
-	s.FindMatcher(brTags).ReplaceWithHtml("\n")
+	a.TopNode.FindMatcher(brTags).ReplaceWithHtml("\n")
 
-	a.CleanedText = f.getText(s)
+	a.CleanedText = f.getText(a.TopNode)
 
 	return nil
 }

@@ -50,7 +50,7 @@ func TestPyContentExtractors(t *testing.T) {
 			if cleaned != r.Expected.CleanedText {
 				t.Fatalf(
 					"%s: CleanedText does not match:\n"+
-						"	Got: %s\n"+
+						"	Got:      %s\n"+
 						"	Expected: %s",
 					name, cleaned, r.Expected.CleanedText)
 			}

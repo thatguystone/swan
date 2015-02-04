@@ -148,15 +148,6 @@ func (a *Article) extract() error {
 	a.cCache = nil
 	a.scores = nil
 
-	// Drop any previous selections the current selection might be holding on
-	// to
-	if a.TopNode != nil {
-		newTop := goquery.Selection{
-			Nodes: a.TopNode.Nodes,
-		}
-		a.TopNode = &newTop
-	}
-
 	return nil
 }
 

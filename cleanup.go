@@ -256,7 +256,7 @@ func (c cleanup) run(a *Article) error {
 	}
 
 	a.Doc.FindMatcher(uselessTags).Remove()
-	a.Doc.FindMatcher(unwraps).Unwrap()
+	a.Doc.FindMatcher(unwraps).Contents().Unwrap()
 
 	ems := a.Doc.FindMatcher(emTags)
 	ems.NotSelection(ems.HasMatcher(imgTags)).Unwrap()
