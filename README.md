@@ -2,4 +2,4 @@
 
 <img src="https://github.com/thatguystone/swan/raw/master/logo.png" alt="Optimus" align="left" hspace="20" vspace="0" />
 
-It's a work-in-progress.
+Check out [the go documentation page](https://godoc.org/github.com/thatguystone/swan) for full usage and examples.
