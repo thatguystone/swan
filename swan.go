@@ -1,5 +1,13 @@
-// Package swan implementats the Goose HTML Content / Article Extractor
-// algorithm
+// Package swan implements the Goose HTML Content / Article Extractor
+// algorithm.
+//
+// Currently, swan will try to extract the following content types:
+//
+// Comics: if something looks like a web comic, it will be extracted as just
+// an image. This is a WIP.
+//
+// Everything else: it will look for article text and try to extract any
+// header image that goes with it.
 package swan
 
 import (
@@ -33,7 +41,10 @@ func FromURL(url string) (a Article, err error) {
 	return FromHTML(resp.Request.URL.String(), string(html))
 }
 
-// FromHTML does its best to extract an article from a single HTML page
+// FromHTML does its best to extract an article from a single HTML page.
+//
+// Pass in the URL the document came from so that images can be resolved
+// correctly.
 func FromHTML(url string, html string) (Article, error) {
 	doc, err := goquery.NewDocumentFromReader(strings.NewReader(html))
 	if err != nil {
@@ -45,6 +56,9 @@ func FromHTML(url string, html string) (Article, error) {
 }
 
 // FromDoc does its best to extract an article from a single document
+//
+// Pass in the URL the document came from so that images can be resolved
+// correctly.
 func FromDoc(url string, doc *goquery.Document) (Article, error) {
 	a := Article{
 		URL: url,

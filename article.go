@@ -18,10 +18,12 @@ type Article struct {
 	// Newline-separated and cleaned content
 	CleanedText string
 
-	// Node from which CleanedText was created
+	// Node from which CleanedText was created. Call .Html() on this to get
+	// printable HTML.
 	TopNode *goquery.Selection
 
-	// A header image to use for the article
+	// A header image to use for the article. Nil if no image could be
+	// detected.
 	Img *Image
 
 	// All metadata associated with the original document
