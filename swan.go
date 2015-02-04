@@ -1,4 +1,5 @@
-// Package swan implementats the Goose HTML Content / Article Extractor algorithm, with some extra, pretty goodies
+// Package swan implementats the Goose HTML Content / Article Extractor
+// algorithm
 package swan
 
 import (
