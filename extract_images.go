@@ -75,7 +75,7 @@ func hitImage(url string) *Image {
 		Src: url,
 	}
 
-	body, resp, err := httpGet(i.Src)
+	body, resp, err := HTTPGet(i.Src)
 	if err != nil {
 		return nil
 	}
