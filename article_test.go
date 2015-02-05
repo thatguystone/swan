@@ -11,9 +11,8 @@ import (
 
 var (
 	contentDirs = []string{
-		"test_data/blog/",
-		"test_data/comics/",
-		"test_data/news/",
+		"test_data/processors/comics/",
+		"test_data/processors/default/",
 	}
 )
 

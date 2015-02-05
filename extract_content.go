@@ -34,6 +34,11 @@ func (e extractContent) run(a *Article) error {
 	}
 
 	a.TopNode.Children().FilterFunction(func(i int, s *goquery.Selection) bool {
+		// Center nodes in an article? Get real.
+		if nodeIs(s.Nodes[0], atom.Center) {
+			return true
+		}
+
 		if !nodeIs(s.Nodes[0], atom.P) {
 			cc := a.getCCache(s.Nodes[0])
 			return cc.highLinkDensity ||
