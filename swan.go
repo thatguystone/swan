@@ -24,7 +24,7 @@ const (
 )
 
 // FromURL does its best to extract an article from the given URL
-func FromURL(url string) (a Article, err error) {
+func FromURL(url string) (a *Article, err error) {
 	body, resp, err := HTTPGet(url)
 	if err != nil {
 		return
@@ -45,11 +45,11 @@ func FromURL(url string) (a Article, err error) {
 //
 // Pass in the URL the document came from so that images can be resolved
 // correctly.
-func FromHTML(url string, html string) (Article, error) {
+func FromHTML(url string, html string) (*Article, error) {
 	doc, err := goquery.NewDocumentFromReader(strings.NewReader(html))
 	if err != nil {
 		err = fmt.Errorf("invalid HTML: %s", err)
-		return Article{}, err
+		return nil, err
 	}
 
 	return FromDoc(url, doc)
@@ -59,15 +59,15 @@ func FromHTML(url string, html string) (Article, error) {
 //
 // Pass in the URL the document came from so that images can be resolved
 // correctly.
-func FromDoc(url string, doc *goquery.Document) (Article, error) {
-	a := Article{
+func FromDoc(url string, doc *goquery.Document) (*Article, error) {
+	a := &Article{
 		URL: url,
 		Doc: doc,
 	}
 
 	err := a.extract()
 	if err != nil {
-		return Article{}, err
+		return nil, err
 	}
 
 	return a, nil

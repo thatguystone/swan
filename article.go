@@ -188,6 +188,7 @@ func (a *Article) extract() error {
 
 	a.cCache = nil
 	a.scores = nil
+	a.baseURL = nil
 
 	return nil
 }

@@ -149,7 +149,7 @@ func runPyTests(
 				t.Fatalf("%s: %s", name, err)
 			}
 
-			fn(t, name, &a, &r)
+			fn(t, name, a, &r)
 			return nil
 		})
 }
