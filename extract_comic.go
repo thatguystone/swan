@@ -6,8 +6,6 @@ import (
 
 	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
-	"golang.org/x/net/html"
-	"golang.org/x/net/html/atom"
 )
 
 type extractComic struct{}
@@ -81,11 +79,7 @@ func (e extractComic) setImage(a *Article, img *goquery.Selection) bool {
 
 	a.Img = i
 	a.CleanedText = title
-	a.TopNode = goquery.NewDocumentFromNode(&html.Node{
-		Type:     html.ElementNode,
-		DataAtom: atom.Span,
-		Data:     "span",
-	}).AppendSelection(img.Clone())
+	a.addInlineArticleImageHTML(title)
 
 	return true
 }
@@ -109,6 +103,7 @@ func (e extractComic) findBestImage(a *Article) bool {
 	a.TopNode = a.Doc.Selection
 	eImgs := extractImages{}
 	eImgs.run(a)
+	a.TopNode = nil
 
 	if a.Img != nil {
 		return e.setImage(a, a.Img.Sel)

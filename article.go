@@ -2,12 +2,14 @@ package swan
 
 import (
 	"bytes"
+	"fmt"
 	"net/url"
 	"strings"
 
 	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
 	"golang.org/x/net/html"
+	"golang.org/x/net/html/atom"
 )
 
 // Article is a fully extracted and cleaned document.
@@ -84,6 +86,12 @@ type processor struct {
 }
 
 type useKnownArticles struct{}
+
+const (
+	imgHeader = `<p class="image-container" style="text-align: center;">` +
+		`<a href="%s"><img title="%s" src="%s"/></a>` +
+		`</p>`
+)
 
 var (
 	baseRunners = []runner{
@@ -236,4 +244,23 @@ func highLinkDensity(cc *contentCache) bool {
 	linkWords := float32(strings.Count(b.String(), " "))
 
 	return ((linkWords / float32(cc.wordCount)) * float32(len(cc.s.Nodes))) >= 1
+}
+
+func (a *Article) addInlineArticleImageHTML(title string) {
+	if a.Img == nil {
+		return
+	}
+
+	if a.TopNode == nil {
+		a.TopNode = goquery.NewDocumentFromNode(&html.Node{
+			Type:     html.ElementNode,
+			DataAtom: atom.Span,
+			Data:     "span",
+		}).Selection
+	}
+
+	a.TopNode.PrependHtml(fmt.Sprintf(imgHeader,
+		html.EscapeString(a.URL),
+		html.EscapeString(title),
+		html.EscapeString(a.Img.Src)))
 }

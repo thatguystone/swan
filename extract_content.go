@@ -46,12 +46,13 @@ func (e extractContent) run(a *Article) error {
 
 	e.dropNegativeScored(a)
 	e.dropTinyEls(a)
-	e.extractCleanedText(a)
+	e.prepareHTMLOut(a)
+	e.prepareCleanedText(a)
 
 	return nil
 }
 
-func (e extractContent) extractCleanedText(a *Article) error {
+func (e extractContent) prepareHTMLOut(a *Article) error {
 	if a.TopNode == nil {
 		return nil
 	}
@@ -68,9 +69,7 @@ func (e extractContent) extractCleanedText(a *Article) error {
 		s.ReplaceWithHtml(s.Text())
 	})
 
-	a.TopNode.FindMatcher(brTags).ReplaceWithHtml("\n")
-
-	a.CleanedText = e.getText(a.TopNode)
+	a.addInlineArticleImageHTML(a.Meta.Title)
 
 	return nil
 }
@@ -102,7 +101,10 @@ func (m hasPrintableText) Filter(n []*html.Node) []*html.Node {
 	return nil
 }
 
-func (e extractContent) getText(s *goquery.Selection) string {
+func (e extractContent) prepareCleanedText(a *Article) {
+	s := a.TopNode.Clone()
+
+	s.FindMatcher(brTags).ReplaceWithHtml("\n")
 	s.FindMatcher(pTags).Each(func(i int, s *goquery.Selection) {
 		// Some paragraphs only contain images, videos, etc and aren't
 		// rendered in plain text, so don't inject newlines for those
@@ -111,7 +113,7 @@ func (e extractContent) getText(s *goquery.Selection) string {
 		}
 	})
 
-	return strings.TrimSpace(s.Text())
+	a.CleanedText = strings.TrimSpace(s.Text())
 }
 
 func (e extractContent) addSiblings(a *Article) {
