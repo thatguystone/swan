@@ -1,10 +1,13 @@
 package swan
 
 import (
+	"bytes"
 	"crypto/sha1"
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
+	"image"
+	"image/jpeg"
 	"io/ioutil"
 	"net"
 	"net/http"
@@ -16,6 +19,10 @@ import (
 	"sync"
 	"testing"
 	"time"
+
+	// So that we can read all the images
+	_ "image/gif"
+	_ "image/png"
 )
 
 type Result struct {
@@ -72,6 +79,20 @@ func hijiackHTTP() {
 					d, err := ioutil.ReadAll(resp.Body)
 					if err != nil {
 						panic(err)
+					}
+
+					// If an image, attempt to make it a single color to save
+					// space in the repo
+					b := bytes.NewBuffer(d)
+					img, _, err := image.Decode(b)
+					if err == nil {
+						b.Reset()
+
+						g := image.NewGray(img.Bounds())
+						err = jpeg.Encode(b, g, &jpeg.Options{Quality: 1})
+						if err == nil {
+							d = b.Bytes()
+						}
 					}
 
 					err = ioutil.WriteFile(path, d, 0644)
