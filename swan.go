@@ -25,7 +25,7 @@ const (
 
 // FromURL does its best to extract an article from the given URL
 func FromURL(url string) (a *Article, err error) {
-	body, resp, err := HTTPGet(url)
+	body, resp, err := httpGet(url)
 	if err != nil {
 		return
 	}

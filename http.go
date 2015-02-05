@@ -17,8 +17,7 @@ var (
 	}
 )
 
-// HTTPGet does a safe fetch of a remote source, limiting the download size.
-func HTTPGet(url string) (body io.ReadCloser, resp *http.Response, err error) {
+func httpGet(url string) (body io.ReadCloser, resp *http.Response, err error) {
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
 		err = fmt.Errorf("could not create new request: %s", err)
