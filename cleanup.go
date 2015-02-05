@@ -12,6 +12,7 @@ import (
 )
 
 type cleanup struct{}
+type precleanup struct{}
 type commentMatcher struct{}
 
 var (
@@ -245,19 +246,22 @@ func divToPara(i int, s *goquery.Selection) {
 	}
 }
 
+func (c precleanup) run(a *Article) error {
+	a.Doc.FindMatcher(commentMatcher{}).Remove()
+	a.Doc.FindMatcher(uselessTags).Remove()
+	return nil
+}
+
 func (c cleanup) run(a *Article) error {
 	a.Doc.FindMatcher(safeTags).
 		RemoveAttr("class").
 		RemoveAttr("id").
 		RemoveAttr("name")
 
-	a.Doc.FindMatcher(commentMatcher{}).Remove()
-
 	for _, cs := range remove {
 		a.Doc.FindMatcher(cs).Remove()
 	}
 
-	a.Doc.FindMatcher(uselessTags).Remove()
 	a.Doc.FindMatcher(unwraps).Contents().Unwrap()
 
 	ems := a.Doc.FindMatcher(emTags)

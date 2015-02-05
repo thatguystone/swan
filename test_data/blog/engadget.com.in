@@ -1,0 +1,1227 @@
+
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7 ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js lt-ie10 lt-ie9 lt-ie8 ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8 lt-ie9 lt-ie10"> <![endif]-->
+<!--[if IE 9 ]>    <html class="no-js ie9 lt-ie10"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- V:Permalink -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<script>var _sf_startpt=(new Date()).getTime();</script>	<!-- AOL META -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<!-- Permalink -->
+
+    <title>Apple's Beats-based music service is reportedly headed to Android</title>
+    <meta name="description" content="There have been a few hints that Apple wants to integrate Beats Music into its existing software, but there are now signs that the tie-in will go especia">
+
+    <meta property="og:title" content="Apple&#039;s Beats-based music service is reportedly headed to Android">
+    <meta property="og:description" content="There have been a few hints that Apple wants to integrate Beats Music into its existing software, but there are now signs that the tie-in will go especia">
+    <meta property="og:image" content="http://o.aolcdn.com/hss/storage/midas/167d109ae8dd2fc92e6a0189ed4b639e/200517171/beats.jpg">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://www.engadget.com/2015/02/04/apple-beats-service-rumors/">
+    <meta property="og:locale" content="en_US">
+    <meta class="swiftype" name="type" data-type="enum" content="articles" />
+
+      <meta property="article:tag" content="apple">
+
+      <meta property="article:tag" content="appletv">
+
+      <meta property="article:tag" content="beats">
+
+      <meta property="article:tag" content="internet">
+
+      <meta property="article:tag" content="ios">
+
+      <meta property="article:tag" content="itunes">
+
+      <meta property="article:tag" content="mobilepostcross">
+
+      <meta property="article:tag" content="music">
+
+      <meta property="article:tag" content="streaming">
+
+
+      <meta class="swiftype" name="tags" data-type="string" content="apple" />
+
+      <meta class="swiftype" name="tags" data-type="string" content="appletv" />
+
+      <meta class="swiftype" name="tags" data-type="string" content="beats" />
+
+      <meta class="swiftype" name="tags" data-type="string" content="internet" />
+
+      <meta class="swiftype" name="tags" data-type="string" content="ios" />
+
+      <meta class="swiftype" name="tags" data-type="string" content="itunes" />
+
+      <meta class="swiftype" name="tags" data-type="string" content="mobilepostcross" />
+
+      <meta class="swiftype" name="tags" data-type="string" content="music" />
+
+      <meta class="swiftype" name="tags" data-type="string" content="streaming" />
+
+    <meta property="article:author" content="http://www.engadget.com/editors/jon-fingas/">
+    <meta property="fb:app_id" content="166243446745061">
+    <meta property="fb:admins" content="11710688,100002917226069">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@engadget">
+    <meta name="twitter:url" content="http://www.engadget.com/2015/02/04/apple-beats-service-rumors/">
+    <meta name="twitter:title" content="Apple&#039;s Beats-based music service is reportedly headed to Android">
+    <meta name="twitter:description" content="There have been a few hints that Apple wants to integrate Beats Music into its existing software, but there are now signs that the tie-in will go especia">
+
+      <meta name="twitter:image" content="http://o.aolcdn.com/hss/storage/midas/167d109ae8dd2fc92e6a0189ed4b639e/200517171/beats.jpg">
+
+    <meta name="twitter:creator" content="@jonfingas">
+    <meta name="twitter:app:name:iphone" content="Engadget for iPhone" />
+    <meta name="twitter:app:url:iphone" content="com.aol.engadget://www.engadget.com/2015/02/04/apple-beats-service-rumors/" />
+
+    <meta name="twitter:app:name:ipad" content="Engadget for iPad" />
+    <meta name="twitter:app:url:ipad" content="com.aol.appspinner.engadget://www.engadget.com/2015/02/04/apple-beats-service-rumors/" />
+
+    <meta name="twitter:app:id:googleplay" content="com.aol.mobile.engadget">
+    <meta name="twitter:app:name:googleplay" content="Engadget" />
+    <meta name="twitter:app:url:googleplay" content="engadget://apple-beats-service-rumors" />
+
+<meta property="og:site_name" content="Engadget">
+
+<meta name="robots" content="noodp,noydir">
+<link rel="canonical" href="http://www.engadget.com/2015/02/04/apple-beats-service-rumors/">
+<!-- sv=Permalink -->
+
+
+	<meta class="swiftype" name="title" data-type="string" content="Apple's Beats-based music service is reportedly headed to Android" />
+<meta class="swiftype" name="url" data-type="enum" content="http://www.engadget.com/2015/02/04/apple-beats-service-rumors/" />
+<meta class='swiftype' name='image' data-type='enum' content='http://o.aolcdn.com/hss/storage/midas/167d109ae8dd2fc92e6a0189ed4b639e/200517171/beats.jpg' />
+<meta class='swiftype' name='post_id' data-type='enum' content='21139042' />
+<meta class='swiftype' name='blogger_name' data-type='string' content='Jon Fingas' />
+<meta class='swiftype' name='blogger_image' data-type='enum' content='http://www.blogcdn.com/www.engadget.com/media/2013/01/jon-fingas-january-2013.jpg' />
+<meta class='swiftype' name='blogger_slug' data-type='enum' content='jon-fingas' />
+<meta class='swiftype' name='blogger_twitter' data-type='enum' content='jonfingas' />
+<meta class="swiftype" name="sections" data-type="string" content="" />
+
+	<!-- M:head-global -->
+
+	<!-- Data Layer Beacon -->
+	<script>
+	var bN_cfg={h:location.hostname,p:{dL_ch:"us.engadget",dL_dpt:"main",dL_sDpt:"main",dL_cmsID:"",cms_src:"AMP",cobrand:"main"}};
+	(function(d)
+	{var s=d.createElement("script"),h=d.getElementsByTagName("head")[0];s.src="http://o.aolcdn.com/os_merge/?file=/aol/beacon.min.js";h.appendChild(s);}
+)(document);
+	</script>
+
+
+
+	<script src="http://o.aolcdn.com/ads/adsWrapper.js"></script>
+	<script>
+	adSetAdURL('/_uac/adpage.html');
+        adSetSyncDelay('125');
+	adSendTerms('1');
+	adSetMOAT('1');
+
+        adSetOthAT('kvcmsid=bsd:;kvsubj=983462:982665:981259:982981:982982:978826:978508:979377;kvent=4017814:4967332:6342701:4083250:5085259:4961868:6318427:3588283:4139312:3532294:3615523:4954697:4967347;21139042');
+
+        </script>
+
+<!-- Fontkit -->
+	<script type="text/javascript" src="//o.aolcdn.com/os/engadget/typekit.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<!-- Meta -->
+	<script>
+	if ((/iPad/i).test(navigator.userAgent)) {
+	    document.write('<meta name="apple-itunes-app" content="app-id=409892845">');
+	} else {
+	    document.write('<meta name="apple-itunes-app" content="app-id=347839246">');
+	}
+	</script>
+
+	<link rel="alternate" href="android-app://com.aol.mobile.engadget/http/www.engadget.com/2015/02/04/apple-beats-service-rumors/" />
+
+	<meta name="google-site-verification" content="7JgyWgCnJ0p6cMe5IDgN04oFCKsoUZicRDKzE0X_yGg">
+	<meta name="bitly-verification" content="f57da7265213">
+	<meta name="msvalidate.01" content="5ABD8A078F3356F3A6A8C8643C31FB8F">
+	<meta name="viewport" content="width=device-width initial-scale=1.0">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+	<meta name="robots" content="noodp,noydir">
+
+
+<!-- RSS -->
+	<link rel="alternate" type="application/rss+xml" title="Engadget" href="http://www.engadget.com/rss.xml">
+
+<!-- icons -->
+	<link rel="apple-touch-icon" sizes="57x57" href="//www.blogsmithmedia.com/www.engadget.com/media/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="//www.blogsmithmedia.com/www.engadget.com/media/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="//www.blogsmithmedia.com/www.engadget.com/media/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="//www.blogsmithmedia.com/www.engadget.com/media/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="60x60" href="//www.blogsmithmedia.com/www.engadget.com/media/apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="//www.blogsmithmedia.com/www.engadget.com/media/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="//www.blogsmithmedia.com/www.engadget.com/media/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="//www.blogsmithmedia.com/www.engadget.com/media/apple-touch-icon-152x152.png" />
+	<link rel="icon" type="image/png" href="//www.blogsmithmedia.com/www.engadget.com/media/favicon-16x16.png" sizes="16x16" />
+	<link rel="icon" type="image/png" href="//www.blogsmithmedia.com/www.engadget.com/media/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="//www.blogsmithmedia.com/www.engadget.com/media/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/png" href="//www.blogsmithmedia.com/www.engadget.com/media/favicon-160x160.png" sizes="160x160" />
+	<meta name="msapplication-TileColor" content="#3498db" />
+	<meta name="msapplication-TileImage" content="//www.blogsmithmedia.com/www.engadget.com/media/mstile-144x144.png" />
+	<meta name="msapplication-square70x70logo" content="//www.blogsmithmedia.com/www.engadget.com/media/mstile-70x70.png" />
+	<meta name="msapplication-square150x150logo" content="//www.blogsmithmedia.com/www.engadget.com/media/mstile-150x150.png" />
+	<meta name="msapplication-wide310x150logo" content="//www.blogsmithmedia.com/www.engadget.com/media/mstile-310x150.png" />
+	<meta name="msapplication-square310x310logo" content="//www.blogsmithmedia.com/www.engadget.com/media/mstile-310x310.png" />
+        <meta name="apple-touch-fullscreen" content="yes" />
+    <link rel="dns-prefetch" href="//media.gdgt.com">
+    <link rel="dns-prefetch" href="//ajax.googleapis.com">
+
+<!-- CSS -->
+	<!--[if lte IE 8]><link rel="stylesheet" href="http://www.blogsmithmedia.com/www.engadget.com/media/style-ie.css?434"><![endif]-->
+	<!--[if gt IE 8]><!--><link rel="stylesheet" href="//www.blogsmithmedia.com/www.engadget.com/media/style1.css?434"><link rel="stylesheet" href="//www.blogsmithmedia.com/www.engadget.com/media/style2.css?434"><!--<![endif]-->
+        <link href="http://o.aolcdn.com/os/ads/adhesion/css/adhads.css" rel="stylesheet" type="text/css"/>
+	<!-- General JS -->
+	<script type="text/javascript">
+            var gdgt = {
+                DEFAULT_AJAX_ERROR_MESSAGE: "An error occurred. Please try again later.",
+                FACEBOOK_APP_ID: 132746074315,
+                MAIN_URL: "https://www.engadget.com",
+                SUPPORTS_PUSHSTATE: typeof(window.history.pushState) === "function",
+                SHOW_CAPTCHA: false,
+                notify: false,
+            };
+        </script>
+	<script src="http://www.blogsmithmedia.com/www.engadget.com/include/core.js"></script>
+	<script>
+	data = {
+		blogUrl: "www.engadget.com",
+		v: 434
+	};
+
+	_when_ = {
+		jquery: lab.scriptBs("jquery"),
+		login: lab.scriptBs("logincookie"),
+		plugins: lab.scriptBs("plugins"),
+		eng: lab.scriptBs("eng")
+	};
+
+        var s265prop9 = ('21139042' !== '') ? 'bsd:21139042' : '';
+        var postID = '21139042';
+        var modalMNo = '93399738',
+	        modalVideoMNo = '93320648',
+	        modalGalleryMNo = '93304207',
+		btfMN = '',
+		onVisMN = '93431199';
+        _when_.eng("eng.omni.init", {
+		pfxID:"weg",
+		pageName:document.title,
+		server:"acp-ld39.websys.aol.com",
+		channel:"us.engadget",
+                s_account: "aolwbengadget,aolsvc",
+                short_url: "",
+		pageType:"",
+		linkInternalFilters:"javascript:,",
+
+		prop1:"article",
+		prop2:"cellphones",
+		prop9:s265prop9,
+		prop12:document.location,
+		prop17:"",
+		prop18:"",
+		prop19:"apple|appletv|beats|internet|ios|itunes|mobilepostcross|music|streaming",
+		prop20:"",
+                prop22:"jon-fingas",
+                prop54:"blogsmith",
+		prop62:"video_novideo",
+		prop23: "02-04-2015",
+		prop65: "original_content",
+
+		mmxgo: true
+        });
+	// Legacy
+	when = _when_;
+	</script>
+
+<!-- Ads JS -->
+	<script>
+	var mobilePlacementID;
+	onBreak({
+		320: function () {
+			mobilePlacementID = '348-14-15-ff2';
+		},
+		768: function () {
+			mobilePlacementID = '348-14-15-1679';
+		},
+		980: function () {
+			mobilePlacementID = '348-14-15-1679';
+		}
+	});
+	</script>
+<!-- /M -->
+	<!-- M: head-reach-config -->
+
+<script>
+var __reach_config = {
+  pid: '53b5ad6e97b0c96a7d0000f5',
+  url: 'http://www.engadget.com/2015/02/04/apple-beats-service-rumors/',
+
+  iframe: true,
+
+  title: "Apple\'s Beats-based music service is reportedly headed to Android",
+  authors: ["Jon Fingas"],
+  date: '2015/02/04',
+  tags: ['apple','appletv','beats','internet','ios','itunes','mobilepostcross','music','streaming'],
+
+
+
+
+        channels: ['permalink']
+
+
+
+
+
+};
+
+(function(){
+  var s = document.createElement('script');
+  s.async = true;
+  s.type = 'text/javascript';
+  s.src = document.location.protocol + '//d8rk54i4mohrb.cloudfront.net/js/reach.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+})();
+</script>
+
+
+
+</head>
+<body class="with-rail perm">
+
+<!-- Page header -->
+<div id="header">
+
+
+	<!-- M:header-ad-banner -->
+<div class="ad header-ad header-ad-banner">
+	<div id="mobileaddiv">
+	<script>
+	  // see head-global/head-permalink for mobilePlacementID
+	  var sizes=['320','50'];
+	  onBreak({
+	    320: function () {
+	      sizes=['320','50'];
+	      adSetType("F");
+	      htmlAdWH(mobilePlacementID, sizes[0], sizes[1],'f','mobileaddiv');
+	      adSetType("");
+	    },
+	    768: function () {
+	      adSetType("F");
+	      htmlAdWH(93399738, 'LB', 'LB', 'f', 'mobileaddiv');
+	      adSetType("");
+
+	    },
+	    980: function () {
+	      sizes=['728','90'];
+	      adSetType("F");
+	      htmlAdWH(93399738, 'LB', 'LB','f','mobileaddiv');
+	      adSetType("");
+
+	    }
+	  });
+	</script>
+	</div>
+</div>
+<!-- /M -->
+
+	<!-- M:header-global -->
+<header role="banner">
+    <div id="nav">
+        <!-- UK Edition Message Bar -->
+        <script>var gdgtEdition="usa",geoCountry="usa";</script>
+        <!-- //UK Edition Message Bar -->
+        <div id="nav-flow">
+            <nav class="nav container" id="nav-mini">
+                <header role="banner">
+                    <span class="eng-logo">
+
+                        <a href="/" class="s-engadget-logo-web-over">Engadget</a>
+
+                    </span>
+                    <div class="menu-link">
+                        <a class="s-icn-menu-gry" href="/">
+                            Menu
+                        </a>
+                    </div>
+
+                    <a class="item search" href="http://www.engadget.com/#nav-search">
+                        <i class="s-search-white"></i>
+                    </a>
+                </header>
+            </nav>
+
+            <div class="nav-container-container">
+                <nav class="nav container" id="nav-main">
+                    <span class="eng-logo">
+
+                        <a href="/" class="s-engadget-logo-web-over">Engadget</a>
+
+                    </span>
+                    <ul>
+                        <li class="reviews">
+                            <a class="item " href="http://www.engadget.com/reviews/" id="reviews-link">
+                                Reviews <i class="s-icn-arw-gry-down"></i></a>
+                        </li>
+                        <li class="features">
+                            <a class="item " href="http://www.engadget.com/features/">Features <i class="s-icn-arw-gry-down"></i></a>
+                        </li>
+                        <li class="guides">
+                            <a href="http://www.engadget.com/buyers-guides" class="item">Guides <i class="s-icn-arw-gry-down"></i></a>
+                        </li>
+                        <li class="shows">
+                            <a class="item " href="http://www.engadget.com/videos/">Videos <i class="s-icn-arw-gry-down"></i></a>
+                        </li>
+                        <li class="galleries">
+                            <a href="http://www.engadget.com/galleries/" class="item">Galleries <i class="s-icn-arw-gry-down"></i></a>
+                        </li>
+                        <li class="forums">
+                            <a class="item" href="http://www.engadget.com/discuss">Forums <i class="s-icn-arw-gry-down"></i></a>
+                        </li>
+                        <li class="gaming">
+                            <a href="http://www.engadget.com/gaming" class="item">Gaming <i class="s-icn-arw-gry-down"></i></a>
+                        </li>
+                    </ul>
+                    <ul class="nav-user-actions" id="nav-user-actions">
+
+                        <li class="guest-actions" id="guest-actions">
+                            <a class="item" href="#">
+
+				<img src="http://www.blogsmithmedia.com/www.engadget.com/media/default-avatar-us.png" class="header-user-image" alt="default-avatar" style="padding-top:1px;"/>
+
+                                <i class="s-icn-arw-gry-down"></i>
+                            </a>
+                        </li>
+                    </ul>
+                    <div id="actions">
+                        <div id="login-dialog">
+                            <a href="#" class="close-dialog" title="Close" rel="nofollow">
+                                <span>Close</span>
+                            </a>
+                            <form name="login_form" method="post" action="https://www.engadget.com/login/" data-framework="true" data-uniqid="52794d297fb55" id="login-form">
+                                <input type="hidden" name="_login_form" value="1">
+                                <input type="hidden" name="_login_form_rules" value='{"username":"required","password":"required"}'>
+                                <p id="login-reason" class="dialog-message" data-text-auth-prompt="You need to log in or register before you can do that."></p>
+
+                                <div id="login-left">
+                                    <label for="username">username or email address</label>
+                                    <input type="text" name="username" id="username" tabindex="1" required="required">
+                                    <p class="message error error-username">
+                                    </p>
+
+                                    <label for="password">password</label>
+                                    <input type="password" name="password" id="password" tabindex="2" required="required">
+                                    <p class="message error error-password">
+                                    </p>
+
+                                    <p class="login-tools">
+                                        <a href="http://www.engadget.com/login-help/">forgot username/password?</a>
+                                        <input type="checkbox" name="remember_me" id="remember_me" tabindex="3">
+                                        <label for="remember_me">remember me</label>
+                                    </p>
+
+                                    <div class="clear"></div>
+
+                                    <a href="#" class="button blue large submit-login">
+                                        <span>login</span>
+                                    </a>
+
+                                    <div class="login-alternate">
+                                        or
+                                        <br>
+                                        <div class="login-facebook-block">
+                                            <div id="fb-root" class="robots-nocontent">
+                                                <a href="#" rel="nofollow" class="facebook-connect disabled">
+                                                    <span>Connect with Facebook</span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div id="login-right">
+                                    not yet a member of the Engadget community?
+                                    <a href="http://www.engadget.com/register/" class="button green large register from-login">
+                                        <span>sign up</span>
+                                    </a>
+                                </div>
+
+                                <div class="clear"></div>
+                            </form>
+                        </div>
+                        <div id="user-actions" style="display:none">
+                            <a href="#" class="action user" title="">
+                                <img src="http://media.gdgt.com/assets/img/site/blank-user-25.gif" class="header-user-image" width="25" height="25" alt="">
+                                <span class="arrow"></span>
+                            </a>
+                        </div>
+                    </div>
+                    <div id="search-container">
+                        <form action="/search/" class="nav" id="nav-search" method="get">
+                            <div class="query">
+                                <input class="query-input" id="nav-search-input" name="q" placeholder="Search Products & Articles">
+                                <span class="query-button"></span>
+                            </div>
+                        </form>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <div class="container" style="position:relative;">
+
+            <ul id="user-actions-dropdown" style="display: none;">
+                <li>
+                    <a href="http://www.engadget.com/register/" rel="nofollow" class="register">Sign Up</a>
+                </li>
+                <li>
+                    <a href="http://www.engadget.com/login/" rel="nofollow" class="login">Log In</a>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+
+    <script>
+    _when_.eng("eng.nav.init")
+    </script>
+    <script>
+    _when_.eng("eng.messagebar.init")
+    </script>
+    <script>
+    _when_.eng("eng.utils.responsify")
+    </script>
+    <script>
+    _when_.eng("eng.tips.init")
+    </script>
+</header>
+
+<!-- Reviews Dropdown -->
+<div id="reviews-dd-container" class="dropdown-container" style="display:none">
+    <div id="categories-modal" class="no-sponsors">
+        <ul id="dropdown-reviews"></ul>
+        <div class="categories-modal-left category-icon-25 hover-white">
+            <ul>
+                <li class="cellphones">
+                    <a href="http://www.engadget.com/reviews/cellphones/">cellphones</a>
+                </li>
+                <li class="laptops">
+                    <a href="http://www.engadget.com/reviews/laptops/">laptops</a>
+                </li>
+                <li class="tablets">
+                    <a href="http://www.engadget.com/reviews/tablets/">tablets</a>
+                </li>
+                <li class="headphones">
+                    <a href="http://www.engadget.com/reviews/headphones/">Headphones</a>
+                </li>
+                <li class="cameras">
+                    <a href="http://www.engadget.com/reviews/fitness/">Fitness</a>
+                </li>
+                <li class="routers">
+                    <a href="http://www.engadget.com/reviews/cameras/">Cameras</a>
+                </li>
+                <li class="routers">
+                    <a href="http://www.engadget.com/reviews/gaming-consoles-home/">Consoles</a>
+                </li>
+                <li class="hdtvs-televisions">
+                    <a href="http://www.engadget.com/reviews/hdtvs-televisions/">
+                            HDTVs
+                        </a>
+                </li>
+                <li class="routers">
+                    <a href="http://www.engadget.com/reviews/routers/">routers</a>
+                </li>
+                <li class="portable-media-players no-border">
+                    <a href="http://www.engadget.com/reviews/portable-media-players/">
+                              Digital media players
+                        </a>
+                </li>
+                <li class="read-more">
+                    <a href="http://www.engadget.com/reviews">See more →</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="features-dd-container" class="dropdown-container" style="display:none">
+    <ul id="dropdown-features">
+        <li class="read-more"><a href="http://www.engadget.com/features">More Features &rarr;</a>
+        </li>
+    </ul>
+</div>
+<!-- dropdown-features -->
+
+<div id="videos-dd-container" class="dropdown-container" style="display:none">
+    <ul id="dropdown-videos">
+        <li class="read-more"><a href="http://www.engadget.com/videos">More Videos &rarr;</a>
+        </li>
+    </ul>
+</div>
+<div id="forums-dd-container" class="dropdown-container" style="display:none">
+    <ul id="dropdown-forums">
+        <li class="read-more"><a href="http://www.engadget.com/discuss">More Forums &rarr;</a>
+        </li>
+    </ul>
+</div>
+<div id="gaming-dd-container" class="dropdown-container" style="display:none">
+    <ul id="dropdown-gaming">
+        <li class="read-more"><a href="http://www.engadget.com/gaming">More on Gaming &rarr;</a>
+        </li>
+    </ul>
+</div>
+<div id="events-dd-container" class="dropdown-container" style="display:none">
+    <ul id="dropdown-events">
+        <li class="read-more"><a href="http://www.engadget.com/events">More Events &rarr;</a>
+        </li>
+    </ul>
+</div>
+<div id="guides-dd-container" class="dropdown-container" style="display:none">
+    <ul id="dropdown-guides">
+        <li class="read-more"><a href="http://www.engadget.com/buyers-guides/">More Guides &rarr;</a>
+        </li>
+    </ul>
+</div>
+<div id="galleries-dd-container" class="dropdown-container" style="display:none">
+    <ul id="dropdown-galleries">
+        <li class="read-more"><a href="http://www.engadget.com/galleries/">More Galleries &rarr;</a>
+        </li>
+    </ul>
+</div>
+
+<div id="mobile-dropdown-container" class="nav-dropdown-items" style="display: none;">
+    <ul>
+        <li>
+            <a href="#" class="mobile-reviews">Reviews <i class="s-icn-arw-gry-down"></i></a>
+            <ul class="inner-dropdown" id="mobile-dropdown-reviews">
+
+                <li class="read-more">
+                    <a href="http://www.engadget.com/latest-reviews">See more →</a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="http://www.engadget.com/features/" class="features">Features <i class="s-icn-arw-gry-down"></i></a>
+            <ul class="inner-dropdown" id="mobile-dropdown-features">
+                <li class="read-more">
+                    <a href="http://www.engadget.com/features/">More Features →</a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="http://www.engadget.com/videos/" class="shows">Videos <i class="s-icn-arw-gry-down"></i></a>
+            <ul class="inner-dropdown" id="mobile-dropdown-videos">
+                <li class="read-more">
+                    <a href="http://www.engadget.com/videos/">More Videos →</a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="http://www.engadget.com/discuss" class="forums">Forums</a>
+            <ul class="inner-dropdown" id="mobile-dropdown-forums"></ul>
+        </li>
+	<li>
+	    <a href="http://www.engadget.com/gaming/" class="gaming">Gaming <i class="s-icn-arw-gry-down"></i></a>
+	    <ul class="inner-dropdown" id="mobile-dropdown-gaming">
+	        <li class="read-more">
+	            <a href="http://www.engadget.com/gaming/">More on Gaming →</a>
+	        </li>
+	    </ul>
+	</li>
+    <li>
+            <a href="http://www.engadget.com/buyers-guides/" class="guides">Guides</a>
+        </li>
+    <li>
+            <a href="http://www.engadget.com/galleries/" class="galleries">Galleries</a>
+        </li>
+
+    </ul>
+</div>
+<!-- COOKIE = NOT SET -->
+<!-- /M:header-global-->
+
+
+	<!-- M:header-post -->
+
+<header class="header container" itemscope itemtype="http://schema.org/BlogPosting">
+  <img src="http://o.aolcdn.com/hss/storage/midas/167d109ae8dd2fc92e6a0189ed4b639e/200517171/beats.jpg" style="display: none;">
+
+<!-- M:header-sponsor-logo -->
+<div class="sponsor-logo-post" id="ajaxsponsor"></div>
+	<script>
+	onBreak({
+
+		980: function () {
+
+			htmlAdWH("93399737", "215", "35",'AJAX','ajaxsponsor');
+
+		}
+	});
+	</script>
+
+<!-- /M -->
+
+  <h1 class="h1" itemprop="headline">Apple's Beats-based music service is reportedly headed to Android</h1>
+  <p class="byline">
+    <span class="byline-container">
+
+        <img class="avatar" src="http://www.blogcdn.com/www.engadget.com/media/2013/01/jon-fingas-january-2013_24x24.jpg" width="24px" height="24px" alt="blogger-avatar"/>
+
+    <span class="by">by</span>
+    <a href="/about/editors/jon-fingas/" data-image="http://www.blogcdn.com/www.engadget.com/media/2013/01/jon-fingas-january-2013_24x24.jpg"><strong itemprop="author">Jon Fingas</strong></a>
+    <span class="bar">|</span>
+    <span class="tweet"><a href="http://twitter.com/jonfingas" target="_blank">@jonfingas</a></span>
+    <span class="bar">|</span>
+    <span class="timeago" datetime="February 4th 2015 at 12:46 pm"> 9 hours ago</span>
+    <span class="time" data-swiftype-name="published_at" data-swiftype-type="date" style="display:none">February 4th 2015 12:46 pm</span>
+    </span>
+  </p>
+<p class="permalink-social-tools">
+    <a class="aol-share-permalink" data-bid="21" data-pid="21139042" href="mailto:yourfriend@email.com?subject=Apple%27s+Beats-based+music+service+is+reportedly+headed+to+Android&body=http://www.engadget.com/2015/02/04/apple-beats-service-rumors/" title="Apple's Beats-based music service is reportedly headed to Android"></a>
+    <a class="comment-count" href="#">
+      <i class="s-comment-bubble-black-12"></i>
+          <span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="21139042" itemprop="interactionCount" data-swiftype-name="lf-count" data-swiftype-type="integer">0</span>
+    </a>
+  </p>
+</header>
+
+<!-- /M -->
+
+
+</div>
+
+<!-- Page wrapper -->
+<div id="page" class="container ">
+	<!-- Page body -->
+	<div id="body">
+
+
+
+		<div class="copy post-body " itemprop="text" data-postid="21139042" data-url="http://www.engadget.com/2015/02/04/apple-beats-service-rumors/" data-title="Apple's Beats-based music service is reportedly headed to Android" data-mn-rail-topper="93399740" data-mn-onvis="93431199" data-mn-header="93399738" data-mn-sponsor-logo="93399737" data-mn-onvis="93431199" data-mobile-placement="348-14-15-1679" data-author="jon-fingas" data-videopresence="video_novideo" data-sourceid="original_content" data-mobile-onvis="93431222" data-original-publication-date="02-04-2015" data-prop19="apple|appletv|beats|internet|ios|itunes|mobilepostcross|music|streaming" >
+    <div class="article-content" data-swiftype-type="text" data-swiftype-name="body">
+		        <div style="text-align: center;"><a href="http://www.engadget.com/2015/02/04/apple-beats-service-rumors/"><img alt="Beats Solo2 headphones with a Moto X" src="http://o.aolcdn.com/hss/storage/midas/167d109ae8dd2fc92e6a0189ed4b639e/200517171/beats.jpg" /></a></div>
+
+<p>There have been a few hints that Apple wants to <a href="http://www.engadget.com/2014/09/22/apple-beats-music-shutdown-rumor/">integrate Beats Music</a> into its <a href="http://www.engadget.com/2014/11/19/beats-music-auto-install-ios/">existing software</a>, but there are now signs that the tie-in will go especially deep -- and that Android users won't be left behind. Sources for <em>9to5Mac</em> <a href="http://9to5mac.com/2015/02/04/apple-beats-cheaper-android-ios/">claim</a> that Apple not only plans to weave Beats-based streaming into Apple TV, iOS and iTunes, but that it's writing its own Android app from scratch (sorry, no Windows Phone version). The move wouldn't be completely shocking given that Tim Cook said he was cool with Android apps <a href="http://www.engadget.com/2013/05/28/tim-cook-apple-has-no-issue-porting-its-apps-to-android/">when they made sense</a>, but it'd still represent an important milestone for a company that frequently tries to <a href="http://www.engadget.com/2012/09/28/tim-cook-apologizes-for-maps-mess/">get <em>away</em></a> from Google.</p>
+
+	<p>As for what the service entails? Not surprisingly, it's reported to be a best-of-both offering. You could search for anything in the Beats <em>or</em> iTunes catalog, and you'd still see Beats' human-made playlists and social networking. You could flag those tracks you want to hear offline, too. Importantly, Beats wouldn't override Apple's existing services. You could still use the likes of <a href="http://www.engadget.com/2011/11/14/itunes-match-goes-live-sync-up-your-entire-music-collection-for/">iTunes Match</a> syncing and <a href="http://www.engadget.com/2014/05/30/itunes-radio-local/">iTunes Radio</a> streaming, even when they're occasionally redundant.</p>
+
+<p>How soon this Beats-backed technology would launch could be up in the air, though. The report backs rumors that Apple is trying to <a href="http://www.engadget.com/2014/10/03/recode-apple-beats-music-cheaper/">lower the price</a> (possibly to $8 per month), which might depend on labels agreeing to different rates. Also, development is supposedly a "mess." Apple may not be all that clear about its vision for the service, and veteran Apple staffers purportedly aren't happy to see Beats engineers taking on important positions. While the reworked service was meant to launch in March, the tipsters now think it's more likely to show up at the Worldwide Developers conference in June. However it shakes out, everything suggests that this Beats-based project is no small feat -- Apple wants to take on streaming heavyweights like Spotify, even if it means delays and support for rivals' platforms.</p>
+
+	<div id="instream-container">
+		<div id="instream">
+		<script src="http://uac.advertising.com/mobile/madserverUAC.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		onBreak({
+			0: function(){
+				(function() {
+				        var a = {
+				                mobilePlacementID: "348-14-15-135b",
+						width: "320",
+						height: "115"
+				        };
+					madserver.requestAd(a);
+				})();
+			},
+			768: function(){}
+		});
+		</script>
+		</div>
+	</div>
+        <div class="post-meta">
+
+            <aside class="meta-sources">
+
+                <span class="via"></span>
+                <span class="source"><p><strong>Source:</strong> <a href="http://9to5mac.com/2015/02/04/apple-beats-cheaper-android-ios/" target="_blank">9to5Mac</a><!--//--></p></span>
+                <span class="more-coverage"></span>
+
+            </aside>
+             <aside class="meta-tags">
+	<strong>Tags:</strong> <a href="http://www.engadget.com/tag/apple/">apple</a>, <a href="http://www.engadget.com/tag/appletv/">appletv</a>, <a href="http://www.engadget.com/tag/beats/">beats</a>, <a href="http://www.engadget.com/tag/internet/">internet</a>, <a href="http://www.engadget.com/tag/ios/">ios</a>, <a href="http://www.engadget.com/tag/itunes/">itunes</a>, <a href="http://www.engadget.com/tag/mobilepostcross/">mobilepostcross</a>, <a href="http://www.engadget.com/tag/music/">music</a>, <a href="http://www.engadget.com/tag/streaming/">streaming</a>
+</aside>
+        </div>
+        <!-- /.post-meta -->
+        <p class="read-more">
+
+            <a class="show-comments hidden enable clink_21139042" data-pid="21139042">
+                <span class="text">&nbsp;Hide Comments</span>
+                <span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id=21139042 itemprop="interactionCount">0</span>Comments</a>
+
+            <span class="social-tools">
+                <a class="aol-share-placeholder-all" data-bid="21" data-pid="21139042" href="mailto:yourfriend@email.com?subject=Apple%27s+Beats-based+music+service+is+reportedly+headed+to+Android&body=http://www.engadget.com/2015/02/04/apple-beats-service-rumors/" title="Apple's Beats-based music service is reportedly headed to Android"></a>
+
+            </span>
+            <span class="share-more">
+                <a class="aol-share-placeholder-all" data-bid="21" data-pid="21139042" href="mailto:yourfriend@email.com?subject=Apple%27s+Beats-based+music+service+is+reportedly+headed+to+Android&body=http://www.engadget.com/2015/02/04/apple-beats-service-rumors/" title="Apple's Beats-based music service is reportedly headed to Android"></a>
+            </span>
+        </p>
+
+
+        <div id="comments" class="comments_21139042">
+            <div id="livefyre_21139042"></div>
+            <script>
+            _when_.eng("eng.livefyre.init", {
+                articleId: 21139042 ,
+                domain: "engadget.fyre.co" ,
+                siteId: "296092" ,
+                el: "livefyre_21139042",
+                initialNumVisible: 2
+            })
+            </script>
+        </div>
+
+<script>
+_when_.eng("eng.perm.init");
+</script>
+
+		<!-- gdgt_v=1 --><div lang="en" aria-multiselectable="true" role="complementary tablist" dir="ltr" id="gdgt-wrapper">
+  <div role="tab" itemtype="http://schema.org/Product" itemscope="" aria-expanded="true" class="gdgt-product expanded">
+    <link title="Apple" href="http://www.engadget.com/products/apple/" itemprop="brand">
+    <p aria-label="Apple Apple TV 3rd-gen" style="display:none" class="gdgt-product-collapsed-name">
+      <noscript>
+      &lt;a href="http://www.engadget.com/products/apple/apple-tv/3rd-gen/"&gt;
+      </noscript>
+      <span itemtype="http://schema.org/Corporation" itemscope="" itemprop="brand">
+        <span itemprop="name">Apple</span>
+        <meta content="http://www.engadget.com/products/apple/" itemprop="url">
+      </span>
+      <strong itemprop="model">Apple TV 3rd-gen</strong>
+      <noscript>
+      &lt;/a&gt;
+      </noscript>
+    </p>
+    <div aria-hidden="false" role="tabpanel" class="gdgt-product-wrapper" style="display:block">
+            <div class="gdgt-product-head gdgt-price-2digits">
+        <div class="gdgt-product-name">
+          <a target="_blank" title="Apple Apple TV 3rd-gen" href="http://www.engadget.com/products/apple/apple-tv/3rd-gen/" class="gdgt-product-image"><img width="100" height="100" itemprop="image" src="http://media.engadget.com/img/products/460/9v1q/9v1q-100.jpg" alt="Apple Apple TV 3rd-gen thumbnail image"></a>
+          <h2>
+            <a target="_blank" itemprop="url" href="http://www.engadget.com/products/apple/apple-tv/3rd-gen/">Apple <strong>Apple TV 3rd-gen</strong></a>
+          </h2>
+          <meta content="Apple Apple TV 3rd-gen" itemprop="name">
+          <ul class="instances">
+                    </ul>
+        </div>
+                <div itemtype="http://schema.org/AggregateOffer" itemscope="" itemprop="offers" class="gdgt-product-price">
+          <span class="gdgt-price-label">Buy from</span>
+          <span class="gdgt-price-block">
+            <a href="" itemprop="url" class="gdgt-price">
+                              $<span itemprop="price lowPrice">89</span>
+                          </a>
+                      </span>
+        </div>
+
+
+      </div>
+      <ul role="tablist" class="gdgt-tabs three">
+        <li role="tab" data-gdgt-datatype="specs" aria-selected="true" class="specs selected">
+          Key <abbr title="specifications">specs</abbr>
+          <span class="gdgt-tab-divider"></span>
+        </li>
+        <li role="tab" data-gdgt-datatype="reviews" class="reviews">
+          <noscript>
+          &lt;a href="http://www.engadget.com/products/apple/apple-tv/3rd-gen/" title="Apple Apple TV 3rd-gen reviews" target="_blank"&gt;
+          </noscript>
+          Reviews <span class="dot">&bull;</span> <span class="count">111</span>
+          <noscript>
+          &lt;/a&gt;
+          </noscript>
+          <span class="gdgt-tab-divider"></span>
+        </li>
+
+        <li role="tab" data-gdgt-datatype="prices" class="prices">
+          Prices
+          <span class="gdgt-tab-divider"></span>
+        </li>
+         <li role="tab" data-gdgt-datatype="discussions" class="discussions">
+          Discussions
+          <span class="gdgt-tab-divider"></span>
+        </li>
+      </ul>
+            <div aria-hidden="" role="tabpanel" class="gdgt-content gdgt-content-specs" style="display:block">
+                <ul class="gdgt-specs">
+                        <li>
+                <span class="gdgt-specs-label">Type</span>
+                <span class="gdgt-specs-value">Audio / video player</span>
+              </li>
+                          <li>
+                <span class="gdgt-specs-label">Video services</span>
+                <span class="gdgt-specs-value">iTunes, Netflix, YouTube, Other</span>
+              </li>
+                          <li>
+                <span class="gdgt-specs-label">Audio services</span>
+                <span class="gdgt-specs-value">iTunes</span>
+              </li>
+                          <li>
+                <span class="gdgt-specs-label">Video codec support</span>
+                <span class="gdgt-specs-value">h.264 / AVC, Motion JPEG, MPEG-4, Quicktime</span>
+              </li>
+                          <li>
+                <span class="gdgt-specs-label">Audio codec support</span>
+                <span class="gdgt-specs-value">AAC, MP3, WAV</span>
+              </li>
+                          <li>
+                <span class="gdgt-specs-label">Video outputs</span>
+                <span class="gdgt-specs-value">HDMI (1&#160;outputs)</span>
+              </li>
+                          <li>
+                <span class="gdgt-specs-label">Audio outputs</span>
+                <span class="gdgt-specs-value">via HDMI, TOSLINK (optical)</span>
+              </li>
+                          <li>
+                <span class="gdgt-specs-label">Released</span>
+                <span class="gdgt-specs-value">2012-03-16</span>
+              </li>
+                    </ul>
+        <a title="Apple Apple TV 3rd-gen specifications" target="_blank" href="http://www.engadget.com/products/apple/apple-tv/3rd-gen/specs/" class="gdgt-link-right gdgt-all-specs">
+          see all <abbr>specs</abbr> &rarr;
+        </a>
+                <div class="gdgt-clear"></div>
+      </div>
+            <div aria-hidden="" role="tabpanel" class="gdgt-content gdgt-content-reviews" style="display:none">
+        <div class="gdgt-content-left">
+                    <div itemtype="http://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating" class="gdgt-reviews-avg-rating-block">
+            <meta content="1" itemprop="worstRating">
+            <meta content="10" itemprop="bestRating">
+            <meta content="111" itemprop="ratingCount">
+            <span itemprop="ratingValue" class="gdgt-reviews-avg-rating big light-green">8.7</span><span itemprop="name">average user rating</span>
+          </div>
+          <ul class="gdgt-reviews-criteria">
+                        <li>
+              <span class="gdgt-criteria-label">Media support</span>
+              <span class="gdgt-reviews-avg-rating small yellow">7</span>
+            </li>
+                        <li>
+              <span class="gdgt-criteria-label">Video quality</span>
+              <span class="gdgt-reviews-avg-rating small green">9.5</span>
+            </li>
+                        <li>
+              <span class="gdgt-criteria-label">Audio quality</span>
+              <span class="gdgt-reviews-avg-rating small green">9.1</span>
+            </li>
+                        <li>
+              <span class="gdgt-criteria-label">Ease of use</span>
+              <span class="gdgt-reviews-avg-rating small green">9.1</span>
+            </li>
+                        <li>
+              <span class="gdgt-criteria-label">Design and form factor</span>
+              <span class="gdgt-reviews-avg-rating small green">9.3</span>
+            </li>
+                      </ul>
+                  </div>
+        <div class="gdgt-content-right">
+          <p>
+            Get better reviews from people who actually have this product!
+          </p>
+          <a target="_blank" title="Review the Apple Apple TV 3rd-gen" href="http://www.engadget.com/products/apple/apple-tv/3rd-gen/" class="gdgt-button gdgt-write-review" rel="nofollow">write a review</a><a target="_blank" href="http://www.engadget.com/products/apple/apple-tv/3rd-gen/" class="gdgt-link-right gdgt-all-reviews">see all reviews &rarr;</a>
+        </div>
+      </div>
+            <div aria-hidden="" role="tabpanel" class="gdgt-content gdgt-content-prices" style="display:none">
+
+                  <ol class="gdgt-price-retailers">
+                        <li itemtype="http://schma.org/Offer" itemscope="" itemprop="offers">
+                <link href="http://schema.org/NewCondition" itemprop="itemCondition" />
+                <meta content="USD" itemprop="priceCurrency" />
+                <meta content="89.99" itemprop="price" />
+                <link href="http://schema.org/InStock" itemprop="availability" />
+                <span class="gdgt-price-retailer-name">
+                  <a itemtype="http://schema.org/Organization" itemscope="" itemprop="seller" target="_blank" rel="nofollow" href="http://c.engadget.com/?aff=38&pip=13574&cam=1&pi=74182&c=1">
+                    <meta content="ABT" itemprop="name" />
+                                                              <img src="http://cfsi.pgcdn.com/images/retbutton_40.gif" width="87" height="31" alt="ABT" />
+                                      </a>
+                </span>
+                <span class="gdgt-price-details">
+                  <a itemprop="url" target="_blank" rel="nofollow" href="http://c.engadget.com/?aff=38&pip=13574&cam=1&pi=74182&c=1">
+                                          $89.99                                        </a>
+                  <span class="gdgt-aside">+ tax &amp; shipping</span>
+                </span>
+                <a href="http://c.engadget.com/?aff=38&pip=13574&cam=1&pi=74182&c=1" target="_blank" rel="nofollow" class="gdgt-button blue">
+                  Buy now                </a>
+              </li>
+                      </ol>
+      </div>
+
+      <div aria-hidden="" role="tabpanel" class="gdgt-content gdgt-content-discussions" style="display:none">
+
+            <ol class="gdgt-content-left">
+                <li class="gdgt-thread-row">
+          <span class="gdgt-thread-replies">
+            <a href="http://www.engadget.com/discuss/mlb-tv-2012-which-connected-device-is-best-17a3/" title="See 1 answers">
+              1            </a>
+          </span>
+          <a href="http://www.engadget.com/discuss/mlb-tv-2012-which-connected-device-is-best-17a3/" class="gdgt-user-image">
+            <img src="http://media.engadget.com/assets/img/site/blank-user-25.gif" width="25" height="25" alt="mlb.tv 2012 :: Which connected device is best?" />
+          </a>
+          <a href="http://www.engadget.com/discuss/mlb-tv-2012-which-connected-device-is-best-17a3/" title="See the answer to: mlb.tv 2012 :: Which connected device is best?" class="gdgt-thread-title">
+            mlb.tv 2012 :: Which connected device is best?          </a>
+        </li>
+                <li class="gdgt-thread-row">
+          <span class="gdgt-thread-replies">
+            <a href="http://www.engadget.com/discuss/is-it-worth-it-17bx/" title="See 4 answers">
+              4            </a>
+          </span>
+          <a href="http://www.engadget.com/discuss/is-it-worth-it-17bx/" class="gdgt-user-image">
+            <img src="http://media.engadget.com/img/profile/47/efibarra/efibarra-hpm-25.jpg" width="25" height="25" alt="Is it worth it?" />
+          </a>
+          <a href="http://www.engadget.com/discuss/is-it-worth-it-17bx/" title="See the answer to: Is it worth it?" class="gdgt-thread-title">
+            Is it worth it?          </a>
+        </li>
+                <li class="gdgt-thread-row">
+          <span class="gdgt-thread-replies">
+            <a href="http://www.engadget.com/discuss/what-it-will-take-for-the-nexus-q-to-be-successful-1bjf/" title="See 8 answers">
+              8            </a>
+          </span>
+          <a href="http://www.engadget.com/discuss/what-it-will-take-for-the-nexus-q-to-be-successful-1bjf/" class="gdgt-user-image">
+            <img src="http://media.engadget.com/img/profile/42/tgd/a546-25.jpg" width="25" height="25" alt="What it will take for the Nexus Q to be successful." />
+          </a>
+          <a href="http://www.engadget.com/discuss/what-it-will-take-for-the-nexus-q-to-be-successful-1bjf/" title="See the answer to: What it will take for the Nexus Q to be successful." class="gdgt-thread-title">
+            What it will take for the Nexus Q to be successful.          </a>
+        </li>
+              </ol>
+            <div class="gdgt-content-right">
+        <p>
+          Talk about the Apple Apple TV 3rd-gen with other people who own it too!
+        </p>
+        <a rel="nofollow" href="http://www.engadget.com/products/apple/apple-tv/3rd-gen/discussions/" title="Start a discussion about the Apple Apple TV 3rd-gen" class="gdgt-button gdgt-start-discussion" target="_blank" data-ga="Start discussion button">
+          start a discussion
+        </a>
+        <a href="http://www.engadget.com/products/apple/apple-tv/3rd-gen/discussions/" title="Apple Apple TV 3rd-gen discussions" class="gdgt-link-right gdgt-all-discussions" target="_blank" data-ga="See all discussions">
+          see all discussions &#8594;
+          </a>
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</div>
+		<div id="grv-personalization-14"></div>
+<script>lab.scriptBs('gravity.js')</script>
+
+<div id="articlebottom"></div>
+<script src="http://uac.advertising.com/mobile/madserverUAC.js" type="text/javascript"></script>
+
+<div id="mobile-on-vis">
+<script type="text/javascript">
+onBreak({
+	0: function(){},
+	320: function(){},
+	768: function(){}
+});
+</script>
+</div>
+		    </div>
+    <!-- /.article-content -->
+<div class="rail-ad rail-ad-topper ">
+    <div class="rail-infinite">
+        <div id="ad_21139042"></div>
+        <script>
+        onBreak({
+            980: function() {
+                adSetType("F");
+                htmlAdWH("93399740", "RR", "RR", "f", "ad_21139042");
+                adSetType("");
+
+            }
+        });
+        </script>
+
+        <div class="rail-collection-main">
+
+
+             <!-- M:rail-latest-stories -->
+<aside class="module rail-latest beacon-ping-cids" data-beacon='{"p":{"mlid":"featured-stories","cid":"default.features"}}'>
+<h3 class="hed green">Featured Stories</h3><div id="p21139054"><article class="feature beacon-ping-plids" data-beacon='{"p":{"mnid":"features1","plid":21139054}}'>
+
+<a href="http://www.engadget.com/2015/02/04/condemned-3/" onclick="_gaq.push(['_trackEvent', 'Right rail featured stories', 'Click', 'Article 0']);" data-beacon='{"p":{"lnid":"lnk1"}}'><img src="http://o.aolcdn.com/dims-global/dims/GLOB/5/300/160/90/http://o.aolcdn.com/hss/storage/midas/657e46fa0f437c984db8b56222f086e7/201502258/condemned_thumbnail.jpg" class="feature-image" alt="Post Image"></a>
+
+<header class="feature-overlay">
+<h3 class="feature-title"><a href="http://www.engadget.com/2015/02/04/condemned-3/" onclick="_gaq.push(['_trackEvent', 'Right rail featured stories', 'Click', 'Article 0']);" data-beacon='{"p":{"lnid":"lnk2"}}'><span id="pt21139054">Cult horror franchise owner seeks indie dev for new 'Condemned' game</span></a></h3>
+<div class="meta"><time datetime="Wed, 04 Feb 2015 00:00:00 -0500" class="time-stamp">6 hours ago</time> <span class="comment-count"><a href="http://www.engadget.com/2015/02/04/condemned-3/#comments"><i class="s-comment-bubble-black-12"></i>&nbsp;<span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="21139054">0</span></a></span></div>
+</header>
+</article></div><div id="p21138512"><article class="feature beacon-ping-plids" data-beacon='{"p":{"mnid":"features2","plid":21138512}}'>
+
+<header class="feature-overlay">
+<h3 class="feature-title"><a href="http://www.engadget.com/2015/02/04/gearbox-homeworld-remastered-interview/" onclick="_gaq.push(['_trackEvent', 'Right rail featured stories', 'Click', 'Article 1']);" data-beacon='{"p":{"lnid":"lnk3"}}'><span id="pt21138512">Inside Gearbox's plan to resurrect 'Homeworld' with 12-year-old tools</span></a></h3>
+<div class="meta"><time datetime="Wed, 04 Feb 2015 00:00:00 -0500" class="time-stamp">10 hours ago</time> <span class="comment-count"><a href="http://www.engadget.com/2015/02/04/gearbox-homeworld-remastered-interview/#comments"><i class="s-comment-bubble-black-12"></i>&nbsp;<span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="21138512">0</span></a></span></div>
+</header>
+</article></div><div id="p21136161"><article class="feature beacon-ping-plids" data-beacon='{"p":{"mnid":"features3","plid":21136161}}'>
+
+<header class="feature-overlay">
+<h3 class="feature-title"><a href="http://www.engadget.com/2015/01/28/tiger-woods-nike-technology-tw-15/" onclick="_gaq.push(['_trackEvent', 'Right rail featured stories', 'Click', 'Article 2']);" data-beacon='{"p":{"lnid":"lnk4"}}'><span id="pt21136161">Tiger Woods on how technology improved his signature shoe</span></a></h3>
+<div class="meta"><time datetime="Wed, 28 Jan 2015 00:00:00 -0500" class="time-stamp">7 days ago</time> <span class="comment-count"><a href="http://www.engadget.com/2015/01/28/tiger-woods-nike-technology-tw-15/#comments"><i class="s-comment-bubble-black-12"></i>&nbsp;<span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="21136161">0</span></a></span></div>
+</header>
+</article></div><div id="p21132167"><article class="feature beacon-ping-plids" data-beacon='{"p":{"mnid":"features4","plid":21132167}}'>
+
+<header class="feature-overlay">
+<h3 class="feature-title"><a href="http://www.engadget.com/2015/01/28/dell-xps-13-review-2015/" onclick="_gaq.push(['_trackEvent', 'Right rail featured stories', 'Click', 'Article 3']);" data-beacon='{"p":{"lnid":"lnk5"}}'><span id="pt21132167">Dell XPS 13 review (2015): Meet the world's smallest 13-inch laptop</span></a></h3>
+<div class="meta"><time datetime="Wed, 28 Jan 2015 00:00:00 -0500" class="time-stamp">7 days ago</time> <span class="comment-count"><a href="http://www.engadget.com/2015/01/28/dell-xps-13-review-2015/#comments"><i class="s-comment-bubble-black-12"></i>&nbsp;<span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="21132167">0</span></a></span></div>
+</header>
+</article></div><div id="p21135006"><article class="feature beacon-ping-plids" data-beacon='{"p":{"mnid":"features5","plid":21135006}}'>
+
+<header class="feature-overlay">
+<h3 class="feature-title"><a href="http://www.engadget.com/2015/01/27/virtual-reality-at-sundance-2015/" onclick="_gaq.push(['_trackEvent', 'Right rail featured stories', 'Click', 'Article 4']);" data-beacon='{"p":{"lnid":"lnk6"}}'><span id="pt21135006">Catch up on all the virtual reality news from Sundance</span></a></h3>
+<div class="meta"><time datetime="Tue, 27 Jan 2015 00:00:00 -0500" class="time-stamp">8 days ago</time> <span class="comment-count"><a href="http://www.engadget.com/2015/01/27/virtual-reality-at-sundance-2015/#comments"><i class="s-comment-bubble-black-12"></i>&nbsp;<span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="21135006">0</span></a></span></div>
+</header>
+</article></div><div id="p21135251"><article class="feature beacon-ping-plids" data-beacon='{"p":{"mnid":"features6","plid":21135251}}'>
+
+<header class="feature-overlay">
+<h3 class="feature-title"><a href="http://www.engadget.com/2015/01/27/oculus-story-studio-is-the-pixar-of-virtual-reality/" onclick="_gaq.push(['_trackEvent', 'Right rail featured stories', 'Click', 'Article 5']);" data-beacon='{"p":{"lnid":"lnk7"}}'><span id="pt21135251">Oculus Story Studio is the Pixar of virtual reality</span></a></h3>
+<div class="meta"><time datetime="Tue, 27 Jan 2015 00:00:00 -0500" class="time-stamp">8 days ago</time> <span class="comment-count"><a href="http://www.engadget.com/2015/01/27/oculus-story-studio-is-the-pixar-of-virtual-reality/#comments"><i class="s-comment-bubble-black-12"></i>&nbsp;<span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="21135251">0</span></a></span></div>
+</header>
+</article></div><div id="p21135205"><article class="feature beacon-ping-plids" data-beacon='{"p":{"mnid":"features7","plid":21135205}}'>
+
+<header class="feature-overlay">
+<h3 class="feature-title"><a href="http://www.engadget.com/2015/01/26/oculus-story-studio-vr-films-sundance/" onclick="_gaq.push(['_trackEvent', 'Right rail featured stories', 'Click', 'Article 6']);" data-beacon='{"p":{"lnid":"lnk8"}}'><span id="pt21135205">Here are the first films from Oculus Story Studio</span></a></h3>
+<div class="meta"><time datetime="Mon, 26 Jan 2015 00:00:00 -0500" class="time-stamp">8 days ago</time> <span class="comment-count"><a href="http://www.engadget.com/2015/01/26/oculus-story-studio-vr-films-sundance/#comments"><i class="s-comment-bubble-black-12"></i>&nbsp;<span class="livefyre-commentcount" data-lf-site-id="296092" data-lf-article-id="21135205">0</span></a></span></div>
+</header>
+</article></div></aside>
+<!-- /M -->
+            <aside class="module" id="rail-asl"></aside>
+	   <!-- compare module inbetween ads -->
+
+			<div class="promoted module" style="display:none">
+				<div class="compare-gadgets-feature">
+					<h3>Compare Your Gadgets</h3>
+					<a href="http://www.engadget.com/compare"><img src="http://www.blogsmithmedia.com/www.engadget.com/media/compare-module.jpg" alt="Compare Your Gadgets"></a>
+					<p>Instantly <strong>compare products</strong> side by side and see which one is best for you!</p>
+					<p><a href="http://www.engadget.com/compare" class="try-it">Try it now &rarr;</a></p>
+				</div><!-- compare-gadgets-feature -->
+			</div>
+		<!-- compare module ends -->
+
+        </div>
+
+        <div class="onvis" id="adSkyScraper"></div>
+
+    </div>
+    <script>_when_.eng('eng.rail.asl')</script>
+    <script>_when_.eng('eng.rail.adSkyscraper', 93431199 )</script>
+</div>
+
+</div>
+<!-- /.post-body  -->
+
+		<div id="p21139042"><a href="http://www.engadget.com/2015/02/04/reserve-for-android/" class="amp-eternal-article loading">Reserve's forget-the-bill restaurant concierge arrives on Android</a>
+<script>_when_.eng("eng.infScroller.init")</script></div>
+	</div>
+
+	<!-- Rail -->
+	<div id="rail" class="nocontent">
+
+
+
+
+
+	</div>
+</div>
+
+<!-- Page footer -->
+<div id="footer">
+
+
+
+
+
+
+
+
+</div>
+
+<!-- Legal, etc. -->
+<div id="after-footer">
+
+</div>
+
+
+
+
+
+
+<!-- Swiftype crawling script - Need to be added on permalink, videos, gallery, guides and events page-->
+<script type="text/javascript">
+  var Swiftype = window.Swiftype || {};
+  (function() {
+    Swiftype.key = 'vKhrkVp6Cfwro_h8kpyC'; // your engine key
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.async = true;
+    script.src = "//s.swiftypecdn.com/cc.js";
+    var entry = document.getElementsByTagName('script')[0];
+    entry.parentNode.insertBefore(script, entry);
+  }());
+</script>
+<!-- /M Swiftype search ended -->
+
+
+
+<!-- Livefyre Commentcount JS -->
+<script>
+       lab.script("http://zor.fyre.co/wjs/v1.0/javascripts/CommentCount.js");
+</script>
+
+<script>
+// iOS scaling fix
+(function(e){var c="addEventListener",b="gesturestart",g="querySelectorAll",f=[1,1],d=g in e?e[g]("meta[name=viewport]"):[];function a(){d.content="width=device-width,minimum-scale="+f[0]+",maximum-scale="+f[1];e.removeEventListener(b,a,true)}if((d=d[d.length-1])&&c in e){a();f=[0.25,1.6];e[c](b,a,true)}}(document));
+// hide chrome on mobile
+// /mobile/i.test(navigator.userAgent) && !location.hash && setTimeout(function () {
+//  if (!pageYOffset) window.scrollTo(0, 1);
+// }, 1000);
+</script>
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-818999-11', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+
+<!--UNB-->
+<script type="text/javascript">
+/**    window.UNB = {
+        config: {
+            referrer: document.referrer,
+            bodyTopPadding: 'false',
+            minimumBrowserWidth: '980',
+            hideBelowMinimumWidth: 'true',
+            devId: 'ao1eng84KdOEkt',
+	    theme: 'dark'
+        }
+    };
+
+    (function(){var o=document.createElement('script');o.id='unb_script';o.type='text/javascript';o.async=true;o.src=' http://o.aolcdn.com/os/aol/unb.min.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(o,s);})();**/
+</script>
+
+<!--GRAVITY and some ads-->
+<script>lab.scriptBs('gravity-beacon.js');</script>
+<script>_when_.eng('eng.beaconTracking')</script>
+
+<!--Korrelate Pixel-->
+<script type="application/javascript" src="http://a02.korrelate.net/a/e/d2a.ads?r=%%&et=a&ago=127&ao=128&px=212&pt=s&lvl=article&av1=cellphones&av2="></script>
+
+<!-- Chartbeat Tracking UK -->
+<script>
+var _chartbeat_tracker=function(){if("uk"==="usa")try{if("undefined"==typeof window.s_265)throw new Error("Chartbeat: Waiting for s_265...");window.console&&window.console.log&&window.console.log("loading chartbeat pixel..."),_sf_async_config={uid:48174,domain:location.hostname,useCanonical:!0,noCookies:/oo_global\s*=\s*1/i.test(document.cookie),sections:s_265.prop2||"",authors:s_265.prop22||""},function(){var o=function(){window._sf_endpt=(new Date).getTime();var o=document.createElement("script");o.setAttribute("type","text/javascript"),o.setAttribute("src","//static-uk.chartbeat.com/js/chartbeat.js"),document.body.appendChild(o)},t=window.onload;/aol\.(co\.uk|com)/i.test(document.referrer.split(/https?:\/\/|\//i)[1])||(window.onload="function"!=typeof window.onload?o:function(){t(),o()})}()}catch(o){window.console&&window.console.log&&window.console.log(o.message),setTimeout(_chartbeat_tracker,500)}};_chartbeat_tracker();
+</script>
+
+<script type="text/javascript" id="AolTrafficInfo" data-postId="21139042" data-blogId="21">
+new Image().src = 'http://www.engadget.com/traffic/' + '?t=js&bv=&os=21139042&tz=&lg=&rv=&rsv=&pw=%2F2015%2F02%2F04%2Fapple-beats-service-rumors%2F&cb=1838704070';
+</script>
+<noscript>
+<img src="http://www.engadget.com/traffic/?t=px&bv=JavaScript+Disabled&os=21139042&tz=default&lg=&rv=&rsv=&pw=%2F2015%2F02%2F04%2Fapple-beats-service-rumors%2F&cb=1577393108" alt="the end" width="1" height="1"border="0" />
+</noscript></body>
+</html>

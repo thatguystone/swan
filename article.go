@@ -94,9 +94,10 @@ var (
 		extractTags{},
 		extractTitle{},
 
+		precleanup{},
+		metaDetectLanguage{},
 		useKnownArticles{},
 		cleanup{},
-		metaDetectLanguage{},
 	}
 
 	defaultProcessor = &processor{
@@ -132,13 +133,20 @@ var (
 
 func (u useKnownArticles) run(a *Article) error {
 	for _, m := range knownArticles {
-		s := a.Doc.FindMatcher(m)
-		if s.Length() > 0 {
-			// Remove from document so that memory can be freed
-			f := s.First().Remove()
-			a.Doc = goquery.NewDocumentFromNode(f.Nodes[0])
-			a.TopNode = a.Doc.Selection
-			break
+		for _, n := range a.Doc.FindMatcher(m).Nodes {
+			cc := a.getCCache(n)
+
+			// Sometimes even "known" articles are wrong
+			if cc.stopwords > 5 && !cc.highLinkDensity {
+				// Remove from document so that memory can be freed
+				if n.Parent != nil {
+					n.Parent.RemoveChild(n)
+				}
+
+				a.Doc = goquery.NewDocumentFromNode(n)
+				a.TopNode = a.Doc.Selection
+				return nil
+			}
 		}
 	}
 

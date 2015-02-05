@@ -29,6 +29,7 @@ func TestDetectLang(t *testing.T) {
 			Doc: doc,
 		}
 
+		err = precleanup{}.run(a)
 		err = cleanup{}.run(a)
 		if err != nil {
 			t.Fatalf("failed to clean doc: %s", err)
