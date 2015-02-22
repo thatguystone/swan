@@ -33,6 +33,7 @@ func (e extractContent) run(a *Article) error {
 		e.addSiblings(a)
 	}
 
+	// This is the equivalent of python-goose's post_cleanup
 	a.TopNode.Children().FilterFunction(func(i int, s *goquery.Selection) bool {
 		// Center nodes in an article? Get real.
 		if nodeIs(s.Nodes[0], atom.Center) {
