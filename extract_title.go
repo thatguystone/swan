@@ -4,7 +4,7 @@ import (
 	"regexp"
 	"strings"
 
-	"code.google.com/p/cascadia"
+	"github.com/andybalholm/cascadia"
 )
 
 type extractTitle struct{}

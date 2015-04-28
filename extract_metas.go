@@ -4,8 +4,8 @@ import (
 	"net/url"
 	"strings"
 
-	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
+	"github.com/andybalholm/cascadia"
 )
 
 type extractMetas struct{}

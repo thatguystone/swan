@@ -4,9 +4,10 @@ import (
 	"bytes"
 	"strings"
 
-	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
+	"github.com/andybalholm/cascadia"
 	"github.com/tdewolff/minify"
+	minhtml "github.com/tdewolff/minify/html"
 	"golang.org/x/net/html"
 	"golang.org/x/net/html/atom"
 )
@@ -63,9 +64,13 @@ func (e extractContent) prepareHTMLOut(a *Article) error {
 		return nil
 	}
 
+	m := minify.New()
+	m.AddFunc("text/html", minhtml.Minify)
+
 	var b bytes.Buffer
 	html, _ := a.TopNode.Html()
-	minify.NewMinifier().HTML(&b, strings.NewReader(html))
+
+	m.Minify("text/html", &b, strings.NewReader(html))
 	doc, _ := goquery.NewDocumentFromReader(&b)
 
 	a.TopNode = doc.FindMatcher(bodyTag)

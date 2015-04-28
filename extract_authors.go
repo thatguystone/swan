@@ -3,8 +3,8 @@ package swan
 import (
 	"strings"
 
-	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
+	"github.com/andybalholm/cascadia"
 )
 
 type extractAuthors struct{}

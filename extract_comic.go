@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
+	"github.com/andybalholm/cascadia"
 )
 
 type extractComic struct{}

@@ -1,8 +1,8 @@
 package swan
 
 import (
-	"code.google.com/p/cascadia"
 	"github.com/PuerkitoBio/goquery"
+	"github.com/andybalholm/cascadia"
 )
 
 type extractPublishDate struct{}
