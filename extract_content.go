@@ -15,12 +15,12 @@ type extractContent struct{}
 type hasPrintableText struct{}
 
 var (
-	allTags             = cascadia.MustCompile("*")
-	bodyTag             = cascadia.MustCompile("body")
-	pTags               = cascadia.MustCompile("p")
-	brTags              = cascadia.MustCompile("br")
-	replaceWithTextTags = cascadia.MustCompile("a, b, strong, i, sup")
-	goodContent         = cascadia.MustCompile("object, embed, img")
+	allTags                 = cascadia.MustCompile("*")
+	bodyTag                 = cascadia.MustCompile("body")
+	pTags                   = cascadia.MustCompile("p")
+	brTags                  = cascadia.MustCompile("br")
+	replaceWithContentsTags = cascadia.MustCompile("a, b, strong, i, sup")
+	goodContent             = cascadia.MustCompile("object, embed, img")
 )
 
 func (e extractContent) run(a *Article) error {
@@ -71,9 +71,10 @@ func (e extractContent) prepareHTMLOut(a *Article) error {
 	a.TopNode = doc.FindMatcher(bodyTag)
 
 	// Quick-and-dirty node-to-text replacement
-	a.TopNode.FindMatcher(replaceWithTextTags).Each(func(i int, s *goquery.Selection) {
-		s.ReplaceWithHtml(s.Text())
-	})
+	a.TopNode.FindMatcher(replaceWithContentsTags).Each(
+		func(i int, s *goquery.Selection) {
+			s.Contents().Unwrap()
+		})
 
 	a.addInlineArticleImageHTML(a.Meta.Title)
 
