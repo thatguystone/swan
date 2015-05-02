@@ -20,4 +20,5 @@ Check out [the go documentation page](https://godoc.org/github.com/thatguystone/
 ## Planned
 
 * Inline videos into HTML content when found in an article
+* Recognize news sources and extract corresponding video / audio content
 * Recognize and extract more types of content
