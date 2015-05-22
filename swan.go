@@ -11,9 +11,9 @@
 package swan
 
 import (
+	"bytes"
 	"fmt"
 	"io/ioutil"
-	"strings"
 
 	"github.com/PuerkitoBio/goquery"
 )
@@ -38,15 +38,20 @@ func FromURL(url string) (a *Article, err error) {
 		return
 	}
 
-	return FromHTML(resp.Request.URL.String(), string(html))
+	return FromHTML(resp.Request.URL.String(), html)
 }
 
 // FromHTML does its best to extract an article from a single HTML page.
 //
 // Pass in the URL the document came from so that images can be resolved
 // correctly.
-func FromHTML(url string, html string) (*Article, error) {
-	doc, err := goquery.NewDocumentFromReader(strings.NewReader(html))
+func FromHTML(url string, html []byte) (*Article, error) {
+	html, err := ToUtf8(html)
+	if err != nil {
+		return nil, err
+	}
+
+	doc, err := goquery.NewDocumentFromReader(bytes.NewReader(html))
 	if err != nil {
 		err = fmt.Errorf("invalid HTML: %s", err)
 		return nil, err

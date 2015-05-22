@@ -1,6 +1,7 @@
 package swan
 
 import (
+	"bytes"
 	"fmt"
 	"io/ioutil"
 	"os"
@@ -53,9 +54,9 @@ func TestProcessors(t *testing.T) {
 						textErr)
 				}
 
-				parts := strings.SplitN(string(in), "\n", 2)
+				parts := bytes.SplitN(in, []byte("\n"), 2)
 
-				a, err := FromHTML(parts[0], parts[1])
+				a, err := FromHTML(string(parts[0]), parts[1])
 				if err != nil {
 					t.Fatalf("%s: %s", baseName, err)
 				}

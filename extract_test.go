@@ -165,7 +165,7 @@ func runPyTests(
 				t.Fatalf("%s: %s", name, err)
 			}
 
-			a, err := FromHTML(r.URL, string(html))
+			a, err := FromHTML(r.URL, html)
 			if err != nil {
 				t.Fatalf("%s: %s", name, err)
 			}

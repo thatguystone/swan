@@ -1,0 +1,63 @@
+<rss version="2.0">
+  <channel>
+    <title>APOD</title>
+    <link>http://antwrp.gsfc.nasa.gov/</link>
+    <description>Astronomy Picture of the Day</description>
+    <language>en-us</language>
+    <image>
+      <title>APOD</title>
+      <url>http://antwrp.gsfc.nasa.gov/favicon.ico</url>
+      <link>http://antwrp.gsfc.nasa.gov/</link>
+    </image>
+
+    <item>
+    <title>A Dark and Dusty Sky</title>
+    <link>http://antwrp.gsfc.nasa.gov/apod/astropix.html</link>
+<description>&#60;p>&#60;a href="http://antwrp.gsfc.nasa.gov/apod/astropix.html">&#60;img src="http://antwrp.gsfc.nasa.gov/apod/calendar/S_150522.jpg" align="left" alt="In the dusty sky toward the constellation Taurus and the" border="0" />&#60;/a> In the dusty sky toward the constellation Taurus and the&#60;/p>&#60;br clear="all"/></description>
+    </item>
+
+    <item>
+    <title>NGC 6240: Merging Galaxies</title>
+    <link>http://antwrp.gsfc.nasa.gov/apod/ap150521.html</link>
+<description>&#60;p>&#60;a href="http://antwrp.gsfc.nasa.gov/apod/ap150521.html">&#60;img src="http://antwrp.gsfc.nasa.gov/apod/calendar/S_150521.jpg" align="left" alt="NGC 6240 offers a rare, nearby glimpse of a cosmic catastrophe in its" border="0" />&#60;/a> NGC 6240 offers a rare, nearby glimpse of a cosmic catastrophe in its&#60;/p>&#60;br clear="all"/></description>
+    </item>
+
+    <item>
+    <title>A Cliff Looming on Comet 67P </title>
+    <link>http://antwrp.gsfc.nasa.gov/apod/ap150520.html</link>
+<description>&#60;p>&#60;a href="http://antwrp.gsfc.nasa.gov/apod/ap150520.html">&#60;img src="http://antwrp.gsfc.nasa.gov/apod/calendar/S_150520.jpg" align="left" alt="What's that looming behind this gravel-strewn hill on Comet Churyumov–Gerasimenko?" border="0" />&#60;/a> What's that looming behind this gravel-strewn hill on Comet Churyumov–Gerasimenko?&#60;/p>&#60;br clear="all"/></description>
+    </item>
+
+    <item>
+    <title>Globular Star Cluster 47 Tuc </title>
+    <link>http://antwrp.gsfc.nasa.gov/apod/ap150519.html</link>
+<description>&#60;p>&#60;a href="http://antwrp.gsfc.nasa.gov/apod/ap150519.html">&#60;img src="http://antwrp.gsfc.nasa.gov/apod/calendar/S_150519.jpg" align="left" alt="Globular star cluster 47 Tucanae is a jewel box of the southern sky." border="0" />&#60;/a> Globular star cluster 47 Tucanae is a jewel box of the southern sky.&#60;/p>&#60;br clear="all"/></description>
+    </item>
+
+    <item>
+    <title>Auroras and Star Trails over Iceland </title>
+    <link>http://antwrp.gsfc.nasa.gov/apod/ap150518.html</link>
+<description>&#60;p>&#60;a href="http://antwrp.gsfc.nasa.gov/apod/ap150518.html">&#60;img src="http://antwrp.gsfc.nasa.gov/apod/calendar/S_150518.jpg" align="left" alt="It was one of the quietest nights of aurora in weeks." border="0" />&#60;/a> It was one of the quietest nights of aurora in weeks.&#60;/p>&#60;br clear="all"/></description>
+    </item>
+
+    <item>
+    <title>NGC 2440: Pearl of a New White Dwarf </title>
+    <link>http://antwrp.gsfc.nasa.gov/apod/ap150517.html</link>
+<description>&#60;p>&#60;a href="http://antwrp.gsfc.nasa.gov/apod/ap150517.html">&#60;img src="http://antwrp.gsfc.nasa.gov/apod/calendar/S_150517.jpg" align="left" alt="NGC 2440: Pearl of a New White Dwarf " border="0" />&#60;/a> NGC 2440: Pearl of a New White Dwarf &#60;/p>&#60;br clear="all"/></description>
+    </item>
+
+    <item>
+    <title>Ares 3 Landing Site: The Martian Revisited</title>
+    <link>http://antwrp.gsfc.nasa.gov/apod/ap150516.html</link>
+<description>&#60;p>&#60;a href="http://antwrp.gsfc.nasa.gov/apod/ap150516.html">&#60;img src="http://antwrp.gsfc.nasa.gov/apod/calendar/S_150516.jpg" align="left" alt="Ares 3 Landing Site: The Martian Revisited" border="0" />&#60;/a> Ares 3 Landing Site: The Martian Revisited&#60;/p>&#60;br clear="all"/></description>
+    </item>
+
+    <textInput>
+    <title>Search APOD</title>
+    <description>Search APOD</description>
+    <name>query</name>
+    <link>http://antwrp.gsfc.nasa.gov/cgi-bin/apod/apod_search
+    </link>
+    </textInput>
+  </channel>
+</rss>

@@ -16,7 +16,7 @@ func ExampleFromHTML() {
 		</body>
 	</html>`
 
-	a, err := FromHTML("http://example.com/article/1", htmlIn)
+	a, err := FromHTML("http://example.com/article/1", []byte(htmlIn))
 	if err != nil {
 		panic(err)
 	}
