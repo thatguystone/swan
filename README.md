@@ -22,3 +22,4 @@ Check out [the go documentation page](https://godoc.org/github.com/thatguystone/
 * Inline videos into HTML content when found in an article
 * Recognize news sources and extract corresponding video / audio content
 * Recognize and extract more types of content
+* An interesting idea: https://github.com/buriy/python-readability/issues/57#issuecomment-67926023
