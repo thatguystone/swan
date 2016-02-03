@@ -10,7 +10,7 @@
 #
 # This script does not handle file names that contain spaces.
 
-linted=`golint -min_confidence=.3 .`
+linted=`golint -min_confidence=.3 ./...`
 if [ -n "$linted" ]; then
 	echo "$linted"
 	exit 1
@@ -19,7 +19,7 @@ fi
 go vet ./...
 [ $? -ne 0 ] && exit 1
 
-gofiles=$(git diff --cached --name-only --diff-filter=ACM | grep '.go$')
+gofiles=$(git diff --cached --name-only --diff-filter=ACM | grep '\.go$')
 [ -z "$gofiles" ] && exit 0
 
 unformatted=$(gofmt -l $gofiles 2>&1)
