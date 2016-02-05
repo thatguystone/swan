@@ -13,15 +13,16 @@ import (
 )
 
 type extractContent struct{}
-type hasPrintableText struct{}
 
 var (
 	allTags                 = cascadia.MustCompile("*")
 	bodyTag                 = cascadia.MustCompile("body")
 	pTags                   = cascadia.MustCompile("p")
-	brTags                  = cascadia.MustCompile("br")
 	replaceWithContentsTags = cascadia.MustCompile("a, b, strong, i, sup")
 	goodContent             = cascadia.MustCompile("object, embed, img")
+
+	multiNewlines = []byte("\n\n\n")
+	dblNewlines   = []byte("\n\n")
 )
 
 func (e extractContent) run(a *Article) error {
@@ -86,46 +87,46 @@ func (e extractContent) prepareHTMLOut(a *Article) error {
 	return nil
 }
 
-func (m hasPrintableText) Match(n *html.Node) bool {
-	var match func(n *html.Node) bool
-	match = func(n *html.Node) bool {
-		if n.Type == html.TextNode && len(n.Data) > 0 {
-			return true
-		}
+func (e extractContent) prepareCleanedText(a *Article) {
+	buff := bytes.Buffer{}
+	rplc := strings.NewReplacer("\n", " ", "\r", "")
 
-		for c := n.FirstChild; c != nil; c = c.NextSibling {
-			if match(c) {
-				return true
+	var textify func(n *html.Node)
+	textify = func(n *html.Node) {
+		switch {
+		case n.Type == html.TextNode:
+			// TODO(astone): what about text in textareas?
+			rplc.WriteString(&buff, n.Data)
+
+		case n.Type == html.ElementNode:
+			switch n.DataAtom {
+			case atom.Br:
+				buff.WriteRune('\n')
+			case atom.P:
+				buff.WriteString("\n\n")
+			}
+			fallthrough
+
+		default:
+			for c := n.FirstChild; c != nil; c = c.NextSibling {
+				textify(c)
 			}
 		}
-
-		return false
 	}
 
-	return match(n)
-}
+	for _, n := range a.TopNode.Nodes {
+		textify(n)
+	}
 
-func (m hasPrintableText) MatchAll(n *html.Node) []*html.Node {
-	return nil
-}
+	// Get rid of large gaps
+	b := buff.Bytes()
+	l := len(b) + 1
+	for len(b) != l {
+		l = len(b)
+		b = bytes.Replace(b, multiNewlines, dblNewlines, -1)
+	}
 
-func (m hasPrintableText) Filter(n []*html.Node) []*html.Node {
-	return nil
-}
-
-func (e extractContent) prepareCleanedText(a *Article) {
-	s := a.TopNode.Clone()
-
-	s.FindMatcher(brTags).ReplaceWithHtml("\n")
-	s.FindMatcher(pTags).Each(func(i int, s *goquery.Selection) {
-		// Some paragraphs only contain images, videos, etc and aren't
-		// rendered in plain text, so don't inject newlines for those
-		if s.IsMatcher(hasPrintableText{}) {
-			s.AfterHtml("\n\n")
-		}
-	})
-
-	a.CleanedText = strings.TrimSpace(s.Text())
+	a.CleanedText = string(bytes.TrimSpace(b))
 }
 
 func (e extractContent) addSiblings(a *Article) {

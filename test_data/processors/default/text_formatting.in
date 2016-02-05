@@ -1,0 +1,30 @@
+http://example.com/text_formatting
+
+<textarea>
+Crazy text
+
+		Where spaces
+	<br />
+		Kinda matter
+</textarea>
+
+This
+sentence
+should
+
+not
+
+be
+
+spread
+
+over
+
+multiple
+
+lines.
+
+
+<p>
+	There should be a newline between this and the previous paragraph.
+</p>
