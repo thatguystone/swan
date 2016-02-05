@@ -150,6 +150,8 @@ func runPyTests(
 				t.Fatalf("%s: %s", name, err)
 			}
 
+			defer jsonf.Close()
+
 			if err = json.NewDecoder(jsonf).Decode(&r); err != nil {
 				t.Fatalf("%s: %s", name, err)
 			}
@@ -159,6 +161,8 @@ func runPyTests(
 			if err != nil {
 				t.Fatalf("%s: %s", name, err)
 			}
+
+			defer htmlf.Close()
 
 			html, err := ioutil.ReadAll(htmlf)
 			if err != nil {
