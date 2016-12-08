@@ -114,9 +114,10 @@ var (
 		},
 		runners: []runner{
 			extractTopNode{},
-			extractLinks{},
-			extractImages{},
-			extractVideos{},
+			// Disabled for now
+			// extractLinks{},
+			// extractImages{},
+			// extractVideos{},
 
 			// Does more document mangling and TopNode resetting
 			extractContent{},
@@ -124,7 +125,8 @@ var (
 	}
 
 	processors = []*processor{
-		comicProcessor,
+		// Disabled for now
+		// comicProcessor,
 
 		// Always last since it's the default
 		defaultProcessor,
