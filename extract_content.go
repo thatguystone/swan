@@ -6,8 +6,8 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/andybalholm/cascadia"
-	"github.com/tdewolff/minify"
-	minhtml "github.com/tdewolff/minify/html"
+	"github.com/tdewolff/minify/v2"
+	minhtml "github.com/tdewolff/minify/v2/html"
 	"golang.org/x/net/html"
 	"golang.org/x/net/html/atom"
 )
