@@ -105,7 +105,7 @@ func (e extractComic) findBestImage(a *Article) bool {
 	eImgs.run(a)
 	a.TopNode = nil
 
-	if a.Img != nil {
+	if a.Img != nil && a.Img.Sel != nil {
 		return e.setImage(a, a.Img.Sel)
 	}
 
