@@ -5,6 +5,8 @@ import (
 	"io"
 	"net/http"
 	"time"
+
+	"golang.org/x/net/context"
 )
 
 const (
@@ -18,7 +20,9 @@ var (
 )
 
 func httpGet(url string) (body io.ReadCloser, resp *http.Response, err error) {
-	req, err := http.NewRequest("GET", url, nil)
+	ctx, cancel := context.WithTimeout(context.Background(), 2*time.Second)
+	defer cancel()
+	req, err := http.NewRequestWithContext(ctx, "GET", url, nil)
 	if err != nil {
 		err = fmt.Errorf("could not create new request: %s", err)
 		return
